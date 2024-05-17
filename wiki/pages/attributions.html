@@ -29,18 +29,20 @@
 <div class="row mt-4">
   <script type="text/javascript">
     // Listen to size change and update form height
-    window.addEventListener('message', function (e) {
-      const {type, data} = JSON.parse(e.data);
-      if (type === 'igem-attribution-form') {
-        const element = document.getElementById('igem-attribution-form')
-        element.style.height = data + 50 +'px'
+    window.addEventListener("message", function (e) {
+      if (e.origin === "https://teams.igem.org") {
+        const {type, data} = JSON.parse(e.data);
+        if (type === "igem-attribution-form") {
+          const element = document.getElementById("igem-attribution-form");
+          element.style.height = `${data + 50}px`;
+        }
       }
     });
   </script>
   <iframe
     style='width: 100%'
     id="igem-attribution-form"
-    src="https://attributions.igem.org?team=Example&year=2024"
+    src="https://teams.igem.org/TeamID/attributions">
   >
   </iframe>
   <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
