@@ -1,12 +1,21 @@
 image: python:3.6
 
+build:
+  stage: build
+  script:
+    - pip install --no-cache-dir -r dependencies.txt
+    - FLASK_APP=app.py flask freeze
+  rules:
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+
+
 pages:
   stage: build
   script:
-  - pip install --no-cache-dir -r dependencies.txt
-  - FLASK_APP=app.py flask freeze
+    - pip install --no-cache-dir -r dependencies.txt
+    - FLASK_APP=app.py flask freeze
   artifacts:
     paths:
-    - public
-  only:
-  - main
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
