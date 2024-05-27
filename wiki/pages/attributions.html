@@ -1,24 +1,14 @@
 {% extends "layout.html" %}
 
 {% block title %}Attributions{% endblock %}
-{% block lead %}This page must show the attribution form of your project. This includes the work done by each of the student members on your team and any work that was done by people outside of your team, including the host labs, advisors, instructors, and individuals not on the team roster. This requirement is not about literature references - these can and should be displayed throughout your wiki.{% endblock %}
+{% block lead %}In the iGEM Competition, we celebrate student effort and achievement. The Attributions form helps the judges differentiate between what students accomplished from how their external collaborators supported them. Therefore, teams must clearly explain on the standard Project Attributions form what work they have conducted by themselves and what has been done by others.{% endblock %}
 
 {% block page_content %}
 
 <div class="row mt-4">
   <div class="col">
-    <div class="bd-callout bd-callout-info">
-      <p>
-        In the iGEM Competition, we celebrate student effort and achievement. The Attributions form helps the judges
-        differentiate between what students accomplished from how their external collaborators supported them.
-        Therefore, teams must clearly explain on the standard Project Attributions form what work they have
-        conducted by themselves and what has been done by others.
-      </p>
-      <p>
-        Teams must use the standard Attributions form. To meet the attributions requirement, you must display the
-        standard form on your Wiki by following the instructions here:
-        <a href="https://competition.igem.org/deliverables/project-attribution">Project Attribution page</a>.
-      </p>
+    <div>
+      <p>Teams must use the standard Attributions form. To meet the attributions requirement, you must display the standard form on your Wiki by following the instructions here: <a href="https://competition.igem.org/deliverables/project-attribution">Project Attribution page</a>.    </p>
     </div>
     <div class="bd-callout bd-callout-info">
       <h4>Bronze Medal Criterion #2</h4>
@@ -45,7 +35,7 @@
         const {type, data} = JSON.parse(e.data);
         if (type === "igem-attribution-form") {
           const element = document.getElementById("igem-attribution-form");
-          element.style.height = `${data + 50}px`;
+          element.style.height = `${data + 100}px`;
         }
       }
     });
