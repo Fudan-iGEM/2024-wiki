@@ -13,6 +13,15 @@ body { padding-top: 56px; }
 .bd-callout-warning { border-left-color:#f0ad4e }
 .bd-callout-danger { border-left-color:#d9534f }
 
+/* My CSS*/
+.PicTemp
+{
+    width: 80%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
 /* footer */
 footer a { color: white; font-weight: bold; text-decoration: none; }
 footer a:hover { color: white; text-decoration: underline; }
