@@ -2,13 +2,15 @@ import os
 
 # mkdir parts-html
 # os.system('scrapy fetch --nolog http://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115001 > 003.txt') # cannot ajax sequence length
-from selenium import webdriver # 4.24.0
-service = webdriver.ChromeService(executable_path='/usr/local/bin/chromedriver') # https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/mac-x64/chromedriver-mac-x64.zip
+from selenium import webdriver # pip 4.19.0
+#options = webdriver.ChromeOptions()
+#options.page_load_strategy = 'normal'
+service = webdriver.ChromeService(executable_path='/usr/local/bin/chromedriver') # https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/mac-x64/chromedriver-mac-x64.zip
 driver = webdriver.Chrome(service=service)
-# driver.get("http://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K4162003")
-# print( driver.page_source )
+#driver.get("http://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115003")
+#print( driver.page_source )
 
-from bs4 import BeautifulSoup # 4.12.3
+from bs4 import BeautifulSoup # pip 4.12.3
 from time import sleep
 
 
