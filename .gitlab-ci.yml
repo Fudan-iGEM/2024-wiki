@@ -1,31 +1,19 @@
-image: node:18
-
-cache:
-  paths:
-    - node_modules/
-
-stages:
-  - build
-  - deploy
-
-build:
-  stage: build
-  script:
-    - npm install
-    - npm run docs:build 
-  artifacts:
-    paths:
-      - src/.vuepress/dist 
-  only:
-    - main 
-
+image: node:22
 
 pages:
-  stage: deploy
-  script:
-    - cp -r src/.vuepress/dist public 
-  artifacts:
+  stage: build
+  cache:
     paths:
-      - public 
+      - node_modules/
+  before_script:
+    - apk add --no-cache git
+    - npm install -g pnpm
+  script:
+    - pnpm install
+    - pnpm run docs:build
+  artifacts:
+    expire_in: 1h30min
+    paths:
+      - src/.vuepress/dist
   only:
     - main 
