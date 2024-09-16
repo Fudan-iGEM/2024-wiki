@@ -6,7 +6,6 @@ pages:
     paths:
       - node_modules/
   before_script:
-    - apk add --no-cache git
     - npm install -g pnpm
   script:
     - pnpm install
