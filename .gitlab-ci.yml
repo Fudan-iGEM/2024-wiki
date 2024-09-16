@@ -1,21 +1,19 @@
-image: python:3.6
-
-build:
-  stage: build
-  script:
-    - pip install --no-cache-dir -r dependencies.txt
-    - FLASK_APP=app.py flask freeze
-  rules:
-    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
-
+image: node:20
 
 pages:
   stage: build
-  script:
-    - pip install --no-cache-dir -r dependencies.txt
-    - FLASK_APP=app.py flask freeze
-  artifacts:
+  cache:
     paths:
-      - public
-  rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+      - node_modules/
+  before_script:
+    - apk add --no-cache git
+    - npm install -g pnpm
+  script:
+    - pnpm install
+    - pnpm run docs:build
+  artifacts:
+    expire_in: 1h30min
+    paths:
+      - src/.vuepress/dist
+  only:
+    - main 
