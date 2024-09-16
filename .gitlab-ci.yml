@@ -10,9 +10,10 @@ pages:
   script:
     - pnpm install
     - pnpm run docs:build
+    - mv src/.vuepress/dist public
   artifacts:
     expire_in: 1h30min
     paths:
-      - src/.vuepress/dist
+      - public
   only:
-    - main 
+    - main
