@@ -1,22 +1,5 @@
-env
-venv
-.vscode
-__pycache__
-public
-pids
-logs
-node_modules
-npm-debug.log
-coverage/
-run
-.DS_Store
-.nyc_output
-.basement
-config.local.js
-basement_dist
-.idea
-.yarnrc
-bs4/
-selenium/
-screenshots/
 
+node_modules/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/

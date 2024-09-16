@@ -1,0 +1,88 @@
+
+@keyframes rotateLogo {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  .vp-nav-logo {
+    animation: rotateLogo 0.27s linear infinite; 
+  }
+  .vp-hero-image {
+    animation: rotateLogo 0.27s linear infinite; 
+  }
+  .vp-highlight-image {
+    animation: rotateLogo 0.27s linear infinite; 
+  }
+  
+  .header-gif {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* 占满整个视窗高度 */
+    overflow: hidden;
+  }
+  
+  .header-gif video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover; /* 保持视频内容比例，不拉伸 */
+    transform: translate(-50%, -50%);
+    z-index: -1;
+  }
+  .vp-navbar {
+    background-color: rgba(153, 198, 254, 0.25) !important;
+
+  }
+  
+  @font-face {
+    font-family: 'Berlin Sans FB Demi';
+    src: url('/fonts/BerlinSansFBDemi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* 样式化 h1 标题 */
+  h1 {
+    font-family: 'Berlin Sans FB Demi', sans-serif;
+    color: #57a0fe;
+    /* background-color: #f2ecdb; 8/
+    padding: 10px;
+    border: 2px solid #f2ecdb;
+    /* 可选：设置圆角 */
+    border-radius: 5px;
+    font-size: 10em;
+    line-height: 1.2;
+  }
+
+  /* 修改作者信息样式 */
+
+
+
+
+
+body {
+  background-color: #f2ecdb;
+}
+
+/* 修改 vp-page-title 样式 */
+.theme-hope-content .vp-page-title {
+  margin-top: -40px; /* 调整位置 */
+  padding-top: 40px; /* 确保标题与波浪形状不会重叠 */
+  background: none; /* 取消背景色 */
+  text-align: center;
+  color: #ffffff;
+  font-size: 2.5em;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  z-index: 10;
+  position: relative;
+}
+
+/* 避免内容被标题遮挡 */
+.theme-hope-content {
+  padding-top: 2em; /* 根据需要调整 */
+}
