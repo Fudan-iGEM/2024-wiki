@@ -13,6 +13,6 @@ pages:
   artifacts:
     expire_in: 1h30min
     paths:
-      - public
+      - ../public
   only:
     - main
