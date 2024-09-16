@@ -9,7 +9,7 @@ pages:
     paths:
       - node_modules/
   before_script:
-    - curl -fsSL https://get.pnpm.io/install.sh | sh -
+    - npm install -g pnpm
     - pnpm config set store-dir node_modules/
   script:
     - pnpm install --frozen-lockfile
