@@ -4,7 +4,7 @@ title: Part Collection
 author:
    name: Zhikai Jiang
    url: '/team.html#zhiyue-chen-the-software-wizard'
-headerVideo: /videos/c4.mp4
+headerVideo: 
 ---
 
 Our favourite part is [BBa_K4765129 (stem-loop test)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129).
