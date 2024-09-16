@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 image: node:20
-=======
-image: node:22
->>>>>>> b6b07155f7052afc08f4d7e63933b1d0ea53ab09
 
 pages:
   stage: build
@@ -10,10 +6,6 @@ pages:
     paths:
       - node_modules/
   before_script:
-<<<<<<< HEAD
-    - apk add --no-cache git
-=======
->>>>>>> b6b07155f7052afc08f4d7e63933b1d0ea53ab09
     - npm install -g pnpm
   script:
     - pnpm install
