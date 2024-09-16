@@ -44,6 +44,7 @@ const gifSrc = computed(() => frontmatter.value.headergif || null);
 .gif-header {
   width: 100%;
   overflow: hidden;
+  position: relative;
 }
 
 .gif-header img {
