@@ -13,6 +13,6 @@ pages:
   artifacts:
     expire_in: 1h30min
     paths:
-      - src/.vuepress/dist
+      - public
   only:
     - main 
