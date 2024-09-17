@@ -8,7 +8,6 @@ export default hopeTheme({
   navbarTitle: "Fudan",
   favicon: "https://static.igem.wiki/teams/5115/czh/logo-czh.svg",
 
-
   iconAssets: "fontawesome-with-brands",
 
   logo: "https://static.igem.wiki/teams/5115/czh/logo-czh.svg",

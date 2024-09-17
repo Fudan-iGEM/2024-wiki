@@ -7,7 +7,7 @@ Fudan University has been taking part in [iGEM Competition](https://old.igem.org
 
 Below is the complete list of our iGEM projects.
 
-<table>
+<table style="width:105%">
   <thead><tr><th>Team&#160;Name</th><th>Title</th><th>Leader</th><th>Year</th><th>Awards</th><th>Social</th></tr></thead>
   <tbody>
     <tr><td>Fudan&#8209;Shanghai</td><td>E.tree, neon light and the dinner service</td><td>Ruojun&#160;Wang</td><td><a href="https://old.igem.org/Team.cgi?team_id=604" rel="noreferrer" target="_blank">2011</a></td>
@@ -33,7 +33,7 @@ Below is the complete list of our iGEM projects.
       <td></td></tr>
     <tr><td>Fudan</td><td>SwordS: antigen density targeting with customized therapeutic responses via SynNotch-Stripe system</td><td>Zijie&#160;Yang</td><td><a href="https://old.igem.org/Team.cgi?team_id=2446" rel="noreferrer" target="_blank">2017</a></td>
       <td><a href="https://2017.igem.org/Competition/Results" target="_blank">Best Therapeutics Project</a>; Nominated for Software, New Composite Part, Part Collection; <a href="https://old.igem.org/Results?year=2017&amp;division=igem" target="_blank">Gold Medal</a></td>
-      <td>Fudan_iGEM</td></tr>
+      <td><a href="https://mp.weixin.qq.com/s/onttQywMRT1hheIa9-4O9A" target="_blank">Fudan_iGEM</a></td></tr>
     <tr><td>Fudan_China</td><td>MemOrderY: A sequential memory device that monitors the changing of signals</td><td>Tian&#160;Huang, Yixin&#160;Ma</td><td><a href="https://old.igem.org/Team.cgi?team_id=2460" rel="noreferrer" target="_blank">2017</a></td>
       <td><a href="https://old.igem.org/Results?year=2017&amp;division=igem" target="_blank">Silver Medal</a></td>
       <td></td></tr>
@@ -59,12 +59,12 @@ Below is the complete list of our iGEM projects.
       <!-- https://jamboree.igem.org/2021/results/special-awards -->
       <td><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2ODA2MTY1MQ==&action=getalbum&album_id=1875055113929588737#wechat_redirect" target="_blank">Fudan_iGEM</a></td></tr>
     <tr><td>Fudan</td><td><a href="https://video.igem.org/w/5iD5aPZDNkiiezQcNeH42o" target="_blank">Rester</a>: a Vitamin A biomanufacturing cell factory for skincare products</td><td>Yihan&#160;Fang</td><td><a href="https://old.igem.org/Team.cgi?team_id=4162" rel="noreferrer" target="_blank">2022</a></td>
-      <td><a href="https://jamboree.igem.org/2022/results/special-prizes" target="_blank">Best New Basic Part, Best Part Collection, Best Measurement</a>; Nominated for Software Tool, New Compositie Part; <a href="https://jamboree.igem.org/2022/results/medals" target="_blank">Gold Medal</a></td>
+      <td><a href="https://jamboree.igem.org/2022/results/?scroll=Best%20New%20Basic%20Part#special-prizes" target="_blank">Best New Basic Part</a>, <a href="https://jamboree.igem.org/2022/results/?scroll=Best%20Part%20Collection#special-prizes" target="_blank">Best Part Collection, <a href="https://jamboree.igem.org/2022/results/?scroll=Best%20Measurement#special-prizes" target="_blank">Best Measurement</a>; Nominated for Software Tool, New Compositie Part; <a href="https://jamboree.igem.org/2022/results/#medals" target="_blank">Gold Medal</a></td>
       <td><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2ODA2MTY1MQ==&action=getalbum&album_id=3138238705355358214#wechat_redirect" target="_blank">Fudan_iGEM</a></td></tr>
     <tr><td>Fudan</td><td><a href="https://video.igem.org/w/r8AoMzrsD8vA6cKcgCZ156" target="_blank">B.HOME</a> - Biofilm Harnessing for Offworld Mankind Establishment</td><td>Yijun&#160;Wang</td><td><a href="https://old.igem.org/Team.cgi?team_id=4765" rel="noreferrer" target="_blank">2023</a></td>
       <td><a href="https://jamboree.igem.org/2023/results?scroll=Environment#village-awards" target="_blank">Best Environment Project</a>, <a href="https://jamboree.igem.org/2023/results?scroll=Best%20Software%20Tool#special-prizes" target="_blank">Best Software Tool</a>; Nominated for Wiki; <a href="https://jamboree.igem.org/2023/results#medals" target="_blank">Gold Medal</a></td>
       <td><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2ODA2MTY1MQ==&action=getalbum&album_id=3018641261198737410#wechat_redirect" target="_blank">Fudan_iGEM</a></td></tr>
-    <tr><td>Fudan</td><td><a href="https://video.igem.org/w/r8AoMzrsD8vA6cKcgCZ156" target="_blank">MINERAL</a> - xxxxxxx</td><td>Xujie&#160;Tan</td><td><a href="https://teams.igem.org/5115" rel="noreferrer" target="_blank">2024</a></td>
+    <tr><td>Fudan</td><td><a href="#" target="_blank">MINERAL</a> - Microparticle Integration Nickel Extraction Resuable Applications</td><td>Xujie&#160;Tan</td><td><a href="https://teams.igem.org/5115" rel="noreferrer" target="_blank">2024</a></td>
       <td>  </td>
       <td><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2ODA2MTY1MQ==&action=getalbum&album_id=3322758862575403011#wechat_redirect" target="_blank">Fudan_iGEM</a></td></tr>
   </tbody>

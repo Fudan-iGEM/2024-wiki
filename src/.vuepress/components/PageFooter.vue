@@ -29,8 +29,8 @@
         <div class="footer-contact">
           <p><small>&copy; 2024 - Content on this site is licensed under a
               <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a>.
-          </small></p>
-          <p><small>The repository used to create this website is available at
+          </small>
+          <br><small>The repository used to create this website is available at
               <a href="https://gitlab.igem.org/2024/fudan" target="_blank">gitlab.igem.org/2024/fudan</a>.
           </small></p>
         </div>
