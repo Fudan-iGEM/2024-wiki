@@ -1,6 +1,6 @@
 | Page | Written by |
 |----|----|
-| Homepage | Yuhan Li, Zhenghan Chen |
+| Homepage | Yuhan Li (graphic design),<br>Kevin Qi (text),<br>Zhenghan Chen (coding) |
 | Attributions | Wanqi Li |
 | Collabrations | Wanqi Li |
 | Communication | -- |
