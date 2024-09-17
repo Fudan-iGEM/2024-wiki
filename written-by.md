@@ -18,7 +18,7 @@
 | Improved Parts | Liyue Chen, Yi Shi |
 | Inclusivity | Xueting Chen, Ziming Suo |
 | Measurement | Yi Shi |
-| Model | Liyue Chen |
+| Model | Zhenghan Chen, Liyue Chen |
 | Notebook | Wanqi Li |
 | Part Collection | Yi Shi, Liyue Chen |
 | Parts | Liyue Chen, Yi Shi |
