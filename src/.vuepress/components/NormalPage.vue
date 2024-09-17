@@ -2,7 +2,7 @@
   <main id="main-content" class="vp-page">
     <BreadCrumb />
 
-    <TOC v-if="tocEnable" :header-depth="headerDepth" />
+    <TOC v-if="tocEnable" :header-depth="headerDepth" class="custom-toc" />
 
     <MarkdownContent />
 
@@ -36,5 +36,7 @@ const headerDepth = computed(() => frontmatter.value.headerDepth ?? themeLocale.
 </script>
 
 <style scoped>
-
+/* .custom-toc {
+  width: 300px; 
+} */
 </style>
