@@ -26,6 +26,11 @@ export default hopeTheme({
   copyright: false,
   breadcrumb: false,
 
+  navbarLayout: {
+        start: ["Brand"],
+        center: ["Links"],
+        end: ["Search", "Outlook"],
+      },
   plugins: {
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.

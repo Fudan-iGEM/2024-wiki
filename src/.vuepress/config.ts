@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import * as path from 'path';
 import { webpackBundler } from '@vuepress/bundler-webpack';
-
+import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 
 import theme from "./theme.js";
@@ -18,10 +18,10 @@ export default defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components"),
     }),
-    /*     searchProPlugin({
+    searchProPlugin({
       // index all contents
       indexContent: true
-    }), */
+    }),
   ],
   
   theme,
