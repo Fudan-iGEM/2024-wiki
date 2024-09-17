@@ -64,7 +64,7 @@ Below is the complete list of our iGEM projects.
     <tr><td>Fudan</td><td><a href="https://video.igem.org/w/r8AoMzrsD8vA6cKcgCZ156" target="_blank">B.HOME</a> - Biofilm Harnessing for Offworld Mankind Establishment</td><td>Yijun&#160;Wang</td><td><a href="https://old.igem.org/Team.cgi?team_id=4765" rel="noreferrer" target="_blank">2023</a></td>
       <td><a href="https://jamboree.igem.org/2023/results?scroll=Environment#village-awards" target="_blank">Best Environment Project</a>, <a href="https://jamboree.igem.org/2023/results?scroll=Best%20Software%20Tool#special-prizes" target="_blank">Best Software Tool</a>; Nominated for Wiki; <a href="https://jamboree.igem.org/2023/results#medals" target="_blank">Gold Medal</a></td>
       <td><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2ODA2MTY1MQ==&action=getalbum&album_id=3018641261198737410#wechat_redirect" target="_blank">Fudan_iGEM</a></td></tr>
-    <tr><td>Fudan</td><td><a href="#" target="_blank">MINERAL</a> - Microparticle Integration Nickel Extraction Resuable Applications</td><td>Xujie&#160;Tan</td><td><a href="https://teams.igem.org/5115" rel="noreferrer" target="_blank">2024</a></td>
+    <tr><td>Fudan</td><td><a href="https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3" target="_blank">MINERAL</a> - Microparticle Integration for Nickel Extraction and Resuable Applications</td><td>Xujie&#160;Tan</td><td><a href="https://teams.igem.org/5115" rel="noreferrer" target="_blank">2024</a></td>
       <td>  </td>
       <td><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2ODA2MTY1MQ==&action=getalbum&album_id=3322758862575403011#wechat_redirect" target="_blank">Fudan_iGEM</a></td></tr>
   </tbody>

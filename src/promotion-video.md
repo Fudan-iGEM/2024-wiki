@@ -3,7 +3,7 @@ sidebar: auto
 title: Promotion Video
 ---
 
-Below are screenshots from [our promotion video](https://video.igem.org/w/r8AoMzrsD8vA6cKcgCZ156?subtitle=en).
+Below are screenshots from [our promotion video](https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3).
 
 <img src="https://static.igem.wiki/teams/4765/wiki/wyj/pv1.png" alt="screenshot 1 from pv">
 
