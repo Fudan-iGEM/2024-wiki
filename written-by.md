@@ -8,7 +8,7 @@
 | Description | Kevin Qi |
 | Design | Kevin Qi |
 | Education | Yuhan Wang, Kexin Zheng |
-| Engineering | RuiWen Ma, Kevin Qi |
+| Engineering | Ruiwen Ma, Kevin Qi |
 | Entrepreneurship | Kexin Zheng |
 | Experiments | Kexin Huang |
 | Hardware | Kexin Huang |
