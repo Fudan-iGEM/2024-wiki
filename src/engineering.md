@@ -2,12 +2,11 @@
 sidebar: auto
 title: Engineering
 author:
-- Zhiyue Chen
-- Zhenmao Ye
+- Xujie Tan
 authorlink:
-- /fudan/team/#zhiyue-chen-the-software-wizard
-- /fudan/team/#zhenmao-ye-the-multifaceted-talent
+- /fudan/team/#xuejie-tan
 ---
+
 ## Surface Display for Bacteria
 
 ### Design
@@ -108,7 +107,7 @@ We utilized PartHub&nbsp;2 to find existing parts matching our needs, which was 
 
 ### Cycle 2: Learn
 
-We had internal discussion regarding the feasibility of using RAP. In addition, we collaborated with external users ([SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/other-teams6) and [Nanjing-China iGEM 2023](https://2023.igem.wiki/nanjing-china/)) on the user interface.
+We had internal discussion regarding the feasibility of using RAP. In addition, we collaborated with external users ([SCUT-China iGEM 2023](https://2024.igem.wiki/scut-china/other-teams6) and [Nanjing-China iGEM 2023](https://2024.igem.wiki/nanjing-china/)) on the user interface.
 
 <div style="text-align: center;" id="fig-2">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/scut-tiny.png" style='width:70%'>
@@ -126,7 +125,7 @@ We had internal discussion regarding the feasibility of using RAP. In addition, 
 </div>
 </div>
 
-Review: During the discussion regarding the experimental validation of RAP, we proposed to change the stem-loop in the orignal pRAP[^3], to enable regulated expression level. During the discussion with [SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/), they suggested to create an annotation file for local storage of results.
+Review: During the discussion regarding the experimental validation of RAP, we proposed to change the stem-loop in the orignal pRAP[^3], to enable regulated expression level. During the discussion with [SCUT-China iGEM 2023](https://2024.igem.wiki/scut-china/), they suggested to create an annotation file for local storage of results.
 
 ### Cycle 3: Design
 

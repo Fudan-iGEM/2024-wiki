@@ -2,11 +2,9 @@
 sidebar: auto
 title: Education
 author:
-  - Zhe Dong
-  - Qingying Yang
+  - Xueting Chen
 authorlink:
-  - /fudan/team/#zhe-dong-the-multitasking-dynamo
-  - /fudan/team/#qingying-yang-the-passionate-enthusiast
+  - /fudan/team/#xueting-chen
 ---
 
 ## Overview
@@ -58,7 +56,7 @@ style='width:100%'>
 
 <p><small style="color: gray">📅 Date: Jul. - Oct., 2023<br>🗣️Organizers: Zhe Dong, Chenye Li, Yijun Wang, Qingying Yang, Mingfang Zheng<br>  👥Audience: Children aged 4-7</small></p>
 
-We were committed to creating an efficient educational model that enabled children to receive and understand information quickly, introducing them to the fascinating world of synthetic biology. To achieve this, we **initiated a collaboration** among four iGEM teams (Fudan, [ShanghaiTech](https://2023.igem.wiki/shanghaitech-china/), [Tongji](https://2023.igem.wiki/tongji-software/), and [NUDT](https://2023.igem.wiki/nudt-china/)) to create a picture book series centered on **genes and gene editing**. We carefully balanced professionalism with accessibility and incorporated **interactive** **elements** for an immersive reading experience and active participation. **Continuous feedback** from a children's book editor and a select group of children helped us refine the series. These books have been distributed freely both offline and online nationwide. Please refer to [this file for Chinese versions](https://static.igem.wiki/teams/4765/wiki/education/picture-book-chinese.pdf).
+We were committed to creating an efficient educational model that enabled children to receive and understand information quickly, introducing them to the fascinating world of synthetic biology. To achieve this, we **initiated a collaboration** among four iGEM teams (Fudan, [ShanghaiTech](https://2024.igem.wiki/shanghaitech-china/), [Tongji](https://2024.igem.wiki/tongji-software/), and [NUDT](https://2024.igem.wiki/nudt-china/)) to create a picture book series centered on **genes and gene editing**. We carefully balanced professionalism with accessibility and incorporated **interactive** **elements** for an immersive reading experience and active participation. **Continuous feedback** from a children's book editor and a select group of children helped us refine the series. These books have been distributed freely both offline and online nationwide. Please refer to [this file for Chinese versions](https://static.igem.wiki/teams/4765/wiki/education/picture-book-chinese.pdf).
 
 <iframe src="https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf" width="100%" height='500px'></iframe>
 
@@ -120,7 +118,7 @@ style='width:80%'>
 </div>
 
 
-During this **comprehensive open house event** ([schedule](https://static.igem.wiki/teams/4765/wiki/slides/fufuarrangement.pdf)), we initiated the collaboration with iGEM teams: [ShanghaiTech iGEM 2023](https://2023.igem.wiki/shanghaitech-china/), [XJTLU iGEM 2023](https://2023.igem.wiki/xjtlu-china/), and our [2022](https://2022.igem.wiki/fudan/) team members.
+During this **comprehensive open house event** ([schedule](https://static.igem.wiki/teams/4765/wiki/slides/fufuarrangement.pdf)), we initiated the collaboration with iGEM teams: [ShanghaiTech iGEM 2023](https://2024.igem.wiki/shanghaitech-china/), [XJTLU iGEM 2023](https://2024.igem.wiki/xjtlu-china/), and our [2022](https://2022.igem.wiki/fudan/) team members.
 
 - **Visit to the Tan Jiazhen Museum:** Honoring Mr. Tan, a renowned biologist who pioneered life sciences education in China.
 - **Lunch meeting:** Fostering dialogue between iGEMers and high school students to brainstorm developments in synthetic biology.
@@ -567,7 +565,7 @@ The **Conference of China iGEMer Community (CCiC)**, an annual gathering initiat
 
 #### Sustaining Collaboration
 
-Participating in CCiC allowed us to witness the remarkable growth of synthetic biology in China. Committed to fortifying inter-regional bonds, we took the initiative to establish **the iGEM Alliance of the Yangtze River Delta**. This alliance, comprising esteemed institutions such as [ShanghaiTech](https://2023.igem.wiki/shanghaitech-china/), [TJU](https://2023.igem.wiki/tongji-software/), [ZJU](https://2023.igem.wiki/zju-china/), [NJU](https://2023.igem.wiki/nanjing-china/), and [SJTU](https://2023.igem.wiki/sjtu-biox-shanghai/), represents a unified regional community dedicated to advancing synthetic biology.  Additionally, we have sought support from **the Shanghai Society of Genetics**. To date, these schools in the alliance have collaboratively crafted a series of educational children's picture books. With our collective endeavors, we hold a confident vision that the alliance will etch a profound and enduring mark on the future landscape of synthetic biology in China and beyond.
+Participating in CCiC allowed us to witness the remarkable growth of synthetic biology in China. Committed to fortifying inter-regional bonds, we took the initiative to establish **the iGEM Alliance of the Yangtze River Delta**. This alliance, comprising esteemed institutions such as [ShanghaiTech](https://2024.igem.wiki/shanghaitech-china/), [TJU](https://2024.igem.wiki/tongji-software/), [ZJU](https://2024.igem.wiki/zju-china/), [NJU](https://2024.igem.wiki/nanjing-china/), and [SJTU](https://2024.igem.wiki/sjtu-biox-shanghai/), represents a unified regional community dedicated to advancing synthetic biology.  Additionally, we have sought support from **the Shanghai Society of Genetics**. To date, these schools in the alliance have collaboratively crafted a series of educational children's picture books. With our collective endeavors, we hold a confident vision that the alliance will etch a profound and enduring mark on the future landscape of synthetic biology in China and beyond.
 
 
 

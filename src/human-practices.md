@@ -2,9 +2,9 @@
 sidebar: auto
 title: Human Practices
 author:
-  - Zhe Dong
+- Ziming Suo
 authorlink:
-  - /fudan/team/#zhe-dong-the-multitasking-dynamo
+- /fudan/team/#ziming-suo
 ---
 
 ## Overview

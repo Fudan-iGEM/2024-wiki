@@ -1,15 +1,18 @@
 ---
 sidebar: auto
 title: Collaborations
-author:
-- Zhikai Jiang
+autho:
+- Wanqi Li
 authorlink:
-- /fudan/team/#zhikai-jiang-the-model-specialist
+- /fudan/team/#wanqi-li
 ---
+
+logos from companies
+
 
 ## With CAU-China: Project Design
 
-In an interview with Prof. Yan Li, we explored organic acids' role in Earth's weathering. We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had extensive online discussions with CAU-China, who won the [BEST BIOMANUFACTURING PROJECT in 2022](https://jamboree.igem.org/2022/results/track-awards), regarding the feasibility and operational details of the oxalate module. They suggested heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid. In collaboration with [CAU iGEM 2023](https://2023.igem.wiki/cau-china/), we've employed their oxalic acid production genetic circuit (see more details in [Decription](/description/)).
+In an interview with Prof. Yan Li, we explored organic acids' role in Earth's weathering. We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had extensive online discussions with CAU-China, who won the [BEST BIOMANUFACTURING PROJECT in 2022](https://jamboree.igem.org/2022/results/track-awards), regarding the feasibility and operational details of the oxalate module. They suggested heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid. In collaboration with [CAU iGEM 2023](https://2024.igem.wiki/cau-china/), we've employed their oxalic acid production genetic circuit (see more details in [Decription](/description/)).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/cau-tiny.png"
@@ -23,7 +26,7 @@ style='width:70%'>
 
 ## With ShanghaiTech-China & XMU-China: Wet Lab
 
-Team [ShanghaiTech iGEM 2023](https://2023.igem.wiki/shanghaitech-china/) provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, [XMU iGEM 2022](https://2022.igem.wiki/xmu-china/) sent us the plasmids and the sequence for INPNC. We are very grateful for their assistance in our wet lab experiments.
+Team [ShanghaiTech iGEM 2023](https://2024.igem.wiki/shanghaitech-china/) provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, [XMU iGEM 2022](https://2022.igem.wiki/xmu-china/) sent us the plasmids and the sequence for INPNC. We are very grateful for their assistance in our wet lab experiments.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/shanghai-tech.jpg"
@@ -46,7 +49,7 @@ style='width:70%'>
 
 ## With SCUT-China & Nanjing-China: Software Discussion
 
-Our [software](/software/) aims to help people to use ribozyme assisted protein expression and optimizing their sequence design. We have engaged in online discussions with several universities. We collaborated with [Nanjing iGEM 2023](https://2023.igem.wiki/nanjing-china/) to improve the user interface, making it more user-friendly. Furthermore, we discussed with [SCUT iGEM 2023](https://2023.igem.wiki/scut-china/) about using our software for their wet lab experimental design, and got their feedback to improve our software. We also exchanged project ideas.
+Our [software](/software/) aims to help people to use ribozyme assisted protein expression and optimizing their sequence design. We have engaged in online discussions with several universities. We collaborated with [Nanjing iGEM 2023](https://2024.igem.wiki/nanjing-china/) to improve the user interface, making it more user-friendly. Furthermore, we discussed with [SCUT iGEM 2023](https://2024.igem.wiki/scut-china/) about using our software for their wet lab experimental design, and got their feedback to improve our software. We also exchanged project ideas.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/scut-tiny.png"
@@ -92,9 +95,9 @@ style='width:70%'>
 
 ## With ShanghaiTech-China & Tongji-China & NUDT-China: Education Activities
 
-To expand the reach and quality of our educational initiatives, we have collaborated with multiple universities on several picture book projects, including [ShanghaiTech iGEM 2023](https://2023.igem.wiki/shanghaitech-china/), [Tongji iGEM 2023](https://2023.igem.wiki/tongji-software/), and [NUDT iGEM 2023](https://2023.igem.wiki/nudt-china/). In those projects, our shared goal is to make synthetic biology more accessible to a broader audience through engaging visual storytelling and simplifying complex concepts. Each university has made significant contributions to the design, illustration, and printing of several picture books.
+To expand the reach and quality of our educational initiatives, we have collaborated with multiple universities on several picture book projects, including [ShanghaiTech iGEM 2023](https://2024.igem.wiki/shanghaitech-china/), [Tongji iGEM 2023](https://2024.igem.wiki/tongji-software/), and [NUDT iGEM 2023](https://2024.igem.wiki/nudt-china/). In those projects, our shared goal is to make synthetic biology more accessible to a broader audience through engaging visual storytelling and simplifying complex concepts. Each university has made significant contributions to the design, illustration, and printing of several picture books.
 
-In addition, we have partnered with [ShanghaiTech iGEM 2023](https://2023.igem.wiki/shanghaitech-china/) for further educational activities, such as exchange programs with FDIS (see more details on our [Education](/education/#feed-curious-minds) page).
+In addition, we have partnered with [ShanghaiTech iGEM 2023](https://2024.igem.wiki/shanghaitech-china/) for further educational activities, such as exchange programs with FDIS (see more details on our [Education](/education/#feed-curious-minds) page).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/3.png"

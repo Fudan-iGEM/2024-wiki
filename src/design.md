@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-title: Description
+title: Design
 author:
 - Kevin Qi
 authorlink:

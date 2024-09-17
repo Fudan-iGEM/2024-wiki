@@ -2,10 +2,12 @@
 sidebar: auto
 title: Improve
 author:
-- Siliang Zhan
+- Yi Shi
 authorlink:
-- /fudan/team/
+- /fudan/team/#yi-shi
 ---
+
+only improved part here
 
 ## Overview
 

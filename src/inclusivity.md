@@ -2,9 +2,9 @@
 sidebar: auto
 title: Inclusivity
 author:
-  - Qingying Yang
+- Xueting Chen
 authorlink:
-  - /fudan/team/#qingying-yang-the-passionate-enthusiast
+- /fudan/team/#xueting-chen
 ---
 
 ## Why did we focus on inclusivity?

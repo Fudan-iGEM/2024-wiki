@@ -2,9 +2,9 @@
 sidebar: auto
 title: Part Collection
 author:
-- Zhikai Jiang
+- Liyue Chen
 authorlink:
-- /fudan/team/#zhikai-jiang-the-model-specialist
+- /fudan/team/#liyue-chen
 ---
 
 Our favourite part is [BBa_K4765129 (stem-loop test)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129).
@@ -107,7 +107,7 @@ With specific genes inserted into pRAP system, this module confers bacteria the 
 
 ## Symbiotic System
 
-To ensure nutrient supply, we need to establish **a symbiotic system** that allows cyanobacteria to produce and secrete sugars, and then enable *E. coli* to efficiently utilize them. We are immensely grateful for the plasmids containing *CscB* ([BBa_K4115045](http://parts.igem.org/Part:BBa_K4115045)) and *SacC* ([BBa_K4115017](http://parts.igem.org/Part:BBa_K4115017)) provided by [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/), which enable us to complete the circulation of nutrients for both cyanobacteria and *E. coli*.
+To ensure nutrient supply, we need to establish **a symbiotic system** that allows cyanobacteria to produce and secrete sugars, and then enable *E. coli* to efficiently utilize them. We are immensely grateful for the plasmids containing *CscB* ([BBa_K4115045](http://parts.igem.org/Part:BBa_K4115045)) and *SacC* ([BBa_K4115017](http://parts.igem.org/Part:BBa_K4115017)) provided by [ShanghaiTech-China iGEM 2023](https://2024.igem.wiki/shanghaitech-china/), which enable us to complete the circulation of nutrients for both cyanobacteria and *E. coli*.
 
 
 ## Biofilm Formation System

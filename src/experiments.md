@@ -1,9 +1,9 @@
 ---
 title: Experiments
 author:
-- Zhenmao Ye
+- Kexin Huang
 authorlink:
-- /fudan/team/#zhenmao-ye-the-multifaceted-talent
+- /fudan/team/#kexin-huang
 ---
 
 ## Abbreviation List

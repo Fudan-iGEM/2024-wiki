@@ -2,9 +2,9 @@
 sidebar: auto
 title: Model
 author:
-  - Zhikai Jiang
+- Zhenhan Chen
 authorlink:
-  - /fudan/team/#zhikai-jiang-the-model-specialist
+- /fudan/team/#zhenhan-chen
 ---
 
 ## Introduction

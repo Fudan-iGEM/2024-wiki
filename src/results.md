@@ -2,18 +2,14 @@
 sidebar: auto
 title: Results
 author:
-- Siliang Zhan
-- Zhenmao Ye
-- Yijun Wang
+- Xujie Tan
+- Ruiwen Ma
+- Yi Shi
 authorlink:
-- /fudan/team/#siliang-zhan-the-conscientious-researcher
-- /fudan/team/#zhenmao-ye-the-multifaceted-talent
-- /fudan/team/#yijun-wang-the-meticulous-leader
+- /fudan/team/#xujie-tan
+- /fudan/team/#ruiwen-ma
+- /fudan/team/#yi-shi
 ---
-
-Updated on 2023-11-5: we won [the Best Environment Project (Undergrad)](https://jamboree.igem.org/2023/results?scroll=Environment#village-awards).
-
-Updated on 2023-10-20: our presentation video is live at [https://video.igem.org/w/xt8EbkjhMVRkZ1iULupnj9](https://video.igem.org/w/xt8EbkjhMVRkZ1iULupnj9).
 
 ## Overview
 

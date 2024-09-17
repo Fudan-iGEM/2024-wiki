@@ -9,7 +9,7 @@ Welcome to our Fudan iGEM 2023 introduction, where you meet the exceptional indi
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/all-2.jpg" style="width: 100%">
 <br>
 <div>
-<p><small style="color: gray">Fudan iGEM 2023</small></p>
+<p><small style="color: gray">Fudan iGEM 2024</small></p>
 </div>
 </div>
 

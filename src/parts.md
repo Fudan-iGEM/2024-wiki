@@ -3,7 +3,7 @@ sidebar: auto
 title: Parts
 ---
 
-The following primers were used to verify ribozyme connected parts.
+useful 2023 modules, anti-freezing, anti-UV?
 
 <pre>
 ## Common Forward Primer: 5-GGGAATTGTGAGCGGATAACAATTCCCCG-3
@@ -35,6 +35,6 @@ Visit our [Improve](/improve/) page for parts we improved this year.
 
 Vist our [Part collection](/part-collection/) page for parts we made in 2023.
 
-Back to [https://2023.igem.wiki/fudan/](https://2023.igem.wiki/fudan/)
+Back to [https://2024.igem.wiki/fudan/](https://2024.igem.wiki/fudan/)
 
-To check scencs behind our promotion video, please visit [https://2023.igem.wiki/fudan/promotion-video](/promotion-video/)
+To check scencs behind our promotion video, please visit [https://2024.igem.wiki/fudan/promotion-video](/promotion-video/)

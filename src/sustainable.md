@@ -2,9 +2,9 @@
 sidebar: auto
 title: Sustainable
 author: 
-- Chenye Li
+- Yuhan Li
 authorlink: 
-- /fudan/team/#chenye-li-the-education-advocate
+- /fudan/team/#yuhan-li
 ---
 
 <div style="text-align: center;">

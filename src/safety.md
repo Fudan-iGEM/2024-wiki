@@ -2,9 +2,9 @@
 sidebar: auto
 title: Safety
 author:
-  - Zhe Dong
+- Xujie Tan
 authorlink:
-  - /fudan/team/#zhe-dong-the-multitasking-dynamo
+- /fudan/team/#xujie-tan
 ---
 
 ## Overview

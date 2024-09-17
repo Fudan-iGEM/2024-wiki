@@ -2,10 +2,9 @@
 sidebar: auto
 title: Implementation
 author:
-   - Xiaohan Jiang
+- Kevin Qi
 authorlink:
-   - /fudan/team/#xiaohan-jiang-the-creative-bio-enthusiast
-date: 2023-10-6
+- /fudan/team/#kevin-qi
 ---
 
 ## Overview

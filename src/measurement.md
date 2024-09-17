@@ -1,8 +1,10 @@
 ---
 sidebar: auto
 title: Measurement
-author:
-- Zhikai Jiang
+autho:
+- Kexin Huang
+authorlink:
+- /fudan/team/#kexin-huang
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
