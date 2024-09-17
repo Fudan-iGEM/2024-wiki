@@ -1,4 +1,5 @@
 ---
+sidebar: auto
 title: Experiments
 author:
 - Kexin Huang

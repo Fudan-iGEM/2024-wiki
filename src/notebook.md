@@ -1,6 +1,10 @@
 ---
 sidebar: auto
 title: Notebook
+author:
+- Wanqi Li
+authorlink:
+- /fudan/team/#wanqi-li
 ---
 
 ## January

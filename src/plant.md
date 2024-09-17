@@ -1,6 +1,6 @@
 ---
-sidebar: auto
-title: Plant, oop
+sidebar: none
+title: Plant, noop
 ---
 
 We did not build anything for plant this year.

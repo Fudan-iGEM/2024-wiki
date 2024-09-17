@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-title: Improve
+title: Improved Parts
 author:
 - Yi Shi
 authorlink:

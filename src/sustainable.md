@@ -2,9 +2,9 @@
 sidebar: auto
 title: Sustainable
 author: 
-- Yuhan Li
+- Ruiwen Ma
 authorlink: 
-- /fudan/team/#yuhan-li
+- /fudan/team/#ruiwen-ma
 ---
 
 <div style="text-align: center;">

@@ -1,10 +1,12 @@
 ---
 sidebar: auto
-title: Human Practices
+title: Integrated HP
 author:
 - Ziming Suo
+- Yuhan Wang
 authorlink:
 - /fudan/team/#ziming-suo
+- /fudan/team/#yuhan-wang
 ---
 
 ## Overview

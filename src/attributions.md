@@ -1,5 +1,5 @@
 ---
-sidebar: auto
+sidebar: none
 title: Attributions
 ---
 
@@ -11,8 +11,8 @@ Below is the content from [https://attributions.igem.org?team=Fudan&year=2024](h
     window.addEventListener('message', function (e) {
       const {type, data} = JSON.parse(e.data);
       if (type === 'igem-attribution-form') {
-        const element = document.getElementById('igem-attribution-form')
-        element.style.height = data + 50 +'px'
+        const element = document.getElementById('igem-attribution-form');
+        element.style.height = data + 50 +'px'; // @@@@
       }
     });
   </script>

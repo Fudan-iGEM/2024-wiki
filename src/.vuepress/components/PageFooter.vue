@@ -27,25 +27,17 @@
   
         <!-- Contact and Copyright Section -->
         <div class="footer-contact">
-          <p>
-            <strong>Contact us:</strong>
-            <a href="mailto:igem@fudan.edu.cn">igem@fudan.edu.cn</a>
-          </p>
-          <p>
-            <strong>© {{ new Date().getFullYear() }} - Content on this site is licensed under a
+          <p><small>&copy; 2024 - Content on this site is licensed under a
               <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a>.
-            </strong>
-          </p>
-          <p>
-            <small>The repository used to create this website is available at
+          </small></p>
+          <p><small>The repository used to create this website is available at
               <a href="https://gitlab.igem.org/2024/fudan" target="_blank">gitlab.igem.org/2024/fudan</a>.
-            </small>
-          </p>
+          </small></p>
         </div>
   
         <!-- Social Media Icons Section -->
         <div class="social-links">
-          &nbsp;&nbsp;&nbsp;&nbsp;Contact us: <a href="mailto:igem@fudan.edu.cn" target="_blank">igem@fudan.edu.cn</a>
+          Contact&nbsp;us:&nbsp;<a href="mailto:igem@fudan.edu.cn" target="_blank">igem@fudan.edu.cn</a>
         </div>
       </div>
     </footer>

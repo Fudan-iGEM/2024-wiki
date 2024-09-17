@@ -2,9 +2,11 @@
 sidebar: auto
 title: Engineering
 author:
-- Xujie Tan
+- Ruiwen Ma
+- Kevin Qi
 authorlink:
-- /fudan/team/#xuejie-tan
+- /fudan/team/#ruiwen-m
+- /fudan/team/#kevin-qi
 ---
 
 ## Surface Display for Bacteria

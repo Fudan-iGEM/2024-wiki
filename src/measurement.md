@@ -2,9 +2,9 @@
 sidebar: auto
 title: Measurement
 autho:
-- Kexin Huang
+- Yi Shi
 authorlink:
-- /fudan/team/#kexin-huang
+- /fudan/team/#yi-shi
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

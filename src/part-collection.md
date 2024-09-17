@@ -2,8 +2,10 @@
 sidebar: auto
 title: Part Collection
 author:
+- Yi Shi
 - Liyue Chen
 authorlink:
+- /fudan/team/#yi-shi
 - /fudan/team/#liyue-chen
 ---
 

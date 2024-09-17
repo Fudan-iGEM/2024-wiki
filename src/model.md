@@ -2,9 +2,9 @@
 sidebar: auto
 title: Model
 author:
-- Zhenhan Chen
+- Zhenghan Chen
 authorlink:
-- /fudan/team/#zhenhan-chen
+- /fudan/team/#zhenghan-chen
 ---
 
 ## Introduction

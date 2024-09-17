@@ -2,9 +2,11 @@
 sidebar: auto
 title: Education
 author:
-  - Xueting Chen
+- Yuhan Wang
+- Kexin Zheng
 authorlink:
-  - /fudan/team/#xueting-chen
+- /fudan/team/#yuhan-wang
+- /fudan/team/#kexin-zheng
 ---
 
 ## Overview

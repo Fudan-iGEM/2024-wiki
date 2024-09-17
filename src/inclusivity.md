@@ -3,8 +3,10 @@ sidebar: auto
 title: Inclusivity
 author:
 - Xueting Chen
+- Ziming Suo
 authorlink:
 - /fudan/team/#xueting-chen
+- /fudan/team/#ziming-suo
 ---
 
 ## Why did we focus on inclusivity?

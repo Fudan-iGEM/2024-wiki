@@ -1,6 +1,6 @@
 ---
-sidebar: auto
-title: Proof of concept
+sidebar: none
+title: Proof of Concept
 ---
 
 Please visit our [Results](/results/) and [Model](/model/) pages.

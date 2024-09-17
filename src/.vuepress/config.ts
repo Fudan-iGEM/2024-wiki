@@ -13,7 +13,7 @@ export default defineUserConfig({
   base: "/fudan/",
   lang: "en-US",
   title: "Fudan",
-  description: "A docs demo for vuepress-theme-hope",
+  description: "for vuepress-theme-hope",
   plugins: [
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components"),
