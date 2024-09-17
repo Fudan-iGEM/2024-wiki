@@ -1,6 +1,6 @@
 | Page | Written by |
 |----|----|
-| Homepage | Zhenghan Chen |
+| Homepage | Yuhan Li, Zhenghan Chen |
 | Attributions | Wanqi Li |
 | Collabrations | Wanqi Li |
 | Communication | -- |

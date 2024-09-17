@@ -3,9 +3,9 @@ sidebar: none
 title: Attributions
 ---
 
-Below is the content from [https://attributions.igem.org?team=Fudan&year=2024](https://attributions.igem.org?team=Fudan&year=2023)
+View the content at [https://attributions.igem.org?team=Fudan&year=2024](https://attributions.igem.org?team=Fudan&year=2023)
 
-<div>
+<!-- div>
   <script type="text/javascript">
     // Listen to size change and update form height
     window.addEventListener('message', function (e) {
@@ -22,4 +22,4 @@ Below is the content from [https://attributions.igem.org?team=Fudan&year=2024](h
     src="https://attributions.igem.org?team=Fudan&year=2024"
   >
   </iframe>
-</div>
+</div -->

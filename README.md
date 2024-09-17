@@ -7,3 +7,6 @@ This repository contains **all coding assets** to generate your team's wiki (HTM
 Images, photos, icons and fonts are stored on `static.igem.wiki` using [uploads.igem.org](https://uploads.igem.org), and Videos are embedded from [iGEM Video Universe](https://video.igem.org).
 
 We built this wiki following guidance from [competition.igem.org/deliverables/team-wiki](https://competition.igem.org/deliverables/team-wiki).
+
+----
+Code by: Zhenghan Chen
