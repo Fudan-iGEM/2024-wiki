@@ -15,13 +15,13 @@
 | Heritage | Daru Lu, Liang Cai |
 | Intergrated HP | Ziming Suo, Yuhan Wang |
 | Implementation | Kevin Qi |
-| Improved Parts | Yi Shi |
+| Improved Parts | Yi Shi, Liyue Chen |
 | Inclusivity | Xueting Chen, Ziming Suo |
 | Measurement | Yi Shi |
-| Model | Zhenghan Chen |
+| Model | Liyue Chen |
 | Notebook | Wanqi Li |
 | Part Collection | Yi Shi, Liyue Chen |
-| Parts | -- |
+| Parts | Yi Shi, Liyue Chen |
 | Plant | none |
 | Promotion Video | Xujie Tan |
 | Proof of Concept | -- |
