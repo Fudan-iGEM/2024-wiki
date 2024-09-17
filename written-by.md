@@ -10,7 +10,7 @@
 | Education | Yuhan Wang, Kexin Zheng |
 | Engineering | Ruiwen Ma, Kevin Qi |
 | Entrepreneurship | Kexin Zheng |
-| Experiments | Kexin Huang |
+| Experiments | Ruiwen Ma, Xujie Tan |
 | Hardware | Kexin Huang |
 | Heritage | Daru Lu, Liang Cai |
 | Intergrated HP | Ziming Suo, Yuhan Wang |
@@ -23,10 +23,10 @@
 | Part Collection | Yi Shi, Liyue Chen |
 | Parts | Liyue Chen, Yi Shi |
 | Plant | none |
-| Promotion Video | Xujie Tan |
+| Promotion Video | Yuhan Li, Yuhan Wang |
 | Proof of Concept | -- |
 | Results | Xujie Tan, Ruiwen Ma, Yi Shi |
-| Safty | Xujie Tan |
+| Safety | Xujie Tan |
 | Software | Hongcheng Chen |
 | Sustainbale | Ruiwen Ma |
 | Team | all |
