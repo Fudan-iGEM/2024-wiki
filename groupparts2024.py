@@ -1,13 +1,13 @@
 import os
 
 # mkdir parts-html
-# os.system('scrapy fetch --nolog http://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115001 > 003.txt') # cannot ajax sequence length
+# os.system('scrapy fetch --nolog https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115001 > 003.txt') # cannot ajax sequence length
 from selenium import webdriver # pip 4.19.0
 #options = webdriver.ChromeOptions()
 #options.page_load_strategy = 'normal'
 service = webdriver.ChromeService(executable_path='/usr/local/bin/chromedriver') # https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/mac-x64/chromedriver-mac-x64.zip
 driver = webdriver.Chrome(service=service)
-#driver.get("http://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115003")
+#driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115003")
 #print( driver.page_source )
 
 from bs4 import BeautifulSoup # pip 4.12.3
@@ -43,7 +43,7 @@ for zz in z:
         part_name = 'BBa_K5115%s' % str(zz).zfill(3) # Team Fudan iGEM 2024
     if not os.path.isfile('parts-html/%s.txt' % part_name):
         print('init:\t', part_name)
-        driver.get("http://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=%s" % part_name)
+        driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=%s" % part_name)
         sleep(10)
         p1 = BeautifulSoup(driver.page_source, features="lxml")
         p2 = p1.find_all('table', {'id' : 'table_header'})
@@ -76,7 +76,7 @@ for zz in z:
             if tr_text.startswith('%s |' % th):
                 td_str = tr_text.split(' |\t', 1)[1].strip()
                 if td_str.startswith('BBa_'):
-                    td.append('[%s](http://parts.igem.org/Part:%s)' % (td_str,td_str))
+                    td.append('[%s](https://parts.igem.org/Part:%s)' % (td_str,td_str))
                 else:
                     td.append(td_str)
                 print(th, td[-1] )
@@ -111,5 +111,5 @@ for zz in z:
 fff.close()
 print('\n'.join(["'%s'," % x for x in subparts]))
 print('\n\nCAUTION: remove files in parts-html for update\n')
-print('Validate with http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
+print('Validate with https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
 driver.quit()

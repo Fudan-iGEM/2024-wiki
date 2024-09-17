@@ -19,9 +19,9 @@ title: Contribution
 
 ### Gold
 
-According to the rules for 2023, we have decided to compete for three special awards: [New Composite Part](http://parts.igem.org/Part:BBa_K4765129), [Education](/education/), and [Software Tool](/software/).
+According to the rules for 2023, we have decided to compete for three special awards: [New Composite Part](https://parts.igem.org/Part:BBa_K4765129), [Education](/education/), and [Software Tool](/software/).
 
-- We have made a useful [new composite part BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) for stem-loop test, which is well documented on the registry. It was built on [Open V3 backbone](http://parts.igem.org/Part:BBa_K4765026), which could be [reused, remade, and redistributed](https://stanford.freegenes.org/products/open-plasmids#description) as often as one would like. It could be induced to boost protein expression, but we use its [leaky](http://parts.igem.org/Part:BBa_K4765120) property in BL21(DE3) bacteria. [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) provides a new possibility to systematically regulate protein expression level, beyond promoter regulation or RBS regulation ([our 2022 Team](https://2022.igem.wiki/fudan/parts#composite) has successfully produce &beta;-carotene by varing RBS strength according to metabolism).
+- We have made a useful [new composite part BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129) for stem-loop test, which is well documented on the registry. It was built on [Open V3 backbone](https://parts.igem.org/Part:BBa_K4765026), which could be [reused, remade, and redistributed](https://stanford.freegenes.org/products/open-plasmids#description) as often as one would like. It could be induced to boost protein expression, but we use its [leaky](https://parts.igem.org/Part:BBa_K4765120) property in BL21(DE3) bacteria. [BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129) provides a new possibility to systematically regulate protein expression level, beyond promoter regulation or RBS regulation ([our 2022 Team](https://2022.igem.wiki/fudan/parts#composite) has successfully produce &beta;-carotene by varing RBS strength according to metabolism).
 - We hosted numerous meticulously designed [education](/education/#empower-igem-community) events and established a highly constructive two-way dialogue with the public. We hope to improve the general cognitive level of synthetic biology, encouraging more people to shape, contribute to, and participate in synthetic biology.
 - We have developed [RAP, a new software tool](/software/) that possesses user-friendliness, excellent compatibility with existing synthetic biology standards, and seamless integration with external tools. The software has also undergone experimental validation and has shown its practicality in other projects.
 
@@ -31,18 +31,18 @@ According to the rules for 2023, we have decided to compete for three special aw
 
 ### Biofilm Formation System
 
-We have successfully engineered various membrane-display [parts](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) (antigen, nanobody or lectin) to facilitate inter-bacterial connections, thus forming self-assembling and editable biofilm. Typical reference parts are listed here.
+We have successfully engineered various membrane-display [parts](https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) (antigen, nanobody or lectin) to facilitate inter-bacterial connections, thus forming self-assembling and editable biofilm. Typical reference parts are listed here.
 
 | Part Name | Description | 
 |----|----|
-| [BBa_K4765101](http://parts.igem.org/Part:BBa_K4765101) |  Twister P1 + T7_RBS + intimin-Ag1 fusion + stem-loop |
-| [BBa_K4765102](http://parts.igem.org/Part:BBa_K4765102) |  Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop |
-| [BBa_K4765103](http://parts.igem.org/Part:BBa_K4765103) |  Twister P1 + T7_RBS + intimin-Ag2 fusion + stem-loop |
-| [BBa_K4765104](http://parts.igem.org/Part:BBa_K4765104) |  Twister P1 + T7_RBS + intimin-Nb2 fusion + stem-loop |
-| [BBa_K4765105](http://parts.igem.org/Part:BBa_K4765105) |  Twister P1 + T7_RBS + intimin-Ag3 fusion + stem-loop |
-| [BBa_K4765106](http://parts.igem.org/Part:BBa_K4765106) |  Twister P1 + T7_RBS + intimin-Nb3 fusion + stem-loop |
-| [BBa_K4765109](http://parts.igem.org/Part:BBa_K4765109) |  Twister P1 + T7_RBS + intimin-MVN fusion + stem-loop |
-| [BBa_K4765110](http://parts.igem.org/Part:BBa_K4765110) |  Twister P1 + T7_RBS + intimin-LCA fusion + stem-loop |
+| [BBa_K4765101](https://parts.igem.org/Part:BBa_K4765101) |  Twister P1 + T7_RBS + intimin-Ag1 fusion + stem-loop |
+| [BBa_K4765102](https://parts.igem.org/Part:BBa_K4765102) |  Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop |
+| [BBa_K4765103](https://parts.igem.org/Part:BBa_K4765103) |  Twister P1 + T7_RBS + intimin-Ag2 fusion + stem-loop |
+| [BBa_K4765104](https://parts.igem.org/Part:BBa_K4765104) |  Twister P1 + T7_RBS + intimin-Nb2 fusion + stem-loop |
+| [BBa_K4765105](https://parts.igem.org/Part:BBa_K4765105) |  Twister P1 + T7_RBS + intimin-Ag3 fusion + stem-loop |
+| [BBa_K4765106](https://parts.igem.org/Part:BBa_K4765106) |  Twister P1 + T7_RBS + intimin-Nb3 fusion + stem-loop |
+| [BBa_K4765109](https://parts.igem.org/Part:BBa_K4765109) |  Twister P1 + T7_RBS + intimin-MVN fusion + stem-loop |
+| [BBa_K4765110](https://parts.igem.org/Part:BBa_K4765110) |  Twister P1 + T7_RBS + intimin-LCA fusion + stem-loop |
 
 Programmable biofilm can play a crucial role in various fields, including wastewater treatment, biomaterials, and so on. The aforementioned parts contribute to the construction of multifunctional biofilm and are hoped to assist future teams in achieving their projects.
 
@@ -52,10 +52,10 @@ In [our project](/description), in order to enable bacteria to survive under the
 
 | Part Name | Description |
 |----|----|
-| [BBa_K4765015](http://parts.igem.org/Part:BBa_K4765015) | AnAFP                                                        |
-| [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016) | H.exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) |
-| [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018) | FEN1                                                         |
-| [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019) | XRCC1                                                        |
+| [BBa_K4765015](https://parts.igem.org/Part:BBa_K4765015) | AnAFP                                                        |
+| [BBa_K4765016](https://parts.igem.org/Part:BBa_K4765016) | H.exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) |
+| [BBa_K4765018](https://parts.igem.org/Part:BBa_K4765018) | FEN1                                                         |
+| [BBa_K4765019](https://parts.igem.org/Part:BBa_K4765019) | XRCC1                                                        |
 
 These parts empower bacteria to withstand challenging environments, making them highly valuable for projects related to astrobiology or extreme environmental applications.
 
@@ -65,12 +65,12 @@ The use of ribozymes can help us to simultanously express genes of interested, b
 
 | Part Name | Description |
 |----|----|
-| [BBa_K4765020](http://parts.igem.org/Part:BBa_K4765020) | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 |
-| [BBa_K4765021](http://parts.igem.org/Part:BBa_K4765021) | stem-loop 1, from 10.1021/acssynbio.2c00416             |
-| [BBa_K4765119](http://parts.igem.org/Part:BBa_K4765119) | ribozyme test: constitutive expression                  |
-| [BBa_K4765120](http://parts.igem.org/Part:BBa_K4765120) | ribozyme test: T7 leaky expression                      |
-| [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) | stem-loop test                                          |
-| [BBa_K4765130](http://parts.igem.org/Part:BBa_K4765130) | shuttle test                                            |
+| [BBa_K4765020](https://parts.igem.org/Part:BBa_K4765020) | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 |
+| [BBa_K4765021](https://parts.igem.org/Part:BBa_K4765021) | stem-loop 1, from 10.1021/acssynbio.2c00416             |
+| [BBa_K4765119](https://parts.igem.org/Part:BBa_K4765119) | ribozyme test: constitutive expression                  |
+| [BBa_K4765120](https://parts.igem.org/Part:BBa_K4765120) | ribozyme test: T7 leaky expression                      |
+| [BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129) | stem-loop test                                          |
+| [BBa_K4765130](https://parts.igem.org/Part:BBa_K4765130) | shuttle test                                            |
 
 The expected benefit of the stem-loop structure is to enhance mRNA stability, thereby expanding the applicability of the ribozyme system, even for cyanobacteria. We hope other teams can incorporate such designs into their projects to effectively control gene expression.
 

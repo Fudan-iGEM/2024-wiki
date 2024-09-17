@@ -150,7 +150,7 @@ In the Survival System, we introduced the **Anti-UV Module**, **Anti-Freeze Modu
 
 We tested multiple proteins in *E. coli* to enhance its resistance to UV radiation, mitigating biomolecule damage induced by radiation.
 
-1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance. They upregulate DNA repair or binding proteins (Rv Dsup[^9][^10], [*Hypsibius exemplaris* mtSSB](http://parts.igem.org/Part:BBa_K4765016)) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](http://parts.igem.org/Part:BBa_K4765018) and [XRCC1](http://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/results/).
+1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance. They upregulate DNA repair or binding proteins (Rv Dsup[^9][^10], [*Hypsibius exemplaris* mtSSB](https://parts.igem.org/Part:BBa_K4765016)) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](https://parts.igem.org/Part:BBa_K4765018) and [XRCC1](https://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/results/).
 
 2.   **Transfer UV Absorption:** Informed by insights from [LINKS iGEM 2022](https://2022.igem.wiki/links-china/description)[^11], we enriched *E.coli* with UV-absorbing[^12] substance, Mycosporine-like amino acids (MAAs), acting as a sunscreen for the biofilm.
 
@@ -164,7 +164,7 @@ We tested multiple proteins in *E. coli* to enhance its resistance to UV radiati
 
 #### B) Anti-Freeze Module
 
-An anti-freeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived from *Ammopiptanthus nanus*, was introduced to *E. coli* to facilitate survival in sub-zero temperature. AnAFP features the ice crystal binding domain A, which adheres to ice surfaces and impedes the growth of ice crystals, enabling *E. coli* to survive in sub-zero temperature[^13].
+An anti-freeze protein [AnAFP](https://parts.igem.org/Part:BBa_K4765015), derived from *Ammopiptanthus nanus*, was introduced to *E. coli* to facilitate survival in sub-zero temperature. AnAFP features the ice crystal binding domain A, which adheres to ice surfaces and impedes the growth of ice crystals, enabling *E. coli* to survive in sub-zero temperature[^13].
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/4765/wiki/description/9anti-freeze-module.png" style='width:80%'>
@@ -176,7 +176,7 @@ An anti-freeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived
 
 #### C) Anti-Desiccation Module
 
-Taking inspiration from the remarkable resilience of tardigrades in extremely dry environments, we engineered *E. coli* to withstand desiccation by expressing two key proteins, [SAHS](http://parts.igem.org/Part:BBa_K2306003)[^14] [^15] (also known as Tardigrade Dessication Proteins, TDPs) and [mtSSB](http://parts.igem.org/Part:BBa_K4765016)[^16].
+Taking inspiration from the remarkable resilience of tardigrades in extremely dry environments, we engineered *E. coli* to withstand desiccation by expressing two key proteins, [SAHS](https://parts.igem.org/Part:BBa_K2306003)[^14] [^15] (also known as Tardigrade Dessication Proteins, TDPs) and [mtSSB](https://parts.igem.org/Part:BBa_K4765016)[^16].
 
 TDPs were identified for their role in tardigrade desiccation tolerance. TDPs undergo a transition into non-crystalline amorphous solids during desiccation, mirroring their protective attributes.
 
@@ -209,7 +209,7 @@ We have established a symbiotic system in which cyanobacteria serve as carbon-fi
 
 ### 3. Biofilm Formation System
 
-Our biofilm formation system represents an innovative approach aimed at establishing a robust physical connection between cyanobacteria and *E. coli*, creating a stable symbiotic platform, and bolstering resilience against environmental stressors (see more in [Human Practice](/human-practices/#prof-changming-fang-how-to-build-a-good-symbiotic-system))[^18].  To achieve this, we introduced outer **membrane-anchored nanobody–antigen pairs**[^19][^20][^21] into *E. coli*, promoting spontaneous adhesion and enabling the creation of programmable assembly patterns within the living biofilm. Furthermore, our strategy involves incorporating autotrophic cyanobacteria within *E. coli* to optimize nutrition allocation. To facilitate this, we introduced a specific lectin, [LCA](http://parts.igem.org/Part:BBa_K4765009), onto the surface of *E. coli* to **mediate adhesion between the two strains**.
+Our biofilm formation system represents an innovative approach aimed at establishing a robust physical connection between cyanobacteria and *E. coli*, creating a stable symbiotic platform, and bolstering resilience against environmental stressors (see more in [Human Practice](/human-practices/#prof-changming-fang-how-to-build-a-good-symbiotic-system))[^18].  To achieve this, we introduced outer **membrane-anchored nanobody–antigen pairs**[^19][^20][^21] into *E. coli*, promoting spontaneous adhesion and enabling the creation of programmable assembly patterns within the living biofilm. Furthermore, our strategy involves incorporating autotrophic cyanobacteria within *E. coli* to optimize nutrition allocation. To facilitate this, we introduced a specific lectin, [LCA](https://parts.igem.org/Part:BBa_K4765009), onto the surface of *E. coli* to **mediate adhesion between the two strains**.
 
 <div style="text-align: center;" >
     <img src="https://static.igem.wiki/teams/4765/wiki/description/bacteria-lawn-new.png" style='width:80%'>
@@ -234,7 +234,7 @@ Exopolysaccharide (EPS) is a key agent in soil stability, fertility, and defense
 2. Foster **aggregation and stabilization** of dust particles on the Martian surface, contributing to improved soil stability and fertility.
 3. **Defense** against abiotic stressors, such as drought, freezing temperature and UV, granting the ecological biofilm greater survival capabilities.
 
-In this module, we refined the [XJTU iGEM 2020](https://2020.igem.org/Team:XJTU-China) strategy[^24], and optimized the expression of key enzymes, [*pgmA* and *galU*](http://parts.igem.org/Part:BBa_K4765121), in the EPS biosynthesis pathway to increase production. Ultimately, this enhancement contributed to an improved ability to adhere to the Martian surface.
+In this module, we refined the [XJTU iGEM 2020](https://2020.igem.org/Team:XJTU-China) strategy[^24], and optimized the expression of key enzymes, [*pgmA* and *galU*](https://parts.igem.org/Part:BBa_K4765121), in the EPS biosynthesis pathway to increase production. Ultimately, this enhancement contributed to an improved ability to adhere to the Martian surface.
 
 <div style="text-align: center;" >
     <img src="https://static.igem.wiki/teams/4765/wiki/description/13eps-module.png" style='width:80%'>
@@ -291,7 +291,7 @@ We envision the following for our biofilm:
 
 2. **Expansion to Other Organisms**:
 
-   Our current choice of *E. coli* due to its amenability to genetic engineering. We build [BBa_K4765130](http://parts.igem.org/Part:BBa_K4765130) to test ribozyme
+   Our current choice of *E. coli* due to its amenability to genetic engineering. We build [BBa_K4765130](https://parts.igem.org/Part:BBa_K4765130) to test ribozyme
 in cyanbacteria.
    Transposing these BioBricks into other soil-based microorganisms, such as *Bacillus spp.*, could contribute to diverse ecological functions within soil ecosystems from nutrient cycling to coferring stress tolerance to plants[^31]. It could ensure the preservation of soil safety for future colonizers.
 

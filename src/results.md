@@ -31,7 +31,7 @@ In the Survival System, we introduced **Anti-UV Module**, **Anti-Freeze Module**
 
 ### Anti-UV Module
 
-In the Anti-UV module, we introduced various **DNA repair or binding proteins** (FEN1, XRCC1, and *Hypsibius exemplaris* mtSSB) (sequence details and functional characterization in [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018), [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019), and [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016)) and MAA producing enzymes (MysA/B/C/D/H, details in [Part:BBa_K4765118](http://parts.igem.org/Part:BBa_K4765118)) that regulate **UV-absorbing substances** to enhance *E. coli*'s resistance to UV radiation.
+In the Anti-UV module, we introduced various **DNA repair or binding proteins** (FEN1, XRCC1, and *Hypsibius exemplaris* mtSSB) (sequence details and functional characterization in [BBa_K4765018](https://parts.igem.org/Part:BBa_K4765018), [BBa_K4765019](https://parts.igem.org/Part:BBa_K4765019), and [BBa_K4765016](https://parts.igem.org/Part:BBa_K4765016)) and MAA producing enzymes (MysA/B/C/D/H, details in [Part:BBa_K4765118](https://parts.igem.org/Part:BBa_K4765118)) that regulate **UV-absorbing substances** to enhance *E. coli*'s resistance to UV radiation.
 
 
 We employed the [Colony-Forming Unit](/experiments/#cfu-counting) (CFU) assay. After plasmid transformation and plating, we shielded half of the agar plate from UV light using a black paperboard, while the other half was exposed to UV irradiation (6W power) with combined wavelengths of 254 nm and 365 nm for 10 seconds.
@@ -46,7 +46,7 @@ We employed the [Colony-Forming Unit](/experiments/#cfu-counting) (CFU) assay. A
 </div>
 
 
-Our experimental results demonstrated that most DNA repair and binding proteins exhibited **a higher survival rate** compared to plain *E. coli*, indicating improved anti-UV tolerance, especially XRCC1 and FEN1. We hypothesized that these proteins function by aiding in DNA repair or binding to DNA, thus shielding chromatin from hydroxyl radicals induced by UV radiation. Interestingly, we observed that the expression of green fluorescence [stayGold (BBa_K4162001)](http://parts.igem.org/Part:BBa_K4162001) in *E. coli*, intended as a negative control, significantly increased the survival rate. We suspected that this effect may be due to fluorescent protein absorbing a certain amount of UV radiation through structural changes.
+Our experimental results demonstrated that most DNA repair and binding proteins exhibited **a higher survival rate** compared to plain *E. coli*, indicating improved anti-UV tolerance, especially XRCC1 and FEN1. We hypothesized that these proteins function by aiding in DNA repair or binding to DNA, thus shielding chromatin from hydroxyl radicals induced by UV radiation. Interestingly, we observed that the expression of green fluorescence [stayGold (BBa_K4162001)](https://parts.igem.org/Part:BBa_K4162001) in *E. coli*, intended as a negative control, significantly increased the survival rate. We suspected that this effect may be due to fluorescent protein absorbing a certain amount of UV radiation through structural changes.
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/uvresults.png" style='width:40%'>
@@ -60,7 +60,7 @@ Our experimental results demonstrated that most DNA repair and binding proteins 
 
 ### Anti-Freeze Module
 
-AnAFP (details in [BBa_K4765015](http://parts.igem.org/Part:BBa_K4765015)) is an anti-freeze protein derived from *Ammopiptanthus nanus*, we heterologously expressed  AnAFP in *E. coli*, endowing the bacteria with anti-freeze capability.
+AnAFP (details in [BBa_K4765015](https://parts.igem.org/Part:BBa_K4765015)) is an anti-freeze protein derived from *Ammopiptanthus nanus*, we heterologously expressed  AnAFP in *E. coli*, endowing the bacteria with anti-freeze capability.
 
 To test the anti-freeze capability of AnAFP, we subjected *E. coli* expressing AnAFP to cold treatment at 0°C. Bacteria were placed on iced water, maintained in cold room, and samples were collected after 0, 24, 48, and 96 hours for CFU counting, and a survival rate curve was plotted. We did not use -30 or -80 degrees for testing, because *E. coli* stock is usually kept at those temperatures where bacteria can survive for years. Surviving at 0 degree would be very challenging for bacteria. We did not test the number of freeze-thawn cycles our bacteria could survive.
 
@@ -90,9 +90,9 @@ style='width:70%'>
 
 ### Anti-Desiccation Module
 
-*H. ex* mtSSB (details in [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016)) is a type of mitochondrial single-stranded DNA binding protein, it can prevent DNA damage during genotoxic stress.
+*H. ex* mtSSB (details in [BBa_K4765016](https://parts.igem.org/Part:BBa_K4765016)) is a type of mitochondrial single-stranded DNA binding protein, it can prevent DNA damage during genotoxic stress.
 
-In Anti-Desiccation Module, we tested the anti-desiccation capability of *E. coli* expressing [mtSSB alone](/description/#fn16), or co-expressing mtSSB, AnAFP and another TDP protein [SAHS 33020](http://parts.igem.org/Part:BBa_K2306003). Experiment was conducted as following: we centrifuged the liquid culture of the experimental groups, and removed the supernatant. Pellets are dried for 6.5 hr in SpeedVac under 4°C .Finally, the pellets are weighed and resuspended in LB medium and diluted 10^5^-fold for [CFU counting](/experiments/#cfu-counting).
+In Anti-Desiccation Module, we tested the anti-desiccation capability of *E. coli* expressing [mtSSB alone](/description/#fn16), or co-expressing mtSSB, AnAFP and another TDP protein [SAHS 33020](https://parts.igem.org/Part:BBa_K2306003). Experiment was conducted as following: we centrifuged the liquid culture of the experimental groups, and removed the supernatant. Pellets are dried for 6.5 hr in SpeedVac under 4°C .Finally, the pellets are weighed and resuspended in LB medium and diluted 10^5^-fold for [CFU counting](/experiments/#cfu-counting).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/anti-desiccation-protocol.png"
@@ -121,7 +121,7 @@ style='width:40%'>
 
 ## 2. Symbiotic System
 
-In the symbiotic system, we adopted the approach from the [ShanghaiTech iGEM 2022](https://2022.igem.wiki/shanghaitech-china/) project, wherein we introduced the fructofuranosidase enzyme (SacC) (details in [BBa_K4115017](http://parts.igem.org/Part:BBa_K4115017)) into *E. coli* to promote the hydrolysis of sucrose into fructose and glucose, enabling *E. coli* to sefficiently utilize sucrose as a carbon source.
+In the symbiotic system, we adopted the approach from the [ShanghaiTech iGEM 2022](https://2022.igem.wiki/shanghaitech-china/) project, wherein we introduced the fructofuranosidase enzyme (SacC) (details in [BBa_K4115017](https://parts.igem.org/Part:BBa_K4115017)) into *E. coli* to promote the hydrolysis of sucrose into fructose and glucose, enabling *E. coli* to sefficiently utilize sucrose as a carbon source.
 
 
 We measure the growth curve through measuring optical density at a wavelength of 600 nm (OD~600~).
@@ -158,7 +158,7 @@ We've designed a biofilm formation system with two key components. The first inv
 
 To confirm biofilm formation through intimin-Ag/Nb, we employed both [aggregation experiments](/experiments/#e-coli-aggregation-assay) and [fluorescence microscopy imaging](/experiments/#biofilm-growth-imaging) to demonstrate its ability to mediate biofilm formation.
 
-In the aggregation experiments, We combined cultures of *E. coli* expressing intimin-Ag1/Nb1, intimin-Ag2/Nb2 and intimin-Ag3/Nb3, and allowed them to settle. We measured the OD~600~ of the supernatant at 0, 3, 6 hours to reflect the bacteria quantity remaining in the supernatant (details in [BBa_K4765106](http://parts.igem.org/Part:BBa_K4765106))
+In the aggregation experiments, We combined cultures of *E. coli* expressing intimin-Ag1/Nb1, intimin-Ag2/Nb2 and intimin-Ag3/Nb3, and allowed them to settle. We measured the OD~600~ of the supernatant at 0, 3, 6 hours to reflect the bacteria quantity remaining in the supernatant (details in [BBa_K4765106](https://parts.igem.org/Part:BBa_K4765106))
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/ecoliecoli-3.png"
@@ -181,7 +181,7 @@ style='width:50%'>
 </div>
 
 
-We also employed microscopy imaging to observe the growth and expansion of biofilm. Glass slides were treated with PDL (Poly-D-Lysine) for 10 seconds, followed by mixing *E. coli* expressing intimin-Ag3 ([BBa_K4765105](http://parts.igem.org/Part:BBa_K4765105)) and intimin-Nb3 + mScarlet ([BBa_K4765133](http://parts.igem.org/Part:BBa_K4765133)) on these slides. After several washes with LB KanR medium, 500 μL of LB KanR medium was added. The location of the founder cell was determined, and imaging was initiated on the microscope stage at 25°C, capturing photographs at 0, 2, and 5.5 hours or time-laspse with 5-minute interval. A bacterial lawn covering the field at the end of image.
+We also employed microscopy imaging to observe the growth and expansion of biofilm. Glass slides were treated with PDL (Poly-D-Lysine) for 10 seconds, followed by mixing *E. coli* expressing intimin-Ag3 ([BBa_K4765105](https://parts.igem.org/Part:BBa_K4765105)) and intimin-Nb3 + mScarlet ([BBa_K4765133](https://parts.igem.org/Part:BBa_K4765133)) on these slides. After several washes with LB KanR medium, 500 μL of LB KanR medium was added. The location of the founder cell was determined, and imaging was initiated on the microscope stage at 25°C, capturing photographs at 0, 2, and 5.5 hours or time-laspse with 5-minute interval. A bacterial lawn covering the field at the end of image.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/results-figure12.png"
@@ -221,7 +221,7 @@ These results collectively demonstrate that intimin-Ag/Nb fusion can mediate spe
 
 ### Cyanobacteria - *E. coli*
 
-To confirm the binding between cyanobacteria and *E. coli*, we mixed *E. coli* strains displaying lectins on their surfaces with the corresponding cyanobacteria and allowed them to settle. We measured the OD~600~,~685~ of the supernatant at 0, 2, 6, and 24 hours to assess the remaining *E.coli* / cyanobacteria in the supernatant (details in [BBa_K4765109](http://parts.igem.org/Part:BBa_K4765109), [BBa_K4765110](http://parts.igem.org/Part:BBa_K4765110))
+To confirm the binding between cyanobacteria and *E. coli*, we mixed *E. coli* strains displaying lectins on their surfaces with the corresponding cyanobacteria and allowed them to settle. We measured the OD~600~,~685~ of the supernatant at 0, 2, 6, and 24 hours to assess the remaining *E.coli* / cyanobacteria in the supernatant (details in [BBa_K4765109](https://parts.igem.org/Part:BBa_K4765109), [BBa_K4765110](https://parts.igem.org/Part:BBa_K4765110))
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/cyano-e-coli-3.png" style='width:65%'>
@@ -266,7 +266,7 @@ style='width:300%'>
 
 ### EPS Module
 
-To validate the adhesion effects of EPS (details in [BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121) and [BBa_K4765122](http://parts.igem.org/Part:BBa_K4765122)), we performed microscopy imaging using a chamber-based approach. After mixing the *E.coli* expressing EPS with bacteria only expressing stayGold, it was forcefully pipetted ten times before loading into the flow chamber. Subsequently, we conducted fluorescence microscopy imaging. We applied two different force on culture media to wash the flow chamber with different speed, and observed whether the EPS-expressing *E.coli* could remain adhered to the glass surface.
+To validate the adhesion effects of EPS (details in [BBa_K4765121](https://parts.igem.org/Part:BBa_K4765121) and [BBa_K4765122](https://parts.igem.org/Part:BBa_K4765122)), we performed microscopy imaging using a chamber-based approach. After mixing the *E.coli* expressing EPS with bacteria only expressing stayGold, it was forcefully pipetted ten times before loading into the flow chamber. Subsequently, we conducted fluorescence microscopy imaging. We applied two different force on culture media to wash the flow chamber with different speed, and observed whether the EPS-expressing *E.coli* could remain adhered to the glass surface.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/flow-chamber.jpg"
@@ -309,7 +309,7 @@ These results collectively affirm that EPS effectively mediates *E. coli* adhesi
 
 ## 5. Software Validation
 
-This year, we developed a [software tool](http://54.169.242.254:5000/) for quantitatively design ribozyme-assisted polycistronic co-expression system. We also performed experimental validation for our software, as shown in [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129).
+This year, we developed a [software tool](http://54.169.242.254:5000/) for quantitatively design ribozyme-assisted polycistronic co-expression system. We also performed experimental validation for our software, as shown in [BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129).
 
 We inserted different stem-loops between stayGold and Twister P1, and compared the red-green fluorescence intensity ratio to assess **the stem-loop's ability to prevent [mRNA degradation](/software/#assumption-1-2)**.
 
@@ -365,6 +365,6 @@ style='width:50%'>
 
 
 
-**In summary, the four Survival, Symbiotic, Biofilm Formation and Terraforming Systems for our biofilm, all have been made and test. All performed as designed. Having them together in one bacteria will be our choice of terraforming space explorer - B.HOME v1** ([BBa_K4765140](http://parts.igem.org/Part:BBa_K4765140)). We are also in the process of using shuttle test ([BBa_K4765130](http://parts.igem.org/Part:BBa_K4765130)) to empower cyanobacteria with Anti-UV Module, Anti-Freeze Module and Anti-Desiccation capabilities.
+**In summary, the four Survival, Symbiotic, Biofilm Formation and Terraforming Systems for our biofilm, all have been made and test. All performed as designed. Having them together in one bacteria will be our choice of terraforming space explorer - B.HOME v1** ([BBa_K4765140](https://parts.igem.org/Part:BBa_K4765140)). We are also in the process of using shuttle test ([BBa_K4765130](https://parts.igem.org/Part:BBa_K4765130)) to empower cyanobacteria with Anti-UV Module, Anti-Freeze Module and Anti-Desiccation capabilities.
 
-The composite part [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) represents **a novel strategy to employ 3' stem-loops for regulating mRNA stability and targeted protein levels, especially during polycistronic experssion**. It also provides opportunity to examine various natural occurring stem-loops sequences from sequencing databases, and could be a useful tool to uncover novel RNA regulation mechanisms.
+The composite part [BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129) represents **a novel strategy to employ 3' stem-loops for regulating mRNA stability and targeted protein levels, especially during polycistronic experssion**. It also provides opportunity to examine various natural occurring stem-loops sequences from sequencing databases, and could be a useful tool to uncover novel RNA regulation mechanisms.

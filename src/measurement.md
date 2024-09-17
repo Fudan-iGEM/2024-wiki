@@ -77,7 +77,7 @@ Based on our pilot experiences and reports in the literature[^6], several aspect
 
 ## Results
 
-To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP [(BBa K4765015)](http://parts.igem.org/Part:BBa_K4765015) protein in *E. coli* exhibits anti-freeze properties. For procedures related to AnAFP, please refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined above to obtain the agar plates depicted in [Figure 1](#fig-1).
+To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP [(BBa K4765015)](https://parts.igem.org/Part:BBa_K4765015) protein in *E. coli* exhibits anti-freeze properties. For procedures related to AnAFP, please refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined above to obtain the agar plates depicted in [Figure 1](#fig-1).
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/measurement-2.png"

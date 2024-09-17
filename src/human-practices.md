@@ -258,7 +258,7 @@ During the interview, Prof. Quan mentioned many microbes adapting to extreme liv
 For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept. For example, we can subject *E. coli* to **freeze-drying treatment** through Speedvac for several hours to simulate the drought on Mars.
 
 **Review**
-With the idea of Prof. Quan, we focused on [Tardigrada](https://en.wikipedia.org/wiki/Tardigrade), the most mysterious creature on Earth that could survive in space. [A recent bioRxiv article](https://doi.org/10.1101/2023.08.21.554171) found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought[^4], and freeze**. We built a BioBrick [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016) for our survival system.
+With the idea of Prof. Quan, we focused on [Tardigrada](https://en.wikipedia.org/wiki/Tardigrade), the most mysterious creature on Earth that could survive in space. [A recent bioRxiv article](https://doi.org/10.1101/2023.08.21.554171) found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought[^4], and freeze**. We built a BioBrick [BBa_K4765016](https://parts.igem.org/Part:BBa_K4765016) for our survival system.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/implementation/collaboration/hp/qzx.jpg"

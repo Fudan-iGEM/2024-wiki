@@ -33,7 +33,7 @@ MysH		5-TTGTGGTGGGTGTTTCATTAGCGGTGGACCTGAAC-3
 
 Visit our [Improve](/improve/) page for parts we improved this year.
 
-Vist our [Part collection](/part-collection/) page for parts we made in 2023.
+Vist our [Part Collection](/part-collection/) page for parts we made in 2024. All parts detail at [the Registry](https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan).
 
 Back to [https://2024.igem.wiki/fudan/](https://2024.igem.wiki/fudan/)
 

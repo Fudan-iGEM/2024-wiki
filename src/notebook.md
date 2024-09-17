@@ -263,7 +263,7 @@ We began molecular cloning experiments, after receiving the first shipment from 
 
 <p><small style="color: gray">📅 Date: Aug. 8th<br>👤 Participants: Zhikai Jiang, Yijun Wang</small></p>
 
-Team [ShanghaiTech iGEM 2023](https://2023.igem.wiki/shanghaitech-china/) provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, [XMU iGEM 2022](https://2022.igem.wiki/xmu-china/) sent us the plasmids and the sequence for INPNC. We are very grateful for their assistance in our wet lab experiments.
+Team [ShanghaiTech iGEM 2023](https://2024.igem.wiki/shanghaitech-china/) provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, [XMU iGEM 2022](https://2022.igem.wiki/xmu-china/) sent us the plasmids and the sequence for INPNC. We are very grateful for their assistance in our wet lab experiments.
 
 <p><small style="color: gray">📅 Date: Aug. 12th <br>👤 Participants: Qingying Yang</small></p>
 
@@ -338,7 +338,7 @@ style='width:70%'>
 </div>
 <p><small style="color: gray">📅 Date: Sep. 13th <br>👤 Participants: Zhe Dong, Xiaohan Jiang, Qingying Yang, Chenye Li</small></p>
 
-During this [**comprehensive open house event**](/education/#continuous-dialogue-and-long-term-friendship-with-fdis), we initiated the collaboration with iGEM teams: [ShanghaiTech iGEM 2023](https://2023.igem.wiki/shanghaitech-china/), [XJTLU iGEM 2023](https://2023.igem.wiki/xjtlu-china/), and [Fudan iGEM 2022](https://2022.igem.wiki/fudan/).
+During this [**comprehensive open house event**](/education/#continuous-dialogue-and-long-term-friendship-with-fdis), we initiated the collaboration with iGEM teams: [ShanghaiTech iGEM 2023](https://2024.igem.wiki/shanghaitech-china/), [XJTLU iGEM 2023](https://2024.igem.wiki/xjtlu-china/), and [Fudan iGEM 2022](https://2022.igem.wiki/fudan/).
 
 - **Visit to the Tan Jiazhen Museum:** Honoring Mr. Tan, a renowned biologist who pioneered life sciences education in China.
 - **Fireside Chat:** Fostering dialogue between iGEMers and high school students to brainstorm developments in synthetic biology.
@@ -419,14 +419,14 @@ style='width:70%'>
 
 <p><small style="color: gray">📅 Date: Sep. 20th<br>👤 Participants: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan</small></p>
 
-We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had **[extensive online discussions](/collaborations/#with-cau-china-project-design)** with [CAU iGEM 2023](https://2023.igem.wiki/cau-china/), with expertise in this area, regarding the feasibility and operational details of their oxalate module (heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid).
+We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had **[extensive online discussions](/collaborations/#with-cau-china-project-design)** with [CAU iGEM 2023](https://2024.igem.wiki/cau-china/), with expertise in this area, regarding the feasibility and operational details of their oxalate module (heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid).
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/cau-tiny.png"
 style='width:70%'>
 	<br>
 	<div>
-		<p><small style="color: gray">The online meeting between [Fudan iGEM 2023](/) and [CAU iGEM 2023](https://2023.igem.wiki/cau-china/)</small></p>
+		<p><small style="color: gray">The online meeting between [Fudan iGEM 2023](/) and [CAU iGEM 2023](https://2024.igem.wiki/cau-china/)</small></p>
 	</div>
 </div>
 <p><small style="color: gray">📅 Date: Sep. 26th<br>👤 Participants: Zhe Dong, Yijun Wang</small></p>
@@ -448,7 +448,7 @@ style='width:70%'>
 
 <p><small style="color: gray">📅 Date: Sep. 29th<br>👤 Participants: Zhiyue Chen, Xiaohan Jiang, Chenye Li, Siliang Zhan</small></p>
 
-[We collaborated with](/collaborations/#with-scut-china-nanjing-china-software-discussion) [Nanjing iGEM 2023](https://2023.igem.wiki/nanjing-china/) to enhance the user interface, improving user-friendly. Furthermore, we discussed with [SCUT iGEM 2023](https://2023.igem.wiki/scut-china/) about using the software for wet lab design, exchanging project ideas and thoroughly understanding their requirements to improve our software.
+[We collaborated with](/collaborations/#with-scut-china-nanjing-china-software-discussion) [Nanjing iGEM 2023](https://2024.igem.wiki/nanjing-china/) to enhance the user interface, improving user-friendly. Furthermore, we discussed with [SCUT iGEM 2023](https://2024.igem.wiki/scut-china/) about using the software for wet lab design, exchanging project ideas and thoroughly understanding their requirements to improve our software.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/scut-tiny.png"
