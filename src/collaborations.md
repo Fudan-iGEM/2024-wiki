@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 title: Collaborations
-autho:
+author:
 - Wanqi Li
 authorlink:
 - /fudan/team/#wanqi-li

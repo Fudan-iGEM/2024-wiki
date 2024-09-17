@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 title: Measurement
-autho:
+author:
 - Yi Shi
 authorlink:
 - /fudan/team/#yi-shi
