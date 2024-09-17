@@ -6,7 +6,7 @@ This repository contains **all coding assets** to generate our team's wiki (HTML
 
 Images, photos, icons and fonts are stored on `static.igem.wiki` using [tools.igem.org/uploads](https://tools.igem.org/uploads), and Videos are embedded from [iGEM Video Universe](https://video.igem.org).
 
-We built our wiki following guidance from [competition.igem.org/deliverables/team-wiki](https://competition.igem.org/deliverables/team-wiki).
+We built our wiki following [gitlab guide](https://tools.igem.org/wiki/gitlab-guide) and [competition.igem.org/deliverables/team-wiki](https://competition.igem.org/deliverables/team-wiki). No [external content](https://tools.igem.org/wiki/external-content-check) is used in our wiki.
 
 ----
 `Code by: Zhenghan Chen`
