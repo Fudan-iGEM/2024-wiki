@@ -1,24 +1,40 @@
 <template>
-    <div class="normal-page">
-      <BreadCrumb />
-      <MarkdownContent />
-      <PageNav />
-      <SkipLink />
-    </div>
-  </template>
-  
-  <script setup>
-  import BreadCrumb from '@theme-hope/components/BreadCrumb';
-  import MarkdownContent from '@theme-hope/components/MarkdownContent';
-  import PageNav from '@theme-hope/components/PageNav';
-  import SkipLink from '@theme-hope/components/SkipLink';
-  import PageFooter from '@theme-hope/components/PageFooter';
-  </script>
-  
-  <style scoped>
-  /* Add any custom styles for NormalPage here */
-  .normal-page {
-    /* Add custom styles if necessary */
-  }
-  </style>
-  
+  <main id="main-content" class="vp-page">
+    <BreadCrumb />
+
+    <TOC v-if="tocEnable" :header-depth="headerDepth" />
+
+    <MarkdownContent />
+
+    <PageNav />
+
+    <SkipLink />
+
+    <PageMeta />
+
+  </main>
+</template>
+
+<script setup>
+import { computed } from 'vue';
+import { usePageFrontmatter } from 'vuepress/client';
+import { useThemeLocaleData } from '@theme-hope/composables/index';
+
+import BreadCrumb from '@theme-hope/components/BreadCrumb';
+import MarkdownContent from '@theme-hope/components/MarkdownContent';
+import PageNav from '@theme-hope/components/PageNav';
+import SkipLink from '@theme-hope/components/SkipLink';
+import PageFooter from '@theme-hope/components/PageFooter';
+import PageMeta from '@theme-hope/modules/info/components/PageMeta';
+import TOC from '@theme-hope/modules/info/components/TOC';
+
+const frontmatter = usePageFrontmatter();
+const themeLocale = useThemeLocaleData();
+
+const tocEnable = computed(() => frontmatter.value.toc ?? themeLocale.value.toc ?? true);
+const headerDepth = computed(() => frontmatter.value.headerDepth ?? themeLocale.value.headerDepth ?? 2);
+</script>
+
+<style scoped>
+
+</style>
