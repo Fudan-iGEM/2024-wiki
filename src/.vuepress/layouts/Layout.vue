@@ -20,8 +20,8 @@
     </div>
     
     <!-- 页面内容 -->
-    <!--<AuthorInfo />-->
     <NormalPage />
+
   </CommonWrapper>
 </template>
 <script setup>
@@ -29,9 +29,8 @@ import { computed } from 'vue';
 import { usePageFrontmatter } from 'vuepress/client';
 import SkipLink from '@theme-hope/components/SkipLink';
 import CommonWrapper from '@theme-hope/components/CommonWrapper';
-import NormalPage from '@theme-hope/components/NormalPage'; // Import your new NormalPage component
-import PageTitle from '@theme-hope/components/PageTitle'; // Use the newly created PageTitle component
-import AuthorInfo from '../components/AuthorInfo.vue';
+import NormalPage from '../components/NormalPage';
+import PageTitle from '../components/PageTitle';
 const frontmatter = usePageFrontmatter();
 
 const gifSrc = computed(() => frontmatter.value.headergif || null);

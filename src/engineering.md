@@ -2,11 +2,10 @@
 sidebar: auto
 title: Engineering
 author:
-- Ruiwen Ma
-- Kevin Qi
-authorlink:
-- /fudan/team/#ruiwen-m
-- /fudan/team/#kevin-qi
+- name: Ruiwen Ma
+  url: /fudan/team/#ruiwen-m
+- name: Kevin Qi
+  url: /fudan/team/#kevin-qi
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

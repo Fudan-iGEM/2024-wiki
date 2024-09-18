@@ -2,11 +2,10 @@
 sidebar: auto
 title: Inclusivity
 author:
-- Xueting Chen
-- Ziming Suo
-authorlink:
-- /fudan/team/#xueting-chen
-- /fudan/team/#ziming-suo
+- name: Xueting Chen
+  url: /fudan/team/#xueting-chen
+- name: Ziming Suo
+  url: /fudan/team/#ziming-suo
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

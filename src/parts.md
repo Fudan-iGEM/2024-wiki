@@ -2,11 +2,10 @@
 sidebar: auto
 title: Parts
 author:
-- Liyue Chen
-- Yi Shi
-authorlink:
-- /fudan/team/#liyue-chen
-- /fudan/team/#yi-shi
+- name: Liyue Chen
+  url: /fudan/team/#liyue-chen
+- name: Yi Shi
+  url: /fudan/team/#yi-shi
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

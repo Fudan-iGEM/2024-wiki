@@ -2,9 +2,8 @@
 sidebar: auto
 title: Description
 author:
-- Kevin Qi
-authorlink:
-- /fudan/team/#kevin-qi
+- name: Kevin Qi
+  url: /fudan/team/#kevin-qi
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

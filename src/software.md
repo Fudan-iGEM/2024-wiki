@@ -2,9 +2,8 @@
 sidebar: auto
 title: Software
 author:
-- Hongcheng Chen
-authorlink:
-- /fudan/team/#hongcheng-chen
+- name: Hongcheng Chen
+  url: /fudan/team/#hongcheng-chen
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

@@ -1,6 +1,10 @@
 ---
 sidebar: auto
 title: Promotion Video
+- name: Yuhan Li
+  url: /fudan/team/#yuhan-li
+- name: Yuhan Wang
+  url: /fudan/team/#yuhan-wang
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

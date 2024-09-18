@@ -10,10 +10,6 @@
 
     <SkipLink />
 
-    <!-- THE FOLLOWING USER ID IS NOT AN INDICATION OF CREDIT OR AUTHORSHIP
-      <PageMeta />
-    2024.9.18 -->
-
   </main>
 </template>
 
@@ -26,8 +22,8 @@ import BreadCrumb from '@theme-hope/components/BreadCrumb';
 import MarkdownContent from '@theme-hope/components/MarkdownContent';
 import PageNav from '@theme-hope/components/PageNav';
 import SkipLink from '@theme-hope/components/SkipLink';
-import PageFooter from '@theme-hope/components/PageFooter';
-import PageMeta from '@theme-hope/modules/info/components/PageMeta';
+import PageFooter from './PageFooter';
+// import PageMeta from '@theme-hope/modules/info/components/PageMeta'; // THE META USER IS NOT AN INDICATION OF AUTHORSHIP 2024.9.18
 import TOC from '@theme-hope/modules/info/components/TOC';
 
 const frontmatter = usePageFrontmatter();

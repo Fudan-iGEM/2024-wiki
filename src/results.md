@@ -2,13 +2,12 @@
 sidebar: auto
 title: Results
 author:
-- Xujie Tan
-- Ruiwen Ma
-- Yi Shi
-authorlink:
-- /fudan/team/#xujie-tan
-- /fudan/team/#ruiwen-ma
-- /fudan/team/#yi-shi
+- name: Xujie Tan
+  url: /fudan/team/#xujie-tan
+- name: Ruiwen Ma
+  url: /fudan/team/#ruiwen-ma
+- name: Yi Shi
+  url: /fudan/team/#yi-shi
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

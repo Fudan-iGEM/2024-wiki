@@ -2,11 +2,10 @@
 sidebar: auto
 title: Education
 author:
-- Yuhan Wang
-- Kexin Zheng
-authorlink:
-- /fudan/team/#yuhan-wang
-- /fudan/team/#kexin-zheng
+- name: Yuhan Wang
+  url: /fudan/team/#yuhan-wang
+- name: Kexin Zheng
+  url: /fudan/team/#kexin-zheng
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

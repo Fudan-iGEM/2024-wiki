@@ -2,9 +2,8 @@
 sidebar: auto
 title: Hardware
 author:
-- Kexin Huang
-authorlink:
-- /fudan/team/#kexin-huang
+- name: Kexin Huang
+  url: /fudan/team/#kexin-huang
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

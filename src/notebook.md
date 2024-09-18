@@ -2,9 +2,8 @@
 sidebar: auto
 title: Notebook
 author:
-- Wanqi Li
-authorlink:
-- /fudan/team/#wanqi-li
+- name: Wanqi Li
+  url: /fudan/team/#wanqi-li
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

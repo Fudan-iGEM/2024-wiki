@@ -2,9 +2,10 @@
 sidebar: auto
 title: Experiments
 author:
-- Kexin Huang
-authorlink:
-- /fudan/team/#kexin-huang
+- name: Ruiwen Ma
+  url: /fudan/team/#ruiwen-ma
+- name: Xuejie Tan
+  url: /fudan/team/#xuejie-tan
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

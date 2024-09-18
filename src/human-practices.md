@@ -2,11 +2,10 @@
 sidebar: auto
 title: Integrated HP
 author:
-- Ziming Suo
-- Yuhan Wang
-authorlink:
-- /fudan/team/#ziming-suo
-- /fudan/team/#yuhan-wang
+- name: Ziming Suo
+  url: /fudan/team/#ziming-su
+- name: Yuhan Wang
+  url: /fudan/team/#yuhan-wang
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
