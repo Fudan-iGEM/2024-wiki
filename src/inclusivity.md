@@ -1,12 +1,13 @@
 ---
 sidebar: auto
 title: Inclusivity
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+
 author:
 - name: Xueting Chen
   url: /fudan/team/#xueting-chen
 - name: Ziming Suo
   url: /fudan/team/#ziming-suo
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 ## Why did we focus on inclusivity?

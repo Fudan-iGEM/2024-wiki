@@ -2,7 +2,7 @@
 sidebar: none
 title: Attributions
 author:
-- name: Wanqi Li
+  name: Wanqi Li
   url: /fudan/team/#wanqi-li
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---

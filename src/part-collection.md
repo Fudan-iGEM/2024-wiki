@@ -1,12 +1,13 @@
 ---
 sidebar: auto
 title: Part Collection
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+
 author:
 - name: Yi Shi
   url: /fudan/team/#yi-shi
 - name: Liyue Chen
   url: /fudan/team/#liyue-chen
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 mention useful 2023 modules, anti-freezing, anti-UV?

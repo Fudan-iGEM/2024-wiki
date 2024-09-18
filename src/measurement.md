@@ -2,7 +2,7 @@
 sidebar: auto
 title: Measurement
 author:
-- name: Yi Shi
+  name: Yi Shi
   url: /fudan/team/#yi-shi
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---

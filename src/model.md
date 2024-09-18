@@ -2,7 +2,7 @@
 sidebar: auto
 title: Model
 author:
-- name: Zhenghan Chen
+  name: Zhenghan Chen
   url: /fudan/team/#zhenghan-chen
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---

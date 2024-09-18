@@ -2,7 +2,7 @@
 sidebar: auto
 title: Entrepreneurship
 author:
-- name: Kexin Zheng
+  name: Kexin Zheng
   url: /fudan/team/#kexin-zheng
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---

@@ -1,6 +1,8 @@
 ---
 sidebar: auto
 title: Results
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+
 author:
 - name: Xujie Tan
   url: /fudan/team/#xujie-tan
@@ -8,7 +10,6 @@ author:
   url: /fudan/team/#ruiwen-ma
 - name: Yi Shi
   url: /fudan/team/#yi-shi
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 ## Overview

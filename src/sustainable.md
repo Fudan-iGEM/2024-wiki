@@ -2,7 +2,7 @@
 sidebar: auto
 title: Sustainable
 author: 
-- name: Ruiwen Ma
+  name: Ruiwen Ma
   url: /fudan/team/#ruiwen-ma
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
