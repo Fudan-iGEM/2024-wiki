@@ -1,34 +1,29 @@
 import os
 
 # mkdir parts-html
-# os.system('scrapy fetch --nolog https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115001 > 003.txt') # cannot ajax sequence length
-from selenium import webdriver # pip 4.19.0
-#options = webdriver.ChromeOptions()
-#options.page_load_strategy = 'normal'
-service = webdriver.ChromeService(executable_path='/usr/local/bin/chromedriver') # https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/mac-x64/chromedriver-mac-x64.zip
-driver = webdriver.Chrome(service=service)
+
+from selenium import webdriver # 4.24.0
+## websocket_client 1.8.0
+## urllib3 2.2.3
+## typing_extensions.py 4.12.2
+service = webdriver.FirefoxService(executable_path='/usr/local/bin/geckodriver')
+driver = webdriver.Firefox(service=service)
 #driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115003")
 #print( driver.page_source )
 
-from bs4 import BeautifulSoup # pip 4.12.3
+from bs4 import BeautifulSoup # 4.12.3
 from time import sleep
 
 
 z = sorted([
+    'BBa_K1687001',
+    'BBa_K2308014',
+    'BBa_K4765021',
     'BBa_K4162006',
-    'BBa_K2306003',
-    'BBa_K1378003',
-    'BBa_J23100',
     'BBa_K4162001',
-    'BBa_B0010',
-    'BBa_K2150031',
-    'BBa_K3457006',
-    'BBa_B0016',
-    'BBa_K3331001',
-    'BBa_K3331002',
-    'BBa_K2644007',
-    'BBa_K4765106' ])
-z += range(1, 24)
+    'BBa_K4765020',
+    'BBa_K2652006' ])
+z += range(0, 88)
 #z += range(101, 141)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
@@ -45,7 +40,7 @@ for zz in z:
         print('init:\t', part_name)
         driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=%s" % part_name)
         sleep(10)
-        p1 = BeautifulSoup(driver.page_source, features="lxml")
+        p1 = BeautifulSoup(driver.page_source) #, features="lxml"
         p2 = p1.find_all('table', {'id' : 'table_header'})
         if p2:
             f = open('parts-html/%s.txt' % part_name, 'w')
@@ -59,7 +54,7 @@ for zz in z:
         ff = open('parts-html/%s.txt' % part_name, 'r')
         page = ff.read()
         ff.close()
-        p1 = BeautifulSoup(page, features="lxml")
+        p1 = BeautifulSoup(page) #, features="lxml"
         p2 = p1.find_all('table', {'id' : 'table_header'})
     p3 = p1.find('span', {'class': 'SnF_partSeqLength legend'}).get_text().strip()
     print(p3)

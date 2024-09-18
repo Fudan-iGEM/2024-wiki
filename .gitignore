@@ -16,6 +16,9 @@ basement_dist
 .yarnrc
 bs4/
 selenium/
+urllib3/
+websocket/
+typing_extensions.py
 screenshots/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
