@@ -4,7 +4,7 @@ title: Model
 author:
   name: Zhenghan Chen
   url: /fudan/team/#zhenghan-chen
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/mode-example.gif
 ---
 
 ## Introduction
