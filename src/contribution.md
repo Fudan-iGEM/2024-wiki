@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 title: Contribution
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/contribution-header.gif
 ---
 
 ## Medal Criteria
@@ -34,7 +34,7 @@ According to the rules for 2023, we have decided to compete for three special aw
 
 We have successfully engineered various membrane-display [parts](https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) (antigen, nanobody or lectin) to facilitate inter-bacterial connections, thus forming self-assembling and editable biofilm. Typical reference parts are listed here.
 
-| Part Name | Description | 
+| Part Name | Description |
 |----|----|
 | [BBa_K4765101](https://parts.igem.org/Part:BBa_K4765101) |  Twister P1 + T7_RBS + intimin-Ag1 fusion + stem-loop |
 | [BBa_K4765102](https://parts.igem.org/Part:BBa_K4765102) |  Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop |

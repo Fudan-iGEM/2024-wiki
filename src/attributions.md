@@ -4,7 +4,7 @@ title: Attributions
 author:
   name: Wanqi Li
   url: /fudan/team/#wanqi-li
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/attribution-header.gif
 ---
 
 View the content at [https://attributions.igem.org?team=Fudan&year=2024](https://attributions.igem.org?team=Fudan&year=2023)

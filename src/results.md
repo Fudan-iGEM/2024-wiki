@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 title: Results
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/results-header.gif
 
 author:
 - name: Xujie Tan
