@@ -1,10 +1,7 @@
 <template>
     <div class="author-info">
       <template v-if="authorData.length > 0">
-        <img
-          class="personal-img"
-          alt="Written by: "
-        >
+        <span>Written by: </span>
         <span
           v-for="(author, index) in authorData"
           :key="index"

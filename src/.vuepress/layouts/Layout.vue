@@ -31,7 +31,7 @@ import SkipLink from '@theme-hope/components/SkipLink';
 import CommonWrapper from '@theme-hope/components/CommonWrapper';
 import NormalPage from '@theme-hope/components/NormalPage'; // Import your new NormalPage component
 import PageTitle from '@theme-hope/components/PageTitle'; // Use the newly created PageTitle component
-// import AuthorInfo from '../components/AuthorInfo.vue';
+import AuthorInfo from '../components/AuthorInfo.vue';
 const frontmatter = usePageFrontmatter();
 
 const gifSrc = computed(() => frontmatter.value.headergif || null);

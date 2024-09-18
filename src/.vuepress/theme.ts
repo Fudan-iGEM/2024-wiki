@@ -29,7 +29,7 @@ export default hopeTheme({
   navbarLayout: {
         start: ["Brand"],
         center: ["Links"],
-        end: ["Search", "Outlook"],
+        end: ["Search"],  // ,"Outlook"
       },
   plugins: {
     // Note: This is for testing ONLY!
