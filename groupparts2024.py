@@ -6,7 +6,7 @@ from selenium import webdriver # 4.24.0
 ## websocket_client 1.8.0
 ## urllib3 2.2.3
 ## typing_extensions.py 4.12.2
-service = webdriver.FirefoxService(executable_path='/usr/local/bin/geckodriver')
+service = webdriver.FirefoxService(executable_path='/usr/local/bin/geckodriver') # 0.35.0
 driver = webdriver.Firefox(service=service)
 #driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115003")
 #print( driver.page_source )
@@ -77,7 +77,7 @@ for zz in z:
                 print(th, td[-1] )
         if tr_text.startswith('DNA Status') and not started:
             if tr_text.find('Deleted') > -1:
-                fff.write('| Deleted ')
+                fff.write('| X ')
             else:
                 fff.write('| ')
             started = True
