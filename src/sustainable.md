@@ -5,6 +5,7 @@ author:
 - Ruiwen Ma
 authorlink: 
 - /fudan/team/#ruiwen-ma
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 <div style="text-align: center;">

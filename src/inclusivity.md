@@ -7,6 +7,7 @@ author:
 authorlink:
 - /fudan/team/#xueting-chen
 - /fudan/team/#ziming-suo
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 ## Why did we focus on inclusivity?

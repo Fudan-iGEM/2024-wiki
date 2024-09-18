@@ -7,6 +7,7 @@ author:
 authorlink:
 - /fudan/team/#ruiwen-m
 - /fudan/team/#kevin-qi
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 ## Surface Display for Bacteria

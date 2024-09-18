@@ -7,6 +7,7 @@ author:
 authorlink:
 - /fudan/team/#yuhan-wang
 - /fudan/team/#kexin-zheng
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 ## Overview

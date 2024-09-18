@@ -9,6 +9,7 @@ authorlink:
 - /fudan/team/#xujie-tan
 - /fudan/team/#ruiwen-ma
 - /fudan/team/#yi-shi
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 ## Overview

@@ -1,6 +1,7 @@
 ---
 sidebar: none
 title: Communication
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 Please visit our [Collaborations](/collaborations/) and [Integrated HP](/human-practices/) pages for communication we did this year.

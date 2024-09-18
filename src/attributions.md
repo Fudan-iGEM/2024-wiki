@@ -5,6 +5,7 @@ author:
 - Wanqi Li
 authorlink:
 - /fudan/team/#wanqi-li
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 View the content at [https://attributions.igem.org?team=Fudan&year=2024](https://attributions.igem.org?team=Fudan&year=2023)

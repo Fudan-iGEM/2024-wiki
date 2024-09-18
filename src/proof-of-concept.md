@@ -1,6 +1,7 @@
 ---
 sidebar: none
 title: Proof of Concept
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 Please visit our [Results](/results/) and [Model](/model/) pages.

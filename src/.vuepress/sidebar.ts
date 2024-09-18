@@ -5,22 +5,16 @@ export default sidebar({
     "",
     "portfolio",
     {
-      text: "Demo",
+      text: "Promotion Video",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      link: "/promotion-video",
       children: "structure",
     },
     {
-      text: "Docs",
+      text: "Heritage",
       icon: "book",
-      prefix: "guide/",
+      prefix: "/heritage",
       children: "structure",
-    },
-    {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/guide/content/revealjs/demo.html",
     },
   ],
 });

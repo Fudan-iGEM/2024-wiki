@@ -5,6 +5,7 @@ author:
 - Kevin Qi
 authorlink:
 - /fudan/team/#kevin-qi
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 ## Overview

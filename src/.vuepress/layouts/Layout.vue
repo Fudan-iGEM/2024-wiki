@@ -36,8 +36,6 @@ const frontmatter = usePageFrontmatter();
 
 const gifSrc = computed(() => frontmatter.value.headergif || null);
 
-
-
 </script>
 
 <style scoped>

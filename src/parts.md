@@ -7,6 +7,7 @@ author:
 authorlink:
 - /fudan/team/#liyue-chen
 - /fudan/team/#yi-shi
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
 useful 2023 modules, anti-freezing, anti-UV?
