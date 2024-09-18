@@ -21,6 +21,7 @@
     
     <!-- 页面内容 -->
     <NormalPage />
+ 
 
   </CommonWrapper>
 </template>
@@ -31,6 +32,7 @@ import SkipLink from '@theme-hope/components/SkipLink';
 import CommonWrapper from '@theme-hope/components/CommonWrapper';
 import NormalPage from '../components/NormalPage';
 import PageTitle from '../components/PageTitle';
+
 const frontmatter = usePageFrontmatter();
 
 const gifSrc = computed(() => frontmatter.value.headergif || null);

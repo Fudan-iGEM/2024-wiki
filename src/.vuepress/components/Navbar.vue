@@ -7,9 +7,6 @@
   </script>
   
   <style>
-  .vp-navbar {
-    background-image: url("//static.igem.wiki/teams/4665/wiki/backgrounds/limestone-background.png");
-    background-position-y: -1rem;
-  }
+
   </style>
   

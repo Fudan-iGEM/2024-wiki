@@ -22,7 +22,7 @@ export default hopeTheme({
   // sidebar
   sidebar: false,
   /* footer : "", */
-  displayFooter: true,
+  displayFooter: false,
   copyright: false,
   breadcrumb: false,
 

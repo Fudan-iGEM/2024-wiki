@@ -17,12 +17,12 @@
 import { computed } from 'vue';
 import { usePageFrontmatter } from 'vuepress/client';
 import { useThemeLocaleData } from '@theme-hope/composables/index';
-
+import PageFooter from '@theme-hope/components/PageFooter';
 import BreadCrumb from '@theme-hope/components/BreadCrumb';
 import MarkdownContent from '@theme-hope/components/MarkdownContent';
 import PageNav from '@theme-hope/components/PageNav';
 import SkipLink from '@theme-hope/components/SkipLink';
-import PageFooter from './PageFooter';
+
 // import PageMeta from '@theme-hope/modules/info/components/PageMeta'; // THE META USER IS NOT AN INDICATION OF AUTHORSHIP 2024.9.18
 import TOC from '@theme-hope/modules/info/components/TOC';
 
