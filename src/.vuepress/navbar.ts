@@ -51,9 +51,12 @@ export default navbar([
       { text: 'Integrated HP', link: '/human-practices' },
       { text: 'Promotion Video', link: '/promotion-video' },
       { text: 'Sustainable', link: '/sustainable' },
-      { text: 'Entrepreneurship',link: '/entrepreneurship',},
     ],
     icon: 'iconfont icon-smile',
   },
-
+  {
+    text: 'Entrepreneurship',
+    icon: 'iconfont icon-gold',
+    link: '/entrepreneurship',
+  },
 ],);
