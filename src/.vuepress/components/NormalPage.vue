@@ -1,6 +1,6 @@
 <template>
   <main id="main-content" class="vp-page">
-    <BreadCrumb />
+    <!-- <BreadCrumb /> -->
 
     <TOC v-if="tocEnable" :header-depth="headerDepth" class="custom-toc" />
 

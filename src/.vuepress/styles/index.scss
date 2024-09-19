@@ -58,6 +58,74 @@
   } 
 
   /* 修改作者信息样式 */
+/* styles/index.scss */
+/* styles/index.scss */
+/* .vuepress/styles/custom.css */
+/* .vuepress/styles/custom.css */
+h2 .header-anchor {
+  background: linear-gradient(to bottom right, #9ae2e1, #57a0fe);
+  color: white;
+  padding: 4px 10px; /* 根据需要调整内边距 */
+  border-radius: 999px; /* 可选：圆角 */
+  /* text-decoration: none; /* 去掉下划线 */ 
+}
+
+h2 .header-anchor:hover {
+  opacity: 0.8; /* 可选：悬停效果 */
+}
+
+h3 {
+  color: #57a0fe;
+}
+
+/* TABLE */
+table {
+  width: 85%; /* 可选：让表格稍微向中间集中些 */
+  margin: 0 auto;
+  border-collapse: collapse; /* 合并边框 */
+  background-color: transparent; /* 背景色设置为透明 */
+}
+
+th, td {
+  padding: 8px 12px; /* 内边距调整 */
+  text-align: center; /* 文字居中 */
+  background-color: transparent; /* 确保所有单元格背景透明 */
+}
+
+/* 顶部和底部加粗的线 */
+table thead th,
+table tfoot td {
+  border-top: 2px solid #57a0fe; /* 顶部粗线 */
+  border-bottom: 2px solid #57a0fe; /* 底部粗线 */
+}
+
+table tbody tr:first-child td {
+  border-top: 2px solid #57a0fe; /* 表头下方的粗线 */
+}
+
+table tbody tr:last-child td {
+  border-bottom: 2px solid #57a0fe; /* 表格底部的粗线 */
+}
+
+/* 表头字体加粗 */
+table thead th {
+  font-weight: bold;
+}
+
+/* 移除所有纵向线条 */
+th, td {
+  border-left: none;
+  border-right: none;
+}
+
+/* 移除所有行的交替背景色 */
+table tr:nth-child(odd),
+table tr:nth-child(even) {
+  background-color: transparent; /* 确保所有行背景透明 */
+}
+
+
+
 
 
 .vp-nav-screen{
