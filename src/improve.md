@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Improved Parts
 author:
   name: Yi Shi

@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Entrepreneurship
 author:
   name: Kexin Zheng

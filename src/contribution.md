@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Contribution
 headergif: https://static.igem.wiki/teams/5115/header/contribution-header.gif
 ---

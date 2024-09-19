@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Notebook
 author:
   name: Wanqi Li

@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Software
 author:
   name: Hongcheng Chen

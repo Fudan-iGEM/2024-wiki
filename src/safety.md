@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Safety
 author:
   name: Xujie Tan

@@ -1,5 +1,4 @@
 ---
-sidebar: none
 title: Attributions
 author:
   name: Wanqi Li

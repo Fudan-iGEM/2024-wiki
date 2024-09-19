@@ -1,5 +1,4 @@
 ---
-sidebar: none
 title: Heritage
 headergif: https://static.igem.wiki/teams/5115/header/heritage-header.gif
 ---

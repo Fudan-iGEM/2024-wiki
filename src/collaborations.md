@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Collaborations
 author:
   name: Wanqi Li

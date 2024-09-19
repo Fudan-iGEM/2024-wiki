@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Part Collection
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 

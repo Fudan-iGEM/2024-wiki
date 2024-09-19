@@ -1,5 +1,4 @@
 ---
-sidebar: none
 title: Communication
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---

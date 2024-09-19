@@ -15,14 +15,16 @@ export default navbar([
       { text: 'Notebook', link: '/notebook' },
       { text: 'Software', link: '/software' },
       { text: 'Results', link: '/results' },
-    ]
+    ],
+    icon: 'iconfont icon-project',
   },
   {
     text: 'Parts',children:[
       { text: 'Improved Parts', link: '/improve' },
       { text: 'Part Collection', link: '/part-collection' },
       { text: 'Registry', link: 'https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan' },
-    ]
+    ],
+    icon: 'iconfont icon-experiment',
   },
   {
     text: 'Human Practices',children:[
@@ -32,10 +34,12 @@ export default navbar([
       { text: 'Integrated HP', link: '/human-practices' },
       { text: 'Promotion Video', link: '/promotion-video' },
       { text: 'Sustainable', link: '/sustainable' },
-    ]
+    ],
+    icon: 'iconfont icon-smile',
   },
   {
     text: 'Safety',
+    icon: 'iconfont icon-safetycertificate',
     link: '/safety',
   },
   { text: 'Team', children:[
@@ -43,6 +47,7 @@ export default navbar([
       { text: 'Collaborations', link: '/collaborations' },
       { text: 'Heritage', link: '/heritage' },
       { text: 'Members', link: '/team' },
-    ]
+    ],
+    icon: 'iconfont icon-team'
   }
 ],);

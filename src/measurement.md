@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Measurement
 author:
   name: Yi Shi

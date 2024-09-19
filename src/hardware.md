@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Hardware
 author:
   name: Kexin Huang

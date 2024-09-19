@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Model
 author:
   name: Zhenghan Chen

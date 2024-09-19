@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Sustainable
 author: 
   name: Ruiwen Ma

@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Design
 author:
   name: Kevin Qi

@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Results
 headergif: https://static.igem.wiki/teams/5115/header/results-header.gif
 

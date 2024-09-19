@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Implementation
 author:
   name: Kevin Qi

@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 title: Description
 author:
   name: Kevin Qi
