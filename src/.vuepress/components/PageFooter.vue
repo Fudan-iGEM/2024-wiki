@@ -8,7 +8,7 @@
         <div class="wave" id="wave4"></div>
       </div>
   
-      <div class="footer-wrapper">
+      <div class="footer-wrapper" >
         <div class="logos">
           <a href="http://www.yfc.cn/" target="blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/czh/yf-lyh.svg" alt="yfc.cn" />
