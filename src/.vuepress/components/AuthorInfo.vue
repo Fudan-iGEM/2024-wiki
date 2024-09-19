@@ -1,31 +1,33 @@
 <template>
-  <div class="author-info">
-    <template v-if="authorData.length > 0">
-      <!-- Container for icon, "Written by", and authors -->
-      <div class="author-container">
-        <!-- Icon and "Written by" label -->
-        <span class="label" >
-          <AuthorIcon class="icon" />
-          Written by:
-        </span>
-        <!-- Authors capsules -->
-        <span class="author-capsule">
-          <template v-for="(author, index) in authorData" :key="index">
-            <a
-              v-if="author.url"
-              :href="author.url"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {{ author.name }}
-            </a>
-            <span v-else>{{ author.name }}</span>
-            <!-- Add comma except for the last author -->
-            <span v-if="index < authorData.length - 1">, </span>
-          </template>
-        </span>
-      </div>
-    </template>
+  <div class="author-info-wrapper"> <!-- 添加包裹容器 -->
+    <div class="author-info">
+      <template v-if="authorData.length > 0">
+        <!-- Container for icon, "Written by", and authors -->
+        <div class="author-container">
+          <!-- Icon and "Written by" label -->
+          <span class="label" >
+            <AuthorIcon class="icon" />
+            Written by:
+          </span>
+          <!-- Authors capsules -->
+          <span class="author-capsule">
+            <template v-for="(author, index) in authorData" :key="index">
+              <a
+                v-if="author.url"
+                :href="author.url"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {{ author.name }}
+              </a>
+              <span v-else>{{ author.name }}</span>
+              <!-- Add comma except for the last author -->
+              <span v-if="index < authorData.length - 1">, </span>
+            </template>
+          </span>
+        </div>
+      </template>
+    </div>
   </div>
 </template>
 
@@ -67,6 +69,12 @@ const authorData = computed(() => {
 
 <style scoped>
 /* Define color variables */
+
+.author-info-wrapper {
+  display: flex;
+  flex-direction: column; /* Arrange items in a column */
+  align-items: center; /* Center the content horizontally */
+}
 
 .author-info {
   display: flex;
