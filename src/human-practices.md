@@ -1,6 +1,6 @@
 ---
 title: Integrated HP
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/measurement-1006-480.gif
 
 author:
 - name: Ziming Suo

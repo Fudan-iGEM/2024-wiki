@@ -6,7 +6,8 @@
         <div class="author-container">
           <!-- Icon and "Written by" label -->
           <span class="label" >
-            <AuthorIcon class="icon" />
+            <!-- 将 $attrs 传递给 AuthorIcon -->
+            <AuthorIcon class="icon" v-bind="$attrs" />
             Written by:
           </span>
           <!-- Authors capsules -->
@@ -34,7 +35,7 @@
 <script setup>
 import { computed } from 'vue';
 import { usePageFrontmatter } from 'vuepress/client';
-import { AuthorIcon } from "@theme-hope/modules/info/components/icons"; // Import AuthorIcon
+import { AuthorIcon } from "@theme-hope/modules/info/components/icons"; // 导入 AuthorIcon
 
 const frontmatter = usePageFrontmatter();
 
@@ -64,8 +65,6 @@ const authorData = computed(() => {
 </script>
 
 <style scoped>
-/* Define color variables */
-
 .author-info-wrapper {
   display: flex;
   flex-direction: column; /* Arrange items in a column */
