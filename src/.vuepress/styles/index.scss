@@ -34,18 +34,11 @@
     transform: translate(-50%, -50%);
     z-index: -1;
   }
- 
 
-/*    @font-face {
-    font-family: 'BerlinSansFBDemi';
-    src: url('/fonts/BerlinSansFBDemi.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-  }  */
   
   /* 样式化 h1 标题 */
    h1 {
-    /* font-family: "Varela Round", sans-serif; */
+    /* font-family: "Berlin Sans FB Demi", sans-serif; */
     color: #57a0fe; 
     /* background-color: #f2ecdb; 8/
     padding: 10px;
@@ -72,6 +65,7 @@ h2 .header-anchor:hover {
 h3 {
   color: #57a0fe;
 }
+
 
 /* TABLE */
 table {
@@ -157,5 +151,4 @@ body {
   padding-top: 2em; /* 根据需要调整 */
 }
 
-$pc :1280px !important;
-$laptop: 1080px !important;
+/* fonts */

@@ -19,7 +19,7 @@ const title = computed(() => pageData.value.title);
 <style scoped>
 .page-title-container {
   position: absolute;
-  bottom: calc(5vw); /* Adjusted default for general alignment */
+  bottom: calc(3vw); /* Adjusted default for general alignment */
   left: 24%; /* Approximately 1/6th of the page */
   transform: translateX(-30%); /* Center the text and author info */
   text-align: center;
@@ -55,7 +55,7 @@ const title = computed(() => pageData.value.title);
 /* iPad Mini: 768x1024 */
 @media (max-width: 768px) and (min-height: 1024px) {
   .page-title-container {
-    bottom: calc(2.3vw); /* Adjusted for iPad Mini */
+    bottom: calc(2.1vw); /* Adjusted for iPad Mini */
   }
 
   .responsive-page-title {
@@ -70,7 +70,7 @@ const title = computed(() => pageData.value.title);
 /* iPhone 14 Pro Max: 430x932 */
 @media (max-width: 430px) {
   .page-title-container {
-    bottom: calc(3vw); /* Adjusted for iPhone 14 Pro Max */
+    bottom: calc(2vw); /* Adjusted for iPhone 14 Pro Max */
   }
 
   .responsive-page-title {

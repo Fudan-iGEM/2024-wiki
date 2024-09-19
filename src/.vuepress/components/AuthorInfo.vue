@@ -78,8 +78,8 @@ const authorData = computed(() => {
 }
 
 .label {
-  font-family: "Dancing Script", cursive;
-  font-size: 1.25vw; /* Increase the font size */
+  font-family: "Lucida Handwriting", "Noto Serif SC", "Microsoft Yahei", "WenQuanYi Micro Hei", "ST Heiti", sans-serif;
+  font-size: 1.8vw; /* Increase the font size */
   margin-bottom: 0.5em; /* Add space below the label */
   text-align: center; /* Center align the label text */
   display: flex; /* Use flex to align icon and text */
@@ -96,13 +96,14 @@ const authorData = computed(() => {
 }
 
 .author-capsule {
-  font-family: "Pacifico", cursive;
+  font-family: "Pacifico","Brush Script MT", cursive;
   background-color: #746a66; /* Gray background */
   color: #f2ecdb; /* White text */
   padding: 0.2em 0.8em;
   border-radius: 9999px; /* Rounded capsule shape */
-  font-size: 1.6vw; /* Responsive font size */
+  font-size: 2vw; /* Responsive font size */
   text-align: center;
+  font-style: italic;
 }
 
 .author-capsule a {
