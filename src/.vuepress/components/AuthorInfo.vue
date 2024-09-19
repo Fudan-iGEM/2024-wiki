@@ -96,7 +96,7 @@ const authorData = computed(() => {
 }
 
 .author-capsule {
-  font-family: "Pacifico","Brush Script MT", cursive;
+  font-family: "Brush Script MT", "Segoe Script", "Lucida Handwriting", "Apple Chancery", "Comic Sans MS", cursive;
   background-color: #746a66; /* Gray background */
   color: #f2ecdb; /* White text */
   padding: 0.2em 0.8em;
