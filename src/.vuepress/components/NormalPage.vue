@@ -1,6 +1,5 @@
 <template>
   <main id="main-content" class="vp-page">
-    <!-- <BreadCrumb /> -->
 
     <TOC v-if="tocEnable" :header-depth="headerDepth" class="custom-toc" />
 
@@ -17,8 +16,6 @@
 import { computed } from 'vue';
 import { usePageFrontmatter } from 'vuepress/client';
 import { useThemeLocaleData } from '@theme-hope/composables/index';
-import PageFooter from '@theme-hope/components/PageFooter';
-import BreadCrumb from '@theme-hope/components/BreadCrumb';
 import MarkdownContent from '@theme-hope/components/MarkdownContent';
 import PageNav from '@theme-hope/components/PageNav';
 import SkipLink from '@theme-hope/components/SkipLink';

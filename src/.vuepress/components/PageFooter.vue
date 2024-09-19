@@ -96,7 +96,7 @@
     width: 100%;
     height: 1rem;
     transition: 0.5s;
-    background: url(https://static.igem.wiki/teams/5115/czh/footer-wave.png);
+    background: url(https://static.igem.wiki/teams/5115/czh/footer-wave-blue.png);
     background-size: 600px 1rem;
 
 
