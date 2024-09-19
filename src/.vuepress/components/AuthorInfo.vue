@@ -7,7 +7,7 @@
           <!-- Icon and "Written by" label -->
           <span class="label" >
             <!-- 将 $attrs 传递给 AuthorIcon -->
-            <AuthorIcon class="icon" v-bind="$attrs" />
+            <!-- <AuthorIcon class="icon" v-bind="$attrs" /> -->
             Written by:
           </span>
           <!-- Authors capsules -->
