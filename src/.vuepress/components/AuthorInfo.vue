@@ -32,7 +32,7 @@
 <script setup>
 import { computed } from 'vue';
 import { usePageFrontmatter } from 'vuepress/client';
-import { AuthorIcon } from "vuepress-theme-hope/modules/info/components/icons"; // Import AuthorIcon
+import { AuthorIcon } from "@theme-hope/modules/info/components/icons"; // Import AuthorIcon
 
 const frontmatter = usePageFrontmatter();
 
