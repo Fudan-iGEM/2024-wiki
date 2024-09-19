@@ -38,10 +38,6 @@ import { AuthorIcon } from "@theme-hope/modules/info/components/icons"; // Impor
 
 const frontmatter = usePageFrontmatter();
 
-const isDarkmode = computed(() => {
-  return $isDarkmode;
-});
-
 // Process the author data from frontmatter
 const authorData = computed(() => {
   const author = frontmatter.value.author;
