@@ -73,7 +73,7 @@ const headerDepth = computed(() => frontmatter.value.headerDepth ?? themeLocale.
 }
 
 /* 针对屏幕宽度大于等于 1440px 的情况 */
-@media (min-width: 1440px) {
+@media (min-width: 1280px) {
   .vp-toc-header {
     padding-top: 0;
     font-size: 0.875rem;

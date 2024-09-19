@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import Navbar from "vuepress-theme-hope/modules/navbar/components/Navbar.js";
+import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 </script>
 
 <style>
@@ -15,7 +15,7 @@ import Navbar from "vuepress-theme-hope/modules/navbar/components/Navbar.js";
   }
 
   .vp-dropdown{
-    background-color: rgba(153, 198, 254, 0.5) !important;
+    background-color: rgba(153, 198, 255, 0.75) !important;
     border: none;
     box-shadow: none;
     box-shadow: none;
