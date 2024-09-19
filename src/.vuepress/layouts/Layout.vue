@@ -1,4 +1,5 @@
 <template>
+  <Navbar />
   <CommonWrapper>
     <!-- 动态 GIF 头图 -->
     <div v-if="gifSrc" class="gif-header" :key="gifSrc">
@@ -28,7 +29,7 @@
 <script setup>
 import { computed } from 'vue';
 import { usePageFrontmatter } from 'vuepress/client';
-import SkipLink from '@theme-hope/components/SkipLink';
+import Navbar from '@theme-hope/components/Navbar';
 import CommonWrapper from '@theme-hope/components/CommonWrapper';
 import NormalPage from '../components/NormalPage';
 import PageTitle from '../components/PageTitle';

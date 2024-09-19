@@ -47,6 +47,27 @@ export default defineUserConfig({
         rel: "stylesheet",
       },
     ],
+    [
+      "link",
+      {
+        href:"https://fonts.googleapis.com/css2?family=Varela+Round&display=swap",
+        rel:"stylesheet",
+      }
+    ],
+    [
+      "link",
+      {
+        href:"https://fonts.googleapis.com/css2?family=Pacifico&display=swap",
+        rel:"stylesheet",
+      }
+    ],
+    [
+      "link",
+      {
+        href:"https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pacifico&display=swap",
+        rel:"stylesheet",
+      }
+    ],
   ],
   // Enable it with pwa
   // shouldPrefetch: false,

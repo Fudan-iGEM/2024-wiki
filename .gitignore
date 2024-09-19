@@ -1,6 +1,5 @@
 .vscode
 __pycache__
-public
 pids
 logs
 node_modules

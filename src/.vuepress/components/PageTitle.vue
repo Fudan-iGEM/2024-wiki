@@ -28,6 +28,7 @@ const title = computed(() => pageData.value.title);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  font-weight: 800;
 }
 
 .responsive-page-title {

@@ -56,7 +56,7 @@
     text-align: center;
     padding: 2rem 1rem;
     position: relative;
-    background-color: #E3E4C8; 
+    background-color: #9AE2E0; 
   }
   
   .logos {
@@ -98,6 +98,8 @@
     transition: 0.5s;
     background: url(https://static.igem.wiki/teams/5115/czh/footer-wave.png);
     background-size: 600px 1rem;
+
+
   }
   
   .waves::after {
@@ -108,28 +110,28 @@
   }
   
   .wave#wave1 {
-    z-index: 998;
+    z-index: 2;
     opacity: 1;
     bottom: -8rem;
     animation: animateWave 11s linear infinite;
   }
   
   .wave#wave2 {
-    z-index: 997;
+    z-index: 1;
     opacity: 0.5;
     bottom: 3rem;
     animation: animateWave_02 10s linear infinite;
   }
   
   .wave#wave3 {
-    z-index: 998;
+    z-index: 2;
     opacity: 0.2;
     bottom: 4rem;
     animation: animateWave 15s linear infinite;
   }
   
   .wave#wave4 {
-    z-index: 997;
+    z-index: 1;
     opacity: 0.1;
     bottom: 5rem;
     animation: animateWave_02 20s linear infinite;
