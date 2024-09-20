@@ -12,6 +12,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
     padding: 0 var(--navbar-horizontal-padding);
     box-shadow: none;
     backdrop-filter: saturate(150%) blur(12px);
+    height: 5rem;
   }
 
   .vp-dropdown{
@@ -25,17 +26,17 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
   }
 
   .vp-navbar .auto-link {
-  padding: 0 0.1rem;
+  padding: 0 0rem;
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .vp-dropdown-title {
   border-width: 0;
   background: transparent;
   cursor: pointer;
-  padding: 0 0.1rem;
+  padding: 0 0rem;
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-family: inherit;
   line-height: inherit;
   cursor: inherit;
@@ -43,7 +44,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
 .vp-site-name {
   position: relative;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 700;
 }
 </style>
