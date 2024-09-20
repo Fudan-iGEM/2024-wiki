@@ -1,16 +1,19 @@
 import os
-
 # mkdir parts-html
 
 from selenium import webdriver # 4.24.0
+from selenium.webdriver.firefox.options import Options
 ## websocket_client 1.8.0
 ## urllib3 2.2.3
 ## typing_extensions.py 4.12.2
 service = webdriver.FirefoxService(executable_path='/usr/local/bin/geckodriver') # 0.35.0
-driver = webdriver.Firefox(service=service)
+options = Options()
+options.add_argument("-headless")
+driver = webdriver.Firefox(service=service, options=options)
 #driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=BBa_K5115003")
 #print( driver.page_source )
 
+import lxml # 4.9.4-cp312-universal2
 from bs4 import BeautifulSoup # 4.12.3
 from time import sleep
 
@@ -40,7 +43,7 @@ for zz in z:
         print('init:\t', part_name)
         driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=%s" % part_name)
         sleep(10)
-        p1 = BeautifulSoup(driver.page_source) #, features="lxml"
+        p1 = BeautifulSoup(driver.page_source, features="lxml")
         p2 = p1.find_all('table', {'id' : 'table_header'})
         if p2:
             f = open('parts-html/%s.txt' % part_name, 'w')
@@ -54,7 +57,7 @@ for zz in z:
         ff = open('parts-html/%s.txt' % part_name, 'r')
         page = ff.read()
         ff.close()
-        p1 = BeautifulSoup(page) #, features="lxml"
+        p1 = BeautifulSoup(page, features="lxml")
         p2 = p1.find_all('table', {'id' : 'table_header'})
     p3 = p1.find('span', {'class': 'SnF_partSeqLength legend'}).get_text().strip()
     print(p3)
