@@ -28,16 +28,16 @@
         <!-- Contact and Copyright Section -->
         <div class="footer-contact">
           <p><small>&copy; 2024 - Content on this site is licensed under a
-              <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a>.
+              <a class="custom-link" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a>.
           </small>
           <br><small>The repository used to create this website is available at
-              <a href="https://gitlab.igem.org/2024/fudan" target="_blank">gitlab.igem.org/2024/fudan</a>.
+              <a class="custom-link" href="https://gitlab.igem.org/2024/fudan" target="_blank">gitlab.igem.org/2024/fudan</a>.
           </small></p>
         </div>
   
         <!-- Social Media Icons Section -->
         <div class="social-links">
-          Contact&nbsp;us:&nbsp;<a href="mailto:igem@fudan.edu.cn" target="_blank">igem@fudan.edu.cn</a>
+          Contact&nbsp;us:&nbsp;<a class="custom-link" href="mailto:igem@fudan.edu.cn" target="_blank">igem@fudan.edu.cn</a>
         </div>
       </div>
     </footer>
@@ -56,9 +56,11 @@
     text-align: center;
     padding: 2rem 1rem;
     position: relative;
-    background-color: #9AE2E0; 
+    background-color: #FEBC5B; 
   }
-  
+  html[data-theme="dark"] .footer-wrapper{
+    background-color: #df9226; 
+}
   .logos {
     margin-bottom: 2rem;
   }
@@ -81,7 +83,15 @@
   .social-links {
     margin-top: 2rem;
   }
-  
+  .custom-link {
+  color: #2736c1; 
+  font-weight: 600;
+}
+
+
+html[data-theme="dark"] .custom-link {
+  color: #2736c1;
+}
   /* Wave Animation Section */
   .waves {
     margin-top: 5vw;
@@ -96,12 +106,25 @@
     width: 100%;
     height: 1rem;
     transition: 0.5s;
-    background: url(https://static.igem.wiki/teams/5115/czh/footer-wave-blue.png);
+    background: url(https://static.igem.wiki/teams/5115/czh/footer-light.png);
     background-size: 600px 1rem;
-
-
   }
-  
+  html[data-theme="dark"] .wave{
+    position: absolute;
+    top: -0.99rem;
+    left: 0;
+    width: 100%;
+    height: 1rem;
+    transition: 0.5s;
+    background: url(https://static.igem.wiki/teams/5115/czh/footer-dark.png);
+    background-size: 600px 1rem;
+}
+  html[data-theme="dark"] .waves::after {
+    content: "";
+    clear: both;
+    display: block;
+    position: relative;
+  }
   .waves::after {
     content: "";
     clear: both;

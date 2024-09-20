@@ -26,7 +26,6 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
   .vp-navbar .auto-link {
   padding: 0 0.1rem;
-  /* color: #000000; */
   font-weight: 600;
   font-size: 1rem;
 }
@@ -35,7 +34,6 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
   background: transparent;
   cursor: pointer;
   padding: 0 0.1rem;
-  /* color: #000000; */
   font-weight: 600;
   font-size: 1rem;
   font-family: inherit;
@@ -45,7 +43,6 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
 .vp-site-name {
   position: relative;
-  /* color: #000000; */
   font-size: 1.25rem;
   font-weight: 700;
 }

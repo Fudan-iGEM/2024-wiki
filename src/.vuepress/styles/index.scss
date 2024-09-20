@@ -1,3 +1,4 @@
+/* @import '../public/fonts/fonts.scss'; */
 
 @keyframes rotateLogo {
     from {
@@ -41,7 +42,7 @@
 
   /* 样式化 h1 标题 */
    h1 {
-    font-family: "Brush Script","Berlin Sans FB Demi", sans-serif;
+    font-family: "BerlinSansFBDemi","Brush Script","Berlin Sans FB Demi", sans-serif;
     color: #F99F43; 
     text-shadow: 12px 7.5px 0px rgba(8, 146, 185, 0.65);
     padding-right: 12px;
@@ -166,6 +167,7 @@ $content-width: 800px !default;
   color: #0790B8;
   text-overflow:ellipsis;
 }
+
 #app {
   --navbar-bg-color: rgba(169, 222, 232, 0.25);
   --grey-dark: #0790B8;
@@ -202,6 +204,7 @@ $content-width: 800px !default;
       color: #f3e4c0;
     }
 
+
 }
 
 }
@@ -216,3 +219,5 @@ pre[class*="h1-"]::before {
 
 $theme-color-light: #F18B59 !important;
 $theme-color-dark: #F18B59 !important;
+
+/* fonts */
