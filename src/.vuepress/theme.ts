@@ -29,13 +29,9 @@ export default hopeTheme({
   navbarLayout: {
         start: ["Brand"],
         center: ["Links"],
-        end: ["Search"],  // ,"Outlook"
+        end: ["Search", "Outlook"],  // ,"Outlook"
       },
   plugins: {
-    // Note: This is for testing ONLY!
-    // You MUST generate and use your own comment service in production.
-  
-    // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,
@@ -109,7 +105,7 @@ export default hopeTheme({
       // install sandpack-vue3 before enabling it
       // sandpack: true,
     },
-
+    pwa: true,
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",

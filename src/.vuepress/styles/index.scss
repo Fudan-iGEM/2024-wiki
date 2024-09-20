@@ -35,11 +35,16 @@
     z-index: -1;
   }
 
-  
+  .vp-site-name {
+    color: #F99F43; 
+  }
+
   /* 样式化 h1 标题 */
    h1 {
-    /* font-family: "Berlin Sans FB Demi", sans-serif; */
-    color: #57a0fe; 
+    font-family: "Brush Script","Berlin Sans FB Demi", sans-serif;
+    color: #F99F43; 
+    text-shadow: 12px 7.5px 0px rgba(8, 146, 185, 0.65);
+    padding-right: 12px;
     /* background-color: #f2ecdb; 8/
     padding: 10px;
     border: 2px solid #f2ecdb;
@@ -47,11 +52,11 @@
     border-radius: 5px;
     font-size: 10em;
     line-height: 1.2;
-    font-weight: 800;
+    font-weight: 700;
   } 
 
 h2 .header-anchor {
-  background: linear-gradient(to bottom right, #9ae2e1, #57a0fe);
+  background: linear-gradient(to right, #FEBC5B, #01C1CC);
   color: white;
   padding: 4px 10px; /* 根据需要调整内边距 */
   border-radius: 999px; /* 可选：圆角 */
@@ -125,12 +130,9 @@ table tr:nth-child(even) {
 body {
   /* background-color: #64563f; */
   
-  $text-color: (
-  light: #2c3e50,
-  dark: #f2ecdb,
-)!default;
+  
 }
-
+$content-width: 800px !default;
 
 
 /* 修改 vp-page-title 样式 */
@@ -146,9 +148,71 @@ body {
   position: relative;
 }
 
-/* 避免内容被标题遮挡 */
+
 .theme-hope-content {
   padding-top: 2em; /* 根据需要调整 */
 }
 
-/* fonts */
+
+
+/* color */
+.vp-navbar .auto-link{
+  color: #F18B59;
+}
+.vp-dropdown-title{
+  color: #F18B59;
+}
+.vp-toc-link{
+  color: #0790B8;
+  text-overflow:ellipsis;
+}
+#app {
+  --navbar-bg-color: rgba(169, 222, 232, 0.25);
+  --grey-dark: #0790B8;
+  --detail-bg-color: #C8EAF1;
+  --detail-text-color:#0790B8;
+
+  html[data-theme="dark"] & {
+    --navbar-bg-color: rgba(56, 43, 122, 0.25);
+    --grey-dark:#CE8218;
+    --detail-bg-color: #1F182A;
+    --detail-text-color:#f3e4c0;
+    h1{
+      color: #f2b90f;
+      text-shadow: 12px 7.5px 0px rgba(91, 117, 181, 1);
+      padding-right: 12px;
+    };
+    h2 .header-anchor {
+      background: linear-gradient(to right, #f0b30f, #2f2bff);
+      color: white;
+      padding: 4px 10px; 
+      border-radius: 999px; 
+      /* text-decoration: none; /* 去掉下划线 */ 
+    }
+    .vp-site-name {
+      color: #EB9826; 
+    }
+    .vp-navbar .auto-link{
+      color: #f3e4c0;
+    }
+    .vp-dropdown-title{
+      color: #f3e4c0;
+    }
+    .vp-toc-link{
+      color: #f3e4c0;
+    }
+
+}
+
+}
+
+pre[class*="h1-"]::before {
+  color: #fff !important;
+
+  html[data-theme="dark"] & {
+    background-color: #222 !important;
+  }
+}
+
+$theme-color-light: #F18B59 !important;
+$theme-color-dark: #F18B59 !important;

@@ -34,7 +34,7 @@ const title = computed(() => pageData.value.title);
 .responsive-page-title {
   font-size: 8vw; /* Default font size for larger screens */
   margin-bottom: 0.4em; /* Space between the title and the author info */
-  -webkit-text-stroke: 0.4vw #f2ecdb; /* Add text stroke for better visibility */
+  /* -webkit-text-stroke: 0.4vw #f2ecdb;  */
 }
 
 /* iPad Air: 820x1180 */

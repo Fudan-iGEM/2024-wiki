@@ -84,7 +84,7 @@ const authorData = computed(() => {
   text-align: center; /* Center align the label text */
   display: flex; /* Use flex to align icon and text */
   align-items: center; /* Center the items vertically */
-  color: #746A66;
+  color: #0790B8;
   font-weight: 400;
 }
 
@@ -92,13 +92,13 @@ const authorData = computed(() => {
   width: 1em; /* Set the width of the icon */
   height: 1em; /* Set the height of the icon */
   margin-right: 0.3em; /* Add some space between the icon and text */
-  color: #746A66;
+  color: #0790B8;
 }
 
 .author-capsule {
   font-family: "Brush Script MT", "Segoe Script", "Lucida Handwriting", "Apple Chancery", "Comic Sans MS", cursive;
-  background-color: #746a66; /* Gray background */
-  color: #f2ecdb; /* White text */
+  background-color: #0790B8 ; /* Gray background */
+  color: #ffffff; /* White text */
   padding: 0.2em 0.8em;
   border-radius: 9999px; /* Rounded capsule shape */
   font-size: 2vw; /* Responsive font size */
@@ -109,5 +109,16 @@ const authorData = computed(() => {
 .author-capsule a {
   color: inherit;
   text-decoration: none;
+}
+
+html[data-theme="dark"] .label {
+  color: #8a9dcd;
+}
+html[data-theme="dark"] .icon {
+  color: #8a9dcd;
+}
+html[data-theme="dark"] .author-capsule{
+  background-color:#8a9dcd;
+  color: #372a79;
 }
 </style>

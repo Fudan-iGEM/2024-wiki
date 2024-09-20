@@ -14,7 +14,7 @@
         <svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
           <path
             d="M0,160 Q360,0 720,160 T1440,160 V320 H0 Z"
-            fill="#f2ecdb"
+            class="wave-path"
           />
         </svg>
       </div>
@@ -65,6 +65,13 @@ const gifSrc = computed(() => frontmatter.value.headergif || null);
   width: 100%;
   height: auto;
 }
+.wave-path {
+  fill: #A9DEE8; /* light 模式下的颜色 */
+}
 
+/* dark 模式下的波浪颜色 */
+html[data-theme="dark"] .wave-path {
+  fill: #372a79; /* dark 模式下的颜色 */
+}
 
 </style>

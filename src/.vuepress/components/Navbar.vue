@@ -8,14 +8,14 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
 <style>
  .vp-navbar {
-    background-color: rgba(153, 198, 254, 0.25) !important;
+   /*  background-color: rgba(153, 198, 254, 0.25) !important; */
     padding: 0 var(--navbar-horizontal-padding);
     box-shadow: none;
     backdrop-filter: saturate(150%) blur(12px);
   }
 
   .vp-dropdown{
-    background-color: rgba(153, 198, 255, 0.75) !important;
+    /* background-color: rgba(169, 222, 232, 0.25) !important; */
     border: none;
     box-shadow: none;
     box-shadow: none;
@@ -26,7 +26,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
   .vp-navbar .auto-link {
   padding: 0 0.1rem;
-  color: #000000;
+  /* color: #000000; */
   font-weight: 600;
   font-size: 1rem;
 }
@@ -35,7 +35,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
   background: transparent;
   cursor: pointer;
   padding: 0 0.1rem;
-  color: #000000;
+  /* color: #000000; */
   font-weight: 600;
   font-size: 1rem;
   font-family: inherit;
@@ -45,8 +45,8 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
 .vp-site-name {
   position: relative;
-  color: #000000;
+  /* color: #000000; */
   font-size: 1.25rem;
-  font-weight: 800;
+  font-weight: 700;
 }
 </style>
