@@ -6,7 +6,7 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/attribution-header.gif
 ---
 
-View the content at [https://attributions.igem.org?team=Fudan&year=2024](https://attributions.igem.org?team=Fudan&year=2023)
+View the content at [teams.igem.org/wiki/5115/attributions](https://attributions.igem.org?team=Fudan&year=2024)
 
 <!-- div>
   <script type="text/javascript">
