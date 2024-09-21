@@ -31,8 +31,8 @@ import { computed } from 'vue';
 import { usePageFrontmatter } from 'vuepress/client';
 import Navbar from '@theme-hope/components/Navbar';
 import CommonWrapper from '@theme-hope/components/CommonWrapper';
-import NormalPage from '../components/NormalPage';
-import PageTitle from '../components/PageTitle';
+import NormalPage from '@theme-hope/components/NormalPage';
+import PageTitle from '@theme-hope/components/PageTitle';
 
 const frontmatter = usePageFrontmatter();
 

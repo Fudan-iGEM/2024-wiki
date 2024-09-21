@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import * as path from 'path';
-import { webpackBundler } from '@vuepress/bundler-webpack';
-import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { viteBundler } from '@vuepress/bundler-vite';
+
 import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 
 import theme from "./theme.js";
@@ -10,22 +10,26 @@ import theme from "./theme.js";
 const footerPath = path.resolve(__dirname, './components/PageFooter.vue');
 console.log('Resolved footer path:', footerPath);
 export default defineUserConfig({
-  base: "/fudan/",
+  base: "/",
   lang: "en-US",
   title: "Fudan",
-  description: "for vuepress-theme-hope",
+  description: "A docs demo for vuepress-theme-hope",
   plugins: [
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components"),
     }),
-    searchProPlugin({
+    /*     searchProPlugin({
       // index all contents
       indexContent: true
-    }),
+    }), */
   ],
   
   theme,
-  alias: {
+
+  bundler: viteBundler({
+    viteOptions: {
+      resolve: {
+        alias: {
           // 指定 @theme-hope 组件的别名
           '@theme-hope/components/PageFooter': path.resolve(__dirname, './components/PageFooter.vue'),
           "@theme-hope/components/Navbar": path.resolve(__dirname,"./components/Navbar.vue"),
@@ -34,9 +38,10 @@ export default defineUserConfig({
           '@theme-hope/components/NormalPage': path.resolve(__dirname, './components/NormalPage.vue'),
           '@theme-hope/modules/info/components/AuthorInfo': path.resolve(__dirname, './components/AuthorInfo.vue')
         },
-  head: [
-    ['link', { rel: 'stylesheet', href: '/fonts/fonts.scss' }],
-  ],
+      },
+    },
+    vuePluginOptions: {},
+  }),
   // Enable it with pwa
   shouldPrefetch: false,
 });
