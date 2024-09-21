@@ -18,6 +18,7 @@ selenium/
 urllib3/
 websocket/
 typing_extensions.py
+lxml/
 screenshots/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
