@@ -1,3 +1,4 @@
+/* @import '../public/fonts/fonts.scss'; */
 
 @keyframes rotateLogo {
     from {
@@ -41,7 +42,7 @@
 
   /* 样式化 h1 标题 */
    h1 {
-    font-family: "Brush Script","Berlin Sans FB Demi", sans-serif;
+    font-family: "BerlinSansFBDemi","Brush Script","Berlin Sans FB Demi", sans-serif;
     color: #F99F43; 
     text-shadow: 12px 7.5px 0px rgba(8, 146, 185, 0.65);
     padding-right: 12px;
@@ -119,9 +120,6 @@ table tr:nth-child(even) {
 }
 
 
-
-
-
 .vp-nav-screen{
   background: #f2ecdb; 
 }
@@ -129,17 +127,15 @@ table tr:nth-child(even) {
 
 body {
   /* background-color: #64563f; */
-  
-  
 }
 $content-width: 800px !default;
 
 
 /* 修改 vp-page-title 样式 */
 .theme-hope-content .vp-page-title {
-  margin-top: -40px; /* 调整位置 */
-  padding-top: 40px; /* 确保标题与波浪形状不会重叠 */
-  background: none; /* 取消背景色 */
+  margin-top: -40px; 
+  padding-top: 40px; 
+  background: none; 
   text-align: center;
   color: #ffffff;
   font-size: 2.5em;
@@ -148,16 +144,37 @@ $content-width: 800px !default;
   position: relative;
 }
 
-
 .theme-hope-content {
-  padding-top: 2em; /* 根据需要调整 */
+  padding-top: 2em; 
 }
-
-
 
 /* color */
 .vp-navbar .auto-link{
   color: #F18B59;
+}
+.vp-navbar .auto-link:hover {
+  color: #0790B8; 
+}
+.vp-navbar .auto-link.route-link-active {
+  color: #0790B8;
+}
+.vp-dropdown-wrapper .auto-link.route-link-active {
+color: #0790B8;
+}
+.vp-nav-item > .auto-link::before {
+  content: " ";
+  position: absolute;
+  inset: auto 0% 0;
+  height: 2px;
+  border-radius: 1px;
+  background: #0790B8;
+
+}
+.vp-navbar .auto-link.route-link-active{
+  color: #0790B8;
+}
+.vp-nav-item > .auto-link.route-link-active{
+  color: #0790B8;
 }
 .vp-dropdown-title{
   color: #F18B59;
@@ -165,6 +182,10 @@ $content-width: 800px !default;
 .vp-toc-link{
   color: #0790B8;
   text-overflow:ellipsis;
+}
+.vp-toc-item.active > .vp-toc-link {
+  color: #F18B59; 
+  font-weight: bold; 
 }
 #app {
   --navbar-bg-color: rgba(169, 222, 232, 0.25);
@@ -195,17 +216,39 @@ $content-width: 800px !default;
     .vp-navbar .auto-link{
       color: #f3e4c0;
     }
+    .vp-navbar .auto-link.route-link-active {
+      color: #f2b90f;
+    }
+    .vp-navbar .auto-link:hover {
+      color: #f2b90f; 
+    }
+    .vp-nav-item > .auto-link::before {
+      content: " ";
+      position: absolute;
+      inset: auto 0% 0;
+      height: 2px;
+      border-radius: 1px;
+      background: #f2b90f;
+    
+    }
+    .vp-dropdown-wrapper .auto-link.route-link-active {
+    color: #f2b90f;
+  }
     .vp-dropdown-title{
       color: #f3e4c0;
     }
+    .vp-toc-item.active > .vp-toc-link {
+      color: #f2b90f; 
+      font-weight: bold; 
+  }
     .vp-toc-link{
       color: #f3e4c0;
     }
 
-}
 
 }
 
+}
 pre[class*="h1-"]::before {
   color: #fff !important;
 
@@ -216,3 +259,5 @@ pre[class*="h1-"]::before {
 
 $theme-color-light: #F18B59 !important;
 $theme-color-dark: #F18B59 !important;
+
+/* fonts */

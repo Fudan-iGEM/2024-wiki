@@ -35,7 +35,8 @@ export default defineUserConfig({
           '@theme-hope/modules/info/components/AuthorInfo': path.resolve(__dirname, './components/AuthorInfo.vue')
         },
   head: [
+    ['link', { rel: 'stylesheet', href: '/fonts/fonts.scss' }],
   ],
   // Enable it with pwa
-  // shouldPrefetch: false,
+  shouldPrefetch: false,
 });

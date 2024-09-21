@@ -99,7 +99,7 @@ const authorData = computed(() => {
   font-family: "Brush Script MT", "Segoe Script", "Lucida Handwriting", "Apple Chancery", "Comic Sans MS", cursive;
   background-color: #0790B8 ; /* Gray background */
   color: #ffffff; /* White text */
-  padding: 0.2em 0.8em;
+  padding: 0em 0.8em;
   border-radius: 9999px; /* Rounded capsule shape */
   font-size: 2vw; /* Responsive font size */
   text-align: center;
