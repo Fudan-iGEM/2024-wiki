@@ -1,4 +1,4 @@
-/* @import '../public/fonts/fonts.scss'; */
+@import '../public/fonts/fonts.scss';
 
 @keyframes rotateLogo {
     from {
@@ -42,7 +42,7 @@
 
   /* 样式化 h1 标题 */
    h1 {
-    font-family: "BerlinSansFBDemi","Brush Script","Berlin Sans FB Demi", sans-serif;
+    font-family: "Berlin Sans FB Demi",Handjet,Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
     color: #F99F43; 
     text-shadow: 12px 7.5px 0px rgba(8, 146, 185, 0.65);
     padding-right: 12px;
