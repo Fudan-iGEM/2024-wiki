@@ -10,7 +10,7 @@ import theme from "./theme.js";
 const footerPath = path.resolve(__dirname, './components/PageFooter.vue');
 console.log('Resolved footer path:', footerPath);
 export default defineUserConfig({
-  base: "/",
+  base: "/fudan/",
   lang: "en-US",
   title: "Fudan",
   description: "A docs demo for vuepress-theme-hope",
