@@ -71,7 +71,7 @@ const gifSrc = computed(() => frontmatter.value.headergif || null);
 
 /* dark 模式下的波浪颜色 */
 html[data-theme="dark"] .wave-path {
-  fill: #372a79; /* dark 模式下的颜色 */
+  fill: #443c70; /* dark 模式下的颜色 */
 }
 
 </style>
