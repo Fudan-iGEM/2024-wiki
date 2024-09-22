@@ -11,6 +11,10 @@ author:
 
 <br><br>
 
+<div style="text-align: center">
+  <iframe title="Fudan: promotion video (2024)" width="80%" src="https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+</div>
+
 Below are screenshots from [our promotion video](https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3).
 
 <img src="https://static.igem.wiki/teams/4765/wiki/wyj/pv1.png" alt="screenshot 1 from pv">
