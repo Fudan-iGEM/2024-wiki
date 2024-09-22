@@ -27,23 +27,31 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
   .vp-navbar .auto-link {
   padding: 0 0rem;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 1.2rem;
+  font-family: 'Viga',sans-serif;
 }
+.vp-dropdown-item {
+    color: inherit;
+    line-height: 1.7rem;
+    padding-top: 0.15rem;
+    padding-bottom: 0.15rem;
+}
+
 .vp-dropdown-title {
   border-width: 0;
   background: transparent;
   cursor: pointer;
   padding: 0 0rem;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 1.2rem;
-  font-family: inherit;
+  font-family:  'Viga',sans-serif;
   line-height: inherit;
   cursor: inherit;
 }
 
 .vp-site-name {
-  font-family: "PangMenZhengDaoBiaoTiTiMianFeiBan";
+  font-family: "PangMenZhengDaoBiaoTiTiMianFeiBan",sans-serif;
   position: relative;
   font-size: 1.5rem;
   font-weight: 700;
