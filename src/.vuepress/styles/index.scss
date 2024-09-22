@@ -43,8 +43,8 @@
   /* 样式化 h1 标题 */
    h1 {
     font-family: "Lobster","Berlin Sans FB Demi",Handjet,Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
-    color: #F99F43; 
-    text-shadow: 7px 7.5px 0px rgba(8, 146, 185, 0.65);
+    color: #FEBC5B; 
+    text-shadow: 7px 7.5px 0px rgba(64, 146, 184, 0.65);
     padding-right: 12px;
     /* background-color: #f2ecdb; 8/
     padding: 10px;
@@ -155,7 +155,7 @@ $content-width: 800px !default;
 
 /* color */
 .vp-navbar .auto-link{
-  color: #F18B59;
+  color: #FEBC5B;
 }
 .vp-navbar .auto-link:hover {
   color: #0790B8; 
@@ -172,33 +172,52 @@ color: #0790B8;
   inset: auto 0% 0;
   height: 2px;
   border-radius: 1px;
-  background: #0790B8;
+  background: #4092B8;
 
 }
 .vp-navbar .auto-link.route-link-active{
-  color: #0790B8;
+  color: #4092B8;
 }
 .vp-nav-item > .auto-link.route-link-active{
-  color: #0790B8;
+  color: #4092B8;
 }
 .vp-dropdown-title{
-  color: #F18B59;
+  color: #FEBC5B;
 }
 .vp-toc-link{
-  color: #0790B8;
+  color: #003944;
   text-overflow:ellipsis;
 }
 .vp-toc-item.active > .vp-toc-link {
-  color: #F18B59; 
+  color: #F19978; 
   font-weight: bold; 
 }
 .hint-container.tip > .hint-container-title::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23F18B59' d='M7.941 18c-.297-1.273-1.637-2.314-2.187-3a8 8 0 1 1 12.49.002c-.55.685-1.888 1.726-2.185 2.998H7.94zM16 20v1a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-1h8zm-3-9.995V6l-4.5 6.005H11v4l4.5-6H13z'/%3E%3C/svg%3E");
 }
-
+#toc {
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  background-color: #62B4CC;
+}
+@media (min-width: 1440px) {
+  #toc {
+      position: absolute;
+      inset-inline-start: calc(100% + 1rem);
+      min-width: 10rem;
+      max-width: 15rem;
+      margin-bottom: 0;
+      border-radius: 0;
+      background: transparent;
+  }
+  .vp-toc-link{
+    color: #4092B8;
+    text-overflow:ellipsis;
+  }
+}
 
 #app {
-  --navbar-bg-color: rgba(169, 222, 232, 0.25);
+  --navbar-bg-color: rgba(64, 146, 184, 0.25);
   --grey-dark: #0790B8;
   --detail-bg-color: #C8EAF1;
   --detail-text-color:#0790B8;
@@ -263,6 +282,22 @@ color: #0790B8;
     }
     .hint-container.tip > .hint-container-title::before {
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23F2B90F' d='M7.941 18c-.297-1.273-1.637-2.314-2.187-3a8 8 0 1 1 12.49.002c-.55.685-1.888 1.726-2.185 2.998H7.94zM16 20v1a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-1h8zm-3-9.995V6l-4.5 6.005H11v4l4.5-6H13z'/%3E%3C/svg%3E");
+    }
+    #toc {
+      margin-bottom: 1rem;
+      border-radius: 8px;
+      background-color: #4934A8;
+    }
+    @media (min-width: 1440px) {
+      #toc {
+          position: absolute;
+          inset-inline-start: calc(100% + 1rem);
+          min-width: 10rem;
+          max-width: 15rem;
+          margin-bottom: 0;
+          border-radius: 0;
+          background: transparent;
+      }
     }
 
 
