@@ -6,6 +6,8 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
 ---
 
+<br><br>
+
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/lcy/3823344.jpg"
 style='width:80%'>

@@ -27,15 +27,15 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
   .vp-navbar .auto-link {
   padding: 0 0rem;
-  font-weight: 500;
+  font-weight: 400; /* LC */
   font-size: 1.2rem;
   font-family: 'Viga',sans-serif;
 }
 .vp-dropdown-item {
     color: inherit;
     line-height: 1.7rem;
-    padding-top: 0.15rem;
-    padding-bottom: 0.15rem;
+    padding-top: 0.25rem; /* LC */
+    padding-bottom: 0.25rem; /* LC */
 }
 
 .vp-dropdown-title {
@@ -43,7 +43,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
   background: transparent;
   cursor: pointer;
   padding: 0 0rem;
-  font-weight: 500;
+  font-weight: 400; /* LC */
   font-size: 1.2rem;
   font-family:  'Viga',sans-serif;
   line-height: inherit;

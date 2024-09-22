@@ -6,9 +6,9 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
-only improved part here
 
-## Overview
+
+## only improved part here
 
 B.HOME is built on the foundation of existing iGEM parts. With support from our [Parthub 2](/software/#parthub-2), we can quickly identify suitable parts from previous iGEM teams, use directly or modify according to the functionalities we aim to achieve. Please visit our [Software](/software/#overview) page for more details.
 

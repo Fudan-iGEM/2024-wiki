@@ -6,23 +6,25 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/attribution-header.gif
 ---
 
-View the content at [teams.igem.org/wiki/5115/attributions](https://attributions.igem.org?team=Fudan&year=2024)
+<br><br>
 
-<!-- div>
-  <script type="text/javascript">
-    // Listen to size change and update form height
-    window.addEventListener('message', function (e) {
-      const {type, data} = JSON.parse(e.data);
-      if (type === 'igem-attribution-form') {
-        const element = document.getElementById('igem-attribution-form');
-        element.style.height = data + 50 +'px'; // @@@@
-      }
+The content below is fetched from [teams.igem.org/wiki/5115/attributions](https://attributions.igem.org?team=Fudan&year=2024).
+
+<div id="attrDiv"></div>
+
+<script>
+  fetch('https://teams.igem.org/wiki/5115/attributions')
+    .then(response => {
+      const _div = document.getElementById("attrDiv");
+      _div.innerHTML = response.text();
+      return response.text();
+    })
+    // .then(html => {
+    //   const parser = new DOMParser();
+    //   const doc = parser.parseFromString(html, "text/html");
+    //   const docArticle = doc.querySelector('article').innerHTML;
+    // })
+    .catch(error => {
+       console.error('Failed to fetch page: ', error);
     });
-  </script>
-  <iframe
-    style='width: 100%; background-color: #fff6f0'
-    id="igem-attribution-form"
-    src="https://attributions.igem.org?team=Fudan&year=2024"
-  >
-  </iframe>
-</div -->
+</script>

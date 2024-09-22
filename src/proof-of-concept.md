@@ -3,6 +3,8 @@ title: Proof of Concept
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
+<br><br>
+
 Please visit our [Results](/results/) and [Model](/model/) pages.
 
 Back to [https://2024.igem.wiki/fudan/](https://2024.igem.wiki/fudan/)
