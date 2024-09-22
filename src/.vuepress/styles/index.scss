@@ -31,7 +31,7 @@
     left: 50%;
     width: 100vw;
     height: 100vh;
-    object-fit: cover; /* 保持视频内容比例，不拉伸 */
+    object-fit: cover; 
     transform: translate(-50%, -50%);
     z-index: -1;
   }
@@ -69,7 +69,7 @@ h2 .header-anchor:hover {
 }
 
 h3 {
-  color: #57a0fe;
+  color: #0790B8;
 }
 
 
@@ -187,17 +187,29 @@ color: #0790B8;
   color: #F18B59; 
   font-weight: bold; 
 }
+.hint-container.tip > .hint-container-title::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23F18B59' d='M7.941 18c-.297-1.273-1.637-2.314-2.187-3a8 8 0 1 1 12.49.002c-.55.685-1.888 1.726-2.185 2.998H7.94zM16 20v1a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-1h8zm-3-9.995V6l-4.5 6.005H11v4l4.5-6H13z'/%3E%3C/svg%3E");
+}
+
+
 #app {
   --navbar-bg-color: rgba(169, 222, 232, 0.25);
   --grey-dark: #0790B8;
   --detail-bg-color: #C8EAF1;
   --detail-text-color:#0790B8;
+  --tip-border-color:#0790B8;
+  --tip-bg-color:#C8EAF1;
+  --tip-title-color:#F18B59;
 
   html[data-theme="dark"] & {
     --navbar-bg-color: rgba(56, 43, 122, 0.25);
     --grey-dark:#CE8218;
     --detail-bg-color: #1F182A;
     --detail-text-color:#f3e4c0;
+    --tip-border-color:#f3e4c0;
+    --tip-bg-color:#CE8218;
+    --tip-title-color:#F2B90F;
+
     h1{
       color: #f2b90f;
       text-shadow: 12px 7.5px 0px rgba(91, 117, 181, 1);
@@ -244,6 +256,9 @@ color: #0790B8;
     .vp-toc-link{
       color: #f3e4c0;
     }
+    .hint-container.tip > .hint-container-title::before {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23F2B90F' d='M7.941 18c-.297-1.273-1.637-2.314-2.187-3a8 8 0 1 1 12.49.002c-.55.685-1.888 1.726-2.185 2.998H7.94zM16 20v1a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-1h8zm-3-9.995V6l-4.5 6.005H11v4l4.5-6H13z'/%3E%3C/svg%3E");
+    }
 
 
 }
@@ -260,8 +275,9 @@ pre[class*="h1-"]::before {
 $theme-color-light: #F18B59 !important;
 $theme-color-dark: #F18B59 !important;
 
-/* fonts */
 
+
+/* fonts */
 @font-face {
   font-family: "Berlin Sans FB Demi";
   src: url('/fonts/BerlinSansFBDemi.ttf') format('truetype');

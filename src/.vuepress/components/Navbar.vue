@@ -12,7 +12,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
     padding: 0 var(--navbar-horizontal-padding);
     box-shadow: none;
     backdrop-filter: saturate(150%) blur(12px);
-    height: 5rem;
+    height: 4rem;
   }
 
   .vp-dropdown{
