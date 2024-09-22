@@ -32,7 +32,7 @@ Specific Tasks:
 Liang Cai, Instructor
 
 Tasks:
-Conceptualization, Analysis, Investigation, Project Administration, Safety, Background Research, Data Curation, Notebook/record keeping, Public Engagement
+Conceptualization, Analysis, Investigation, Project Administration, Safety, Background Research, Data Curation, Notebook/Record Keeping, Public Engagement
 
 Specific Tasks:
 1) Conceptualization - Guided brainstorming and project development.
@@ -41,7 +41,7 @@ Specific Tasks:
 4) Project Administration - Managed team activities, ensuring adherence to project timelines.
 5) Background Research - Suggest latest scientific articles for project improvment.
 6) Data Curation - Give improvement suggestions to data annotation.
-7) Notebook/record keeping - Maintained the laboratory notebook.
+7) Notebook/Record Keeping - Maintained the laboratory notebook.
 8) Public Engagement - Made necessary location appointments.
 9) Safety - Ensured safety compliance in lab and other activities.
 
@@ -50,14 +50,14 @@ Specific Tasks:
 Xujie Tan, Student Leader
 
 Tasks:
-Analysis, Investigation, Conceptualization, Notebook/record keeping, Background Research, Data Curation, Project Administration, Public Engagement, Visualization, Writing, Safety
+Analysis, Investigation, Conceptualization, Notebook/Record Keeping, Background Research, Data Curation, Project Administration, Public Engagement, Visualization, Writing, Safety
 
 Specific Tasks:
 1) Analysis - Conducted data analysis from team experiments and relevant literature.
 2) Investigation - Led experiments and data collection efforts.
 3) Conceptualization - Brainstormed and developed the project.
 4) Background Research - Conducted scientific articles for background research.
-5) Notebook/record keeping - Maintained the laboratory notebook.
+5) Notebook/Record Keeping - Maintained the laboratory notebook.
 6) Data Curation - Annotated and maintained research data.
 7) Project Administration - Team leader, responsible for task allocation, managing team activities, ensuring adherence to project timelines.
 8) Public Engagement - Led educational and Human Practice initiatives.
@@ -97,7 +97,7 @@ Specific Tasks:
 Ruiwen Ma, Student
 
 Tasks:
-Analysis, Investigation, Data Curation, Conceptualization, Background Research, Notebook/record keeping, Writing, Safety, Visualization
+Analysis, Investigation, Data Curation, Conceptualization, Background Research, Notebook/Record Keeping, Writing, Safety, Visualization
 
 Specific Tasks:
 1) Analysis - Conducted data analysis from team experiments and relevant literature.
@@ -105,7 +105,7 @@ Specific Tasks:
 3) Data Curation - Annotated and maintained research data.
 4) Conceptualization - Brainstormed and developed the project.
 5) Background Research - Conducted scientific articles for background research.
-6) Notebook/record keeping - Maintained the laboratory notebook.
+6) Notebook/Record Keeping - Maintained the laboratory notebook.
 7) Writing - Authored sustainable, engineering, results and reviewed materials.
 8) Safety - Ensured safety compliance in lab.
 9) Visualization - Responsible for graphics in experimental design, and participated in promotional activities.
@@ -115,7 +115,7 @@ Specific Tasks:
 Kevin Qi, Student
 
 Tasks:
-Analysis, Conceptualization, Background Research, Investigation, Data Curation, Notebook/record keeping, Writing, Safety, Public Engagement
+Analysis, Conceptualization, Background Research, Investigation, Data Curation, Notebook/Record Keeping, Writing, Safety, Public Engagement
 
 Specific Tasks:
 1) Analysis - Conducted data analysis from team experiments and relevant literature.
@@ -123,7 +123,7 @@ Specific Tasks:
 3) Background Research - Conducted scientific articles for background research.
 4) Investigation - Led experiments and data collection efforts.
 5) Data Curation - Annotated and maintained research data.
-6) Notebook/record keeping - Maintained the laboratory notebook.
+6) Notebook/Record Keeping - Maintained the laboratory notebook.
 7) Writing - Authored design, description, implementation, engineering, and reviewed materials.
 8) Safety - Ensured safety compliance in the lab.
 9) Public Engagement - Participated in education activities.
@@ -148,11 +148,11 @@ Specific Tasks:
 Wanqi Li, Student
 
 Tasks:
-Conceptualization, Notebook/record keeping, Background Research, Public Engagement, Visualization, Writing, Investigation, Safety, Analysis
+Conceptualization, Notebook/Record Keeping, Background Research, Public Engagement, Visualization, Writing, Investigation, Safety, Analysis
 
 Specific Tasks:
 1) Conceptualization - Brainstormed and developed the project.
-2) Notebook/record keeping - Participated in the laboratory notebook.
+2) Notebook/Record Keeping - Participated in the laboratory notebook.
 3) Background Research - Conducted scientific articles for background research.
 4) Public Engagement - Led educational and Human Practice initiatives.
 5) Visualization - Created children's picture book, and participated in promotional activities.
@@ -172,40 +172,40 @@ Specific Tasks:
 1) Conceptualization - Brainstormed and developed the project.
 2) Background Research - Conducted scientific articles for background research.
 3) Public Engagement - Led education and Human Practice initiatives.
-4) Writing-Authored inclusivity wiki pages and reviewed content.
-5) Visualization-Visualization - Created children's picture book, and led promotional activities.
+4) Writing - Authored inclusivity wiki pages and reviewed content.
+5) Visualization - Visualization - Created children's picture book, and led promotional activities.
 
 ----
 
 Yi Shi, Student
 
 Tasks:
-Analysis, Investigation, Data Curation, Conceptualization, Background Research, Notebook/record keeping, Writing, Safety, Visualization
+Analysis, Investigation, Data Curation, Conceptualization, Background Research, Notebook/Record Keeping, Writing, Safety, Visualization
 
 Specific Tasks:
 1) Analysis - Conducted data analysis from team experiments and relevant literature.
-2) Investigation-Led experiments and data collection efforts.
+2) Investigation - Led experiments and data collection efforts.
 3) Data Curation - Annotated and maintained research data.
 4) Conceptualization - Brainstormed and developed the project.
 5) Background Research - Conducted scientific articles for background research.
-6) Notebook/record keeping - Maintained the laboratory notebook.
+6) Notebook/Record Keeping - Maintained the laboratory notebook.
 7) Writing - Authored part registry content, engineering and reviewed materials.
 8) Safety - Ensured safety compliance in lab.
-9) Visualization-Responsible for graphics in experimental design.
+9) Visualization - Responsible for graphics in experimental design.
 
 ----
 
 Yuhan Li, Student
 
 Tasks:
-Analysis, Investigation, Conceptualization, Notebook/record keeping, Background Research, Data Curation, Public Engagement, Visualization, Writing, Safety
+Analysis, Investigation, Conceptualization, Notebook/Record Keeping, Background Research, Data Curation, Public Engagement, Visualization, Writing, Safety
 
 Specific Tasks:
 1) Analysis - Conducted data analysis from team experiments and relevant literature.
 2) Investigation - Led experiments and data collection efforts.
 3) Conceptualization - Brainstormed and developed the project.
 4) Background Research - Conducted scientific articles for background research.
-5) Notebook/record keeping - Maintained the laboratory notebook.
+5) Notebook/Record Keeping - Maintained the laboratory notebook.
 6) Data Curation - Annotated and maintained research data.
 7) Public Engagement - Led educational initiatives.
 8) Visualization - Created children's picture book and project presentations, and participated in promotional activities.
@@ -231,15 +231,15 @@ Specific Tasks:
 Ziming Suo, Student
 
 Tasks:
-Conceptualization, Background Research, Public Engagement, Visualization, Writing, Notebook/record keeping, Safety
+Conceptualization, Background Research, Public Engagement, Visualization, Writing, Notebook/Record Keeping, Safety
 
 Specific Tasks:
 1) Conceptualization - Brainstormed and developed the project.
-2) Background Research-Conducted scientific articles for background research.
+2) Background Research - Conducted scientific articles for background research.
 3) Public Engagement - Led educational and Human Practice initiatives.
 4) Visualization - Contributed to educational visual materials.
 5) Writing - Authored Human Practice and inclusivity.
-6) Notebook/record keeping - Participated in the laboratory notebook.
+6) Notebook/Record Keeping - Participated in the laboratory notebook.
 7) Safety - Ensured safety compliance in the lab.
 
 ----
