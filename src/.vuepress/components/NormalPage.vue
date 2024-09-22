@@ -135,6 +135,6 @@ const headerDepth = computed(() => frontmatter.value.headerDepth ?? themeLocale.
 }
 
 html[data-theme="dark"] .card-wrapper {
-  background-color: #1f182a;
+  background-color: #282233;
 }
 </style>
