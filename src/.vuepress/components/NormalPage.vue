@@ -2,8 +2,10 @@
   <main id="main-content" class="vp-page">
 
     <TOC v-if="tocEnable" :header-depth="headerDepth" class="custom-toc" />
-
-    <MarkdownContent />
+    <div class="card-wrapper">
+      <MarkdownContent />
+    </div>
+    
 
     <PageNav />
 
@@ -31,6 +33,16 @@ const headerDepth = computed(() => frontmatter.value.headerDepth ?? themeLocale.
 </script>
 
 <style scoped>
+/* .card-wrapper {
+  background-color: #1f182a;
+  padding: 1rem 0rem;
+  margin: 0rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 70px;
+  max-width: 50rem; 
+  width: 100%; 
+} */
+
 /* .custom-toc {
   width: 300px; 
 } */
@@ -104,5 +116,25 @@ const headerDepth = computed(() => frontmatter.value.headerDepth ?? themeLocale.
   .vp-toc-marker {
     display: block;
   }
+}
+
+
+.card-wrapper {
+    max-width: var(--content-width, 740px);
+    margin: 0 auto;
+    padding: 2rem 2.5rem;
+    padding-top: 0;
+    background-color: #C8EAF1;
+    border-radius: 70px;
+}
+
+@media (max-width: 959px) {
+  .card-wrapper {
+        padding: 1.5rem;
+    }
+}
+
+html[data-theme="dark"] .card-wrapper {
+  background-color: #1f182a;
 }
 </style>

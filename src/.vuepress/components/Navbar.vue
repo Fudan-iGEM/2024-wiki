@@ -56,4 +56,9 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
   font-size: 1.5rem;
   font-weight: 700;
 }
+@media (max-width: 959px){
+  .vp-navbar{
+    height: 3.25rem;
+  }
+}
 </style>
