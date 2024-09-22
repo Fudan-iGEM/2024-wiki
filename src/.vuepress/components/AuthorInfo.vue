@@ -78,7 +78,7 @@ const authorData = computed(() => {
 }
 
 .label {
-  font-family: "Lucida Handwriting", "Noto Serif SC", "Microsoft Yahei", "WenQuanYi Micro Hei", "ST Heiti", sans-serif;
+  font-family:"Dancing Script","Lucida Handwriting", "Noto Serif SC", "Microsoft Yahei", "WenQuanYi Micro Hei", "ST Heiti", sans-serif;
   font-size: 1.8vw; /* Increase the font size */
   margin-bottom: 0.5em; /* Add space below the label */
   text-align: center; /* Center align the label text */
@@ -96,7 +96,7 @@ const authorData = computed(() => {
 }
 
 .author-capsule {
-  font-family: "Brush Script MT", "Segoe Script", "Lucida Handwriting", "Apple Chancery", "Comic Sans MS", cursive;
+  font-family: "Courgette","Brush Script MT", "Segoe Script", "Lucida Handwriting", "Apple Chancery", "Comic Sans MS", cursive;
   background-color: #0790B8 ; /* Gray background */
   color: #ffffff; /* White text */
   padding: 0em 0.8em;

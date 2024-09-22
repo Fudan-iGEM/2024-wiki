@@ -43,6 +43,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 }
 
 .vp-site-name {
+  font-family: "PangMenZhengDaoBiaoTiTiMianFeiBan";
   position: relative;
   font-size: 1.5rem;
   font-weight: 700;
