@@ -11,8 +11,8 @@
             Written by:
           </span>
           <!-- Authors capsules -->
-          <span class="author-capsule">
-            <template v-for="(author, index) in authorData" :key="index">
+          <template><div class="author-capsule">
+            <span v-for="(author, index) in authorData" :key="index">
               <a
                 v-if="author.url"
                 :href="author.url"
@@ -24,8 +24,8 @@
               <span v-else>{{ author.name }}</span>
               <!-- Add comma except for the last author -->
               <span v-if="index < authorData.length - 1">, </span>
-            </template>
-          </span>
+            </span>
+          </div></template>
         </div>
       </template>
     </div>
