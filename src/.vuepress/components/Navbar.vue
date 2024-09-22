@@ -27,7 +27,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
 
   .vp-navbar .auto-link {
   padding: 0 0rem;
-  font-weight: 400; /* LC */
+  /* font-weight: 500; * LC */
   font-size: 1.2rem;
   font-family: 'Viga',sans-serif;
 }
@@ -43,7 +43,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
   background: transparent;
   cursor: pointer;
   padding: 0 0rem;
-  font-weight: 400; /* LC */
+  /* font-weight: 500; * LC */
   font-size: 1.2rem;
   font-family:  'Viga',sans-serif;
   line-height: inherit;
