@@ -14,7 +14,7 @@ export default defineUserConfig({
   lang: "en-US",
   title: "Fudan",
   description: "Docs for vuepress-theme-hope",
-  permalinkPattern:"/:slug",
+  permalinkPattern:"/:slug/",
   plugins: [
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components"),
