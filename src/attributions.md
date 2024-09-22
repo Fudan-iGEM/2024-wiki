@@ -12,11 +12,7 @@ The content below is fetched from [teams.igem.org/wiki/5115/attributions](https:
 
 <hr>
 
-<pre style="white-space: pre-wrap;      /* Since CSS 2.1 */
-            white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
-            white-space: -pre-wrap;     /* Opera 4-6 */
-            white-space: -o-pre-wrap;   /* Opera 7 */
-            word-wrap: break-word;      /* Internet Explorer 5.5+ */">
+<pre style="white-space:pre-wrap;white-space:-moz-pre-wrap;white-space:-pre-wrap;white-space:-o-pre-wrap;word-wrap:break-word;">
 Daru Lu, Primary PI
 
 Tasks:
