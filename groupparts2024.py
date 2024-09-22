@@ -106,8 +106,10 @@ for zz in z:
         fff.write(' |\n')
     print('\n\n')
 
+fff.write('\n\n| | | Old Part | Description | Type | Not 2024 | Length | |\n')
+fff.write('|----|----|----|----|----|----|----|----|\n')
 fff.close()
 print('\n'.join(["'%s'," % x for x in subparts]))
 print('\n\nCAUTION: remove files in parts-html for update\n')
-print('Validate with https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
+#print('Validate with https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
 driver.quit()
