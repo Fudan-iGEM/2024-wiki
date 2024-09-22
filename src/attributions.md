@@ -10,7 +10,13 @@ headergif: https://static.igem.wiki/teams/5115/header/attribution-header.gif
 
 The content below is fetched from [teams.igem.org/wiki/5115/attributions](https://attributions.igem.org?team=Fudan&year=2024).
 
-<pre>
+<hr>
+
+<pre style="white-space: pre-wrap;      /* Since CSS 2.1 */
+            white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+            white-space: -pre-wrap;     /* Opera 4-6 */
+            white-space: -o-pre-wrap;   /* Opera 7 */
+            word-wrap: break-word;      /* Internet Explorer 5.5+ */">
 Daru Lu, Primary PI
 
 Tasks:
