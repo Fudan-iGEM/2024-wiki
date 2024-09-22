@@ -24,7 +24,6 @@ export default defineUserConfig({
       indexContent: true
     }),
   ],
-  
   theme,
 
   bundler: viteBundler({
