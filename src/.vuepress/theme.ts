@@ -105,48 +105,47 @@ export default hopeTheme({
       // install sandpack-vue3 before enabling it
       // sandpack: true,
     },
-    pwa: true,
-    // install @vuepress/plugin-pwa and uncomment these if you want a PWA
-    // pwa: {
-    //   favicon: "/favicon.ico",
-    //   cacheHTML: true,
-    //   cacheImage: true,
-    //   appendBase: true,
-    //   apple: {
-    //     icon: "https://static.igem.wiki/teams/5115/fonts/icon/apple-icon-152.png",
-    //     statusBarColor: "black",
-    //   },
-    //   msTile: {
-    //     image: "https://static.igem.wiki/teams/5115/fonts/icon/ms-icon-144.png",
-    //     color: "#ffffff",
-    //   },
-    //   manifest: {
-    //     icons: [
-    //       {
-    //         src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-mask-512.png",
-    //         sizes: "512x512",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-mask-192.png",
-    //         sizes: "192x192",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-512.png",
-    //         sizes: "512x512",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-192.png",
-    //         sizes: "192x192",
-    //         type: "image/png",
-    //       },
-    //     ],
-    //   },
-    // },
+    /* pwa: true, */
+    pwa: {
+      favicon: "/favicon.ico",
+      cacheHTML: true,
+      cacheImage: true,
+      appendBase: true,
+      apple: {
+        icon: "https://static.igem.wiki/teams/5115/fonts/icon/apple-icon-152.png",
+        statusBarColor: "black",
+      },
+      msTile: {
+        image: "https://static.igem.wiki/teams/5115/fonts/icon/ms-icon-144.png",
+        color: "#ffffff",
+      },
+      manifest: {
+        icons: [
+          {
+            src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-mask-512.png",
+            sizes: "512x512",
+            purpose: "maskable",
+            type: "image/png",
+          },
+          {
+            src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-mask-192.png",
+            sizes: "192x192",
+            purpose: "maskable",
+            type: "image/png",
+          },
+          {
+            src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-512.png",
+            sizes: "512x512",
+            type: "image/png",
+          },
+          {
+            src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-192.png",
+            sizes: "192x192",
+            type: "image/png",
+          },
+        ],
+      },
+    },
   },
 },
 {
