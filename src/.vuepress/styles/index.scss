@@ -134,7 +134,24 @@ body {
   font-family: 'Sofia Sans', sans-serif;
 }
 $content-width: 800px !default;
-
+/* TOC */
+@media (min-width: 1440px) {
+  .vp-toc-placeholder {
+      top: calc(var(--navbar-height) + 1rem);
+      margin-top: 0rem;
+      margin-bottom: 35rem; 
+      /* max-height: calc(100vh - 500rem - 3rem); */
+  }
+}
+.theme-hope-content:not(.custom){
+  margin-bottom: 0rem;
+  margin-top: -35rem;
+}
+.vp-toc-wrapper.open {
+  height: auto;
+  margin-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
 
 /* 修改 vp-page-title 样式 */
 .theme-hope-content .vp-page-title {
@@ -206,9 +223,12 @@ color: #0790B8;
       inset-inline-start: calc(100% + 1rem);
       min-width: 10rem;
       max-width: 15rem;
-      margin-bottom: 0;
+      margin-bottom: 0rem;
       border-radius: 0;
       background: transparent;
+      
+      /* top: calc(var(--navbar-height) + 2rem); */
+      
   }
   .vp-toc-link{
     color: #4092B8;
