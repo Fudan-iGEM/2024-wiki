@@ -44,7 +44,7 @@
    h1 {
     font-family: "Lobster","Berlin Sans FB Demi",Handjet,Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
     color: #F99F43; 
-    text-shadow: 7px 7.5px 0px rgba(64, 146, 184, 0.65);
+    text-shadow: 0.5vw 0.55vw 0px rgba(64, 146, 184, 0.65);
     padding-right: 12px;
     /* background-color: #f2ecdb; 8/
     padding: 10px;
@@ -147,7 +147,9 @@ $content-width: 800px !default;
       }
   }
 }
-
+.vp-toggle-sidebar-button {
+  display: none !important;
+}
 .vp-toc-wrapper.open {
   height: auto;
   margin-top: 0.5rem;
