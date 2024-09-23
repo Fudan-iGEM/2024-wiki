@@ -141,12 +141,13 @@ $content-width: 800px !default;
       margin-top: 0rem;
       margin-bottom: 35rem; 
       /* max-height: calc(100vh - 500rem - 3rem); */
+      .theme-hope-content:not(.custom){
+        margin-bottom: 0rem;
+        margin-top: -35rem;
+      }
   }
 }
-.theme-hope-content:not(.custom){
-  margin-bottom: 0rem;
-  margin-top: -35rem;
-}
+
 .vp-toc-wrapper.open {
   height: auto;
   margin-top: 0.5rem;
