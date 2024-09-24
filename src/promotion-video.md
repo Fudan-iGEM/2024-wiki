@@ -4,9 +4,9 @@ headergif: https://static.igem.wiki/teams/5115/header/pv8m7.gif
 
 author:
 - name: Yuhan Li
-  url: team/#yuhan-li
+  url: /fudan/team/#yuhan-li
 - name: Yuhan Wang
-  url: team/#yuhan-wang
+  url: /fudan/team/#yuhan-wang
 ---
 
 <br><br>

@@ -2,7 +2,7 @@
 title: Hardware
 author:
   name: Kexin Huang
-  url: team/#kexin-huang
+  url: /fudan/team/#kexin-huang
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

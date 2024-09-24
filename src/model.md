@@ -2,7 +2,7 @@
 title: Model
 author:
   name: Zhenghan Chen
-  url: team/#zhenghan-chen
+  url: /fudan/team/#zhenghan-chen
 headergif: https://static.igem.wiki/teams/5115/header/mode-example.gif
 ---
 

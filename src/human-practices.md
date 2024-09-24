@@ -4,9 +4,9 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 author:
 - name: Ziming Suo
-  url: team/#ziming-su
+  url: /fudan/team/#ziming-su
 - name: Yuhan Wang
-  url: team/#yuhan-wang
+  url: /fudan/team/#yuhan-wang
 ---
 
 ## Overview

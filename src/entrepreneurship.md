@@ -2,7 +2,7 @@
 title: Entrepreneurship
 author:
   name: Kexin Zheng
-  url: team/#kexin-zheng
+  url: /fudan/team/#kexin-zheng
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

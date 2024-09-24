@@ -4,9 +4,9 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 author:
 - name: Ruiwen Ma
-  url: team/#ruiwen-ma
+  url: /fudan/team/#ruiwen-ma
 - name: Xuejie Tan
-  url: team/#xuejie-tan
+  url: /fudan/team/#xuejie-tan
 ---
 
 ## Abbreviation List

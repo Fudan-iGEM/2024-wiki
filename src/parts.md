@@ -4,9 +4,9 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 author:
 - name: Liyue Chen
-  url: team/#liyue-chen
+  url: /fudan/team/#liyue-chen
 - name: Yi Shi
-  url: team/#yi-shi
+  url: /fudan/team/#yi-shi
 ---
 
 ## useful 2023 modules, anti-freezing, anti-UV?

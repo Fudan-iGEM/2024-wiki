@@ -4,9 +4,9 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 author:
 - name: Ruiwen Ma
-  url: team/#ruiwen-ma
+  url: /fudan/team/#ruiwen-ma
 - name: Kevin Qi
-  url: team/#kevin-qi
+  url: /fudan/team/#kevin-qi
 ---
 
 ## Surface Display for Bacteria

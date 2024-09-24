@@ -2,7 +2,7 @@
 title: Software
 author:
   name: Hongcheng Chen
-  url: team/#hongcheng-chen
+  url: /fudan/team/#hongcheng-chen
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 

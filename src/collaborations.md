@@ -2,7 +2,7 @@
 title: Collaborations
 author:
   name: Wanqi Li
-  url: team/#wanqi-li
+  url: /fudan/team/#wanqi-li
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
