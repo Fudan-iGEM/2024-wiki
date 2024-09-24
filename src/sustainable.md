@@ -78,9 +78,9 @@ The 14th SDG targets at conserving and sustainably using the oceans, seas and ma
 
 Mining and industrial processes release nickel into rivers, lakes, and oceans, leading to severe pollution that harms aquatic life and disrupts marine food chains. MINERAL helps mitigate the toxic effects of nickel in oceans and protect marine biodiversity, maintaining the health of our oceans. 
 
-We also recognized that releasing *E. coli* into water body could harm aquatic life. We prioritize safety by studying the behavior of *C. elegans*; they show no significant abnormalities when consuming our microparticles and microbes (*E. coli* + hydrogenase) but are affected in nickel-rich growth media. Please refer to [Safety](https://2024.igem.wiki/fudan/safety/) for more information.
+We also recognized that releasing *E. coli* into water body could harm aquatic life. We prioritize safety by studying the behavior of *C. elegans*; they show no significant abnormalities when consuming our microparticles and microbes (*E. coli* + hydrogenase) but are affected in nickel-rich growth media. Please refer to [Safety](/fudan/safety) for more information.
 
-Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers, preventing its spread in water, effectively addressing metal issues while avoiding creating new problems. Please refer to [Hardware](https://2024.igem.wiki/fudan/hardware/) for more information.
+Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers, preventing its spread in water, effectively addressing metal issues while avoiding creating new problems. Please refer to [Hardware](/fudan/hardware) for more information.
 
 
 @@@@ 图片：Ni吸收+线虫+hardware纤维
@@ -93,7 +93,7 @@ Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers
 
 The 4th SDG is the cornerstone that enables the achievement of many Sustainable Development Goals. 
 
-We focus on delivering biology education across the K-12 spectrum, actively gathering feedback from students to refine our methods in each teaching session continually. Please refer to [Education](https://2024.igem.wiki/fudan/education) for more information.
+We focus on delivering biology education across the K-12 spectrum, actively gathering feedback from students to refine our methods in each teaching session continually. Please refer to [Education](/fudan/education) for more information.
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/sdgs/quality-education.jpg" style="width: 100%">
@@ -122,7 +122,7 @@ The 11th SDG aims at making cities and human settlements inclusive, safe, resili
 
 As urban populations surge and cities expand rapidly, the pressure on infrastructure and resources intensifies. [MINERAL](/fudan/description) addresses this issue by recycling nickel—a critical component in urban technologies.
 
-In addition, our inclusive education spreads knowledge among diverse communities. By offering tailored [STEAMed](/fudan/inclusivity#STEAMed) programs and modular teaching tools, we aim to empower students across various backgrounds, contributing to a more sustainable communities for all. Please refer to [Education](https://2024.igem.wiki/fudan/education) and [Inclusivity](https://2024.igem.wiki/fudan/inclusivity) for more information.
+In addition, our inclusive education spreads knowledge among diverse communities. By offering tailored [STEAMed](/fudan/inclusivity#STEAMed) programs and modular teaching tools, we aim to empower students across various backgrounds, contributing to a more sustainable communities for all. Please refer to [Education](/fudan/education) and [Inclusivity](/fudan/inclusivity) for more information.
 
 
 ## Sustainable Development by Incorporation
