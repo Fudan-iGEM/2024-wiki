@@ -1,6 +1,6 @@
 ---
 title: Part Collection
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/parts-header.gif
 
 author:
 - name: Yi Shi
