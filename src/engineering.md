@@ -4,9 +4,9 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 author:
 - name: Ruiwen Ma
-  url: /fudan/team/#ruiwen-ma
+  url: team/#ruiwen-ma
 - name: Kevin Qi
-  url: /fudan/team/#kevin-qi
+  url: team/#kevin-qi
 ---
 
 ## Surface Display for Bacteria
@@ -42,7 +42,7 @@ This DBTL cycle is just one example of our wet lab engineering. Please refer to 
 
 ### Cycle 1: Design
 
-During the initial design phase of the RAP, our emphasis lies on the RAP's purpose and its intended outputs. We engaged in consultations with team members of the [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team/), and they presented two primary requisites to us:
+During the initial design phase of the RAP, our emphasis lies on the RAP's purpose and its intended outputs. We engaged in consultations with team members of the [Fudan iGEM 2022](https://2022.igem.wikiteam/), and they presented two primary requisites to us:
 
 1. Modeling the metabolic flux
 2. Designing of synthetic ribosome binding site (RBS)

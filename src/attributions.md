@@ -2,7 +2,7 @@
 title: Attributions
 author:
   name: Wanqi Li
-  url: /fudan/team/#wanqi-li
+  url: team/#wanqi-li
 headergif: https://static.igem.wiki/teams/5115/header/attribution-header.gif
 ---
 
@@ -48,7 +48,7 @@ Specific Tasks:
 * Analysis - Conducted data analysis from team experiments and relevant literature.
 * Investigation - Led experiments and data collection efforts.
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Notebook/Record Keeping - Maintained the laboratory notebook.
 * Data Curation - Annotated and maintained research data.
 * Project Administration - Team leader, responsible for task allocation, managing team activities, ensuring adherence to project timelines.
@@ -67,7 +67,7 @@ Specific Tasks:
 * Software - Developed, implemented, and coded software programs.
 * Public Engagement - Led in education and inclusivity initiatives.
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Writing - Authored software and reviewed materials.
 
 ----
@@ -78,9 +78,10 @@ Tasks: Conceptualization, Background Research, Writing, Visualization
 
 Specific Tasks:
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Writing - Authored experiments, hardware, and reviewed materials.
-* Visualization - Contributed to the beginning of the promotion video.
+* Visualization - Chief designer for promotional videos.
+* Public Engagement - Participated in education activities.
 
 ----
 
@@ -93,7 +94,7 @@ Specific Tasks:
 * Investigation - led experiments and data collection efforts.
 * Data Curation - Annotated and maintained research data.
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Notebook/Record Keeping - Maintained the laboratory notebook.
 * Writing - Authored sustainable, engineering, results and reviewed materials.
 * Safety - Ensured safety compliance in lab.
@@ -108,7 +109,7 @@ Tasks: Analysis, Conceptualization, Background Research, Investigation, Data Cur
 Specific Tasks:
 * Analysis - Conducted data analysis from team experiments and relevant literature.
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Investigation - Led experiments and data collection efforts.
 * Data Curation - Annotated and maintained research data.
 * Notebook/Record Keeping - Maintained the laboratory notebook.
@@ -124,11 +125,12 @@ Tasks: Conceptualization, Background Research, Analysis, Writing, Visualization,
 
 Specific Tasks:
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Analysis - Conducted data analysis from relevant literature.
 * Data Curation - Annotated and maintained research data.
 * Writing - Authored model, improved parts, part collection, parts; reviewed materials.
-* Visualization - Responsible for graphics in model design.* Public Engagement - Participated in education and inclusivity activities.
+* Visualization - Responsible for graphics in model design.
+* Public Engagement - Participated in education and inclusivity activities.
 
 ----
 
@@ -138,8 +140,8 @@ Tasks: Conceptualization, Notebook/Record Keeping, Background Research, Public E
 
 Specific Tasks:
 * Conceptualization - Brainstormed and developed the project.
-* Notebook/Record Keeping - Participated in the laboratory notebook.
-* Background Research - Conducted scientific articles for background research.
+* Notebook/Record Keeping - Participated in recording the laboratory notebook.
+* Background Research - Read scientific articles for background research.
 * Public Engagement - Led educational and Human Practice initiatives.
 * Visualization - Created children's picture book, and participated in promotional activities.
 * Writing - Authored attribution, collaboration, notebook, and reviewed materials.
@@ -155,10 +157,10 @@ Tasks: Conceptualization, Background Research, Public Engagement, Writing, Visua
 
 Specific Tasks:
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Public Engagement - Led education and Human Practice initiatives.
 * Writing - Authored inclusivity wiki pages and reviewed content.
-* Visualization - Visualization - Created children's picture book, and led promotional activities.
+* Visualization - Created children's picture book, and led promotional activities.
 
 ----
 
@@ -171,7 +173,7 @@ Specific Tasks:
 * Investigation - Led experiments and data collection efforts.
 * Data Curation - Annotated and maintained research data.
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Notebook/Record Keeping - Maintained the laboratory notebook.
 * Writing - Authored part registry content, engineering and reviewed materials.
 * Safety - Ensured safety compliance in lab.
@@ -187,7 +189,7 @@ Specific Tasks:
 * Analysis - Conducted data analysis from team experiments and relevant literature.
 * Investigation - Led experiments and data collection efforts.
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Notebook/Record Keeping - Maintained the laboratory notebook.
 * Data Curation - Annotated and maintained research data.
 * Public Engagement - Led educational initiatives.
@@ -203,10 +205,10 @@ Tasks: Conceptualization, Background Research, Public Engagement, Visualization,
 
 Specific Tasks:
  * Conceptualization - Brainstormedand developed the project.
- * Background Research - Conducted scientific articles for background research.
+ * Background Research - Read scientific articles for background research.
  * Public Engagement - Led education and Human Practice initiatives.
  * Visualization - Chief designer for wiki design, team logo, user interfaces, promotional and presentation videos, children's picture book, and posters.
- * Writing - Authored education, Human practice, and reviewed materials.
+ * Writing - Authored education, Human Practice, and reviewed materials.
 
 ----
 
@@ -216,11 +218,11 @@ Tasks: Conceptualization, Background Research, Public Engagement, Visualization,
 
 Specific Tasks:
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Public Engagement - Led educational and Human Practice initiatives.
 * Visualization - Contributed to educational visual materials.
 * Writing - Authored Human Practice and inclusivity.
-* Notebook/Record Keeping - Participated in the laboratory notebook.
+* Notebook/Record Keeping - Participated in recording the laboratory notebook.
 * Safety - Ensured safety compliance in the lab.
 
 ----
@@ -231,7 +233,7 @@ Tasks: Background Research, Conceptualization, Public Engagement, Visualization,
 
 Specific Tasks:
 * Conceptualization - Brainstormed and developed the project.
-* Background Research - Conducted scientific articles for background research.
+* Background Research - Read scientific articles for background research.
 * Public Engagement - Participated in education initiatives.
 * Visualization - Led the creation of scripts and content for project presentations and promotional videos.
 * Writing - Authored education and entrepreneurship wiki pages and reviewed materials.

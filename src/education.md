@@ -4,9 +4,9 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 author:
 - name: Yuhan Wang
-  url: /fudan/team/#yuhan-wang
+  url: team/#yuhan-wang
 - name: Kexin Zheng
-  url: /fudan/team/#kexin-zheng
+  url: team/#kexin-zheng
 ---
 
 ## Overview

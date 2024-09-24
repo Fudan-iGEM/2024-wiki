@@ -2,7 +2,7 @@
 title: Sustainable
 author: 
   name: Ruiwen Ma
-  url: /fudan/team/#ruiwen-ma
+  url: team/#ruiwen-ma
 headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
 ---
 

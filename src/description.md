@@ -2,7 +2,7 @@
 title: Description
 author:
   name: Kevin Qi
-  url: /fudan/team/#kevin-qi
+  url: team/#kevin-qi
 headergif: https://static.igem.wiki/teams/5115/header/description-header.gif
 ---
 

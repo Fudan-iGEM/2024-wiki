@@ -4,11 +4,11 @@ headergif: https://static.igem.wiki/teams/5115/header/results-header.gif
 
 author:
 - name: Xujie Tan
-  url: /fudan/team/#xujie-tan
+  url: team/#xujie-tan
 - name: Ruiwen Ma
-  url: /fudan/team/#ruiwen-ma
+  url: team/#ruiwen-ma
 - name: Yi Shi
-  url: /fudan/team/#yi-shi
+  url: team/#yi-shi
 ---
 
 ## Overview

@@ -4,9 +4,9 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 author:
 - name: Xueting Chen
-  url: /fudan/team/#xueting-chen
+  url: team/#xueting-chen
 - name: Ziming Suo
-  url: /fudan/team/#ziming-suo
+  url: team/#ziming-suo
 ---
 
 ## Why did we focus on inclusivity?
