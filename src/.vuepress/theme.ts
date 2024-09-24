@@ -66,7 +66,6 @@ export default hopeTheme({
       katex: false,
       mathjax: true,
       footnote: true,
-
       // install chart.js before enabling it
       // chart: true,
 
