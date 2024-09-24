@@ -6,8 +6,8 @@ import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 
 import theme from "./theme.js";
 
-// 不需要重复引入 const footerPath = path.resolve(__dirname, './components/PageFooter.vue');
-//console.log('Resolved footer path:', footerPath);
+const footerPath = path.resolve(__dirname, './components/PageFooter.vue');
+console.log('Resolved footer path:', footerPath);
 
 export default defineUserConfig({
   base: "/fudan/",
@@ -34,8 +34,8 @@ export default defineUserConfig({
           '@theme': path.resolve('node_modules/@vuepress/theme-default/lib/client/components'),
           "@theme-hope/components/Navbar": path.resolve(__dirname,"./components/Navbar.vue"),
           "@theme-hope/components/PageTitle": path.resolve(__dirname,"./components/PageTitle.vue"),
-          '@theme-hope/components/NormalPage': path.resolve(__dirname, './components/NormalPage.vue'),
-          '@theme-hope/components/PageFooter': path.resolve(__dirname, './components/PageFooter.vue'),
+// 已经js引入 不需要重复 '@theme-hope/components/NormalPage': path.resolve(__dirname, './components/NormalPage.vue'),
+// 已经js引入 不需要重复 '@theme-hope/components/PageFooter': path.resolve(__dirname, './components/PageFooter.vue'),
           '@theme-hope/modules/info/components/AuthorInfo': path.resolve(__dirname, './components/AuthorInfo.vue')
         },
       },
