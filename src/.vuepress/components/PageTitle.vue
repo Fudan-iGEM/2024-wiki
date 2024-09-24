@@ -8,7 +8,6 @@
 <script setup>
 import { computed } from 'vue';
 import { usePageData } from 'vuepress/client';
-import AuthorInfo from './AuthorInfo.vue';
 
 const pageData = usePageData();
 
