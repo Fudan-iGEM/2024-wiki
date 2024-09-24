@@ -1,6 +1,6 @@
 ---
 title: Promotion Video
-headergif: https://static.igem.wiki/teams/5115/header/pv8m7.gif
+headergif: https://static.igem.wiki/teams/5115/header/pv-header.gif
 
 author:
 - name: Yuhan Li
