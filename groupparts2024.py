@@ -18,15 +18,8 @@ from bs4 import BeautifulSoup # 4.12.3
 from time import sleep
 
 
-z = sorted([
-    'BBa_K1687001',
-    'BBa_K2308014',
-    'BBa_K4765021',
-    'BBa_K4162006',
-    'BBa_K4162001',
-    'BBa_K4765020',
-    'BBa_K2652006' ])
-z += range(0, 88)
+z = ['BBa_J18920', 'BBa_K1151001', 'BBa_K4162006', 'BBa_K4765020', 'BBa_K4765021']
+z += range(0, 91)
 #z += range(101, 141)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
@@ -109,7 +102,7 @@ for zz in z:
 fff.write('\n\n| | | Old Part | Description | Type | Not 2024 | Length | |\n')
 fff.write('|----|----|----|----|----|----|----|----|\n')
 fff.close()
-print('\n'.join(["'%s'," % x for x in subparts]))
+print('\n'.join(["'%s'," % x for x in sorted(subparts) ]))
 print('\n\nCAUTION: remove files in parts-html for update\n')
 #print('Validate with https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
 driver.quit()

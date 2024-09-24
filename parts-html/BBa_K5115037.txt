@@ -471,7 +471,7 @@ jQuery('#new_menubar .has_submenu').hover(
 <script>
     installMenu('part_menu_key','BBa_K5115037');
     e_installMenu('e_part_menu_key', 0, 'BBa_K5115037');
-</script></div>
+</script><script>jQuery('#part-menubar').after(" <div style='height:21px;width:955px;background-color:#ff9999;border-bottom:1ps solid black;padding: 4px 0 0 20px;font-size:16px;font-weight:400;color:black'>This part has been discontinued.  No replacement has been specified.</div> ");</script></div> <div style="height:21px;width:955px;background-color:#ff9999;border-bottom:1ps solid black;padding: 4px 0 0 20px;font-size:16px;font-weight:400;color:black">This part has been discontinued.  No replacement has been specified.</div> 
     <script> jQuery('#part-menubar').load('https://parts.igem.org/cgi/aj/part_menubar/reply.cgi',{part:'BBa_K5115037'});</script>
     <!-- close part-menu -->
 <div id="content">
@@ -481,9 +481,9 @@ jQuery('#new_menubar .has_submenu').hover(
 #part_status_wrapper a { color: black; }
 </style>
 <!-- From L/WrapPart _old_wrap_status -->
-<div id="part_status_wrapper"><div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;;background-color:#ffffff;"><a href="https://parts.igem.org/Help:Part_Status_Box">Not Released</a></div>
-<div class="sample_results" style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;;background-color:#ff8888" ;'=""><a href="https://parts.igem.org/Help:Part_Status_Box">Sample Not in stock</a></div>
-<div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;" background-color:white;'="">No Results</div>
+<div id="part_status_wrapper"><div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;;background-color:#ff8888;"><a href="https://parts.igem.org/Help:Part_Status_Box">Deleted</a></div>
+<div class="sample_results" style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;;background-color:#ff8888" ;'=""><a href="https://parts.igem.org/Help:Part_Status_Box">Sample Discontinued</a></div>
+<div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;" background-color:#ffffff;'="">Experience: None</div>
 <div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;"><a href="https://parts.igem.org/partsdb/uses.cgi?part=BBa_K5115037">-1 Uses</a></div>
  <div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none; border:none;"><a href="https://parts.igem.org/partsdb/get_part.cgi?part=BBa_K5115037" '=""> Get This Part</a></div></div><div style="float:right;position:relative;"><img style="padding-top:0px" src="https://parts.igem.org/images/partbypart/icon_dna.png">
               <div style="display:block;font-size:90%;line-height:90%" title="Part Type">DNA</div>
@@ -495,6 +495,10 @@ jQuery('#new_menubar .has_submenu').hover(
     <div id="bodyContent">
         <div id="contentSub"></div>
         <!-- start content -->
+
+<table style="border: solid 1px #880000; background-color: #ff8888;"><tbody><tr><td>
+       <big><b>This part has been deleted.</b></big><br>(You may be able to undelete it below.)
+       </td></tr></tbody></table><br>
 
 <!-- table of contents -->
 <table id="toc" class="toc" summary="Contents"><tbody><tr><td><div id="toctitle"><h2>Contents</h2></div>
@@ -575,7 +579,7 @@ function universalGetById(x, id)
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Part Name</td><td style="width:150px;font-weight:bold;">BBa_K5115037</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
-<tbody><tr><td style="width:200px;font-weight:bold ! important">Short Description</td><td style="width:350px;font-weight:bold">ribozyme+RBS+csoS4B+stem-loop</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
+<tbody><tr><td style="width:200px;font-weight:bold ! important">Short Description</td><td style="width:350px;font-weight:bold">delete037</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Part Type</td><td style="width:150px;">DNA</td><td><img style="border:1px solid gray" src="https://parts.igem.org/images/partbypart/icon_dna.png"></td><td></td></tr></tbody></table><div style="height: 3px"></div>
@@ -587,11 +591,11 @@ function universalGetById(x, id)
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Designer(s)</td><td style="width:350px;font-weight:bold">Liyue Chen</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
-<tbody><tr><td style="width:200px;font-weight:bold ! important">DNA Status</td><td>Planning</td><td></td></tr><tr><td colspan="9" style="font-size: 90%;border-top: 1px solid gray;">DNA is only defined as Available if it is in the repository. <a href="https://parts.igem.org/wiki/index.php/Help:How_to_send_parts">How to send parts.</a></td></tr></tbody></table><div style="height: 3px"></div>
+<tbody><tr><td style="width:200px;font-weight:bold ! important">DNA Status</td><td>Deleted</td><td></td></tr><tr><td colspan="9" style="font-size: 90%;border-top: 1px solid gray;">DNA is only defined as Available if it is in the repository. <a href="https://parts.igem.org/wiki/index.php/Help:How_to_send_parts">How to send parts.</a></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
 <tbody><tr><td colspan="100"><div id="regular_header_5"><table width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#ccccff">
-<tbody><tr><td style="width:200px;font-weight:bold ! important">Qualitative Experience</td><td style="width:150px;"></td><td></td></tr></tbody></table></div></td></tr></tbody></table><div style="height: 3px"></div>
+<tbody><tr><td style="width:200px;font-weight:bold ! important">Qualitative Experience</td><td style="width:150px;">None</td><td></td></tr></tbody></table></div></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Group Favorite</td><td style="width:150px;">No</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
@@ -600,7 +604,7 @@ function universalGetById(x, id)
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Star Rating</td><td style="width:150px;">None</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
-<tbody><tr><td style="width:200px;font-weight:bold ! important">Delete This Part</td><td style="width:150px;">Not Deleted</td><td><table_break>
+<tbody><tr><td style="width:200px;font-weight:bold ! important">Delete This Part</td><td style="width:150px;">Deleted</td><td><table_break>
 </table_break></td></tr></tbody></table></form><br><a name="Page_Footer"></a><h2 class="mw-header">Page Footer</h2>
 
 <!-- parameters -->

@@ -483,10 +483,10 @@ jQuery('#new_menubar .has_submenu').hover(
 <!-- From L/WrapPart _old_wrap_status -->
 <div id="part_status_wrapper"><div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;;background-color:#ffffff;"><a href="https://parts.igem.org/Help:Part_Status_Box">Not Released</a></div>
 <div class="sample_results" style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;;background-color:#ff8888" ;'=""><a href="https://parts.igem.org/Help:Part_Status_Box">Sample Not in stock</a></div>
-<div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;" background-color:white;'="">No Results</div>
+<div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;" background-color:#ffffff;'="">Experience: None</div>
 <div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none;"><a href="https://parts.igem.org/partsdb/uses.cgi?part=BBa_K5115019">-1 Uses</a></div>
- <div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none; border:none;"><a href="https://parts.igem.org/partsdb/get_part.cgi?part=BBa_K5115019" '=""> Get This Part</a></div></div><div style="float:right;position:relative;"><img style="padding-top:0px" src="https://parts.igem.org/images/partbypart/icon_dna.png">
-              <div style="display:block;font-size:90%;line-height:90%" title="Part Type">DNA</div>
+ <div style="display:block;position:relative;height:16px;padding-top:3px;text-align:center;border:1px solid gray;border-top:none; border:none;"><a href="https://parts.igem.org/partsdb/get_part.cgi?part=BBa_K5115019" '=""> Get This Part</a></div></div><div style="float:right;position:relative;"><img style="padding-top:0px" src="https://parts.igem.org/images/partbypart/icon_composite.png">
+              <div style="display:block;font-size:90%;line-height:90%" title="Part Type">Composite</div>
               <div style="display:block;position:relative;top:3px;font-size:90%;line-height:100%" type="Nickname"></div>
               </div>
       <h1 class="firstHeading">Part:BBa_K5115019:Hard Information</h1>   <div style="position: relative;font-size:95%;line-height:100%;">
@@ -578,7 +578,7 @@ function universalGetById(x, id)
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Short Description</td><td style="width:350px;font-weight:bold">ribozyme+RBS+hypF+stem-loop</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
-<tbody><tr><td style="width:200px;font-weight:bold ! important">Part Type</td><td style="width:150px;">DNA</td><td><img style="border:1px solid gray" src="https://parts.igem.org/images/partbypart/icon_dna.png"></td><td></td></tr></tbody></table><div style="height: 3px"></div>
+<tbody><tr><td style="width:200px;font-weight:bold ! important">Part Type</td><td style="width:150px;">Composite</td><td><img style="border:1px solid gray" src="https://parts.igem.org/images/partbypart/icon_composite.png"></td><td></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Nickname</td><td style="width:350px;"></td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
@@ -591,7 +591,7 @@ function universalGetById(x, id)
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
 <tbody><tr><td colspan="100"><div id="regular_header_5"><table width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#ccccff">
-<tbody><tr><td style="width:200px;font-weight:bold ! important">Qualitative Experience</td><td style="width:150px;"></td><td></td></tr></tbody></table></div></td></tr></tbody></table><div style="height: 3px"></div>
+<tbody><tr><td style="width:200px;font-weight:bold ! important">Qualitative Experience</td><td style="width:150px;">None</td><td></td></tr></tbody></table></div></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Group Favorite</td><td style="width:150px;">No</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
