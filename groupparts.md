@@ -40,10 +40,10 @@
 | X |  | [BBa_K5115037](https://parts.igem.org/Part:BBa_K5115037) | delete037 | DNA | Liyue Chen | Length:  346 bp | BBa_K4765020 BBa_K4162006 BBa_K5115028 BBa_K4765021 |
 | |  | [BBa_K5115038](https://parts.igem.org/Part:BBa_K5115038) | ribozyme connected: MTA, Hpn, RcnR_C35L | Composite | Liyue Chen | Length:  1008 bp | BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 |
 | |  | [BBa_K5115039](https://parts.igem.org/Part:BBa_K5115039) | ribozyme connected: Hpn, MTA, RcnR_C35L | Composite | Liyue Chen | Length:  1008 bp | BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 |
-| |  | [BBa_K5115040](https://parts.igem.org/Part:BBa_K5115040) | ribozyme connect：RcnR_C35L, MTA, Hpn | Composite | Liyue Chen | Length:  1008 bp | BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 |
-| |  | [BBa_K5115041](https://parts.igem.org/Part:BBa_K5115041) | ribozyme connected:RcnR_C35L, Hpn, MTA | Composite | Liyue Chen | Length:  1008 bp | BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 |
-| |  | [BBa_K5115042](https://parts.igem.org/Part:BBa_K5115042) | ribozyme connect:MTA, RcnR_C35L, Hpn | Composite | Yi Shi | Length:  1008 bp | BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 |
-| |  | [BBa_K5115043](https://parts.igem.org/Part:BBa_K5115043) | ribozyme connect:Hpn, RcnR_C35L, MTA | Composite | Liyue Chen | Length:  1008 bp | BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 |
+| |  | [BBa_K5115040](https://parts.igem.org/Part:BBa_K5115040) | ribozyme connected: RcnR_C35L, MTA, Hpn | Composite | Liyue Chen | Length:  1008 bp | BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 |
+| |  | [BBa_K5115041](https://parts.igem.org/Part:BBa_K5115041) | ribozyme connected: RcnR_C35L, Hpn, MTA | Composite | Liyue Chen | Length:  1008 bp | BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 |
+| |  | [BBa_K5115042](https://parts.igem.org/Part:BBa_K5115042) | ribozyme connected: MTA, RcnR_C35L, Hpn | Composite | Yi Shi | Length:  1008 bp | BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 |
+| |  | [BBa_K5115043](https://parts.igem.org/Part:BBa_K5115043) | ribozyme connected: Hpn, RcnR_C35L, MTA | Composite | Liyue Chen | Length:  1008 bp | BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 |
 | |  | [BBa_K5115044](https://parts.igem.org/Part:BBa_K5115044) | linker1 | DNA | Liyue Chen | Length:  23 bp | basic |
 | |  | [BBa_K5115045](https://parts.igem.org/Part:BBa_K5115045) | linker2 | DNA | Liyue Chen | Length:  54 bp | basic |
 | |  | [BBa_K5115046](https://parts.igem.org/Part:BBa_K5115046) | linker3 | DNA | Liyue Chen | Length:  77 bp | basic |
@@ -89,7 +89,7 @@
 | |  | [BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086) | NixA-F1v | Composite | Yi Shi | Length:  1280 bp | BBa_K5115071 BBa_K5115088 BBa_K5115085 |
 | |  | [BBa_K5115087](https://parts.igem.org/Part:BBa_K5115087) | F1v-NixA | Composite | Yi Shi | Length:  1280 bp | BBa_K5115085 BBa_K5115088 BBa_K5115071 |
 | |  | [BBa_K5115088](https://parts.igem.org/Part:BBa_K5115088) | linker7 | DNA | Yi Shi | Length:  9 bp | basic |
-| |  | [BBa_K5115089](https://parts.igem.org/Part:BBa_K5115089) | CmR | Coding | Yi Shi | Length:  660 bp | basic |
+| X |  | [BBa_K5115089](https://parts.igem.org/Part:BBa_K5115089) | delete089 | Coding | Yi Shi | Length:  660 bp | basic |
 
 
 | | | Old Part | Description | Type | Not 2024 | Length | |
