@@ -6,9 +6,9 @@ import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 
 import theme from "./theme.js";
 
+// 不需要重复引入 const footerPath = path.resolve(__dirname, './components/PageFooter.vue');
+//console.log('Resolved footer path:', footerPath);
 
-const footerPath = path.resolve(__dirname, './components/PageFooter.vue');
-console.log('Resolved footer path:', footerPath);
 export default defineUserConfig({
   base: "/fudan/",
   lang: "en-US",
