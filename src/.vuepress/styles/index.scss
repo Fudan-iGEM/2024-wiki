@@ -140,12 +140,12 @@ $content-width: 800px !default;
       top: calc(var(--navbar-height) + 1rem);
       margin-top: 0rem;
       margin-bottom: 35rem; 
-      /* max-height: calc(100vh - 500rem - 3rem); */
-      .theme-hope-content:not(.custom){
-        margin-bottom: 0rem;
-        margin-top: -35rem;
-      }
-  }
+      /* max-height: calc(100vh - 500rem - 3rem); */}
+  .theme-hope-content:not(.custom){
+      margin-bottom: 0rem;
+      margin-top: -35rem;
+    }
+  
 }
 .vp-toggle-sidebar-button {
   display: none !important;
@@ -259,7 +259,7 @@ color: #0790B8;
 
     h1{
       color: #f2b90f;
-      text-shadow: 12px 7.5px 0px rgba(91, 117, 181, 1);
+      text-shadow: 0.5vw 0.55vw 0px rgba(91, 117, 181, 1);
       padding-right: 12px;
     };
     h2 .header-anchor {

@@ -149,7 +149,7 @@ In the Survival System, we introduced the **Anti-UV Module**, **Anti-Freeze Modu
 
 We tested multiple proteins in *E. coli* to enhance its resistance to UV radiation, mitigating biomolecule damage induced by radiation.
 
-1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance. They upregulate DNA repair or binding proteins (Rv Dsup[^9][^10], [*Hypsibius exemplaris* mtSSB](https://parts.igem.org/Part:BBa_K4765016)) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](https://parts.igem.org/Part:BBa_K4765018) and [XRCC1](https://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/results/).
+1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance. They upregulate DNA repair or binding proteins (Rv Dsup[^9][^10], [*Hypsibius exemplaris* mtSSB](https://parts.igem.org/Part:BBa_K4765016)) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](https://parts.igem.org/Part:BBa_K4765018) and [XRCC1](https://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/fudan/results/).
 
 2.   **Transfer UV Absorption:** Informed by insights from [LINKS iGEM 2022](https://2022.igem.wiki/links-china/description)[^11], we enriched *E.coli* with UV-absorbing[^12] substance, Mycosporine-like amino acids (MAAs), acting as a sunscreen for the biofilm.
 
