@@ -11,7 +11,7 @@ headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/sdgs/9sdgs.png" style='width:50%'>
     <div>
-    	<span style="color:gray">Our project tones in with 9 of the 17 SDGs</span>
+        <span style="color:gray">Our project tones in with 9 of the 17 SDGs</span>
         <br><br>
     </div>
 </div>
