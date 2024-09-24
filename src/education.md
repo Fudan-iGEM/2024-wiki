@@ -1,6 +1,6 @@
 ---
 title: Education
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/education-header.gif
 
 author:
 - name: Yuhan Wang

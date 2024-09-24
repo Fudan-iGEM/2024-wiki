@@ -3,7 +3,7 @@ title: Software
 author:
   name: Hongcheng Chen
   url: /fudan/team/#hongcheng-chen
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/software-header.gif
 ---
 
 <br><br>
@@ -132,7 +132,7 @@ To use RAP, please follow the following four steps:
    </div>
 
    | Keword Type | Meaning & Format                                             | Query           |
-      | ----------- | ------------------------------------------------------------ | --------------- |
+   | ----------- | ------------------------------------------------------------ | --------------- |
    | EC number   | EC number of the reaction (e.g. x.y.z.w), it's fine to just enter part of the EC number | 1.1.1.101       |
    | Name        | The name of the reaction                                     | Nadh peroxidase |
    | Type        | Reaction type                                                | Oxidation       |
