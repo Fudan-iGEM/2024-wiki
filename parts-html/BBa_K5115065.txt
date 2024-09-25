@@ -1474,7 +1474,7 @@ Assembly Compatibility:<ul>
     <div style="position:absolute;top:2px;left:40px;">BBa_K5115040</div>
     <input style="visibility:hidden; position:absolute; top:-1px;left:40px;width:90px;" value="BBa_K5115040">
   </div></td>
-<td class="short_desc" style="padding-right:5px;">ribozyme connect：RcnR_C35L, MTA, Hpn</td>
+<td class="short_desc" style="padding-right:5px;">ribozyme connected: RcnR_C35L, MTA, Hpn</td>
 </tr>
 <tr data-tt-parent-id="17" data-tt-id="17-1" data-subpart="P90868" class="branch" style="display: none;">
 <td style="width:240px;height:25px;"><span class="indenter"></span>
@@ -1757,7 +1757,7 @@ Assembly Compatibility:<ul>
     <div style="position:absolute;top:2px;left:40px;">BBa_K5115041</div>
     <input style="visibility:hidden; position:absolute; top:-1px;left:40px;width:90px;" value="BBa_K5115041">
   </div></td>
-<td class="short_desc" style="padding-right:5px;">ribozyme connected:RcnR_C35L, Hpn, MTA</td>
+<td class="short_desc" style="padding-right:5px;">ribozyme connected: RcnR_C35L, Hpn, MTA</td>
 </tr>
 <tr data-tt-parent-id="21" data-tt-id="21-1" data-subpart="P90868" class="branch" style="display: none;">
 <td style="width:240px;height:25px;"><span class="indenter"></span>

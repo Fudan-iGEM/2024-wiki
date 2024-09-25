@@ -19,7 +19,7 @@ from time import sleep
 
 
 z = ['BBa_J18920', 'BBa_K1151001', 'BBa_K4162006', 'BBa_K4765020', 'BBa_K4765021']
-z += range(0, 91)
+z += range(0, 92)
 #z += range(101, 141)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')

@@ -9,6 +9,8 @@ author:
   url: /fudan/team/#kexin-zheng
 ---
 
+<br><br>
+
 As mentioned in [Mencius](https://en.wikipedia.org/wiki/Mencius), the wise enlighten others through their own clarity; today, those who are confused can also enlighten others. This underscores the importance of *self-education* before *educating others*. We realize that understanding knowledge from the perspective of learners is essential for effective education. Thus, while conducting our  educational activities this year, we focuse on exploring the needs of our target audience and developing the educational skills of our members.
 
 Our goal is to inspire students across all educational stages in China, planting the seeds of [synthetic biology](https://en.wikipedia.org/wiki/Synthetic_biology) within schools, so they can consider this field in their future career paths and interests.
@@ -55,6 +57,7 @@ During discussions in the 4th sub-forum, we learned an important educational pri
     <img src="https://static.igem.wiki/teams/5115/education-zkx/forumrepresentive1.webp" style='width:100%'>
     <div>
     	<span style="color: gray">Figure 4: Team member Xueting Chen is participating a roundtable discussion.</span>
+        <br><br>
     </div>
 </div>
 
@@ -106,7 +109,7 @@ Building on [the roundtable discussion](#details-about-the-educaiton-forum), we 
 
 ## Education for Kindergarten
 
-## Our Ground for Future‘s Building On
+## Future Development Plan
 
 ## Summary
 

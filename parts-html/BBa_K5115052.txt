@@ -747,7 +747,7 @@ Assembly Compatibility:<ul>
     <div style="position:absolute;top:2px;left:40px;">BBa_K5115003</div>
     <input style="visibility:hidden; position:absolute; top:-1px;left:40px;width:90px;" value="BBa_K5115003">
   </div></td>
-<td class="short_desc" style="padding-right:5px;">hoxU</td>
+<td class="short_desc" style="padding-right:5px;">hoxU, without stop codon</td>
 </tr>
 <tr data-tt-parent-id="1" data-tt-id="1-6" data-subpart="Stactagag" class="leaf" style="display: none;">
 <td style="width:240px;height:25px"><span class="indenter"></span>
@@ -759,7 +759,26 @@ Assembly Compatibility:<ul>
 </td>
 <td class="short_desc">tactagag</td>
 </tr>
-<tr data-tt-parent-id="1" data-tt-id="1-7" data-subpart="P81477" class="leaf" style="display: none;">
+<tr data-tt-parent-id="1" data-tt-id="1-7" data-subpart="P90790" class="leaf" style="display: none;">
+<td style="width:240px;height:25px;"><span class="indenter"></span>
+ <div style="display:inline;position:relative;">
+    <img class="part_icon" style="height:20px;" src="https://parts.igem.org/images/partbypart/icon_dna.png">
+    <div style="position:absolute;top:2px;left:40px;">BBa_K5115088</div>
+    <input style="visibility:hidden; position:absolute; top:-1px;left:40px;width:90px;" value="BBa_K5115088">
+  </div></td>
+<td class="short_desc" style="padding-right:5px;">stop codon</td>
+</tr>
+<tr data-tt-parent-id="1" data-tt-id="1-8" data-subpart="Stactagag" class="leaf" style="display: none;">
+<td style="width:240px;height:25px"><span class="indenter"></span>
+ <div style="display:inline;position:relative;">
+    <img class="scar_icon" style="height:20px;" src="/images/partbypart/icon_scar_25_37.png">
+    <div style="position:absolute;top:4px;left:40px;">RFC[10]</div>
+    <input style="visibility:hidden; position:absolute; top:-1px;left:40px;width:90px;" value="RFC[10]">
+  </div>
+</td>
+<td class="short_desc">tactagag</td>
+</tr>
+<tr data-tt-parent-id="1" data-tt-id="1-9" data-subpart="P81477" class="leaf" style="display: none;">
 <td style="width:240px;height:25px;"><span class="indenter"></span>
  <div style="display:inline;position:relative;">
     <img class="part_icon" style="height:20px;" src="https://parts.igem.org/images/partbypart/icon_rna.png">

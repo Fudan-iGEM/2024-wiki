@@ -13,12 +13,12 @@
           <a href="https://www.yfc.cn/" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/czh/yf-lyh.svg" alt="yfc.cn" />
           </a>
-          <a href="#" target="_blank">
+          <!-- a href="#" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/test/additional-sponsor-1.png" alt="additional sponsor #1" />
           </a>
           <a href="#" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/test/additional-sponsor-2.png" alt="additional sponsor #2" />
-          </a>
+          </a -->
           <a href="https://www.fudan.edu.cn/en/" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/czh/fudan-lyh.svg" alt="www.fudan.edu.cn" />
           </a>

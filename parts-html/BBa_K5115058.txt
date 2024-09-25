@@ -700,7 +700,7 @@ Assembly Compatibility:<ul>
     <div style="position:absolute;top:2px;left:40px;">BBa_K5115001</div>
     <input style="visibility:hidden; position:absolute; top:-1px;left:40px;width:90px;" value="BBa_K5115001">
   </div></td>
-<td class="short_desc" style="padding-right:5px;">hoxF</td>
+<td class="short_desc" style="padding-right:5px;">hoxF, without stop codon</td>
 </tr>
 <tr data-tt-id="2" data-subpart="Stactagag" class="leaf collapsed">
 <td style="width:240px;height:25px"><span class="indenter" style="padding-left: 0px;"></span>

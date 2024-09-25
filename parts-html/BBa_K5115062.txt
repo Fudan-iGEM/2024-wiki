@@ -747,7 +747,7 @@ Assembly Compatibility:<ul>
     <div style="position:absolute;top:2px;left:40px;">BBa_K5115003</div>
     <input style="visibility:hidden; position:absolute; top:-1px;left:40px;width:90px;" value="BBa_K5115003">
   </div></td>
-<td class="short_desc" style="padding-right:5px;">hoxU</td>
+<td class="short_desc" style="padding-right:5px;">hoxU, without stop codon</td>
 </tr>
 <tr data-tt-parent-id="5" data-tt-id="5-2" data-subpart="Stactagag" class="leaf" style="display: none;">
 <td style="width:240px;height:25px"><span class="indenter"></span>
