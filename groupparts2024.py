@@ -23,9 +23,10 @@ z += range(0, 91)
 #z += range(101, 141)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
-fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | |\n')
-fff.write('|----|----|----|----|----|----|----|----|\n')
+fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | Compatible | |\n')
+fff.write('|----|----|----|----|----|----|----|----|----|\n')
 subparts = []
+basic_parts = []
 
 for zz in z:
     if str(zz).startswith('BBa_'):
@@ -55,8 +56,8 @@ for zz in z:
     p3 = p1.find('span', {'class': 'SnF_partSeqLength legend'}).get_text().strip()
     print(p3)
     p4 = p1.find('div', {'class': 'compatibility_div'}).get_text().find('COMPATIBLE WITH RFC[10]') > -1
-    print('RFC[10]', p4)
     if p4 != True:
+        print('RFC[10] compatible:', p4)
         sleep(99)
     td = []
     favorited = ''
@@ -80,6 +81,10 @@ for zz in z:
         if tr_text.startswith('Group Favorite') and tr_text.find('Yes') > -1:
             favorited = 'U'
     fff.write('| %s | %s | %s | ' % (favorited, ' | '.join(td), p3) )
+    if p4 != True:
+        fff.write('@@ | ')
+    else:
+        fff.write('RFC10 | ')
     try:
         p5 = p1.find_all('table', {'id' : 'subpart_table'})[0].find_all('input')
         if p5:
@@ -94,15 +99,20 @@ for zz in z:
             fff.write('|\n')
         else:
             fff.write('basic |\n')
+            if part_name not in basic_parts:
+                basic_parts.append( part_name )
     except:
         print('!! fail to extract subparts')
         fff.write(' |\n')
     print('\n\n')
 
-fff.write('\n\n| | | Old Part | Description | Type | Not 2024 | Length | |\n')
-fff.write('|----|----|----|----|----|----|----|----|\n')
+fff.write('\n\n| | | Old Part | Description | Type | Not 2024 | Length | Compatible | |\n')
+fff.write('|----|----|----|----|----|----|----|----|----|\n')
 fff.close()
+print('\n\n====\nBelow are subparts in composite parts:\n')
 print('\n'.join(["'%s'," % x for x in sorted(subparts) ]))
+print('\n====\nBelow are basic parts:\n')
+print('\n'.join(["'%s'," % x for x in sorted(basic_parts) ]))
 print('\n\nCAUTION: remove files in parts-html for update\n')
 #print('Validate with https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
 driver.quit()
