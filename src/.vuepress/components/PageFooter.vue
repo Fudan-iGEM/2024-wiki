@@ -10,13 +10,19 @@
   
       <div class="footer-wrapper" >
         <div class="logos">
-          <a href="http://www.yfc.cn/" target="blank">
+          <a href="https://www.yfc.cn/" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/czh/yf-lyh.svg" alt="yfc.cn" />
           </a>
-          <a href="https://www.fudan.edu.cn/en/" target="blank">
+          <a href="#" target="_blank">
+            <img class="logo" src="https://static.igem.wiki/teams/5115/test/additional-sponsor-1.png" alt="additional sponsor #1" />
+          </a>
+          <a href="#" target="_blank">
+            <img class="logo" src="https://static.igem.wiki/teams/5115/test/additional-sponsor-2.png" alt="additional sponsor #2" />
+          </a>
+          <a href="https://www.fudan.edu.cn/en/" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/czh/fudan-lyh.svg" alt="www.fudan.edu.cn" />
           </a>
-          <a href="https://life.fudan.edu.cn/main.htm" target="blank">
+          <a href="https://life.fudan.edu.cn/main.htm" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/czh/life-lyh.svg" alt="life.fudan.edu.cn" />
           </a>
           <a href="https://2024.igem.wiki/fudan/">
