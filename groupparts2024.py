@@ -19,7 +19,7 @@ from time import sleep
 
 
 z = ['BBa_J18920', 'BBa_K1151001', 'BBa_K4162006', 'BBa_K4765020', 'BBa_K4765021']
-z += range(0, 92)
+z += range(0, 91)
 #z += range(101, 141)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
@@ -55,10 +55,7 @@ for zz in z:
         p2 = p1.find_all('table', {'id' : 'table_header'})
     p3 = p1.find('span', {'class': 'SnF_partSeqLength legend'}).get_text().strip()
     print(p3)
-    p4 = p1.find('div', {'class': 'compatibility_div'}).get_text().find('COMPATIBLE WITH RFC[10]') > -1
-    if p4 != True:
-        print('RFC[10] compatible:', p4)
-        sleep(99)
+    p4 = p1.find('div', {'class': 'compatibility_div'}).get_text().find('INCOMPATIBLE WITH RFC[10]') > -1
     td = []
     favorited = ''
     for tr in p2:
@@ -81,8 +78,10 @@ for zz in z:
         if tr_text.startswith('Group Favorite') and tr_text.find('Yes') > -1:
             favorited = 'U'
     fff.write('| %s | %s | %s | ' % (favorited, ' | '.join(td), p3) )
-    if p4 != True:
+    if p4 == True:
         fff.write('@@ | ')
+        print('RFC[10] incompatible!!!!!!!\n\n\n\n\n\n\n')
+        sleep(9)
     else:
         fff.write('RFC10 | ')
     try:
@@ -95,7 +94,7 @@ for zz in z:
                     fff.write('%s ' % inp['value'] )
                     if inp['value'] not in subparts:
                         subparts.append( inp['value'] )
-            print('!! subpart_table count %d BBa_' % subpartss)
+            print('__ subpart_table count %d BBa_' % subpartss)
             fff.write('|\n')
         else:
             fff.write('basic |\n')
