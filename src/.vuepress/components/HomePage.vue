@@ -147,7 +147,6 @@
           }
         });
   
-        // 您的动画代码...
         tl.fromTo(
           ['.frame0', '.frame1', '.frame2'],
           { scale: 1, transformOrigin: 'center center' },
@@ -156,7 +155,18 @@
         )
           .addLabel('afterScaling')
           .fromTo('.frame7', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-          // 继续添加其他动画
+          .fromTo('.frame6', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+          .fromTo('.frame4', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+          .fromTo('.wave1', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+          .fromTo('.wave2', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+          .fromTo('.wave3', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+          .fromTo('.wave4', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+          .fromTo('.cloud1', { y: 100 }, { y: -800, duration: 5 }, 'afterScaling')
+          .fromTo('.carbo1', { y: 0 }, { y: -500, duration: 5 }, 'afterScaling')
+          .fromTo('.carbo2', { y: 0 }, { y: -500, duration: 5 }, 'afterScaling')
+          .fromTo('.carbo3', { y: -100 }, { y: -100, duration: 5 }, 'afterScaling')
+          .fromTo('.carbo4', { y: -30 }, { y: -250, duration: 5 }, 'afterScaling')
+          .fromTo('.carbo5', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling');
       }
     }
   };
