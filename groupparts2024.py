@@ -27,6 +27,56 @@ fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | Co
 fff.write('|----|----|----|----|----|----|----|----|----|\n')
 subparts = []
 basic_parts = []
+known_basic_parts = ['BBa_J18920',
+'BBa_K1151001',
+'BBa_K4162006',
+'BBa_K4765020',
+'BBa_K4765021',
+'BBa_K5115000',
+'BBa_K5115001',
+'BBa_K5115002',
+'BBa_K5115003',
+'BBa_K5115004',
+'BBa_K5115005',
+'BBa_K5115006',
+'BBa_K5115007',
+'BBa_K5115008',
+'BBa_K5115009',
+'BBa_K5115010',
+'BBa_K5115021',
+'BBa_K5115022',
+'BBa_K5115023',
+'BBa_K5115024',
+'BBa_K5115025',
+'BBa_K5115026',
+'BBa_K5115027',
+'BBa_K5115028',
+'BBa_K5115029',
+'BBa_K5115030',
+'BBa_K5115031',
+'BBa_K5115032',
+'BBa_K5115044',
+'BBa_K5115045',
+'BBa_K5115046',
+'BBa_K5115047',
+'BBa_K5115048',
+'BBa_K5115049',
+'BBa_K5115050',
+'BBa_K5115054',
+'BBa_K5115055',
+'BBa_K5115069',
+'BBa_K5115070',
+'BBa_K5115071',
+'BBa_K5115072',
+'BBa_K5115073',
+'BBa_K5115074',
+'BBa_K5115075',
+'BBa_K5115076',
+'BBa_K5115083',
+'BBa_K5115084',
+'BBa_K5115085',
+'BBa_K5115088',
+'BBa_K5115089' ]
 
 for zz in z:
     if str(zz).startswith('BBa_'):
@@ -84,7 +134,7 @@ for zz in z:
     if p4 == True:
         fff.write('@@ | ')
         print('RFC[10] incompatible!!!!!!!')
-        sleep(10)
+        ##sleep(10)
     else:
         fff.write('RFC10 | ')
     try:
@@ -96,6 +146,8 @@ for zz in z:
                     subpartss += 1
                     fff.write('%s ' % inp['value'] )
                     if inp['value'] not in subparts:
+                        if inp['value'] not in known_basic_parts:
+                            print('__ %s is NOT basic' % inp['value'] )
                         subparts.append( inp['value'] )
             print('__ subpart_table count %d BBa_' % subpartss)
             fff.write('|\n')

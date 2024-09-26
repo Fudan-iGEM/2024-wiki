@@ -1,8 +1,5 @@
 | | | Part Name | Description | Part Type | Designer(s) | Length | Compatible | |
 |----|----|----|----|----|----|----|----|----|
-| |  | [BBa_K5115000](https://parts.igem.org/Part:BBa_K5115000) | RcnR_C35L | Coding | Yi Shi | Length:  273 bp | @@ | basic |
-| |  | [BBa_K5115001](https://parts.igem.org/Part:BBa_K5115001) | hoxF, without stop codon | Coding | Liyue Chen | Length:  1803 bp | RFC10 | basic |
-| |  | [BBa_K5115002](https://parts.igem.org/Part:BBa_K5115002) | EP | Coding | Yi Shi | Length:  837 bp | @@ | basic |
 | |  | [BBa_K5115003](https://parts.igem.org/Part:BBa_K5115003) | hoxU, without stop codon | Coding | Liyue Chen | Length:  702 bp | RFC10 | basic |
 | |  | [BBa_K5115004](https://parts.igem.org/Part:BBa_K5115004) | hoxY | Coding | Liyue Chen | Length:  630 bp | RFC10 | basic |
 | |  | [BBa_K5115005](https://parts.igem.org/Part:BBa_K5115005) | hoxH | Coding | Liyue Chen | Length:  1467 bp | RFC10 | basic |
@@ -94,8 +91,3 @@
 
 | | | Old Part | Description | Type | Not 2024 | Length | Compatible | |
 |----|----|----|----|----|----|----|----|----|
-| |  | [BBa_J18920](https://parts.igem.org/Part:BBa_J18920) | 2aa GS linker | Protein_Domain | Raik Gruenberg | Length:  6 bp | RFC10 | basic |
-| |  | [BBa_K1151001](https://parts.igem.org/Part:BBa_K1151001) | Histidine-rich metal-binding protein | Coding | Davide Magrì | Length:  182 bp | RFC10 | basic |
-| |  | [BBa_K4162006](https://parts.igem.org/Part:BBa_K4162006) | T7_RBS | RBS | Weiwen Chen | Length:  17 bp | RFC10 | basic |
-| |  | [BBa_K4765020](https://parts.igem.org/Part:BBa_K4765020) | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 | RNA | Siliang Zhan | Length:  44 bp | RFC10 | basic |
-| |  | [BBa_K4765021](https://parts.igem.org/Part:BBa_K4765021) | stem-loop 1, from 10.1021/acssynbio.2c00416 | RNA | Siliang Zhan | Length:  20 bp | RFC10 | basic |
