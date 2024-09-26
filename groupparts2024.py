@@ -41,6 +41,7 @@ for zz in z:
         waiting = 30
         while not p1.find('span', {'class': 'SnF_partSeqLength legend'}) and waiting > 0:
             sleep(2)
+            p1 = BeautifulSoup(driver.page_source, features="lxml")
             waiting -= 1
     else:
         print('load:\t', part_name)
