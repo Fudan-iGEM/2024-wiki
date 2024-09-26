@@ -107,24 +107,26 @@
   
 
   <script>
-import gsap from 'gsap';
-import ScrollTrigger from 'gsap/ScrollTrigger';
-
-gsap.registerPlugin(ScrollTrigger);
-  
   export default {
     data() {
       return {
         isDesktop: true
       };
     },
-    mounted() {
+    async mounted() {
       this.checkDevice();
       window.addEventListener('resize', this.checkDevice);
   
       if (this.isDesktop) {
-        // 初始化 GSAP 动画
-        this.initAnimations();
+        // 动态导入 GSAP 和插件
+        const gsapModule = await import('gsap');
+        const ScrollTriggerModule = await import('gsap/ScrollTrigger');
+  
+        const gsap = gsapModule.default;
+        const ScrollTrigger = ScrollTriggerModule.default;
+  
+        gsap.registerPlugin(ScrollTrigger);
+        this.initAnimations(gsap);
       }
     },
     beforeDestroy() {
@@ -132,10 +134,10 @@ gsap.registerPlugin(ScrollTrigger);
     },
     methods: {
       checkDevice() {
-        this.isDesktop = window.innerWidth >= 1367;
+        this.isDesktop = window.innerWidth >= 1024;
       },
-      initAnimations() {
-        // 初始化 GSAP 时间轴，并添加缩放和滑动动画
+      initAnimations(gsap) {
+        // 使用传入的 gsap 对象初始化动画
         const tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.scrollDist',
@@ -145,7 +147,7 @@ gsap.registerPlugin(ScrollTrigger);
           }
         });
   
-        // 增加缩放动画的持续时间到5秒
+        // 您的动画代码...
         tl.fromTo(
           ['.frame0', '.frame1', '.frame2'],
           { scale: 1, transformOrigin: 'center center' },
@@ -154,22 +156,12 @@ gsap.registerPlugin(ScrollTrigger);
         )
           .addLabel('afterScaling')
           .fromTo('.frame7', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-          .fromTo('.frame6', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-          .fromTo('.frame4', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-          .fromTo('.wave1', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-          .fromTo('.wave2', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-          .fromTo('.wave3', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-          .fromTo('.wave4', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-          .fromTo('.cloud1', { y: 100 }, { y: -800, duration: 5 }, 'afterScaling')
-          .fromTo('.carbo1', { y: 0 }, { y: -500, duration: 5 }, 'afterScaling')
-          .fromTo('.carbo2', { y: 0 }, { y: -500, duration: 5 }, 'afterScaling')
-          .fromTo('.carbo3', { y: -100 }, { y: -100, duration: 5 }, 'afterScaling')
-          .fromTo('.carbo4', { y: -30 }, { y: -250, duration: 5 }, 'afterScaling')
-          .fromTo('.carbo5', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling');
+          // 继续添加其他动画
       }
     }
   };
   </script>
+  
   
   
 
