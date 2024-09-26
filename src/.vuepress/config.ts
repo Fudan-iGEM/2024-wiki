@@ -36,6 +36,7 @@ export default defineUserConfig({
           "@theme-hope/components/PageTitle": path.resolve(__dirname,"./components/PageTitle.vue"),
           '@theme-hope/components/NormalPage': path.resolve(__dirname, './components/NormalPage.vue'),
           '@theme-hope/components/PageFooter': path.resolve(__dirname, './components/PageFooter.vue'),
+          /* '@theme-hope/components/HomePage': path.resolve(__dirname, './components/HomePage.vue'), */
           '@theme-hope/modules/info/components/AuthorInfo': path.resolve(__dirname, './components/AuthorInfo.vue')
         },
       },
