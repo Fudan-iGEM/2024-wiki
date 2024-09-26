@@ -38,21 +38,23 @@ for zz in z:
         driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=%s" % part_name)
         sleep(10)
         p1 = BeautifulSoup(driver.page_source, features="lxml")
-        p2 = p1.find_all('table', {'id' : 'table_header'})
-        if p2:
-            f = open('parts-html/%s.txt' % part_name, 'w')
-            f.write(driver.page_source)
-            f.close()
-        else:
-            print('!! empty\n')
-            continue
+        waiting = 30
+        while not p1.find('span', {'class': 'SnF_partSeqLength legend'}) and waiting > 0:
+            sleep(2)
+            waiting -= 1
     else:
         print('load:\t', part_name)
         ff = open('parts-html/%s.txt' % part_name, 'r')
         page = ff.read()
         ff.close()
         p1 = BeautifulSoup(page, features="lxml")
-        p2 = p1.find_all('table', {'id' : 'table_header'})
+    p2 = p1.find_all('table', {'id' : 'table_header'})
+    if not p2:
+        print('!! empty\n')
+        continue
+    f = open('parts-html/%s.txt' % part_name, 'w')
+    f.write(driver.page_source)
+    f.close()
     p3 = p1.find('span', {'class': 'SnF_partSeqLength legend'}).get_text().strip()
     print(p3)
     p4 = p1.find('div', {'class': 'compatibility_div'}).get_text().find('INCOMPATIBLE WITH RFC[10]') > -1
@@ -80,8 +82,8 @@ for zz in z:
     fff.write('| %s | %s | %s | ' % (favorited, ' | '.join(td), p3) )
     if p4 == True:
         fff.write('@@ | ')
-        print('RFC[10] incompatible!!!!!!!\n\n\n\n\n\n\n')
-        sleep(9)
+        print('RFC[10] incompatible!!!!!!!')
+        sleep(10)
     else:
         fff.write('RFC10 | ')
     try:
