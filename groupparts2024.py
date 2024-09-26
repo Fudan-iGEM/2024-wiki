@@ -19,6 +19,11 @@ from time import sleep
 
 
 z = ['BBa_J18920', 'BBa_K1151001', 'BBa_K4162006', 'BBa_K4765020', 'BBa_K4765021']
+z += ['BBa_K4162001', 'BBa_K4162009', 'BBa_K4162010', 'BBa_K4162011', 'BBa_K4162012',
+ 'BBa_K4162013', 'BBa_K4162014', 'BBa_K4162016', 'BBa_K4162019', 'BBa_K4162021',
+ 'BBa_K4162022', 'BBa_K4162023', 'BBa_K4162101', 'BBa_K4162103', 'BBa_K4162106',
+ 'BBa_K4162107', 'BBa_K4162108', 'BBa_K4162112', 'BBa_K4765022', 'BBa_K4765022',
+ 'BBa_K4765111', 'BBa_K4765112', 'BBa_K4765113', 'BBa_K4765117', 'BBa_K4765126' ] # testing software tool
 z += range(0, 91)
 #z += range(101, 141)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
@@ -26,6 +31,7 @@ fff = open('groupparts.md', 'w')
 fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | Compatible | |\n')
 fff.write('|----|----|----|----|----|----|----|----|----|\n')
 subparts = []
+sub_is_NOT_basic = []
 basic_parts = []
 known_basic_parts = ['BBa_J18920',
 'BBa_K1151001',
@@ -83,8 +89,16 @@ for zz in z:
         part_name = zz
     else:
         part_name = 'BBa_K5115%s' % str(zz).zfill(3) # Team Fudan iGEM 2024
-    if not os.path.isfile('parts-html/%s.txt' % part_name):
-        print('init:\t', part_name)
+    local = False
+    if os.path.isfile('parts-html/%s.txt' % part_name):
+        print('load:\t', part_name)
+        ff = open('parts-html/%s.txt' % part_name, 'r')
+        page = ff.read()
+        ff.close()
+        if page != '<html><head></head><body></body></html>':
+            local = BeautifulSoup(page, features="lxml")
+    if not local:
+        print('fetch:\t', part_name)
         driver.get("https://parts.igem.org/cgi/partsdb/part_info.cgi?part_name=%s" % part_name)
         sleep(10)
         p1 = BeautifulSoup(driver.page_source, features="lxml")
@@ -94,18 +108,11 @@ for zz in z:
             p1 = BeautifulSoup(driver.page_source, features="lxml")
             waiting -= 1
     else:
-        print('load:\t', part_name)
-        ff = open('parts-html/%s.txt' % part_name, 'r')
-        page = ff.read()
-        ff.close()
-        p1 = BeautifulSoup(page, features="lxml")
+        p1 = local
     p2 = p1.find_all('table', {'id' : 'table_header'})
     if not p2:
         print('!! empty\n')
         continue
-    f = open('parts-html/%s.txt' % part_name, 'w')
-    f.write(driver.page_source)
-    f.close()
     p3 = p1.find('span', {'class': 'SnF_partSeqLength legend'}).get_text().strip()
     print(p3)
     p4 = p1.find('div', {'class': 'compatibility_div'}).get_text().find('INCOMPATIBLE WITH RFC[10]') > -1
@@ -134,7 +141,7 @@ for zz in z:
     if p4 == True:
         fff.write('@@ | ')
         print('RFC[10] incompatible!!!!!!!')
-        ##sleep(10)
+        sleep(10)
     else:
         fff.write('RFC10 | ')
     try:
@@ -146,15 +153,19 @@ for zz in z:
                     subpartss += 1
                     fff.write('%s ' % inp['value'] )
                     if inp['value'] not in subparts:
-                        if inp['value'] not in known_basic_parts:
-                            print('__ %s is NOT basic' % inp['value'] )
                         subparts.append( inp['value'] )
+                        if inp['value'] not in known_basic_parts: # white_list_some
+                            sub_is_NOT_basic.append( inp['value'] )
             print('__ subpart_table count %d BBa_' % subpartss)
             fff.write('|\n')
         else:
             fff.write('basic |\n')
             if part_name not in basic_parts:
                 basic_parts.append( part_name )
+        if not local:
+            f = open('parts-html/%s.txt' % part_name, 'w')
+            f.write(driver.page_source)
+            f.close()
     except:
         print('!! fail to extract subparts')
         fff.write(' |\n')
@@ -167,6 +178,8 @@ print('\n\n====\nBelow are subparts in composite parts:\n')
 print('\n'.join(["'%s'," % x for x in sorted(subparts) ]))
 print('\n====\nBelow are basic parts:\n')
 print('\n'.join(["'%s'," % x for x in sorted(basic_parts) ]))
+print('\n====\nSubparts are Not basic, and not white listed:\n')
+print('\n'.join(["'%s'," % x for x in sorted(sub_is_NOT_basic) ]))
 print('\n\nCAUTION: remove files in parts-html for update\n')
 #print('Validate with https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
 driver.quit()
