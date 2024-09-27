@@ -7,7 +7,6 @@ headergif: https://static.igem.wiki/teams/5115/header/description-header.gif
 ---
 
 
-
 ## Another Lesson?
 
 Humans often realize their mistakes only when the damage is irreparable, a lesson echoed throughout history. Our relentless overexploitation of natural resources has left scars on the environment, and the cycle of neglect persists. While metals like copper and aluminum are now commonly recycled, others, such as nickel, still lag far behind, following the very paths we've seen before.

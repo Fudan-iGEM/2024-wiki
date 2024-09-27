@@ -35,7 +35,7 @@ Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around
 Additionally, we designed application forms for different scenarios, which are demonstrated in our "Multi-Application Scenarios" part. 具体是什么样的adjustments，取得了什么样的good performance 呢？ 
 
 
-### **Section 1: Constructing aCNT Composite Fibers**
+### Section 1: Constructing aCNT Composite Fibers
 
 #### Laboratory Preparation
 
@@ -67,11 +67,7 @@ We propose to use the apparatus shown in [Figure 3](#fig3) to produce sCNT in la
 </div>
 
 
-
-
-
-
-### Section 2 : Assembling the Fiber-Bacteria System
+### Section 2: Assembling the Fiber-Bacteria System
 
 Use a spinning machine to spiral our composite fibers into bundles and weave them into the desired size and shape.
 
@@ -86,12 +82,9 @@ Soak the woven fiber material in bacterial solution. Stand for 30 minutes to fac
 </div>
 
 
-
-
-### Section3 **Multi-Application Scenarios**
+### Section 3: Multi-Application Scenarios
 
 Our aCNT composite fibers can be used in multiple scenarios. In industrial environments, the complete composite fiber-engineered bacteria system can be placed inside the wastewater treatment device. Engineered bacteria on the fiber absorb and reduce nickel ions as the wastewater flows through the fiber mesh. In natural water bodies, we can weave the fiber into nets similar to fishing nets. Once fixed to the banks of rivers or wooden poles in the water, the fiber nets can naturally hang into the water and achieve purification.
-
 
 
 ## Testing
