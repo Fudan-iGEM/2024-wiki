@@ -61,11 +61,11 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
 
 ## Product Development, Milestones, Resources, and Risks
 
-###key goals：
+### Key Goals：
 
 To improve nickel recovery efficiency, enhance the cleaner's ability to handle higher heavy metal, salt, and pH concentrations, scale up production, achieve profitability, and set a green industry benchmark.
 
-###key resources：
+### Key Resources：
 
 - Ample technical labor provided by the campus
 - Ongoing pursuit of funding
@@ -73,15 +73,15 @@ To improve nickel recovery efficiency, enhance the cleaner's ability to handle h
 - Supported by production practices from partner companies
 - Backed by government support for green initiatives
 
-**Technical Labor：**Our project relies on the abundant technical resources and laboratory equipment within Fudan University, ensuring that the hardware needs for research and experimentation are fully met. Our team benefits from a robust supply of technical labor, including talented students and professional faculty members, who bring both innovative ideas and practical skills to the project. 
+**Technical Labor**：Our project relies on the abundant technical resources and laboratory equipment within Fudan University, ensuring that the hardware needs for research and experimentation are fully met. Our team benefits from a robust supply of technical labor, including talented students and professional faculty members, who bring both innovative ideas and practical skills to the project. 
 
-**Ongoing pursuit of funding：**Additionally, we are actively seeking continuous funding support through various channels and partnerships to ensure a stable financial pipeline for the project. And there's some sources of fund that we achieved【link to 战略合作伙伴】
+**Ongoing pursuit of funding**：Additionally, we are actively seeking continuous funding support through various channels and partnerships to ensure a stable financial pipeline for the project. And there's some sources of fund that we achieved【link to 战略合作伙伴】
 
-**Technological Barriers：**On the technical side, we have established certain technological barriers, including patent protection and the specialized knowledge and expertise of our team. This gives our project a competitive edge and helps us maintain a unique position in the market. 
+**Technological Barriers**：On the technical side, we have established certain technological barriers, including patent protection and the specialized knowledge and expertise of our team. This gives our project a competitive edge and helps us maintain a unique position in the market. 
 
-**Partner Companies：**We have also forged strong ties with partner companies that provide valuable support in terms of production practices, including access to facilities, technology, and management expertise, which are crucial for transitioning our lab results into viable products.
+**Partner Companies**：We have also forged strong ties with partner companies that provide valuable support in terms of production practices, including access to facilities, technology, and management expertise, which are crucial for transitioning our lab results into viable products.
 
-**Government Support：**Moreover, our project has received substantial backing from the government, especially since green technologies and sustainable development are highly encouraged under current policies.【link to相关政策整理】 Government support includes financial subsidies, tax incentives, research grants, and other initiatives, all of which will greatly accelerate the growth and market expansion of our project. The strategic use of these key resources lays a solid foundation for the success of our project and paves the way for future development.
+**Government Support**：Moreover, our project has received substantial backing from the government, especially since green technologies and sustainable development are highly encouraged under current policies.【link to相关政策整理】 Government support includes financial subsidies, tax incentives, research grants, and other initiatives, all of which will greatly accelerate the growth and market expansion of our project. The strategic use of these key resources lays a solid foundation for the success of our project and paves the way for future development.
 
 ### Exit Mechanism
 
@@ -141,8 +141,8 @@ Moreover, existing nickel ion separation methods are relatively crude and inexpe
 
 ## Long-term Impacts
 
-**Positive：**1.减少采矿活动 2.减缓镍储备的消耗速度 3.降低水体污染程度，进而推动SDGs的目标达成 4.创造生物行业的新兴就业机会与市场 5.有了替代技术支撑，政府将更强硬地立法和执行环境保护相关法规 
+**Positive**：1.减少采矿活动 2.减缓镍储备的消耗速度 3.降低水体污染程度，进而推动SDGs的目标达成 4.创造生物行业的新兴就业机会与市场 5.有了替代技术支撑，政府将更强硬地立法和执行环境保护相关法规 
 
-**Negative：**1.将工程化的微生物投放至环境水体中，可能造成基因逃逸和污染的风险，增强野生细菌拥有重金属离子抗性的风险，使得现有净水手段难以奏效 2.传统采矿及冶金行业可能面临市场萎缩和就业率下降的问题，造成摩擦性失业 3.生物制剂不同于工业流水化产品，不同批次可能出现差异较大的问题，造成重金属清除效果不稳定
+**Negative**：1.将工程化的微生物投放至环境水体中，可能造成基因逃逸和污染的风险，增强野生细菌拥有重金属离子抗性的风险，使得现有净水手段难以奏效 2.传统采矿及冶金行业可能面临市场萎缩和就业率下降的问题，造成摩擦性失业 3.生物制剂不同于工业流水化产品，不同批次可能出现差异较大的问题，造成重金属清除效果不稳定
 
 ## References
