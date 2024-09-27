@@ -13,7 +13,7 @@
 | Experiments | Ruiwen Ma, Xujie Tan |
 | Hardware | Kexin Huang |
 | Heritage | Daru Lu, Liang Cai |
-| Intergrated HP | Ziming Suo, Yuhan Wang |
+| Integrated HP | Ziming Suo, Yuhan Wang |
 | Implementation | Kevin Qi |
 | Improved Parts | Liyue Chen, Yi Shi |
 | Inclusivity | Xueting Chen, Ziming Suo |

@@ -7,23 +7,23 @@ headergif: https://static.igem.wiki/teams/5115/header/contribution-header.gif
 
 ### Bronze
 
-- We successfully completed the following Competition Deliverables: [Wiki](/), [Project Promotion Video](/promotion-video/), Presentation Video, Judging Form, and in-person at the Paris for Judging Session.
-- We carefully describe what work our team members did and what external staff did for our project on [attributions.igem.org](https://attributions.igem.org?team=Fudan&year=2023) and embeded on [Attributions](/attributions/) page.
-- We describe how and why we chose our iGEM project on our [Description](/description/) page.
-- Here, We list our useful [contributions](/contribution/) for future iGEM teams.
+- We successfully completed the following Competition Deliverables: [Wiki](/fudan/), Presentation Video, Judging Form, and in-person at the Paris for Judging Session.
+- We carefully describe what work our team members did and what external staff did for our project on [attributions.igem.org](https://attributions.igem.org?team=Fudan&year=2024) and embeded on [Attributions](/fudan/attributions) page.
+- We describe how and why we chose our iGEM project on our [Description](/fudan/description) page.
+- Here, We list our useful [contributions](#) for future iGEM teams.
 
 ### Silver
 
-- We showcase our engineering achievements within a segment of our project by undergoing multiple iterations of the engineering design cycle, which can be found on our [Engineering](/engineering/) page.
-- We elucidate how our efforts are deemed responsible and beneficial for the world on our [Human Practices](/human-practices/) page.
+- We showcase our engineering achievements within a segment of our project by undergoing multiple iterations of the engineering design cycle, which can be found on our [Engineering](/fudan/engineering) page.
+- We elucidate how our efforts are deemed responsible and beneficial for the world on our [Human Practices](/fudan/human-practices) page.
 
 ### Gold
 
-According to the rules for 2023, we have decided to compete for three special awards: [New Composite Part](https://parts.igem.org/Part:BBa_K4765129), [Education](/education/), and [Software Tool](/software/).
+According to the rules for 2024, we have decided to compete for three special awards: A, B, and C.
 
 - We have made a useful [new composite part BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129) for stem-loop test, which is well documented on the registry. It was built on [Open V3 backbone](https://parts.igem.org/Part:BBa_K4765026), which could be [reused, remade, and redistributed](https://stanford.freegenes.org/products/open-plasmids#description) as often as one would like. It could be induced to boost protein expression, but we use its [leaky](https://parts.igem.org/Part:BBa_K4765120) property in BL21(DE3) bacteria. [BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129) provides a new possibility to systematically regulate protein expression level, beyond promoter regulation or RBS regulation ([our 2022 Team](https://2022.igem.wiki/fudan/parts#composite) has successfully produce &beta;-carotene by varing RBS strength according to metabolism).
-- We hosted numerous meticulously designed [education](/education/#empower-igem-community) events and established a highly constructive two-way dialogue with the public. We hope to improve the general cognitive level of synthetic biology, encouraging more people to shape, contribute to, and participate in synthetic biology.
-- We have developed [RAP, a new software tool](/software/) that possesses user-friendliness, excellent compatibility with existing synthetic biology standards, and seamless integration with external tools. The software has also undergone experimental validation and has shown its practicality in other projects.
+- We hosted numerous meticulously designed [Education](/fudan/education/#empower-igem-community) events and established a highly constructive two-way dialogue with the public. We hope to improve the general cognitive level of synthetic biology, encouraging more people to shape, contribute to, and participate in synthetic biology.
+- We have developed [RAP, a new software tool](/fudan/software) that possesses user-friendliness, excellent compatibility with existing synthetic biology standards, and seamless integration with external tools. The software has also undergone experimental validation and has shown its practicality in other projects.
 
 
 
@@ -31,7 +31,7 @@ According to the rules for 2023, we have decided to compete for three special aw
 
 ### Biofilm Formation System
 
-We have successfully engineered various membrane-display [parts](https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) (antigen, nanobody or lectin) to facilitate inter-bacterial connections, thus forming self-assembling and editable biofilm. Typical reference parts are listed here.
+We have successfully engineered various membrane-display [parts](#) (antigen, nanobody or lectin) to facilitate inter-bacterial connections, thus forming self-assembling and editable biofilm. Typical reference parts are listed here.
 
 | Part Name | Description |
 |----|----|
@@ -74,16 +74,16 @@ The use of ribozymes can help us to simultanously express genes of interested, b
 
 The expected benefit of the stem-loop structure is to enhance mRNA stability, thereby expanding the applicability of the ribozyme system, even for cyanobacteria. We hope other teams can incorporate such designs into their projects to effectively control gene expression.
 
-For more details, you can visit our [Part Collection](/part-collection/) page.
+For more details, you can visit our [Part Collection](/fudan/part-collection/) page.
 
 
 ## Alliance establishment and series of co-created picture books
 
-This year, our dedicated efforts aimed to demystify synthetic biology and ignite a true enthusiasm for this field among all individuals. Through customized, engaging, and informative educational programs, we fostered **a productive two-way dialogue** with the public, enhancing the overall understanding of synthetic biology. This encouraged greater involvement and participation in shaping and contributing to this field, **setting a solid groundwork for future synthetic biology education**. For more details, please visit our [Education](/education/#empower-igem-community) page.
+This year, our dedicated efforts aimed to demystify synthetic biology and ignite a true enthusiasm for this field among all individuals. Through customized, engaging, and informative educational programs, we fostered **a productive two-way dialogue** with the public, enhancing the overall understanding of synthetic biology. This encouraged greater involvement and participation in shaping and contributing to this field, **setting a solid groundwork for future synthetic biology education**. For more details, please visit our [Education](/fudan/education#empower-igem-community) page.
 
-Leveraging the power of collaboration, we took the initiative to establish [the iGEM Alliance of the Yangtze River Delta](/education/#empower-igem-community), uniting with iGEM teams from ShanghaiTech University, Tongji University, Zhejiang University, Nanjing University, and Shanghai Jiao Tong University. The alliance represents a unified regional community dedicated to advancing synthetic biology and several teams in the alliance have collaboratively crafted **a series of educational picture books** in the last several months, which can be **sustainable materials for future teams to carry out educational activities**. With our collective endeavors, we hold a confident vision that the iGEM Alliance of the Yangtze River Delta will be constantly developed by the iGEM teams and will etch a profound and enduring mark on the landscape of synthetic biology in China and beyond in the future.
+Leveraging the power of collaboration, we took the initiative to establish [the iGEM Alliance of the Yangtze River Delta](/fudan/education#empower-igem-community), uniting with iGEM teams from ShanghaiTech University, Tongji University, Zhejiang University, Nanjing University, and Shanghai Jiao Tong University. The alliance represents a unified regional community dedicated to advancing synthetic biology and several teams in the alliance have collaboratively crafted **a series of educational picture books** in the last several months, which can be **sustainable materials for future teams to carry out educational activities**. With our collective endeavors, we hold a confident vision that the iGEM Alliance of the Yangtze River Delta will be constantly developed by the iGEM teams and will etch a profound and enduring mark on the landscape of synthetic biology in China and beyond in the future.
 
-Please check the educational picture books made by us: [What is gene](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf) and [Gene editing](https://static.igem.wiki/teams/4765/wiki/education/picture-book-gene-editing.pdf).
+Please check the educational picture books made by us:  and [Gene editing](https://static.igem.wiki/teams/4765/wiki/education/picture-book-gene-editing.pdf).
 
 
 ## New multifunctional software tool: RAP
@@ -94,4 +94,4 @@ RAP consists of three main components. Within the [KineticHub](/software/#kineti
 
 This software is designed to assist iGEMers and other researchers 1) to efficiently find part sequences, 2) to determine the optimal enzyme ratio for their system, and 3) to design expression cassette with appropriate RBS and stem-loop sequences, thus **boosting productivity in synthetic biology**.  It helps users through the DBTL (Design-Build-Test-Learn) cycle, while also contributing to the [continued growth of RAP](/engineering/#RAP).
 
-For more details, please visit our [Software](/software/) page.
+For more details, please visit our [Software](/fudan/software) page.
