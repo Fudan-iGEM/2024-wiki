@@ -6,6 +6,8 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
 ---
 
+<br><br>
+
 [MINERAL](/fudan/description) tones in with multiple [Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals) across a wide spectrum, contributing to a more sustainable and equitable future.
 
 <div style="text-align: center;" id="fig1">
@@ -15,7 +17,6 @@ headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
         <br><br>
     </div>
 </div>
-
 
 
 ## Sustainable Development by Nickel Recycling
@@ -30,9 +31,7 @@ The 7th SDG emphasizes the need for reliable and sustainable energy solutions.
 
 [MINERAL](/fudan/description) transforms nickel into harmless microparticles, making it affordable and environmentally friendly for future use. By simplifying the utilization of nickel, our project reduces costs associated with traditional nickel extraction and promotes a sustainable approach to clean energy. 
 
-
 @@@@ 图片：fig2-description-镍微型工厂系统
-
 
 Please refer to [Implementation](/fudan/implementation) for more information.
 
@@ -52,14 +51,11 @@ Please refer to [Entrepreneurship](/fudan/entrepreneurship) for more information
     </div>
 </div>
 
-
-
 ### SDG 12: Responsible Consumption and Production
 
 The 12th SDG calls for sustainable patterns in how we use resources and manage waste, aiming to minimize the environmental impact of production and consumption.
 
 [MINERAL](/fudan/description) supports responsible consumption by making nickel recovery eco-friendly. It also contributes to sustainable production by providing a more reliable and less destructive alternative to traditional nickel production. This will foster a circular economy and promote more responsible practices in resource management.
-
 
 @@@@ 图片：fig4-description-MINERAL概述
 
@@ -92,7 +88,7 @@ Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers
     </div>
 </div>
 
-
+@@@@ 图片: Ni吸收+线虫+hardware纤维
 
 
 ## Sustainable Development by Inclusive Education
@@ -111,7 +107,6 @@ We focus on delivering biology education across the K-12 spectrum, actively gath
     <br><br>
     </div>
 </div>
-
 
 We believe that education should embrace inclusivity, ensuring that no one is excluded from scientific learning due to barriers like physical conditions and imbalanced resources. We recognized that many autistic individuals possess the cognitive abilities to grasp scientific concepts but their potentials are constantly ignored because they usually don't give active feedback in ordinary lectures. Therefore, we developed specialized [STEAMed](/fudan/inclusivity#STEAMed) programs tailored to them. We strive to create more engaging and interactive teaching approaches to meet their unique needs—an area currently underserved by existing educational resources. 
 
@@ -153,6 +148,6 @@ Our initiative to develop a biological solution for nickel recycling relies on s
 
 We have forged valuable partnerships with industry leaders, academic experts, and other iGEMers who share the same aim with us to Refine our technology and understand market dynamics. Our collaboration with a battery recycling company has provided practical insights, enhancing the feasibility of our project. We also aim to raise awareness and garner support for our mission through promotional activities. 
 
-
+----
 
 All in all, our project, MINERAL, contributes to the achievement of many of the UN Sustainable Development Goals, in many ways. We focus on nickel recycling, promoting clean energy, responsible consumption, and biosafety below water. Besides, we foster inclusive education and reach out to partnerships, ultimately supporting a greener and more sustainable future.
