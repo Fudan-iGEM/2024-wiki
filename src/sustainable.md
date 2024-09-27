@@ -30,7 +30,7 @@ The 7th SDG emphasizes the need for reliable and sustainable energy solutions.
 [MINERAL](/fudan/description) transforms nickel into harmless microparticles, making it both affordable and environmental friendly for future use. By simplifying the utilization of nickel, our project reduces costs associated with traditional nickel extraction and promotes a sustainable approach to clean energy. 
 
 
-@@@@ 图片：description-镍微型工厂系统
+@@@@ 图片: description-镍微型工厂系统
 
 
 Please refer to [Implementation](/fudan/implementation) for more information.
@@ -59,7 +59,7 @@ The 12th SDG calls for sustainable patterns in how we use resources and manage w
 [MINERAL](/fudan/description) supports responsible consumption by making nickel recovery eco-friendly. It also contributes to sustainable production by providing a more reliable and less destructive alternative to traditional nickel production. This will foster a circular economy and promote more responsible practices in resource management.
 
 
-@@@@ 图片：description-MINERAL概述
+@@@@ 图片: description-MINERAL概述
 
 
 ## Sustainable Development by Stopping Nickel Pollution
@@ -83,7 +83,7 @@ We also recognized that releasing *E. coli* into water body could harm aquatic l
 Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers, preventing its spread in water, effectively addressing metal issues while avoiding creating new problems. Please refer to [Hardware](/fudan/hardware) for more information.
 
 
-@@@@ 图片：Ni吸收+线虫+hardware纤维
+@@@@ 图片: Ni吸收+线虫+hardware纤维
 
 
 
