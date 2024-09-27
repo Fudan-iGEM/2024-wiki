@@ -191,7 +191,7 @@ export default {
       0
     );
     tl.fromTo(
-      ['.wave1', '.wave2', '.wave3', '.wave4',".frame4"],
+      ['.wave1', '.wave2', '.wave3', '.wave4', ".frame4"],
       { scale: 1, transformOrigin: 'center center' },
       { scale: 1.33, duration: 5, ease: 'power2.inOut' },
       0
