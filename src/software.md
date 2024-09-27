@@ -6,7 +6,7 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/software-header.gif
 ---
 
-<br/><br/>
+<br><br>
 
 Try PartHub 3.0 [here](https://fudanigem2024.scm.azurewebsites.net/) (TBA) or follow the [installation pipeline](#tutorial) to deploy our software on your computer!
 
