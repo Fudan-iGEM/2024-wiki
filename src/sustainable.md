@@ -138,7 +138,7 @@ The 8th SDG appeals to promoting sustained, inclusive, and sustainable economic 
 
 The implementation of [MINERAL](/fudan/description) creates new job opportunities in the fields of biotechnology and environmental management. By fostering partnerships with industry leaders, we support a vibrant job market and contribute to the growth of the green economy. Companies invest significant resources to comply with environmental regulations. By using [MINERAL](/fudan/description), they can save money and redirect those funds into investments and other areas. This ultimately contributes to economic growth. 
 
-Please refer to [Integrated Human Practice](/fudan/human-practices) and [Entrepreneurship](/fudan/entrepreneurship) for more information.
+Please refer to [Human Practices](/fudan/human-practices) and [Entrepreneurship](/fudan/entrepreneurship) for more information.
 
 ### SDG 17: Partnerships for the Goals
 

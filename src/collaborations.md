@@ -26,7 +26,7 @@ We organized a series of high-quality inclusive activities, which would not have
 In collaboration with *INDIGO*, we conducted science education classes and origami activities to introduce synthetic biology, artificial intelligence, and brain science to children with autism. We also enhanced our courses through hands-on DIY games. See more details on our [Inclusivity](/fudan/inclusivity) page.
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/5115/collabration/nonprofit-orgnizations.png" style='width:80%'>
+    <img src="https://static.igem.wiki/teams/5115/collabration/event-organizer.png" style='width:80%'>
 </div>
 
 
