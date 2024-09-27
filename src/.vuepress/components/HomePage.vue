@@ -5,7 +5,7 @@
       viewBox="0 0 1920 953"
       width="100%"
       height="100%"
-      preserveAspectRatio="xMidYMid slice"
+      :preserveAspectRatio="preserveAspectRatio"
       xmlns="http://www.w3.org/2000/svg"
     >
       <mask id="m">
@@ -81,7 +81,7 @@
 
       <g mask="url(#m)">
         <rect fill="#CDE3EC" width="100%" height="100%" />
-        <text x="350" y="200" fill="#162a43" class="title">123457</text>
+        <text x="350" y="200" fill="#162a43" class="title">I saw three ships on sailiing in.</text>
       </g>
     </svg>
   </div>
@@ -90,7 +90,11 @@
   <main>
     <div class="scrollDist"></div>
     <section class="page-1" id="sky">
-      
+      <img
+        src="https://static.igem.wiki/teams/5115/homepage-section2/mountain.svg"
+        alt="Mountain"
+        class="responsive-svg"
+      />
       <p>
         <strong>B</strong>iofilm <strong>H</strong>arnessing for
         <strong>O</strong>ffworld <strong>M</strong>ankind
@@ -99,10 +103,10 @@
       
     </section>
     <section class="page-2" id="land">
-      <!-- 您可以在这里添加更多内容 -->
-      <h2>我们的项目</h2>
+      <h1>Page2</h1>
+      <h2>this will be water</h2>
       <br><br><br><br><br><br><br><br><br><br><br>
-      <p>这里是一些介绍文字。</p>
+      <p>stastic model will be presented here.</p>
     </section>
     <section class="page-3" id="shallow-water">
       <!-- 更多内容 -->
@@ -122,7 +126,26 @@
 
 <script>
 export default {
+  data() {
+    return {
+      preserveAspectRatio: 'xMinYMin meet' // 初始值，屏幕宽度小于1180像素时使用
+    };
+  },
+  methods: {
+    updatePreserveAspectRatio() {
+      if (window.innerWidth >= 1180) {
+        this.preserveAspectRatio = 'xMidYMid slice';
+      } else {
+        this.preserveAspectRatio = 'xMinYMin meet';
+      }
+    }
+  },
   async mounted() {
+    // 初始检查屏幕宽度
+    this.updatePreserveAspectRatio();
+    // 监听窗口大小变化
+    window.addEventListener('resize', this.updatePreserveAspectRatio);
+
     // 动态导入 GSAP 和插件
     const gsapModule = await import('gsap');
     const ScrollTriggerModule = await import('gsap/ScrollTrigger');
@@ -190,12 +213,6 @@ export default {
       { scale: 1, duration: 5, ease: 'power2.inOut' },
       0
     );
-    /* tl.fromTo(
-      ['.carbo2', '.carbo3', '.carbo4', '.carbo5'],
-      { scale: 0.75, transformOrigin: 'center center' },
-      { scale: 1, duration: 5, ease: 'power2.inOut' },
-      0
-    ); */
     tl.fromTo(
       ['.carbo1'],
       { scale: 0.6, transformOrigin: 'center center' },
@@ -205,30 +222,28 @@ export default {
     tl.fromTo(
       ['.wave1', '.wave2', '.wave3', '.wave4', '.frame4'],
       { scale: 1, transformOrigin: 'center center' },
-      { scale: 1.6, duration: 4, ease: 'power2.inOut' },
-      0
-    )
-    tl.fromTo(
-      ['.frame6', '.frame7'],
-      { scale: 1, transformOrigin: 'center center' },
       { scale: 1.6, duration: 5, ease: 'power2.inOut' },
       0
     )
       .addLabel('afterScaling')
-      .fromTo('.frame7', { y: 0 }, { y: -1200, duration: 5 }, 'afterScaling')
-      .fromTo('.frame6', { y: 0 }, { y: -1200, duration: 5 }, 'afterScaling')
-      .fromTo('.frame4', { y: 0 }, { y: -1200, duration: 5 }, 'afterScaling')
-      .fromTo('.wave1', { y: 0 }, { y: -1600, duration: 10 }, 'afterScaling')
-      .fromTo('.wave2', { y: 0 }, { y: -1600, duration: 10 }, 'afterScaling')
-      .fromTo('.wave3', { y: 0 }, { y: -1600, duration: 10 }, 'afterScaling')
-      .fromTo('.wave4', { y: 0 }, { y: -1600, duration: 10 }, 'afterScaling')
+      .fromTo('.frame7', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+      .fromTo('.frame6', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+      .fromTo('.frame4', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
+      .fromTo('.wave1', { y: 0 }, { y: -600, duration: 5 }, 'afterScaling')
+      .fromTo('.wave2', { y: 0 }, { y: -600, duration: 5 }, 'afterScaling')
+      .fromTo('.wave3', { y: 0 }, { y: -600, duration: 5 }, 'afterScaling')
+      .fromTo('.wave4', { y: 0 }, { y: -600, duration: 5 }, 'afterScaling')
       .fromTo('.cloud1', { y: 100 }, { y: -950, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo1', { y: 0 }, { y: -1500, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo2', { y: 0 }, { y: -1500, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo3', { y: 0 }, { y: -1000, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo4', { y: -30 }, { y: -1250, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo5', { y: -50 }, { y: -1600, duration: 5 }, 'afterScaling')
-      .fromTo('.title', { y: -50 }, { y: -1600, duration: 5 }, 'afterScaling');
+      .fromTo('.carbo1', { y: 0 }, { y: -500, duration: 5 }, 'afterScaling')
+      .fromTo('.carbo2', { y: 0 }, { y: -500, duration: 5 }, 'afterScaling')
+      .fromTo('.carbo3', { y: 0 }, { y: 0, duration: 5 }, 'afterScaling')
+      .fromTo('.carbo4', { y: -30 }, { y: -250, duration: 5 }, 'afterScaling')
+      .fromTo('.carbo5', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling')
+      .fromTo('.title', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling');
+  },
+  beforeDestroy() {
+    // 移除事件监听器
+    window.removeEventListener('resize', this.updatePreserveAspectRatio);
   }
 };
 </script>
@@ -293,6 +308,13 @@ top: 0;
 left: 0;
 width: 100%;
 height: 100%;
+}
+
+.responsive-svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 section {
