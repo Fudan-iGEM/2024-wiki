@@ -19,8 +19,6 @@ We interviewed experts from the [Chinese National Engineering Research Center fo
 </div>
 
 
-
-
 ## With Nonprofit Orgnizations: Event Organizer
 
 We organized a series of high-quality inclusive activities, which would not have been possible without the invaluable support of [Light Of Rainbow](https://www.asd-home.cn/jgz2694/) , [INDIGO]([一个有关爱和信念的故事，她比烟花灿烂 (qq.com)](https://mp.weixin.qq.com/s/1oH0URp3To4R0A3HJnZc1Q)) and [Shanghai Putuo District Zhanyi Children's Intelligence Service Center](www.zhanyiertong.org) as our activity partners. We designed a series of courses for children with autism, with Rainbow Rain providing the teaching venues and participants, as well as assisting in recruiting volunteers for the activities. In collaboration with INDIGO, we conducted science education classes and origami activities to introduce synthetic biology, artificial intelligence, and brain science to children with autism. We also enhanced the appeal of the courses through hands-on DIY games. (see more details on our [Inclusivity](/[Inclusivity | Fudan (igem.wiki)](/fudan/team#xujie-tan2024.igem.wiki/fudan/inclusivity/)) page).

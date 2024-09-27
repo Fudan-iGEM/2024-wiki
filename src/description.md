@@ -5,6 +5,8 @@ author:
   url: /fudan/team/#kevin-qi
 headergif: https://static.igem.wiki/teams/5115/header/description-header.gif
 ---
+
+
 ## Another Lesson?
 
 Humans often realize their mistakes only when the damage is irreparable, a lesson echoed throughout history. Our relentless overexploitation of natural resources has left scars on the environment, and the cycle of neglect persists. While metals like copper and aluminum are now commonly recycled, others, such as nickel, still lag far behind, following the very paths we've seen before.
@@ -12,13 +14,10 @@ Humans often realize their mistakes only when the damage is irreparable, a lesso
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
     <div>
-        <span style="color:gray">Figure 1: Overexploitation of natural resources</span>
+        <span style="color:gray">Figure 1: Overexploitation of natural resources.</span>
         <br><br>
     </div>
 </div>
-
-
-
 
 
 ## Use and Misuse of Nickel
@@ -34,13 +33,10 @@ Meanwhile, the demand for nickel is growing at an **unsustainable rate**, outpac
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
     <div>
-        <span style="color:gray">Figure 2: Nickel in our modern world</span>
+        <span style="color:gray">Figure 2: Nickel in our modern world.</span>
         <br><br>
     </div>
 </div>
-
-
-
 
 
 ## Current Nickel Recycling
@@ -59,10 +55,6 @@ Despite the environmental damage caused by mining, it remains the more cost-effe
 
 
 
-
-
-
-
 Unlike traditional recycling methods, biological approaches offer a more **energy-efficient**, **environmentally friendly**, and **element-specific** way for nickel recovery.
 
 
@@ -78,7 +70,7 @@ We have developed a symbiotic system involving *E. coli* and cyanobacteria to **
 <div style="text-align: center;" id="fig4">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
     <div>
-        <span style="color:gray">Figure 4: Overview of MINERAL</span>
+        <span style="color:gray">Figure 4: Overview of MINERAL.</span>
         <br><br>
     </div>
 </div>
@@ -121,7 +113,7 @@ We present four interrelated systems to target the problems identified in the pr
  <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
     <div>
-        <span style="color:gray">Figure 5: Four systems of MINERAL</span>
+        <span style="color:gray">Figure 5: Four systems of MINERAL.</span>
         <br><br>
     </div>
 </div>
@@ -159,7 +151,7 @@ To prevent nickel ions from being pumped out of the cell, we knock out the **Rcn
 
 
 
-###  2. Survival System
+### 2. Survival System
 
 **a Heavy Metal Tolerance**
 
@@ -239,6 +231,7 @@ For more details on our project design, please visit our [Design][/fudan/design]
 In addition to nickel, other divalent metals—such as copper, zinc, and cobalt—can become future targets. With MINERAL’s highly modular design, adapting the system for new metals simply involves substituting the relevant transport and binding proteins in the bioaccumulation system, making it a versatile platform for metal recovery.
 
 Moreover, the concept of bioaccumulating heavy metals and forming reserves could be applied in more visionary contexts, such as terraforming Mars. In a future scenario, engineered microorganisms like those in MINERAL could help sequester toxic metals or produce essential materials, aiding in the creation of a habitable environment on other planets.
+
 
 ## References
 
