@@ -273,21 +273,18 @@ overflow-x: hidden; /* 防止横向滚动条 */
 .animation-container {
 position: fixed;
 top: 0;
-/* left: 0; */
 left: 50%;
 transform: translateX(-50%);
 width: 100%;
 height: 100%;
-
 pointer-events: none; /* 防止动画层阻挡下面的内容交互 */
-z-index: 1; /* 确保动画层在内容层之上 */
+z-index: 1; 
 overflow: hidden;
 }
 
 main {
 position: relative;
-z-index: 2; /* 确保内容层在动画层之下 */
-
+z-index: 2; 
 }
 
 .scrollDist {
