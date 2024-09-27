@@ -8,353 +8,559 @@ author:
 - name: Yuhan Wang
   url: /fudan/team/#yuhan-wang
 ---
+<br><br>
 
-## Overview
+"Human Practices" refers to iGEM teams' proactive efforts to assess how their work interacts with the world and the broader impacts it creates. MINERAL addressed the industrial issue of nickel wastewater pollution, aiming to contribute to a better planet and future for humanity. However, this vision evolved through the project's lifecycle. Our HP efforts helped us navigate challenges, fostering connections with esteemed scientists, wastewater treatment enterprises, government bodies, and like-minded teams, all of which played pivotal roles in key decisions throughout the project.
 
-This year, we made a bold attempt to explore outer space and target modifying the environment of terrestrial planets, which will **benefit all mankind** in the future. It's extremely hard to determine all the stakeholders since our project will work for all humans. However, we still gave priority to human practice and successfully forged a bond with **space researchers**, **distinguished biologists**, and **specialists in Environmental Ethics**.
+Next, join us as we embark on an exciting HP journey together!
 
-To get a comprehensive and clear idea of the potential implementation, experimental design, and safety concerns of our project, we mapped out **three main lines** in our HP work:
 
-1.  [**Determining the Value**](#determining-the-value): In this part, we aimed to determine the current challenges and possibilities in space exploration. Through communication with **professors in astrobiology**, **leading biologists in space exploration**, and **senior instructors in entrepreneurship**, we got a more detailed idea of the **innovation**, **environmental**, **and commercial values** of our project.
 
-2. [**Implementing the Project**](#implementing-the-project): To put our idea into practice, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed four interdependent systems:** symbiotic, biofilm formation, survival, and terraforming systems in our engineering bacteria (see more details in [Description](/description/)).
+## Preparations: Background Research
 
-3. [**Managing the Risk**](#managing-the-risk): For further development of our project, we carefully considered the potential risks that would threaten the interests of all mankind. Drawing on the expertise of **specialists in biological ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues**.
+### 1. From wild imagination to nickel
 
-This year, all of our HP work follows [**the STAR loop**](#star-loop).
+During the brainstorming phase, Fudan iGEMers showcased their boundless creativity. Through discussions and idea exchanges, the team decided to focus on a technology for treating nickel ion solutions, naming it MEME. This decision was based on several factors, with the importance, scarcity, and specificity of nickel resources being the most fundamental considerations.
 
-<div style="text-align: center;" id="star-loop">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/hp-loop.png"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">The HP loop</small></p>
-	</div>
+
+
+### 2. Nickel: So Important and Unique
+
+We discovered that nickel is becoming increasingly vital in modern life. Extracted from deep within the earth, nickel supports rapid technological advancements through industrial manufacturing. According to the 2023 Global Mineral Resources Assessment Report, the known global nickel reserves stand at 27.466 billion tons, with a 2022 global production of 3.28 million tons[^1] only 350,000 of which were recycled[^2]. At this rate, we could run out of nickel by 2118.
+
+
+
+### 3. From Nickel to Battery Recycling: The Early Stages of the Project
+
+A news report drew our attention to the development trends of new energy vehicles in China, inspiring the initial application scenario for our project: nickel metal recovery from new energy vehicle batteries.
+
+With this, we gathered all the essential background information we needed, officially embarking on our journey.
+
+
+
+## Cycle 1 Topic Refine & Background
+
+### Selection of Bioremediation and Nickel-Polluted Wastewater Treatment
+
+The foundation of the project was built upon comprehensive literature and online research, giving rise to the creation of MEME.
+
+However, after identifying and reflecting on this scientific issue, MEME, based on simple synthetic biology components, needed further engagement and updates through communication with frontline stakeholders. Therefore, with questions and aspirations about nickel recovery, we visited Mr. Xiong Sicong on April 26, a former undergraduate in life sciences, an iGEM enthusiast, and currently employed at Polestar Automotive.
+
+
+
+## C1.1 Discussing with Mr. Xiong
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/4-26-with-mr-xiong.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 5: Discussing with Mr. Xiong</span>
+      <br><br>
+    </div>
 </div>
 
 
-## Determining the Value
+Mr. Xiong is an expert in battery recycling, and he briefed us on the industry's current status. While 95% of metals in batteries are efficiently recycled, MEME didn’t show a clear advantage in this regard. However, Mr. Xiong highlighted three key challenges in battery recycling:
 
-### Prof. Yan Li: The Possibilities and Challenges for Life on Mars
+1. **High energy consumption.**
+2. **Significant air and water pollution.**
+3. **Lack of specificity in conventional methods.**
 
-<p style="font-size: 1rem">📅 Date: Jul. 15th  <br>👤 Participants: Zhe Dong, Xiaohan Jiang, Chenye Li, Qingying Yang</p>
+He praised MEME’s nickel specificity and suggested focusing on wastewater treatment in electric vehicle batteries for greater impact.
 
-**Stimulation**
+Mr. Xiong also suggested that we visit battery recycling plants or other relevant factories for further field research to gain hands-on experience and understand industry needs. 
 
-In the early stage, we attempted to **build a symbiotic system** that resembles lichens with cyanobacteria and *E. coli*. We assumed that this system enables engineered *E. coli* to survive on the surface of terrestrial planets and promote terraforming progress through its metabolites.
+Following his advice, we explored additional sources of nickel pollution, leading us to focus on addressing nickel contamination in wastewater from electric vehicle battery recycling. At this point, our project was named "MEME," symbolizing our goal of recycling nickel from wastewater.
 
-We wondered that:
+ Although Mr. Xiong broadened our perspective, we remained focused on addressing nickel pollution specifically in battery manufacturing and recycling, aiming to recover nickel through nanoparticle generation.
 
-1. Is there enough **essential substance** for life to survive existing on terrestrial planets?
 
-2. What's the characteristic of the **environment** on the surface of terrestrial planets?
 
-3. Is there any possibility of lighting the dawn of life on terrestrial planets?
+## C1.2 Meeting with BIT-China, ShanghaiTech-China, and Tongji-China
 
-**Target**
-
-[Prof. Li](http://faculty.pku.edu.cn/Liyan/zh_CN/jsxx/3043/jsxx/jsxx.htm) is an associate professor and doctoral supervisor at the School of Earth and Space Sciences, Peking University, China. In the past ten years, she has done excellent work about the origin of life catalyzed by natural sulfide minerals and the interaction between microorganisms and minerals. She has been interested in the process of matter and energy cycling catalyzed by minerals on the surface of early Earth and Mars.
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/li-yan.jpg"
-style='width:30%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Prof. Yan Li</small></p>
-	</div>
-</div>
-
-**Action**
-
-On account of distance and time, we interviewed Prof. Li online on July 15th. She described our project as **an interesting and daring innovation in the academic field** and was generous with professional advice. In response to our questions, she recommended **Mars** as the terrestrial planet with a high probability of life.  In her opinion:
-
-1. Though nitrogen accounts for only 0.1% of the Martian atmosphere, it is enough to build a complete nitrogen cycle essential for life.
-2. The water, mainly existing in the crystalline form on the surface of Mars,  lays the foundation for the existence of life.
-3. So far, the soil of the moon which is far more infertile than Martian soil has proved to be capable of supporting life. A symbiotic system to promote the terraforming of Mars **is worth trying**.
-4. Research has shown a potential association of vigorous minerals with life activity in harsh environments like highlands and deserts on Earth. Similar minerals have been found on Mars, indicating another probable condition for life.
-
-Besides, Prof. Li pointed out the challenges for life to survive on the surface of Mars. For example, the environment, **with huge temperature differences, intense radiation, and frequent storms**, makes it extremely difficult to keep enough nutrients. The water in crystalline form can hardly be directly absorbed and used by creatures.  The lack of phosphorus will also be a key limiting factor for life.
-
-Finally, Prof. Li reminds us of the heterogeneity of the Martian surface environment and the process of **biological weathering** on Earth. She encouraged us to imagine more possibilities and was glad to have further communication with us.
-
-**Review**
-
-With the insights of Prof. Li, we took **Mars** as the representative of the terrestrial planet and involved an **anti-UV module** and an **anti-freeze module** in our engineered bacteria. Besides, we found that **organic acids** played an important role in Earth's biological weathering processes[^1][^2][^3]. [Collaborating with CAU-China](/collaboration/), we introduced an oxalic acid module to promote the terraforming progress of Mars.
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/liyan.png"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Online interview with Prof. Li</small></p>
-	</div>
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/5-4-meeting-shanghai-igemers.png" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 7: Shanghai iGEMers Share Meeting at Fudan</span>
+      <br><br>
+    </div>
 </div>
 
 
+On May 4th, we hosted a project design exchange (Fudan-BIT-Tongji-ShanghaiTech Meeting) at Fudan University with BIT-China, ShanghaiTech-China, and Tongji-China. To our surprise, BIT-China also focused on battery issues, though they approached electric vehicle battery recycling with entirely different strategies. While their work was not centered on pollution, through in-depth discussions, we gained new insights from an engineering perspective and realized that nickel, though significant in our project, is not the primary industrial concern in battery production and recycling.
 
-### Space Webinar: Synthetic Biology in Space
 
-<p style="font-size: 1rem"> 📅 Date: Jul. 27th  <br>👤 Participants: All team members</p>
 
-**Stimulation**
+------
 
-Although Prof. Li spoke highly of our project,  we remain concerned about the significance and acceptability of modifying the environment of terrestrial planets with biological techniques.
+**These two HP efforts, along with subsequent reflections, formed a complete DBTL (Design-Build-Test-Learn) cycle. They profoundly changed our understanding of the electric vehicle battery issue, leading us to adjust both the direction of our project and the design of some components.**
 
-We wondered that:
+------
 
-1. Are there any successful examples of applying biological techniques to space exploration?
-2.  How will mankind on Earth benefit from our project in the short term?
 
-**Target**
 
-[The iGEM Technology](https://technology.igem.org/) hosted a space webinar entitled *Synthetic Biology in Space: Achievements and Possibilities*. In collaboration with the European Space Agency (ESA), leading experts were invited to discuss the fascinating intersection of synthetic biology and space exploration and to elaborate on the challenges they had faced.
+## C1.3 Email with Mrs. Xu
 
-**Action**
+Based on thorough preliminary research and reflection, on July 11, during our discussion with Professor Xu Ling from Fudan University’s Institute of Brain-inspired Chip and On-chip Intelligent Systems, we learned about the use of nickel in chip packaging and the generation of nickel-containing wastewater. This enlightened us with a broader understanding of nickel wastewater issues.
 
-On July 27th, our team members participated in the webinar and benefited a lot. Reviewing previous iGEM projects related to space, both Dr. Christiane Hahn and Dr. Rodrigo Coutinho de Almeida spoke highly of the **symbiotic system** consisting of yeast and cyanobacteria. Elaborating on the challenges, Dr. Christiane considered the survival of cells in the harsh environment of space as the first issue. As she mentioned, the ability to **resist cold, radiation, and drought** matters for biological samples to survive in space. Meanwhile, she reminded us that the achievements of space research might be applied to address problems on Earth.
-
-**Review**
-
-In the Q & A section, we shared our idea of developing a survival module in our engineering bacteria with multiple BioBricks with the experts. Prof. Daniela Billi **found our idea very innovative and worth trying**. This encouraged us a lot! Besides, inspired by Dr. Christiane, we found our project **is environmentally beneficial**. The symbiotic system we created would potentially help rebuild a delicate ecosystem on the barren lands of Earth, such as [the Sahara Desert](https://en.wikipedia.org/wiki/Sahara).
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/6.png"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">The space webinar(left) and our team member was commcating with the experts(right)</small></p>
-	</div>
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-11-email-xuling.jpg" style='width:50%'>
+    <div>
+          <span style="color: gray">Figure 8: Email with Mrs. Xu</span>
+      <br><br>
+    </div>
 </div>
 
 
+Professor Xu Ling mentioned that nickel plating is a common process in microelectronic chip packaging, used to form a nickel layer on chip lead frames or substrates to ensure good solderability and corrosion resistance. Nickel and other metals (such as gold) are also used in advanced packaging structures like RDL, UBM, and Bumps through electroplating.
 
-### Dr. Jingwei Zhang: A Unique View in the Industry of Synthetic Biology
-
-<p style="font-size: 1rem">📅 Date: Sep. 20th  <br>👤 Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
-
-**Stimulation**
-
-Although our project has a great prospect, fulfilling our plan will cost huge amounts of time and money. For the sustainable development of our project, it's necessary to gain support from the synthetic biology industry.
-
-We wondered that:
-
-1. How to promote the rapid development of the industry of synthetic biology?
-2. Are there any **commercial values** related to our project？
-
-**Target**
-
-[Dr. Zhang](https://life.fudan.edu.cn/b3/0c/c28175a307980/page.htm) is now a young researcher at the School of Life Sciences, Fudan University. He is mainly engaged in the development and industrialization of droplet microfluidic systems. As a senior instructor in entrepreneurship, Dr. Zhang always offers his students extensive and innovative insights into the development of the biological industry.
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/5.jpg"
-style='width:30%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Dr. Jingwei Zhang</small></p>
-	</div>
-</div>
-
-**Action**
-
-We had lunch with Dr. Zhang and shared our opinions on the industry of synthetic biology. Dr. Zhang pointed out that the subjective agency of living creatures could potentiaDlly join hands with synthetic biology techniques. He believed that the combination of **artificial BioBricks** and **the well-evolved genetic system of our chassis** would further unleash the potential of synthetic biology. From this perspective, there remains full potential to **improve efficiency** and **reduce the cost** in the development of the synthetic biology industry.
-
-In terms of our project, Dr. Zhang believed that its environmental benefits could bring about commercial values, just like the invention of new energy cars. What really matters is to **find a suitable application** so that the reward can overcome the cost.
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/zjw.jpg"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Having lunch with Dr. Jingwei Zhang and his students</small></p>
-	</div>
-</div>
-
-**Review**
-
-With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry (see more details in [Implementation](/implementation/)). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. Later, we had a follow-up discussion with him about the safety concerns (see more details in [Safety](/safety/#safety-in-implementation)).
+However, in the lab, wastewater from processes like cleaning, acid washing, and nickel plating is collected but further treated by specialized wastewater departments. This highlighted the need to visit factories for deeper insights.
 
 
 
-## Implementing the Project
+## C1.4 Meeting with U Power
 
+Since we still needed to find answers within the electric vehicle battery recycling industry, on August 9, we presented our "MEME" project during a discussion with UPower Technology.
 
-### Prof. Changming Fang: How to Build a Good Symbiotic System
-
-<p style="font-size: 1rem">📅 Date: Jun. 1st  <br>👤 Participants: Zhe Dong, Zhenmao Ye</p>
-
-**Simulation**
-
-This year, we decided to build a symbiotic system that resembles lichen with cyanobacteria and *E. coli*. However, our team members have little idea of lichen and no experience in building a symbiotic system.
-
-We wondered that:
-
-1. What's the function of bacteria and fungus in the symbiotic system of lichen?
-
-2. How does lichen survive harsh environmental conditions like drought on Earth?
-
-3. How can we adjust the radio of cyanobacteria and *E. coli* in the system?
-
-**Target**
-
-[Prof. Fang](https://life.fudan.edu.cn/b2/f9/c28175a307961/page.htm) is a professor and doctoral supervisor at the School of Life Sciences, Fudan University, China. He has long been engaged in research on soil carbon and nitrogen cycles and their regulatory mechanisms, the impact of global climate change on soil ecosystem processes, and soil ecological models.
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/fangchangming.png"
-style='width:30%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Prof. Changming Fang</small></p>
-	</div>
-</div>
-
-**Action**
-
-We had a pleasant conversation with him about our symbiotic system design. Prof. Fang made a detailed explanation of the composition of lichen. Algae mainly **provide energy and essential substances** like **saccharides** through photosynthesis while fungi provide the necessary ions for algae. Besides, fungi can maintain the **physical structure** of lichen by secreting **polysaccharides**. The physical structure is quite necessary for lichens, which equips them with a strong ability to absorb and keep water. With this ability, lichens can form sheet-like structures to keep water under dry conditions and quickly rejuvenate when adequate water is available.
-
-Considering our experimental design, Prof. Fang pointed out huge challenges in engineering the symbiotic system of lichens. Since the structural paradigm of lichens has undergone a long evolutionary process, the delicate composition remains unknown to humans in many aspects. He recommended we build a physical structure to make our symbiotic system more tolerant of the environment. He also reminded us of **the association between physiological characteristics and the environment**.
-
-**Review**
-
-With the professional suggestions of Prof. Fang, we introduced **a cell-cell adhesion Module** into our symbiotic system. This module could construct a **biofilm** with a programmable physical structure through antigen-nanobody interaction. The biofilm would contribute to our symbiotic system's survival on the Martian surface. See more details in [Description](/description/).
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/fcm.jpg"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Our team members with Prof. Fang</small></p>
-	</div>
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-9-meeting-upower.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 9: Meeting with U Power</span>
+      <br><br>
+    </div>
 </div>
 
 
-### Prof. Zhexue Quan: How to Make *E. coli* Resistant to the Harsh Environment
+The investment experts at UPower Technologies expressed strong interest in the MEME project but pointed out that the experimental validation is still in its early stages, making it difficult to assess its readiness for commercial application. They suggested visiting industrial battery recycling plants to bridge the gap between theory and engineering.
 
-<p style="font-size: 1rem">📅 Date: Jun. 4th  <br>👤 Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
+Moreover, UPower believes the market for new energy applications is relatively small and recommended shifting the focus toward broader issues, such as nickel-heavy metal wastewater pollution.
 
-**Simulation**
 
-Considering the harsh environment on the surface of terrestrial planets, we need to genetically engineer *E. coli* so that our symbiotic system can survive for a long time.
 
-We wondered that:
+## C1.5 Visit GEM victory
 
-1. How do some special microbes **survive the extreme environment**?
-2. How can we **test** the survival ability of our engineered *E. coli*?
+With this question in mind, and inspired by Mr. Xiong and the investment experts from UPower Technology, we visited Greenme (Hubei) New Energy Materials Co., Ltd. in Jingmen, China, on August 15, thanks to UPower Technology's introduction. GME is dedicated to the recycling of electric vehicle batteries and has extensive recycling experience.
 
-**Target**
-
-[Prof. Quan](https://life.fudan.edu.cn/79/15/c28175a358677/page.htm) is a professor and doctoral supervisor at the School of Life Sciences, Fudan University, China. He has long been engaged in research on the physiological and biochemical characteristics of comammox and its role in the ecosystem. As a lecturer in microbiology, he has extensive knowledge of microbes under extreme conditions.
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/quanzhexue.jpg"
-style='width:30%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Prof. Zhexue Quan</small></p>
-	</div>
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem.png" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 10: Visit GEM Victory</span>
+      <br><br>
+    </div>
 </div>
 
-**Action**
 
-During the interview, Prof. Quan mentioned many microbes adapting to extreme living conditions, which greatly inspired us. He suggested we **pay attention to the microbes that survive harsh environments on Earth**. For example, the rhodospirillaceaes, as a kind of anaerobic photosynthetic bacteria, can produce energy and saccharides through photosynthesis but not rely on oxygen to survive, which is more suitable for the hypoxic environment in space.
+We presented the partially validated "MEME" project to Greenme’s engineering experts and toured their control center, pilot lab, and full production line for battery recycling. 
 
-For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept. For example, we can subject *E. coli* to **freeze-drying treatment** through Speedvac for several hours to simulate the drought on Mars.
+The experts pointed out that nickel recovery is a small part of electric vehicle battery recycling and encouraged us to focus on addressing broader nickel wastewater pollution issues.
 
-**Review**
-With the idea of Prof. Quan, we focused on [Tardigrada](https://en.wikipedia.org/wiki/Tardigrade), the most mysterious creature on Earth that could survive in space. [A recent bioRxiv article](https://doi.org/10.1101/2023.08.21.554171) found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought[^4], and freeze**. We built a BioBrick [BBa_K4765016](https://parts.igem.org/Part:BBa_K4765016) for our survival system.
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-2.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 11: Visit GEM Victory 2</span>
+      <br><br>
+    </div>
+</div>
 
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/education/implementation/collaboration/hp/qzx.jpg"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Our team members with Prof. Quan</small></p>
-	</div>
+
+Greenme's experts provided several technical expectations for our project:
+
+1. **High osmotic pressure tolerance**: MEME must withstand high sodium and sulfate ions common in industrial wastewater to be effective.
+
+2. **Specificity**: MEME's specificity should target a particular stage in industrial battery recycling, ideally paired with a systematic hardware design.
+
+3. **Nickel nanoparticle production**: The engineers are highly interested in the production of nickel nanoparticles, which could revolutionize the inefficient process of nickel extraction from laterite ores and enable a closed-loop industry.
+
+   <div style="text-align: center;" id="fig1">
+       <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-3.jpg" style='width:90%'>
+       <div>
+             <span style="color: gray">Figure 12: Visit GEM Victory 3</span>
+         <br><br>
+       </div>
+   </div>
+
+Greenme's experts also suggested that our perspective should be broader, focusing on industrial nickel wastewater treatment. This includes addressing nickel pollution in industries like electroplating, stainless steel production, and even environmental pollution control.
+
+
+
+### C1.6 Visit CPS Victory
+
+To gain a comprehensive understanding of these industrial nickel wastewater issues, we held an online meeting with IES Environmental Protection Technology (Suzhou) Co., Ltd. on August 27. Following the advice of their technical experts, we optimized our technical approach and renamed the project "MINERAL."
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-27-online-cps.png" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 13: Online Meeting with CPS</span>
+      <br><br>
+    </div>
+</div>
+
+
+Subsequently, on September 10, we visited Suzhou, China, and had an in-depth exchange with IES Environmental Protection Technology. We also toured their workshop and factory facilities.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-1.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 14: Visit CPS Victory</span>
+      <br><br>
+    </div>
+</div>
+
+
+We visited Suzhou IES Environmental Protection Technology's electroplating wastewater equipment production workshop, laboratory, and pilot equipment warehouse. The project experts at IES showed great interest in our project and proposed the idea of incubating it into a university-industry collaboration initiative.
+
+
+
+------
+
+**The final visit to Suzhou IES greatly inspired us, reinforcing our belief that the optimized "MINERAL" project is well-suited to addressing nickel wastewater pollution in both industrial and natural environments.**
+
+**These three iHP efforts formed the second DBTL cycle, ultimately guiding us to focus on "nickel wastewater pollution" as the core issue, refining our project, and leading to the creation of the new "MINERAL."**
+
+------
+
+
+
+## Cycle 2 Design＆Refinement
+
+Based on detailed literature and online research, we began designing our project.
+
+
+
+### C2.1 Discuss With Our PI And Instructor
+
+Will be updated in the next version.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-lu.png" style='width:50%'>
+    <div>
+          <span style="color: gray">Figure 17: Prof. Lu</span>
+      <br><br>
+    </div>
+</div>
+
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-cai.jpg" style='width:50%'>
+    <div>
+          <span style="color: gray">Figure 18: Prof. Cai</span>
+      <br><br>
+    </div>
+</div>
+
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-zhong.jpg" style='width:50%'>
+    <div>
+          <span style="color: gray">Figure 19: Prof. Zhong</span>
+      <br><br>
+    </div>
 </div>
 
 
 
-## Managing the Risk
 
-### The Environmental Ethics: Safety and Moral Concerns
+### C2.2 The 10th CCiC
 
-<p style="font-size: 1rem">📅 Date: Sep. 12th  <br>👤 Participants: Qingying Yang, Yijun Wang</p>
+Will be updated in the next version.
 
-**Stimulation**
-
-This year, we attempted to create a biofilm that could survive in space and modify the environment of terrestrial planets. **For the interests of all mankind**, we must take any **potential risk** to the outer space environment seriously. We wondered that:
-
-1. Would our attempt to modify the Martial environment result in irreversible damage to its ecosystem?
-2. Considering that our biofilm undergoes the progress of natural evolution to adapt to the Martian environment, would our engineering bacteria prove to be a threat to mankind in the future?
-3. How to deal with the safety and ethical concerns of our project?
-
-**Target**
-
-Graduating from the University of Glasgow, UK, Dr. Yunjie Zhang is now a postdoctoral student in Environmental Ethics at the School of Philosophy, Fudan University. Studying abroad for years, she has gained a unique insight into the environmental ethics related to human behaviors.
-
-**Action**
-
-Dr. Zhang pointed out that scholars in environmental ethics put an emphasis on the concept of **"wilderness"**, which is often understood as **untouched and pristine natural environments**. Philosopher William Godfrey-Smith once argued that wilderness holds multiple values for humanity. Even if humans never set foot in or utilize wilderness areas, these untouched landscapes should still be considered part of the **"moral community"** of humans. Protecting wilderness primarily involves preventing long-term human presence.
-
-In her opinion, If we consider Mars as a "wilderness", then substantial human intervention on Mars clearly **goes against** the concept of "preserving wilderness". It is essential to **gain a deeper insight into the Martian ecological environment** before judging the extent and nature of intervention that can be considered non-destructive to the "Martian wilderness."
-
-**Review**
-
-Dr. Yunjie Zhang reminded us of our duty to deal with the environmental ethics issue of our project. However, she didn't offer us any suggestions in scientific ethics and biosafety since she had little understanding of biological science. She recommended we ask experts in biological philosophy for further guidance.
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/1.png"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Dr. Yunjie Zhang</small></p>
-	</div>
-</div>
-
-**Re-Target**
-
-With the suggestions of Dr. Yunjie Zhang, we turned to [Dr. Mingjun Zhang](https://philosophy.fudan.edu.cn/3f/18/c14253a409368/page.htm) for professional suggestions on the safety and moral concerns of our project. Graduating from the University of Pennsylvania, America, Dr. Mingjun Zhang is an expert in biological philosophy and environmental ethics, and is working on evolutionary game theory.
-
-<div style="text-align: center;" id="fig-1">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/zhang-mingjun.jpg"
-style='width:30%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Dr. Mingjun Zhang</small></p>
-	</div>
-</div>
-
-**Re-Action**
-
-Dr. Mingjun Zhang considered our project as a **relatively positive action** for the benefit of all mankind. He argued that it was our duty to **explore and understand the planet we want to transform as much as possible**.  Although there is little chance of life existing on Mars, our team should be responsible for the entire universe as well as human civilization.
-
-The proof of concept, in his opinion, is the first issue for our project. "Currently, **the risk is controllable** so that it wouldn't cause substantial harm to the Earth, which is in line with the research norms of synthetic biology. For further development, addressing safety concerns, like **developing a "Suicide Switch"** is indispensable to limit the threat of engineered bacteria undergo unexpected evolution. However, if the biofilm is ready to be put into practice, the decision must be made by the entire world, because **Mars doesn't belong to any individual, team, or nation on Earth**."
-
-**Re-Review**
-
-The intersection of synthetic biology and bioethics certainly offered us a new horizon for our project. **We were fully aware of our duty and were ready to seek solutions to the safety concerns.** Although it proves to be impossible and unnecessary to bear all responsibilities or solve all problems, we will do our part and take a further step to fight for the interest of all mankind.
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/20231001152445.jpg"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">Our team members with Dr. Mingjun Zhang </small></p>
-	</div>
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-11-ccic-txj.png" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 21: The 11th CCiC</span>
+      <br><br>
+    </div>
 </div>
 
 
-### Reference
 
-[^1]: Brunner, I., Plötze, M., Rieder, S., Zumsteg, A., Furrer, G., & Frey, B. (2011). Pioneering fungi from the Damma glacier forefield in the Swiss Alps can promote granite weathering: Pioneering fungi. Geobiology, 9(3), 266–279. https://doi.org/10.1111/j.1472-4669.2011.00274.x
 
-[^2]: Cama, J., & Ganor, J. (2006). The effects of organic acids on the dissolution of silicate minerals: A case study of oxalate catalysis of kaolinite dissolution. Geochimica et Cosmochimica Acta, 70(9), 2191–2209. https://doi.org/10.1016/j.gca.2006.01.028
+### C2.3 Discuss with Zhang Chuyue
 
-[^3]: Chen, J., Blume, H.-P., & Beyer, L. (2000). Weathering of rocks induced by lichen colonization—A review. CATENA, 39(2), 121–146. https://doi.org/10.1016/S0341-8162(99)00085-5
-
-[^4]: Hibshman, J. D., Clark-Hachtel, C. M., Bloom, K. S., & Goldstein, B. (2023). A bacterial expression cloning screen reveals tardigrade single-stranded DNA-binding proteins as potent desicco-protectants (2023.08.21.554171). bioRxiv. https://doi.org/10.1101/2023.08.21.554171
+Will be updated in the next version.
 
 
 
+------
+
+**As the experiments progressed, we encountered several significant technical challenges, which we aimed to address through iHP.**
+
+------
 
 
 
+### C2.4 Email with Mr. Zhao
+
+Will be updated in the next version.
+
+
+
+###  C2.5 Discuss with Prof. Ma
+
+Will be updated in the next version.
+
+
+
+### C2.6 Email with Mr. Fubu ＆ Mr. Gan
+
+Will be updated in the next version.
+
+
+
+### C2.7 Discuss with Prof. Feng
+
+Will be updated in the next version.
+
+
+
+### C2.8 Dicsuss with Prof. Yin
+
+Will be updated in the next version.
+
+
+
+### C2.9 Discuss with Prof. Lin
+
+Will be updated in the next version.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-linzhang.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 30: Discuss with Prof. Lin</span>
+      <br><br>
+    </div>
+</div>
+
+
+
+
+## Cycle 3 Measurement
+
+After completing the basic framework of the project and conducting comprehensive literature research, the initial idea for **Measurement** was to detect changes in nickel ion concentration and observe the formation of nickel nanoparticles. However, we encountered significant challenges with these methods. The iHP work helped us overcome these difficulties and led to the development of improved **Measurement** techniques.
+
+
+
+### C3.1 Lab Discussion
+
+Between April and May, we discussed the laboratory instruments and conditions with Professor Cai Liang, the lab's PI, and based on this, we designed two **Measurement** technical approaches.
+
+Due to limitations in laboratory conditions, the measurement of changes in nickel ion concentration will be based on a standard colorimetric method.
+
+For the formation of nickel nanoparticles, we plan to use the magnetic properties of the nanoparticles for sorting and identification, while simultaneously utilizing UV-Vis spectrophotometry to determine the absorption peaks.
+
+
+
+### C3.2 Discuss with Professor Zhu Xiuping
+
+On July 16, we visited Professor Zhu Xiuping from the Department of Environmental Science and Engineering at Fudan University. Professor Zhu has long been engaged in metal wastewater treatment, and we believe that we can find the testing methods we are looking for in Zhu Lab.
+
+Professor Zhu Xiuping guided us through the laboratory, explaining the uses and basic operating procedures of various instruments. She suggested that when analyzing the generated "nickel nanoparticles" using multi-element experimental wastewater, we should include elemental analysis to determine the composition of the metal nanoparticles, as it can be challenging to identify their elements based solely on their appearance.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-16-discuss-zhuxiuping.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 32: Discuss with Prof. Zhu</span>
+      <br><br>
+    </div>
+</div>
+
+
+Recognizing our insufficient environmental science-related experimental equipment, Professor Zhu Xiuping recommended a shared instrument platform, which would facilitate our experimental work.
+
+
+
+### C3.3 Discuss with Professor Feng Wei
+
+During our discussion with Professor Feng Wei from the Department of Chemistry at Fudan University on August 2, we not only received suggestions for optimizing the project but also explored ideas related to **Measurement**.
+
+Professor Feng initially dismissed our method of measuring nickel nanoparticle content using UV spectrophotometry, as the absorption peaks of organic compounds are significantly higher than those of nickel nanoparticles, making this approach unfeasible. He also mentioned that while nickel nanoparticles theoretically have magnetic properties, their magnetism is very weak, which renders that method ineffective as well.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-2-discuss-prof-feng.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 33: Discuss with Prof. Feng</span>
+      <br><br>
+    </div>
+</div>
+
+
+Through further literature research and discussions with Professor Feng Wei, we opted to observe the generated nickel nanoparticles using electron microscopy. This method is more intuitive and feasible. Professor Feng also emphasized the importance of examining the oxidation state of nickel nanoparticles, encouraging us to critically consider the mention of "zero-valent nickel" in the literature.
+
+
+
+## C3.4 Visit to the Laboratory of CNERC-CTHMP.
+
+On August 16, during our visit to the National Engineering Technology Research Center for Heavy Metal Pollution, we entered the scanning electron microscopy room and the transmission electron microscopy room. Doctoral and master's students from Professor Lin Zhang's research group, including Du Fangyuan, introduced us to several experimental techniques related to heavy metal wastewater treatment.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-linzhang-lab.png" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 34: The Lab of CNERC-CTHMP</span>
+      <br><br>
+    </div>
+</div>
+
+
+In Professor Lin Zhang's laboratory, we observed specialized X-ray-based instruments capable of determining the oxidation states of elements. This inspired us to consider detection methods for metal oxidation states.
+
+
+
+------
+
+**The four iHP efforts collectively formed the DBTL Cycle for Measurement, guiding us in developing a comprehensive detection method and techniques. This allowed us to establish a Measurement approach focused primarily on two core technologies: standard colorimetric methods and electron microscopy observation.**
+
+------
+
+
+
+## Cycle 4 Hardware
+
+In the initial conception of Mineral, we designed a membrane-based hardware system, hoping it would address all issues. However, after discussions and exchanges with experts from laboratories and companies, we abandoned the original idea. Through detailed discussions and evaluations, we incorporated the experts' suggestions and designed [a new hardware module](/fudan/hardware/).
+
+
+
+### C4.1 Discussed with Professor Cai
+
+We explained our membrane-based hardware concept to Professor Cai, who pointed out that membranes are not suitable for large-scale industrial production and specific usage scenarios. After thorough research and discussions, we designed a bacterial membrane covering material based on specialized fibers. Bacteria can specifically adhere to this unique fiber, allowing for personalized applications of the fabric in various scenarios. This became the foundation of our hardware design.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware1.png" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 35: model of Agarose–carbon nanotube (aCNT) composite fiber</span>
+      <br><br>
+    </div>
+</div>
+
+
+
+
+### C4.2 Discussed with Professor Lin Zhang: MINERAL hardware for natural water bodies.
+
+On August 16, Professor Lin Zhang from Central South University emphasized the importance of considering the specificity and key issues of different application environments. He pointed out that our bacterial density is extremely low compared to large natural water bodies. Two problems need to be addressed: 1. Increase the contact area between MINERAL and the ions in the water; 2. Enhance the flux of water passing through MINERAL per unit time.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-prof-lin.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 36: Discuss with Prof. Lin</span>
+      <br><br>
+    </div>
+</div>
+
+
+Using sponges as an example, he suggested that we could adopt a biomimetic approach to mimic how sponges filter seawater, allowing sufficient flux of seawater through the bacterial body.
+
+After further research and discussions, we created hardware designs for natural water bodies based on mesh design. This part of the hardware design can be found in the “Hardware” section.
+
+
+
+### C4.3 Discussion with CPS technology experts:  the hardware design for industrial nickel wastewater pollution.
+
+Inspired by Professor Lin Zhang, we aimed to enhance the hardware design for treating industrial nickel wastewater from an industrial perspective. 
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-2.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 37: Visit CPS Victory 2</span>
+      <br><br>
+    </div>
+</div>
+
+
+On September 10, during our visit to the Suzhou Yisibei pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing MINERAL hardware suitable for industrial environments. 
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-victory-4.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 38: Visit GEM Victory 4</span>
+      <br><br>
+    </div>
+</div>
+
+
+We also considered MINERAL's placement after preliminary alkaline treatment of nickel-polluted wastewater, as it could achieve treatment precision that alkaline methods cannot, while effectively recovering nickel ions.
+
+
+
+------
+
+**The three iHP sessions related to hardware also constituted two complete DBTL cycles, providing comprehensive guidance for the hardware design.**
+
+------
+
+
+
+## Section 5 Dry Lab
+
+"MINERAL" is expected to play a role in industrial settings or polluted natural water bodies. To achieve this, we conducted extensive Dry Lab work. Our iHP efforts facilitated research and discussions with various institutions.
+
+
+
+### Write to the Shanghai Municipal Ecology and Environment Bureau to seek data and support.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-9-contact-sepb.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 39: Contacting the Shanghai Environmental Protection Bureau</span>
+      <br><br>
+    </div>
+</div>
+
+
+In our Model design, inspired by fluid dynamics, we aim to focus on local issues and develop a model to simulate pollution diffusion. During the design process, we reached out to the Shanghai Municipal Ecology and Environment Bureau for data support and suggestions. We received a positive response from the bureau, which further motivated our Model development.
+
+
+
+## Cycle 6 Entrepreneurship
+
+During several communications with enterprises, they showed strong interest in MINERAL and expressed expectations for biological methods to address nickel pollution. This section can be found in the [Entrepreneurship interface](/fudan/entrepreneurship/). Our business research and design also followed the DBTL Cycle, providing valuable feedback and inspiration for project improvement.
+
+| Date      | Event                                                        | Suggestions                                                  | People                           |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- |
+| 2024.5    | Fudan University Innovation and Entrepreneurship Competition | Will be updated in the next version.                         | All Members                      |
+| 2024.8.9  | Meeting with U Power                                         | 1. The investment expert expressed strong interest in our project.  <br/>2. They suggested that we visit factories to investigate demand and industry compatibility.  <br/>3. They recommended shifting our product focus from the new energy vehicle sector to the broader issue of heavy metal wastewater. | Zheng Kexin                      |
+| 2024.8.15 | Meeting with GME                                             | 1. Further improve experiments to obtain convincing data.  <br/>2. Focus more on the issue of nickel wastewater treatment in the industrial sector.  <br/>3. Recognize that our project has economic and technical advantages, looking forward to a complete product after experimental validation. | Suo Ziming, Zheng Kexin, Liwanqi |
+| 2024.8.27 | Meeting with CPS                                             | 1. They are very interested in our improved product with experimental results and hope to further incubate it through university-enterprise cooperation for future commercialization.<br/>2. They believe our project holds both economic and technological advantages, offering one of the rare biological solutions in this field. | Suo Ziming, Shi Yi               |
+
+
+
+## Section 7 Future and Responsibility
+
+On July 27, we had dinner with Don Cleveland, the chair of the Department of Cellular and Molecular Medicine at the University of California, San Diego, where we discussed our project. That evening, we enjoyed a unique "City Walk" along the Huangpu River. Don Cleveland expressed strong support for our project and explored how it could contribute to heavy metal wastewater treatment in China and help protect natural water bodies.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-27-discuss-don-cleveland.jpg" style='width:90%'>
+    <div>
+          <span style="color: gray">Figure 40: Discuss with Mr. Don Cleveland</span>
+      <br><br>
+    </div>
+</div>
+
+
+
+
+## Section 8 Communicate with Peers: Improving the Project Through Meeting
+
+The Fudan iGEM 2024 team organized two and participated in three cross-school exchange activities. Interacting with other teams provided valuable insights for reviewing our own project. We observed that teams from different backgrounds focus on various aspects of the project. Additionally, within the shared context of iGEM, we could avoid straying from synthetic biology principles, effectively identifying solutions to our challenges.
+
+| Event                                                     | Date      | Improvement                                                  |
+| --------------------------------------------------------- | --------- | ------------------------------------------------------------ |
+| Shanghai Meeting of Fudan-BIT-Tongji-ShanghaiTech iGEMers | 2024.5.4  | Through our exchange with BIT, we learned that both teams were focusing on different aspects of the same issue. This deepened our understanding of battery recycling and ultimately influenced both our project background and theme. |
+| The 11th CCiC                                             | 2024.7.11 | The expert’s questions highlighted flaws in our technical approach and significantly influenced the design of our components. For detailed information, please refer to section [C2.2 The 10th CCiC](fudan/human-practices/#c2-2-the-10th-ccic). |
+| The 6th Northwestern China iGEM Meetup                    | 2024.8.5  | We discussed the HP working method and shared our project details during the conversation. |
+| Changsha Meeting of Fudan-CSU-HNU-NUDT iGEMers            | 2024.8.15 | We raised technical questions with each other and identified potential flaws in the project. |
+| Online Meeting of CUG-Fudan-BIT iGEMers                   | 2024.8.20 | CUG, Fudan, and BIT-China share similar project backgrounds, all focusing on heavy metal recovery or pollution. Through an online conference, we reviewed each other's project designs from different perspectives, gaining a deeper understanding of the topics and background from various technical angles. |
+| Michigan iGEM Environment Symposium                       | 2024.8.22 | We shared our project and engaged in thorough discussions with other teams across cultural contexts, critically analyzing and validating the significance of our project. |
+
+
+
+## Section 9 How the iHP work paradigm enhances education and inclusivity
+
+Although Education and Inclusivity are not strictly part of iHP, we still utilized the DBTL-based iHP approach to engage with education experts, sociologists, and social workers. Our Education and Inclusivity activities benefited significantly from these interactions.
+
+For a detailed account of this section, please refer to the [Education](/fudan/education/)  and [Inclusivity](/fudan/inclusivity) sections.
+
+
+
+**References**
+
+[^1]: Shanghai Metallurgy Equipment Group. Global Mineral Resources Report 2023. [Global Mineral Resources Report 2023 (smegcn.com)](https://www.smegcn.com/news/global-mineral-resources-report-2023)
+[^2]: [Recycling and Environment – International Nickel Study Group (insg.org)](https://insg.org/index.php/about-nickel/recycling-and-environment/)
