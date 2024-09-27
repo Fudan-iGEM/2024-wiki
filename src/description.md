@@ -18,7 +18,7 @@ Humans often realize their mistakes only when the damage is irreparable, a lesso
         <span style="color:gray">Figure 1: Overexploitation of natural resources</span>
         <br><br>
     </div>
-
+</div>
 
 
 
@@ -39,7 +39,7 @@ Meanwhile, the demand for nickel is growing at an **unsustainable rate**, outpac
         <span style="color:gray">Figure 2: Nickel in our modern world</span>
         <br><br>
     </div>
-
+</div>
 
 
 
@@ -56,7 +56,7 @@ Despite the environmental damage caused by mining, it remains the more cost-effe
         <span style="color:gray">Figure 3: Current nickel recycling methods</span>
         <br><br>
     </div>
-
+</div>
 
 
 
@@ -82,7 +82,7 @@ We have developed a symbiotic system involving *E. coli* and cyanobacteria to **
         <span style="color:gray">Figure 4: Overview of MINERAL</span>
         <br><br>
     </div>
-
+</div>
 
 ## Our Problem
 
@@ -124,7 +124,7 @@ We present four interrelated systems to target the problems identified in the pr
         <span style="color:gray">Figure 5: Four systems of MINERAL</span>
         <br><br>
     </div>
-
+</div>
 
 
 
@@ -152,7 +152,7 @@ To prevent nickel ions from being pumped out of the cell, we knock out the **Rcn
         <span style="color:gray">Figure 6: Nickel uptake system</span>
         <br><br>
     </div>
-
+</div>
 
 
 
@@ -182,7 +182,7 @@ We overexpress YejM to upregulate the production of LPS, allowing the *E. coli* 
         <span style="color:gray">Figure 7: Survival system</span>
         <br><br>
     </div>
-
+</div>
 
 
 
@@ -202,7 +202,7 @@ We utilize **carboxysomes**, bacterial microcompartments (BMCs)[^20], to serve a
         <span style="color:gray">Figure 8: Nickel micro-factory system</span>
         <br><br>
     </div>
-
+</div>
 
 
 
@@ -217,7 +217,7 @@ We utilize **carboxysomes**, bacterial microcompartments (BMCs)[^20], to serve a
         <span style="color:gray">Figure 9: Hydrogen Supply System</span>
         <br><br>
     </div>
-
+</div>
 
 
 
