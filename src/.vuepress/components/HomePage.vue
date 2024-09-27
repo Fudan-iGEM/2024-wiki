@@ -5,7 +5,7 @@
       viewBox="0 0 1920 953"
       width="100%"
       height="100%"
-      preserveAspectRatio="xMinYMin meet"
+      
       xmlns="http://www.w3.org/2000/svg"
     >
       <mask id="m">
@@ -90,12 +90,12 @@
   <main>
     <div class="scrollDist"></div>
     <section class="page-1" id="sky">
-      <div class = "skypng"> </div>
       <p>
         <strong>B</strong>iofilm <strong>H</strong>arnessing for
         <strong>O</strong>ffworld <strong>M</strong>ankind
         <strong>E</strong>stablishment
       </p>
+      
     </section>
     <section class="page-2" id="land">
       <!-- 您可以在这里添加更多内容 -->
@@ -178,17 +178,23 @@ export default {
       0
     );
     tl.fromTo(
-      ['.title', '.carbo2', '.carbo3', '.carbo4'],
-      { scale: 0.5, transformOrigin: 'center center' },
-      { scale: 1, duration: 5, ease: 'power2.inOut' },
+      ['.carbo2', '.carbo3', '.carbo4', '.carbo5'],
+      { scale: 1, transformOrigin: 'center center' },
+      { scale: 1.4, duration: 5, ease: 'power2.inOut' },
       0
     );
     tl.fromTo(
+      ['.title'],
+      { scale: 0.6, transformOrigin: 'center center' },
+      { scale: 1, duration: 5, ease: 'power2.inOut' },
+      0
+    );
+    /* tl.fromTo(
       ['.carbo2', '.carbo3', '.carbo4', '.carbo5'],
       { scale: 0.75, transformOrigin: 'center center' },
       { scale: 1, duration: 5, ease: 'power2.inOut' },
       0
-    );
+    ); */
     tl.fromTo(
       ['.carbo1'],
       { scale: 0.6, transformOrigin: 'center center' },
@@ -198,24 +204,30 @@ export default {
     tl.fromTo(
       ['.wave1', '.wave2', '.wave3', '.wave4', '.frame4'],
       { scale: 1, transformOrigin: 'center center' },
-      { scale: 1.33, duration: 5, ease: 'power2.inOut' },
+      { scale: 1.6, duration: 4, ease: 'power2.inOut' },
+      0
+    )
+    tl.fromTo(
+      ['.frame6', '.frame7'],
+      { scale: 1, transformOrigin: 'center center' },
+      { scale: 1.6, duration: 5, ease: 'power2.inOut' },
       0
     )
       .addLabel('afterScaling')
-      .fromTo('.frame7', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-      .fromTo('.frame6', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-      .fromTo('.frame4', { y: 0 }, { y: -200, duration: 5 }, 'afterScaling')
-      .fromTo('.wave1', { y: 0 }, { y: -600, duration: 5 }, 'afterScaling')
-      .fromTo('.wave2', { y: 0 }, { y: -600, duration: 5 }, 'afterScaling')
-      .fromTo('.wave3', { y: 0 }, { y: -600, duration: 5 }, 'afterScaling')
-      .fromTo('.wave4', { y: 0 }, { y: -600, duration: 5 }, 'afterScaling')
+      .fromTo('.frame7', { y: 0 }, { y: -1200, duration: 5 }, 'afterScaling')
+      .fromTo('.frame6', { y: 0 }, { y: -1200, duration: 5 }, 'afterScaling')
+      .fromTo('.frame4', { y: 0 }, { y: -1200, duration: 5 }, 'afterScaling')
+      .fromTo('.wave1', { y: 0 }, { y: -1600, duration: 10 }, 'afterScaling')
+      .fromTo('.wave2', { y: 0 }, { y: -1600, duration: 10 }, 'afterScaling')
+      .fromTo('.wave3', { y: 0 }, { y: -1600, duration: 10 }, 'afterScaling')
+      .fromTo('.wave4', { y: 0 }, { y: -1600, duration: 10 }, 'afterScaling')
       .fromTo('.cloud1', { y: 100 }, { y: -950, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo1', { y: 0 }, { y: -500, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo2', { y: 0 }, { y: -500, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo3', { y: 0 }, { y: 0, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo4', { y: -30 }, { y: -250, duration: 5 }, 'afterScaling')
-      .fromTo('.carbo5', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling')
-      .fromTo('.title', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling');
+      .fromTo('.carbo1', { y: 0 }, { y: -1500, duration: 5 }, 'afterScaling')
+      .fromTo('.carbo2', { y: 0 }, { y: -1500, duration: 5 }, 'afterScaling')
+      .fromTo('.carbo3', { y: 0 }, { y: -1000, duration: 5 }, 'afterScaling')
+      .fromTo('.carbo4', { y: -30 }, { y: -1250, duration: 5 }, 'afterScaling')
+      .fromTo('.carbo5', { y: -50 }, { y: -1600, duration: 5 }, 'afterScaling')
+      .fromTo('.title', { y: -50 }, { y: -1600, duration: 5 }, 'afterScaling');
   }
 };
 </script>
@@ -234,7 +246,6 @@ body,
 html {
 width: 100%;
 height: 100%;
-background: #111b29;
 font-family: 'Montserrat', sans-serif;
 font-size: 99px;
 text-align: center;
@@ -246,16 +257,21 @@ overflow-x: hidden; /* 防止横向滚动条 */
 .animation-container {
 position: fixed;
 top: 0;
-left: 0;
+/* left: 0; */
+left: 50%;
+transform: translateX(-50%);
 width: 100%;
 height: 100%;
+
 pointer-events: none; /* 防止动画层阻挡下面的内容交互 */
 z-index: 1; /* 确保动画层在内容层之上 */
+overflow: hidden;
 }
 
 main {
 position: relative;
 z-index: 2; /* 确保内容层在动画层之下 */
+
 }
 
 .scrollDist {
@@ -266,6 +282,8 @@ height: 500vh; /* 根据需要调整滚动距离 */
 svg {
 width: 100%;
 height: 100%;
+overflow: hidden;
+
 }
 
 svg image {
@@ -276,10 +294,11 @@ width: 100%;
 height: 100%;
 }
 
-/* 您的其他样式 */
-.section {
-padding: 100px 20px;
-min-height: 100vh;
+section {
+  padding: 100px 20px;
+  min-height: 100vh;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 /* 针对移动设备的样式调整 */
