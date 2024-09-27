@@ -283,7 +283,7 @@ min-height: 100vh;
 }
 
 /* 针对移动设备的样式调整 */
-@media (max-width: 1367px) {
+@media (max-width: 820px) {
 .frame0 {
   display: none;
 }
