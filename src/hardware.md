@@ -18,7 +18,7 @@ In today's wastewater treatment industry, different kinds of contemporary biofil
 Our team is concerned about all these limitations and come up with our own solution using carbon nanotubes (CNTs). CNTs possess unique physicochemical and morphological characteristics, excellent adsorption capabilities, and permeability, showing significant potential in wastewater treatment[^4]. We designed an innovative fiber structure based on carbon nanotubes, which can not only carry and nourish our engineered bacteria but also be woven into any required shape and size according to actual needs. In practical application scenarios, we load the engineered bacteria onto our designed fibers and weave them into a form that perfectly matches the target device. With this fiber structure deployed in the treatment device, we can effectively achieve the recovery and purification of heavy metals such as nickel.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware1.png" style='width:90%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware1.png" style='width:100%'>
     <div>
       <span style="color: gray">Figure 1: Model of Agarose–carbon nanotube (aCNT) composite fiber.</span>
       <br><br>
@@ -45,7 +45,7 @@ Additionally, we designed application forms for different scenarios, which are d
 4. Dry the hydrogel threads at room temperature for 12 hours to form aCNT composite fibers ([Figure 2](#fig2)) [^7].
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware2.png" style='width:90%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware2.png" style='width:100%'>
     <div>
     	  <span style="color: gray">Figure 2: Prepare aCNT composite fiber in laboratory environment.</span>
       <br><br>
@@ -59,7 +59,7 @@ Additionally, we designed application forms for different scenarios, which are d
 We propose to use the apparatus shown in [Figure 3](#fig3) to produce sCNT in large scale. The apparatus contains agarose gel solution. The multi-walled carbon nanotube pass through the apparatus. We could control the diameter of the inlets and outlets to control the diameter of the fibers. The size and shape are adjustable according to real world needs. Then heat the carbon nanotube to approximately 100 degrees Celsius and cool it down quickly to solidify the agarose gel on the surface of the carbon nanotube.
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware3.png" style='width:90%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware3.png" style='width:100%'>
     <div>
     	  <span style="color: gray">Figure 3: production of aCNT composite fiber in industrial environment</span>
       <br><br>
@@ -78,7 +78,7 @@ Use a spinning machine to spiral our composite fibers into bundles and weave the
 Soak the woven fiber material in bacterial solution. Stand for 30 minutes to facilitate the adsorption of engineered bacteria onto the surface of fiber. The agarose gel provides certain nutrients, ensuring the survival of bacteria on the fibers for a period of time. Therefore, we successfully constructed our fiber-bacteria system ([Figure 4](#fig4)).
 
 <div style="text-align: center;" id="fig4">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware4-2.png" style='width:90%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware4-2.png" style='width:100%'>
     <div>
     	  <span style="color: gray">Figure 4: Assembly of the composite fiber-bacterial system</span>
       <br><br>

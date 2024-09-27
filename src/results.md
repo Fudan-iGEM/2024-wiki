@@ -16,7 +16,7 @@ author:
 To expand humanity's horizons beyond Earth, our project, named **Biofilm Harnessing for Offworld Mankind Establishment** ([B.HOME](/description/#b-home-project-overview)), has raised a groundbreaking approach to terraforming, transforming barren rocks on terrestrial planets in fertile soil. Drawing inspiration from the pioneer plants of lichens, we have developed an ecological biofilm with the symbiotic relationship between cyanobacteria and *Escherichia coli* (*E. coli*). We integrated four interconnected systems into our biofilm: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming** Systems. Through these systems, we have engineered an ecological biofilm with remarkable resilience, autotrophic survival capabilities, structural integrity, and terraforming functionality.
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/4765/wiki/jzk/description-figure7.png" style='width:90%'>
+    <img src="https://static.igem.wiki/teams/4765/wiki/jzk/description-figure7.png" style='width:100%'>
     <br>
     <div>
         <p><small style="color: gray">Figure 1: Systems Overview<br>B.HOME is composed of four interconnected systems: Survival, Symbiotic, Biofilm Formation, and Terraforming Systems</small></p>
@@ -141,7 +141,7 @@ During the experiment's progression, we observed a slight decrease in growth cur
 To pinpoint the limiting factors, we conducted a follow-up experiment at the 25-hour mark, isolating several tubes from empty *E. coli* cultures supplemented with carbon source, CaCl~2~ or MgSO~4~. Our results indicated that the growth curve notably improved upon the addition of MgSO~4~, suggesting that MgSO4 was the **limiting growth factor**.
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/sacresult-1.png" style='width:90%'>
+    <img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/sacresult-1.png" style='width:100%'>
     <br>
     <div>
         <p><small style="color: gray">Figure 9: Growth Curve of SacC Experiments<br> Growth Curve of <em>E. coli</em> in M9 minimal medium with carbon source and extra nutrient factor</small></p>
