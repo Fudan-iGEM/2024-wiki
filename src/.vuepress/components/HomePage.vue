@@ -90,12 +90,7 @@
   <main>
     <div class="scrollDist"></div>
     <section class="page-1" id="sky">
-      <div class = "skypng"> </div>
-      <p>
-        <strong>B</strong>iofilm <strong>H</strong>arnessing for
-        <strong>O</strong>ffworld <strong>M</strong>ankind
-        <strong>E</strong>stablishment
-      </p>
+
     </section>
     <section class="page-2" id="land">
       <!-- 您可以在这里添加更多内容 -->
@@ -196,7 +191,7 @@ export default {
       0
     );
     tl.fromTo(
-      ['.wave1', '.wave2', '.wave3', '.wave4'],
+      ['.wave1', '.wave2', '.wave3', '.wave4',".frame4"],
       { scale: 1, transformOrigin: 'center center' },
       { scale: 1.33, duration: 5, ease: 'power2.inOut' },
       0
