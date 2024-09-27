@@ -5,7 +5,7 @@
       viewBox="0 0 1920 953"
       width="100%"
       height="100%"
-      
+      preserveAspectRatio="xMidYMid slice"
       xmlns="http://www.w3.org/2000/svg"
     >
       <mask id="m">
@@ -90,6 +90,7 @@
   <main>
     <div class="scrollDist"></div>
     <section class="page-1" id="sky">
+      
       <p>
         <strong>B</strong>iofilm <strong>H</strong>arnessing for
         <strong>O</strong>ffworld <strong>M</strong>ankind
