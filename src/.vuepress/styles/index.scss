@@ -72,9 +72,11 @@ h2 .header-anchor:hover {
 }
 
 h3 {
-  font-family: 'Sofia Sans';
-  color: #0790B8;
+  font-family: 'Sofia Sans',sans-serif;
+  color: #1D7491;
+  font-weight: 1000;
 }
+
 
 
 /* TABLE */
@@ -175,16 +177,16 @@ $content-width: 800px !default;
 
 /* color */
 .vp-navbar .auto-link{
-  color: #F19978;
+  color: #F3E4C0;
 }
 .vp-navbar .auto-link:hover {
-  color: #0790B8; 
+  color: #4092B8; 
 }
 .vp-navbar .auto-link.route-link-active {
-  color: #0790B8;
+  color: #4092B8;
 }
 .vp-dropdown-wrapper .auto-link.route-link-active {
-color: #0790B8;
+color: #4092B8;
 }
 .vp-nav-item > .auto-link::before {
   content: " ";
@@ -202,7 +204,11 @@ color: #0790B8;
   color: #4092B8;
 }
 .vp-dropdown-title{
-  color: #F19978;
+  color: #F3E4C0;
+}
+.vp-dropdown{
+  background-color: #9BBEE8;
+  border: none;
 }
 .vp-toc-link{
   color: #003944;
@@ -240,14 +246,14 @@ color: #0790B8;
 }
 
 #app {
-  --navbar-bg-color: rgba(64, 146, 184, 0.25);
+  --navbar-bg-color: rgba(75, 103, 184, 0.25);//rgba(64, 146, 184, 0.25);
   --grey-dark: #0790B8;
   --detail-bg-color: #C8EAF1;
   --detail-text-color:#0790B8;
   --tip-border-color:#0790B8;
   --tip-bg-color:#C8EAF1;
   --tip-title-color:#F18B59;
-
+/* dark */
   html[data-theme="dark"] & {
     --navbar-bg-color: rgba(56, 43, 122, 0.25);
     --grey-dark:#CE8218;
@@ -311,6 +317,17 @@ color: #0790B8;
       border-radius: 8px;
       background-color: #2B1642;
     }
+    .vp-dropdown{
+      background-color: #382B7A;
+      border: none;
+    }
+    /* h3 */
+    h3 {
+      font-family: 'Sofia Sans',sans-serif;
+      color: #DF9226;
+      font-weight: 1000;
+    }
+    
     @media (min-width: 1440px) {
       #toc {
           position: absolute;
