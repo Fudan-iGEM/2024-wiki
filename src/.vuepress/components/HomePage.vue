@@ -96,9 +96,7 @@
         class="responsive-svg"
       />
       <p>
-        <strong>B</strong>iofilm <strong>H</strong>arnessing for
-        <strong>O</strong>ffworld <strong>M</strong>ankind
-        <strong>E</strong>stablishment
+        mineral
       </p>
       
     </section>

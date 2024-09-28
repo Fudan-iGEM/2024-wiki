@@ -72,6 +72,6 @@ Below is the complete list of our iGEM projects.
   </tbody>
 </table>
 
-This page is updated from our [2023](https://2023.igem.wiki/fudan/heritage), [2022](https://2022.igem.wiki/fudan/heritage), [2021](https://2021.igem.org/Team:Fudan/Heritage), [2020](https://2020.igem.org/Team:Fudan/Heritage) and [2019](https://2019.igem.org/Team:Fudan-TSI/Heritage) pages.
+This page is updated from our [2023](https://2023.igem.wiki/fudan/heritage/), [2022](https://2022.igem.wiki/fudan/heritage), [2021](https://2021.igem.org/Team:Fudan/Heritage), [2020](https://2020.igem.org/Team:Fudan/Heritage) and [2019](https://2019.igem.org/Team:Fudan-TSI/Heritage) pages.
 
-For more details about our winter-break training, please visit our [2018](http://2018.igem.org/Team:Fudan/Heritage) page. We learn and confirm parts from [2023](https://2023.igem.wiki/fudan/parts) and [2022](https://2022.igem.wiki/fudan/parts) during the training.
+For more details about our winter-break training, please visit our [2018](http://2018.igem.org/Team:Fudan/Heritage) page. We learn and confirm parts from [2023](https://2023.igem.wiki/fudan/parts/) and [2022](https://2022.igem.wiki/fudan/parts) during the training.

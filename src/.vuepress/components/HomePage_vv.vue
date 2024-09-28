@@ -92,9 +92,7 @@
     <section class="page-1" id="sky">
       
       <p>
-        <strong>B</strong>iofilm <strong>H</strong>arnessing for
-        <strong>O</strong>ffworld <strong>M</strong>ankind
-        <strong>E</strong>stablishment
+        MINERAL
       </p>
       
     </section>

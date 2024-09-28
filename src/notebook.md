@@ -8,7 +8,7 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 ## January
 
-From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage) on synthetic biology and the iGEM competition. Goals included: 1) Sharing experiences from [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team) and 2023 members to prepare new members with essential skills and knowledge while allowing them to select their own focuses based on interest; 2) Ice-breaking among new members to build effective communication; 3) Brainstorming new ideas for 2024 through discussions and critiques; 4）Lab training of the [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) of cyanobacteria with *Escherichia coli*, and conducted experiments on bacterial [anti-UV and anti-Freeze](https://2023.igem.wiki/fudan/results/#_1-survival-system) from last year.
+From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage/) on synthetic biology and the iGEM competition. Goals included: 1) Sharing experiences from [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team) and 2023 members to prepare new members with essential skills and knowledge while allowing them to select their own focuses based on interest; 2) Ice-breaking among new members to build effective communication; 3) Brainstorming new ideas for 2024 through discussions and critiques; 4）Lab training of the [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) of cyanobacteria with *Escherichia coli*, and conducted experiments on bacterial [anti-UV and anti-Freeze](https://2023.igem.wiki/fudan/results/#_1-survival-system) from last year.
 
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/notebook/january.jpg" style='width:100%'>
@@ -80,7 +80,7 @@ After returning to [Shanghai](https://en.wikipedia.org/wiki/Shanghai), we interv
 
 We continued our molecular cloning, and engaged with Professor Don W. Cleveland in scientific discussions (low left of [the image](#fig7)).
 
-这是 high school students and 需要链接去页面
+面向 high school students 活动介绍 需要链接去页面
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/notebook/july-1.jpg" style='width:100%'>
@@ -98,7 +98,7 @@ We interviewed experts from [various fields](/fudan/human-practices/#c3-4-visit-
 
 ## September - October
 
-While experiments were ongoing, we [finalized the authorship](/fudan/attributions) for our wiki pages, and started writing the pages and documenting previous events. Meanwhile, we are analyzing wet lab data and further improving the dry lab work.
+While experiments were ongoing, we [finalized the authorship](/fudan/attributions/) for our wiki pages, and started writing the pages and documenting previous events. Meanwhile, we are analyzing wet lab data and further improving the dry lab work.
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/notebook/september-1.jpg" style='width:100%'>

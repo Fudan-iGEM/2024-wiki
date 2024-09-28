@@ -555,7 +555,7 @@ The Fudan iGEM 2024 team organized two and participated in three cross-school ex
 
 Although Education and Inclusivity are not strictly part of iHP, we still utilized the DBTL-based iHP approach to engage with education experts, sociologists, and social workers. Our Education and Inclusivity activities benefited significantly from these interactions.
 
-For a detailed account of this section, please refer to the [Education](/fudan/education/)  and [Inclusivity](/fudan/inclusivity) sections.
+For a detailed account of this section, please refer to the [Education](/fudan/education/)  and [Inclusivity](/fudan/inclusivity/) sections.
 
 
 
