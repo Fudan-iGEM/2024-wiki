@@ -40,13 +40,14 @@ R_csoS1D  5-GCACGCTCGACTACCTG-3
 ## Forward Primer paired with R_cso: 5-atggggtcaaacatgcct-3
 </pre>
 
+## Our favourite part is, explain why xxxxx
 
+----
 
+Visit our [Improve](/fudan/improve/) page for parts we improved this year.
 
-Visit our [Improve](/fudan/improve) page for parts we improved this year.
-
-Vist our [Part Collection](/fudan/part-collection) page for parts we made in 2024. Links to all parts available at [gitlab](https://gitlab.igem.org/2024/fudan/-/blob/main/groupparts.md).
+Vist our [Part Collection](/fudan/part-collection/) page for parts we made in 2024. Links to all parts available at [gitlab](https://gitlab.igem.org/2024/fudan/-/blob/main/groupparts.md).
 
 Back to [https://2024.igem.wiki/fudan/](https://2024.igem.wiki/fudan/)
 
-To check scencs behind our promotion video, please visit [https://2024.igem.wiki/fudan/promotion-video](/fudan/promotion-video)
+To check scencs behind our promotion video, please visit [https://2024.igem.wiki/fudan/promotion-video/](/fudan/promotion-video/)

@@ -12,7 +12,7 @@ In our [MINERAL](/description/) project, we are working towards improving *Esche
 
 However, these plasmids can impose varying metabolic demands on the host bacteria, making it essential to evaluate their impact on *E. coli*'s growth and overall fitness. To achieve controlled expression and minimize leakage that could hinder cell growth, we employ both arabinose and IPTG for induction in our *E. coli* strain. This dual induction strategy allows for optimal conditions for expressing our target proteins.However, different plasmids can impose varying metabolic burdens on the host cells, making it essential to assess their impact on *E. coli*'s growth and overall fitness.
 
-Rather than relying solely on traditional growth curves, which can be time-consuming, we’ve chosen to implement "spot assays." This method provides a quicker and more efficient way to assess bacterial growth under stress, giving us valuable insights into how different plasmid constructs influence bacterial performance in nickel-rich environments.The data generated from these assays will also support the development of our [software](/fudan/software/), which is designed to assess the metabolic pressure exerted by plasmids on *E. coli*, helping us validate our findings and optimize our engineering efforts.
+Rather than relying solely on traditional growth curves, which can be time-consuming, we’ve chosen to implement "spot assays." This method provides a quicker and more efficient way to assess bacterial growth under stress, giving us valuable insights into how different plasmid constructs influence bacterial performance in nickel-rich environments.The data generated from these assays will also support the development of our [Software](/fudan/software/), which is designed to assess the metabolic pressure exerted by plasmids on *E. coli*, helping us validate our findings and optimize our engineering efforts.
 
 ## Method overview
 
@@ -156,7 +156,7 @@ These prior studies have guided our improvements in methodology, particularly in
 
 ## Summary
 
-This measurement approach is designed to be easily repeated by other iGEM teams, with a **well-documented** protocol that outlines each step clearly. Our team utilized this methodology to assess the growth stress effects of various plasmids introduced into *E. coli*, providing essential data to inform [software](/fudan/software/) development aimed at optimizing microbial performance.
+This measurement approach is designed to be easily repeated by other iGEM teams, with a **well-documented** protocol that outlines each step clearly. Our team utilized this methodology to assess the growth stress effects of various plasmids introduced into *E. coli*, providing essential data to inform [Software](/fudan/software/) development aimed at optimizing microbial performance.
 
 Importantly, our method can be **broadly applied across various research projects**, including those investigating plasmid impacts on metabolic pathways, gene expression levels, and stress responses in different environmental conditions. It is particularly useful for projects focused on antibiotic resistance, enzyme activity assays, synthetic circuit efficiency, and metabolic engineering. By integrating appropriate controls to validate the measurement process and calibrate units, we ensured the reliability of our results, promoting a standardized approach that can enhance experimental rigor in diverse synthetic biology applications.
 

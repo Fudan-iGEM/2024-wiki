@@ -15,7 +15,6 @@ author:
 Next, join us as we embark on an exciting HP journey together!
 
 
-
 ## Preparations: Background Research
 
 ### 1. From wild imagination to nickel
@@ -294,7 +293,7 @@ Will be updated in the next version.
 
 
 
-###  C2.5 Discuss with Prof. Ma
+### C2.5 Discuss with Prof. Ma
 
 Will be updated in the next version.
 
@@ -375,11 +374,11 @@ During our discussion with Professor Feng Wei from the Department of Chemistry a
 Professor Feng initially dismissed our method of measuring nickel nanoparticle content using UV spectrophotometry, as the absorption peaks of organic compounds are significantly higher than those of nickel nanoparticles, making this approach unfeasible. He also mentioned that while nickel nanoparticles theoretically have magnetic properties, their magnetism is very weak, which renders that method ineffective as well.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-2-discuss-prof-feng.jpg" style='width:90%'>
-    <div>
-          <span style="color: gray">Figure 33: Discuss with Prof. Feng</span>
-      <br><br>
-    </div>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-2-discuss-prof-feng.jpg" style='width:90%'>
+    <div>
+        <span style="color: gray">Figure 33: Discuss with Prof. Feng</span>
+        <br><br>
+    </div>
 </div>
 
 
@@ -556,7 +555,7 @@ The Fudan iGEM 2024 team organized two and participated in three cross-school ex
 
 Although Education and Inclusivity are not strictly part of iHP, we still utilized the DBTL-based iHP approach to engage with education experts, sociologists, and social workers. Our Education and Inclusivity activities benefited significantly from these interactions.
 
-For a detailed account of this section, please refer to the [Education](/fudan/education/)  and [Inclusivity](/fudan/inclusivity) sections.
+For a detailed account of this section, please refer to the [Education](/fudan/education/)  and [Inclusivity](/fudan/inclusivity/) sections.
 
 
 

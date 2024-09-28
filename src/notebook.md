@@ -8,7 +8,7 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 ## January
 
-From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage) on synthetic biology and the iGEM competition. Goals included: 1) Sharing experiences from [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team) and 2023 members to prepare new members with essential skills and knowledge while allowing them to select their own focuses based on interest; 2) Ice-breaking among new members to build effective communication; 3) Brainstorming new ideas for 2024 through discussions and critiques; 4）Lab training of the [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) of cyanobacteria with *Escherichia coli*, and conducted experiments on bacterial [anti-UV and anti-Freeze](https://2023.igem.wiki/fudan/results/#_1-survival-system) from last year.
+From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage/) on synthetic biology and the iGEM competition. Goals included: 1) Sharing experiences from [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team) and 2023 members to prepare new members with essential skills and knowledge while allowing them to select their own focuses based on interest; 2) Ice-breaking among new members to build effective communication; 3) Brainstorming new ideas for 2024 through discussions and critiques; 4）Lab training of the [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) of cyanobacteria with *Escherichia coli*, and conducted experiments on bacterial [anti-UV and anti-Freeze](https://2023.igem.wiki/fudan/results/#_1-survival-system) from last year.
 
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/notebook/january.jpg" style='width:100%'>
@@ -72,15 +72,15 @@ We started our experiments, and continued to improve our design.
 
 We started to put CDS of Nik operon into [ribozyme containing](https://parts.igem.org/Part:BBa_K4765020) pET vector.
 
-We led [STEAMed](/fudan/inclusivity#STEAMed) educational activities.
+We led [STEAMed](/fudan/inclusivity/#STEAMed) educational activities.
 
 We went to [Suzhou](https://en.wikipedia.org/wiki/Suzhou) and attended the 11th [Conference of the China iGEM Community](https://community.igem.org/events/igem-at-11th-ccic-synbio-nexus) where we won awards.
 
-After returning to [Shanghai](https://en.wikipedia.org/wiki/Shanghai), we interviewed Professor Zhu 需要HP页面链接精确到# on nanoparticle safety.
+After returning to [Shanghai](https://en.wikipedia.org/wiki/Shanghai), we interviewed [Professor Zhu](/fudan/human-practices/#c3-2-discuss-with-professor-zhu-xiuping) on nanoparticle safety.
 
 We continued our molecular cloning, and engaged with Professor Don W. Cleveland in scientific discussions (low left of [the image](#fig7)).
 
-这是 high school students and 需要链接去页面
+面向 high school students 活动介绍 需要链接去页面
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/notebook/july-1.jpg" style='width:100%'>
@@ -89,7 +89,7 @@ We continued our molecular cloning, and engaged with Professor Don W. Cleveland 
 
 ## August
 
-We interviewed experts from various fields 需要HP页面链接精确到# and actively engaged with students from different schools 需要页面链接精确到#. Meanwhile, our wet lab and dry lab experiments were both ongoing.
+We interviewed experts from [various fields](/fudan/human-practices/#c3-4-visit-to-the-laboratory-of-cnerc-cthmp) and actively engaged with students from [different schools](/fudan/collaborations/#with-institutions-collages-and-companies). Meanwhile, our wet lab and dry lab experiments were both ongoing.
 
 <div style="text-align: center;" id="fig8">
     <img src="https://static.igem.wiki/teams/5115/notebook/august.jpg" style='width:100%'>
@@ -98,7 +98,7 @@ We interviewed experts from various fields 需要HP页面链接精确到# and ac
 
 ## September - October
 
-While experiments were ongoing, we [finalized the authorship](/fudan/attributions) for our wiki pages, and started writing the pages and documenting previous events. Meanwhile, we are analyzing wet lab data and further improving the dry lab work.
+While experiments were ongoing, we [finalized the authorship](/fudan/attributions/) for our wiki pages, and started writing the pages and documenting previous events. Meanwhile, we are analyzing wet lab data and further improving the dry lab work.
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/notebook/september-1.jpg" style='width:100%'>

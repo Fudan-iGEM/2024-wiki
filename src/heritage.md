@@ -3,7 +3,8 @@ title: Heritage
 headergif: https://static.igem.wiki/teams/5115/header/heritage-header.gif
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
 <strong>Fudan University</strong>has been taking part in [iGEM Competition](https://old.igem.org/Timeline) since 2011. Among one of the first teams in China to participate in iGEM, we have deepened our understanding in synthetic biology over the years and endeavored to pass down both our knowledge and our passion, for follew teams that come.
 
 Below is the complete list of our iGEM projects.
@@ -71,6 +72,6 @@ Below is the complete list of our iGEM projects.
   </tbody>
 </table>
 
-This page is updated from our [2023](https://2023.igem.wiki/fudan/heritage), [2022](https://2022.igem.wiki/fudan/heritage), [2021](https://2021.igem.org/Team:Fudan/Heritage), [2020](https://2020.igem.org/Team:Fudan/Heritage) and [2019](https://2019.igem.org/Team:Fudan-TSI/Heritage) pages.
+This page is updated from our [2023](https://2023.igem.wiki/fudan/heritage/), [2022](https://2022.igem.wiki/fudan/heritage), [2021](https://2021.igem.org/Team:Fudan/Heritage), [2020](https://2020.igem.org/Team:Fudan/Heritage) and [2019](https://2019.igem.org/Team:Fudan-TSI/Heritage) pages.
 
-For more details about our winter-break training, please visit our [2018](http://2018.igem.org/Team:Fudan/Heritage) page. We learn and confirm parts from [2023](https://2023.igem.wiki/fudan/parts) and [2022](https://2022.igem.wiki/fudan/parts) during the training.
+For more details about our winter-break training, please visit our [2018](http://2018.igem.org/Team:Fudan/Heritage) page. We learn and confirm parts from [2023](https://2023.igem.wiki/fudan/parts/) and [2022](https://2022.igem.wiki/fudan/parts) during the training.

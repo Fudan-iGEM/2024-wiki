@@ -8,7 +8,7 @@ headergif: https://static.igem.wiki/teams/5115/header/software-header.gif
 
 <br><br>
 
-Try PartHub 3.0 [here](https://fudanigem2024.scm.azurewebsites.net/) (TBA) or follow the [installation pipeline](#tutorial) to deploy our software on your computer!
+Try our PartHub 3.0 [live demo](https://fudanigem2024.scm.azurewebsites.net/) or follow the installation pipeline 链接应该是gitlab software-tool README to deploy our software on your computer!
 
 
 ## Highlights
@@ -21,12 +21,12 @@ Try PartHub 3.0 [here](https://fudanigem2024.scm.azurewebsites.net/) (TBA) or fo
 
 ## Overview
 
-Parts are at the core of synthetic biology, and over the years, Fudan's software has been dedicated to providing useful tools for parts management and analysis([Table 1](#table1)). Our initial efforts, [PartHub 1.0](https://2022.igem.wiki/fudan/software) and [PartHub 2.0](https://2023.igem.wiki/fudan/software), were well-received for their features in displaying parts' citation relationships and enhancing search functionality. However, a critical gap remained: the importance of **sequence information** for parts. While citation relationships and search functionalities are valuable, the sequence of a part is arguably the most essential piece of information. The sequence not only defines the functional properties of a part but also influences its compatibility and performance in host organisms.
+Parts are at the core of synthetic biology, and over the years, Fudan's software has been dedicated to providing useful tools for parts management and analysis([Table 1](#table1)). Our initial efforts, [PartHub 1.0](https://2022.igem.wiki/fudan/software) and [PartHub 2.0](https://2023.igem.wiki/fudan/software/), were well-received for their features in displaying parts' citation relationships and enhancing search functionality. However, a critical gap remained: the importance of **sequence information** for parts. While citation relationships and search functionalities are valuable, the sequence of a part is arguably the most essential piece of information. The sequence not only defines the functional properties of a part but also influences its compatibility and performance in host organisms.
 
-Therefore,, we are excited to introduce **PartHub 3.0** this year, which addresses this gap by focusing on two critical aspects of parts: **burden estimation** and **similarity query**.
+Therefore, we are excited to introduce **PartHub 3.0** this year, which addresses this gap by focusing on two critical aspects of parts: **burden estimation** and **similarity query**.
 
 <div style="text-align: center;" id="table1">
-          <span style="color: gray">Table 1: Comparison of PartHub 1.0-3.0</span>
+  <span style="color: gray">Table 1: Comparison of PartHub 1.0-3.0</span>
 </div>
 
 |PartHub Version|Main Feature|Use case|
@@ -171,7 +171,7 @@ $$\text{OverallScore}_{i,j} = \min (\text{SeqScore}_{i,j} + \text{CatScore}_{i,j
 
 ## Reference
 
-[^1]: [Rugbjerg, P., Myling-Petersen, N., Porse, A., Sarup-Lytzen, K., & Sommer, M. O. A. (2018). Diverse genetic error modes constrain large-scale bio-based production. *Nature Communications*, *9*(1), 787.](https://doi.org/10.1038/s41467-018-03232-w)
+[^1]: Rugbjerg, P., Myling-Petersen, N., Porse, A., Sarup-Lytzen, K., & Sommer, M. O. A. (2018). Diverse genetic error modes constrain large-scale bio-based production. [*Nature Communications*, *9*(1), 787.](https://doi.org/10.1038/s41467-018-03232-w)
 
-[^2]: [Radde, N. (2024). Measuring the burden of hundreds of BioBricks defines an evolutionary limit on constructability in synthetic biology. *Nature Communications*.](https://doi.org/10.1038/s41467-024-50639-9)
+[^2]: Radde, N. (2024). Measuring the burden of hundreds of BioBricks defines an evolutionary limit on constructability in synthetic biology. [*Nature Communications*, *15*, 6242.](https://doi.org/10.1038/s41467-024-50639-9)
 

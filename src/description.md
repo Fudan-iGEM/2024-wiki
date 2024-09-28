@@ -7,7 +7,6 @@ headergif: https://static.igem.wiki/teams/5115/header/description-header.gif
 ---
 
 
-
 ## Another Lesson?
 
 Humans often realize their mistakes only when the damage is irreparable, a lesson echoed throughout history. Our relentless overexploitation of natural resources has left scars on the environment, and the cycle of neglect persists. While metals like copper and aluminum are now commonly recycled, others, such as nickel, still lag far behind, following the very paths we've seen before.
@@ -209,7 +208,7 @@ We utilize **carboxysomes**, bacterial microcompartments (BMCs)[^20], to serve a
 
 ### 4. Hydrogen Supply System
 
-​	Hydrogen gas is essential for powering our nickel microparticle production. To ensure a continuous supply of hydrogen, we adopt a [symbiotic system](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system)), following the strategy used by iGEM Fudan 2023. In this setup, cyanobacteria act as hydrogen donors, providing a stable source of hydrogen gas to support nickel microparticle generation.
+Hydrogen gas is essential for powering our nickel microparticle production. To ensure a continuous supply of hydrogen, we adopt a [symbiotic system](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system)), following the strategy used by iGEM Fudan 2023. In this setup, cyanobacteria act as hydrogen donors, providing a stable source of hydrogen gas to support nickel microparticle generation.
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
@@ -225,7 +224,7 @@ We utilize **carboxysomes**, bacterial microcompartments (BMCs)[^20], to serve a
 
 In summary, our integrated approach combines efficient nickel bioaccumulation, enhanced *E. coli* survival, a specialized nickel micro-factory, and a stable hydrogen supply system. Together, these innovations ensure sustainable nickel recovery from industrial wastewater while minimizing environmental impact.
 
-For more details on our project design, please visit our [Design][/fudan/design] page.
+For more details on our project design, please visit our [Design][/fudan/design/] page.
 
 
 
