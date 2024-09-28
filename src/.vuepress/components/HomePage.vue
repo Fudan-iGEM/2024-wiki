@@ -123,7 +123,7 @@
     <section class="page-2" id="land">
       <div class="background-container">
         <img
-          src="https://static.igem.wiki/teams/5115/homepage-section3/section3-background.svg"
+          src="https://static.igem.wiki/teams/5115/homepage-section3/background-section3-new.svg"
           alt="Background"
           class="background-image"
         />
