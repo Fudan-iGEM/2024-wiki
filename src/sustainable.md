@@ -108,7 +108,7 @@ We focus on delivering biology education across the K-12 spectrum, actively gath
     </div>
 </div>
 
-We believe that education should embrace inclusivity, ensuring that no one is excluded from scientific learning due to barriers like physical conditions and imbalanced resources. We recognized that many autistic individuals possess the cognitive abilities to grasp scientific concepts but their potentials are constantly ignored because they usually don't give active feedback in ordinary lectures. Therefore, we developed specialized [STEAMed](/fudan/inclusivity#STEAMed) programs tailored to them. We strive to create more engaging and interactive teaching approaches to meet their unique needs—an area currently underserved by existing educational resources. 
+We believe that education should embrace inclusivity, ensuring that no one is excluded from scientific learning due to barriers like physical conditions and imbalanced resources. We recognized that many autistic individuals possess the cognitive abilities to grasp scientific concepts but their potentials are constantly ignored because they usually don't give active feedback in ordinary lectures. Therefore, we developed specialized [STEAMed](/fudan/inclusivity/#STEAMed) programs tailored to them. We strive to create more engaging and interactive teaching approaches to meet their unique needs—an area currently underserved by existing educational resources. 
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/sdgs/inclu-3.jpg" style='width:100%'>
@@ -127,7 +127,7 @@ The 11th SDG aims at making cities and human settlements inclusive, safe, resili
 
 As urban populations surge and cities expand rapidly, the pressure on infrastructure and resources intensifies. [MINERAL](/fudan/description) addresses this issue by recycling nickel—a critical component in urban infrastructure.
 
-In addition, our inclusive education spreads knowledge among diverse communities. By offering tailored [STEAMed](/fudan/inclusivity#STEAMed) programs and modular teaching tools, we aim to empower students across various backgrounds, contributing to a more sustainable community for all. Please refer to [Education](/fudan/education) and [Inclusivity](/fudan/inclusivity) for more information.
+In addition, our inclusive education spreads knowledge among diverse communities. By offering tailored [STEAMed](/fudan/inclusivity/#STEAMed) programs and modular teaching tools, we aim to empower students across various backgrounds, contributing to a more sustainable community for all. Please refer to [Education](/fudan/education) and [Inclusivity](/fudan/inclusivity) for more information.
 
 
 ## Sustainable Development by Incorporation

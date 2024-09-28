@@ -72,11 +72,11 @@ We started our experiments, and continued to improve our design.
 
 We started to put CDS of Nik operon into [ribozyme containing](https://parts.igem.org/Part:BBa_K4765020) pET vector.
 
-We led [STEAMed](/fudan/inclusivity#STEAMed) educational activities.
+We led [STEAMed](/fudan/inclusivity/#STEAMed) educational activities.
 
 We went to [Suzhou](https://en.wikipedia.org/wiki/Suzhou) and attended the 11th [Conference of the China iGEM Community](https://community.igem.org/events/igem-at-11th-ccic-synbio-nexus) where we won awards.
 
-After returning to [Shanghai](https://en.wikipedia.org/wiki/Shanghai), we interviewed Professor Zhu 需要HP页面链接精确到# on nanoparticle safety.
+After returning to [Shanghai](https://en.wikipedia.org/wiki/Shanghai), we interviewed [Professor Zhu](/fudan/human-practices/#c3-2-discuss-with-professor-zhu-xiuping) on nanoparticle safety.
 
 We continued our molecular cloning, and engaged with Professor Don W. Cleveland in scientific discussions (low left of [the image](#fig7)).
 
@@ -89,7 +89,7 @@ We continued our molecular cloning, and engaged with Professor Don W. Cleveland 
 
 ## August
 
-We interviewed experts from various fields 需要HP页面链接精确到# and actively engaged with students from different schools 需要页面链接精确到#. Meanwhile, our wet lab and dry lab experiments were both ongoing.
+We interviewed experts from [various fields](/fudan/human-practices/#c3-4-visit-to-the-laboratory-of-cnerc-cthmp) and actively engaged with students from [different schools](/fudan/collaborations/#with-institutions-collages-and-companies). Meanwhile, our wet lab and dry lab experiments were both ongoing.
 
 <div style="text-align: center;" id="fig8">
     <img src="https://static.igem.wiki/teams/5115/notebook/august.jpg" style='width:100%'>
