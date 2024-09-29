@@ -1,5 +1,5 @@
 <template>
-  <!-- 固定定位的动画容器 -->
+  <!-- Fixed animation container -->
   <div class="animation-container">
     <svg
       viewBox="0 0 1920 953"
@@ -14,7 +14,7 @@
         </g>
       </mask>
 
-      <!-- SVG 图片元素 -->
+      <!-- SVG image elements -->
       <image
         class="frame7"
         xlink:href="https://static.igem.wiki/teams/5115/homepage-section1/7.png"
@@ -87,20 +87,19 @@
     </svg>
   </div>
 
-  <!-- 可滚动的主内容区域 -->
+  <!-- Scrollable main content area -->
   <main>
     <div class="scrollDist"></div>
     <!-- Page 1 -->
     <section class="page-1" id="sky">
-
-      <!-- 背景图 -->
+      <!-- Background image -->
       <div class="background-container">
         <img
           src="https://static.igem.wiki/teams/5115/homepage-section2/rail-mine-and-background.svg"
           alt="Background"
           class="background-image"
         />
-        <!-- 左右云朵 -->
+        <!-- Left and right clouds -->
         <img
           src="https://static.igem.wiki/teams/5115/homepage-section2/left-cloud.svg"
           alt="Left Cloud"
@@ -112,7 +111,7 @@
           class="right-cloud"
         />
 
-        <!-- 显示在背景图上的文字 -->
+        <!-- Text over background image -->
         <div class="overlay-text">
           <h1>Mile</h1>
           <p>Imaging a world</p>
@@ -158,51 +157,151 @@
           class="smoke"
         />
 
-        <!-- 显示在背景图上的文字 -->
+        <!-- Text over background image -->
         <div class="overlay-text">
           <h1>Page2</h1>
-          <h2>This will be water</h2>
           <p>Static model will be presented here.</p>
         </div>
       </div>
     </section>
-    <!-- 其他页面 -->
+    <!-- Page 3 -->
     <section class="page-3" id="shallow-water">
-      
-      <img
+      <div class="background-container">
+        <img
           src="https://static.igem.wiki/teams/5115/homepage-section-water/short-dead-fish-and-city.svg"
           alt="Background"
           class="background-image"
         />
-      <img
+        <img
           src="https://static.igem.wiki/teams/5115/homepage-section-water/new-new-dead-fish-and-city.svg"
           alt="Fish"
           class="fish"
-      />
-      <img
+        />
+        <img
           src="https://static.igem.wiki/teams/5115/homepage-section-water/short-gray-water-block.svg"
           alt="Greyblock"
           class="greyblock"
-      />
-      <img
+        />
+        <img
           src="https://static.igem.wiki/teams/5115/homepage-section-water/short-water-tube.svg"
           alt="Tube"
           class="tube"
-      />
-      <svg  viewBox="0 0 1920 2000" xmlns="http://www.w3.org/2000/svg" class="tear">
-      <circle id="blueDot" cx="681.7" cy="226.4" r="10" fill="blue" />
-      <path id="path" fill="none" stroke="transparent" d="
-        M 681.7 226.4
-        Q 660 292 605.3 357.9
-        L 635.2 440.7
-        L 635.2 652.7" />
-    </svg>        
+        />
+        <!-- Tear animation SVG -->
+        <svg
+          viewBox="0 0 1920 2000"
+          xmlns="http://www.w3.org/2000/svg"
+          class="tear-svg"
+        >
+          <circle
+            id="blueDot"
+            cx="681.7"
+            cy="226.4"
+            r="10"
+            fill="#e2f5f8"
+            opacity="0.9"
+          />
+          <path
+            id="path"
+            fill="none"
+            stroke="transparent"
+            d="
+            M 681.7 226.4
+            Q 660 292 605.3 357.9
+            L 632.2 440.7
+            L 632.2 652.7"
+          />
+        </svg>
+      </div>
     </section>
+    <!-- Other pages -->
     <section class="page-4" id="deep-water">
-      <h1>Page4</h1>
+      <div class="background-container">
+        <img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/color-background.svg"
+    alt="Color Background"
+    class="background-image"
+/>
+        <img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/gray-block.svg"
+    alt="Color Background"
+    class="gray-block"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-1.svg"
+    alt="Non-Color Bubble 1"
+    class="noncolor-bubble-1"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-2.svg"
+    alt="Non-Color Bubble 2"
+    class="noncolor-bubble-2"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-3.svg"
+    alt="Non-Color Bubble 3"
+    class="noncolor-bubble-3"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-1.svg"
+    alt="Non-Color Pie 1"
+    class="noncolor-pie-1"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-2.svg"
+    alt="Non-Color Pie 2"
+    class="noncolor-pie-2"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-3.svg"
+    alt="Non-Color Pie 3"
+    class="noncolor-pie-3"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-text.svg"
+    alt="Non-Color Text"
+    class="noncolor-text"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-1.svg"
+    alt="Color Bubble 1"
+    class="color-bubble-1"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-2.svg"
+    alt="Color Bubble 2"
+    class="color-bubble-2"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-3.svg"
+    alt="Color Bubble 3"
+    class="color-bubble-3"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-1.svg"
+    alt="Color Pie 1"
+    class="color-pie-1"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-2.svg"
+    alt="Color Pie 2"
+    class="color-pie-2"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-3.svg"
+    alt="Color Pie 3"
+    class="color-pie-3"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-page4/color-text.svg"
+    alt="Color Text"
+    class="color-text"
+/>
+
+      </div>
     </section>
     <section class="page-5" id="summary">
-      <!-- 更多内容 -->
+      <!-- More content -->
     </section>
   </main>
 </template>
@@ -211,7 +310,7 @@
 export default {
   data() {
     return {
-      preserveAspectRatio: 'xMinYMin meet' // 初始值，屏幕宽度小于1180像素时使用
+      preserveAspectRatio: 'xMinYMin meet', // Initial value for screens narrower than 1180px
     };
   },
   methods: {
@@ -223,66 +322,57 @@ export default {
       }
     },
     initPage1Animations(gsap) {
-      // 检查屏幕宽度，小于900px时不执行动画
       if (window.innerWidth >= 900) {
-        // 创建时间轴
         const page1Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-1',
             start: 'top center',
             end: 'bottom center',
-            scrub: 1
-          }
+            scrub: 1,
+          },
         });
 
-        // 初始化云朵位置在屏幕外
+        // Initialize cloud positions
         gsap.set('.left-cloud', { x: '10%' });
-          gsap.set('.right-cloud', { x: '-25%' });
-  
-          page1Tl.to('.left-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
-          page1Tl.to('.right-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
+        gsap.set('.right-cloud', { x: '-25%' });
+
+        page1Tl.to('.left-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
+        page1Tl.to('.right-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
       } else {
-        // 屏幕宽度小于900px，重置样式
         gsap.set('.left-cloud', { clearProps: 'all' });
         gsap.set('.right-cloud', { clearProps: 'all' });
       }
     },
     initPage2Animations(gsap) {
-      // 检查屏幕宽度，小于900px时不执行动画
       if (window.innerWidth >= 900) {
         const page2Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-2',
             start: 'top center',
             end: 'bottom center',
-            scrub: 1
-          }
+            scrub: 1,
+          },
         });
 
-        // .cbuilding 左右晃动后向下平移
+        // .cbuilding sway and move down
         page2Tl.from('.cbuilding', { y: 0, duration: 2, ease: 'power1.out' })
           .to('.cbuilding', { rotation: 10, duration: 0.1, yoyo: true, repeat: 5, ease: 'power1.inOut' }, '-=1.5')
           .to('.cbuilding', { y: 200, duration: 1, yoyo: true, ease: 'power1.inOut' }, '-=1');
-/*         page2Tl.from('.block', { y: 0, duration: 2, ease: 'power1.out' })
-          .to('.block', { y: -100, duration: 1, yoyo: true, ease: 'power1.inOut' }, '-=2'); */
-        // .light 和 .vehicle 一起从页面右上方移动到现在的位置
+
+        // .light and .vehicle move in together
         page2Tl.from(['.light', '.vehicle'], { x: 300, y: -200, duration: 2, ease: 'power2.out' }, '0');
 
-        // .light 的透明度快速从100%到0%两次
-        page2Tl.to('.light', { opacity: 0, duration: 0.1, repeat: 3,  ease: 'power1.inOut' }, '>-0.5');
+        // .light flashes
+        page2Tl.to('.light', { opacity: 0, duration: 0.1, repeat: 3, ease: 'power1.inOut' }, '>-0.5');
 
-        // .smoke 从下到上渐变显现
+        // .smoke appears from bottom to top
         page2Tl.from('.smoke', { y: 100, opacity: 0, duration: 2, ease: 'power2.out' }, '-=1');
       } else {
-        // 屏幕宽度小于900px，重置样式
         gsap.set('.cbuilding, .light, .vehicle, .smoke', { clearProps: 'all' });
       }
     },
     initPage3Animations(gsap) {
       if (window.innerWidth >= 900) {
-        // 注册 MotionPathPlugin 插件
-        /* gsap.registerPlugin(MotionPathPlugin); */
-
         const page3Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-3',
@@ -292,29 +382,34 @@ export default {
           },
         });
 
-        // 动画眼泪沿路径移动
-        page3Tl.to("#blueDot", {
-      duration: 1,
-      ease: "power1.inOut", // 缓动效果，模拟加速与减速
-      motionPath: {
-        path: "#path", // 指定动画路径
-        align: "#path",
-        autoRotate: false, // 圆点不旋转
-      },
-    });
+        // Animate the 'tear' along the path
+        page3Tl.to('#blueDot', {
+          duration: 1,
+          ease: 'power1.inOut',
+          motionPath: {
+            path: '#path',
+            align: '#path',
+            autoRotate: false,
+          },
+          onUpdate: function () {
+            const progress = this.progress();
+            const color = gsap.utils.interpolate(['#e2f5f8', '#e4e9d5', '#7d8e95'], progress);
+            gsap.set('#blueDot', { fill: color, opacity: 0.9 });
+          },
+        });
       } else {
-        // 移动端隐藏眼泪 SVG
+        // Hide the 'tear' SVG on mobile devices
         gsap.set('.tear-svg', { display: 'none' });
       }
     },
   },
   async mounted() {
-    // 初始检查屏幕宽度
+    // Initial screen width check
     this.updatePreserveAspectRatio();
-    // 监听窗口大小变化
+    // Listen for window resize events
     window.addEventListener('resize', this.updatePreserveAspectRatio);
 
-    // 动态导入 GSAP 和插件
+    // Dynamically import GSAP and plugins
     const gsapModule = await import('gsap');
     const ScrollTriggerModule = await import('gsap/ScrollTrigger');
     const MotionPathPluginModule = await import('gsap/MotionPathPlugin');
@@ -325,15 +420,12 @@ export default {
 
     gsap.registerPlugin(ScrollTrigger, MotionPathPlugin);
 
-    // 初始化 Page 1 的动画
+    // Initialize animations
     this.initPage1Animations(gsap);
-
-    // 初始化 Page 2 的动画
     this.initPage2Animations(gsap);
-
     this.initPage3Animations(gsap);
 
-    // 创建浮动动画时间轴
+    // Create floating animation timeline
     if (window.innerWidth >= 900) {
       const floatingTl = gsap.timeline({ repeat: -1, yoyo: true });
       floatingTl.to('.carbo1', { y: -20, duration: 3.6, ease: 'power1.inOut' }, 0);
@@ -343,7 +435,7 @@ export default {
       floatingTl.to('.carbo5', { y: -50, duration: 0.3, ease: 'power1.inOut' }, 0);
       floatingTl.to('.title', { y: -20, duration: 3.6, ease: 'power1.inOut' }, 0);
 
-      // 主滚动动画时间轴
+      // Main scroll animation timeline
       const tl = gsap.timeline({
         scrollTrigger: {
           trigger: '.scrollDist',
@@ -352,14 +444,14 @@ export default {
           scrub: 1,
           onUpdate: (self) => {
             if (self.progress > 0) {
-              // 当滚动开始，暂停浮动动画
+              // Pause floating animation when scrolling
               floatingTl.pause();
             } else {
-              // 当滚动返回顶部，恢复浮动动画
+              // Resume floating animation when scrolling back to top
               floatingTl.resume();
             }
-          }
-        }
+          },
+        },
       });
 
       tl.fromTo(
@@ -422,15 +514,14 @@ export default {
     }
   },
   beforeDestroy() {
-    // 移除事件监听器
+    // Remove event listener
     window.removeEventListener('resize', this.updatePreserveAspectRatio);
-  }
+  },
 };
 </script>
 
-
 <style scoped>
-/* 通用样式 */
+/* Common styles */
 body,
 html {
   width: 100%;
@@ -440,7 +531,7 @@ html {
   text-align: center;
   margin: 0;
   padding: 0;
-  overflow-x: hidden; /* 防止横向滚动条 */
+  overflow-x: hidden; /* Prevent horizontal scrollbar */
 }
 
 .animation-container {
@@ -450,11 +541,10 @@ html {
   transform: translateX(-50%);
   width: 100%;
   height: 100%;
-  pointer-events: none; /* 防止动画层阻挡下面的内容交互 */
+  pointer-events: none; /* Prevent the animation layer from blocking interactions */
   z-index: 1;
   overflow: hidden;
 }
-
 
 main {
   position: relative;
@@ -463,7 +553,7 @@ main {
 
 .scrollDist {
   width: 100%;
-  height: 300vh; /* 根据需要调整滚动距离 */
+  height: 300vh; /* Adjust scroll distance as needed */
 }
 
 svg {
@@ -480,22 +570,21 @@ svg image {
   height: 100%;
 }
 
-/* section 样式 */
+/* Section styles */
 section {
   position: relative;
-  padding: 0; /* 移除默认内边距 */
+  padding: 0; /* Remove default padding */
   margin: 0;
   min-height: 100vh;
   max-width: 100%;
   overflow-x: hidden;
 }
 
-/* 背景容器样式 */
+/* Background container styles */
 .background-container {
   position: relative;
   width: 100%;
   height: 100%;
-  
   overflow: hidden;
 }
 
@@ -505,7 +594,7 @@ section {
   display: block;
 }
 
-/* 云朵和其他元素的样式 */
+/* Elements positioning */
 .left-cloud,
 .right-cloud,
 .light,
@@ -517,7 +606,22 @@ section {
 .fish,
 .tube,
 .greyblock,
-.tear {
+.tear-svg,
+.noncolor-bubble-1,
+.noncolor-bubble-2,
+.noncolor-bubble-3,
+.noncolor-pie-1,
+.noncolor-pie-2,
+.noncolor-pie-3,
+.noncolor-text,
+.color-bubble-1,
+.color-bubble-2,
+.color-bubble-3,
+.color-pie-1,
+.color-pie-2,
+.color-pie-3,
+.color-text,
+.gray-block {
   position: absolute;
   top: 0;
   width: 100%;
@@ -525,7 +629,8 @@ section {
   left: 0;
 }
 
-/* 云朵位置 */
+
+/* Cloud positions */
 .left-cloud {
   left: 0;
 }
@@ -534,7 +639,7 @@ section {
   right: 0;
 }
 
-/* overlay-text 样式 */
+/* Overlay text styles */
 .overlay-text {
   position: absolute;
   top: 50%;
@@ -551,7 +656,7 @@ section {
   font-size: 1.5rem;
 }
 
-/* 移除 page-1 和 page-2 之间的间隙 */
+/* Remove gaps between pages */
 .page-1,
 .page-2 {
   margin: 0;
@@ -559,7 +664,8 @@ section {
   display: flex;
   min-height: auto;
 }
-/* Page3 */
+
+/* Tear SVG */
 .tear-svg {
   position: absolute;
   top: 0;
@@ -569,8 +675,15 @@ section {
   overflow: visible;
   pointer-events: none;
 }
-   
-/* mobile devices */
+
+/* Hide the tear on mobile devices */
+@media (max-width: 900px) {
+  .tear-svg {
+    display: none;
+  }
+}
+
+/* Mobile devices */
 @media (max-width: 1025px) {
   .frame0,
   .frame1,
@@ -592,11 +705,11 @@ section {
     transform: none !important;
   }
   .scrollDist {
-  width: 100%;
-  height: 33.3vh; 
+    width: 100%;
+    height: 33.3vh;
+  }
 }
 
-}
 @media (max-width: 525px) {
   .frame0,
   .frame1,
@@ -618,10 +731,8 @@ section {
     transform: none !important;
   }
   .scrollDist {
-  width: 100%;
-  height: 18vh; 
+    width: 100%;
+    height: 18vh;
+  }
 }
-
-}
-
 </style>
