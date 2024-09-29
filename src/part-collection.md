@@ -265,5 +265,3 @@ To ensure an adequate supply of hydrogen for our engineered *E. coli* strains, w
 
 
 ## References
-[^1]: 
-[^]: 
