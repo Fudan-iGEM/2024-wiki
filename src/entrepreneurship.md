@@ -28,6 +28,8 @@ On the other hand, current global nickel reserves are struggling to meet the gro
 
 【插入镍预测耗尽年限的预测graph】
 
+【SWOT分析】
+
 However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in a new nickel recycling system that meets the pursuit of innovation and efficiency. As a result, we have identified the potential customers for the MINERAL project as industrial manufacturers utilizing nickel, including battery manufacturers, stainless steel producers, industrial wastewater treatment companies, mining companies, and stainless steel manufacturers.
 
 【插入potential customers的示意图】
@@ -49,7 +51,9 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
 
 ## Our Possible, Scalable and Inventive Solution
 
-n response to the unmet needs mentioned above and based on the MINERAL project, we have developed our product—Nickel Ion Wastewater Cleaner. By introducing genes that control the absorption and accumulation of nickel ions into *E. coli*, we successfully created a product that can significantly reduce the concentration of nickel ions in water. We have already validated that our project is feasible.
+In response to the identified unmet needs and based on the MINERAL project, we propose our product—the nickel ion wastewater cleaner—accompanied by our unique monthly subscription service. After purchasing our basic product, customers will receive free equipment installation and technical guidance. By paying a monthly membership fee, they can access our real-time wastewater treatment monitoring system, which provides suggestions for improving product usage strategies and saving costs. Utilizing our technology of introducing genes into *E. coli* to control the absorption and enrichment of nickel ions, we have successfully developed a product that significantly reduces nickel ion concentrations in water, validating the feasibility of our project.
+
+【月计费会员制示意图】
 
 Our product is a carboxylated solid that encapsulates nickel particles, which is not only technologically advanced but also offers significant commercial advantages. This solid form is easy to monitor and control for quality assurance, ensuring efficiency and consistency in commercial production. The visible nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
@@ -83,6 +87,54 @@ To improve nickel recovery efficiency, enhance the cleaner's ability to handle h
 
 **Government Support**: Moreover, our project has received substantial backing from the government, especially since green technologies and sustainable development are highly encouraged under current policies.【link to相关政策整理】 Government support includes financial subsidies, tax incentives, research grants, and other initiatives, all of which will greatly accelerate the growth and market expansion of our project. The strategic use of these key resources lays a solid foundation for the success of our project and paves the way for future development.
 
+### 我们现有的合作企业
+
+####U Power
+
+Located in Xuhui district, Shanghai, U Power is a company dedicated to integrating key power and control systems for electric vehicles into the chassis to facilitate car manufacturing. With a battery research and development team of up to **30 professionals**, U Power possesses unique insights into the entire lifecycle of power batteries. After several interactions, U Power expressed significant interest in the MINERAL project.
+
+【U Power logo】
+
+U Power hosted an investment promotion meeting for our project, where Kexin Zheng presented our business prospects to the attending company representatives.
+
+【Pre照片】
+
+Participants not only highly praised our **development potential and product design** philosophy but also provided valuable suggestions for our marketing strategy: targeting **electroplating and stainless steel manufacturing** companies as our primary customer base, as these industries have a significant demand for nickel and the electroplating sector operates entirely in liquid environments, making their needs urgent and aligned with our product.
+
+Additionally, professionals from YouPao Technology's marketing department recommended positioning **environmental protection and pollution control** as our core concept and additional market focus, given that existing heavy metal pollution often spreads to water bodies with wide-ranging but low concentrations, and there are insufficient environmentally friendly and efficient methods to address this issue. Our low-cost, non-hazardous biological approach can fill these critical gaps.
+
+Furthermore, U Power recommended several closely related companies for potential collaboration:
+
+####GEM
+
+On the recommendation of U Power, we visited GEM, a company focused on the recycling of waste metal resources.
+
+【GEM logo】
+
+GEM adheres to the development philosophy of *limited resources, unlimited recycling*, committed to *eliminating pollution and regenerating resources.* They promote a circular industrial culture aimed at achieving a harmonious integration of economic value, environmental value, and social responsibility, which aligns closely with our ideas and missions.
+
+【GEM照片生产线】
+
+【GEM照片会议室】
+
+GEM expressed strong interest in our project and invited us to their key mineral resource recovery research institute in Jingmen, Hubei Province, China, for a tour and discussions on technical collaboration. After assessing the actual conditions of GEM's production line, we quickly identified the most suitable processing phase for the MINERAL project. Consequently, we successfully reached a technical cooperation agreement and later received the relevant wastewater samples from GEM. After we got [result](#https://2024.igem.wiki/fudan/result) and shared it with GEM, they conveyed even stronger willingness to carry out further cooperation with us.
+
+【GEM废水照片】
+
+####PS
+
+With the technical cooperation agreement with GEM as proof of our project's commercial capabilities, we further expanded our potential customers and partners by reaching out to Suzhou In Times of Chemical Environmental Protection Equipment Technology Co., Ltd. (hereafter referred to as PS).
+
+【PS logo】
+
+Located in the Suzhou Industrial Park, PS is a Sino-Dutch joint venture dedicated to providing one-stop solutions for industrial wastewater treatment. With 38 years of experience in the European environmental protection industry, their wastewater treatment equipment and projects are widely applied in sectors such as chemicals, dyeing, papermaking, metal surface treatment, and machining.
+
+【PS照片1】
+
+【PS照片2】
+
+After visiting PS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL project. PS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As of the wiki freeze day, MINERAL had reached an agreement on the first version of the contract with PS.
+
 ### Exit Mechanism
 
 Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. It includes seeking mergers with wastewater treatment companies to leverage their market resources and accelerate the application of our technology. We also retain the option to sell patents and licenses to realize the commercial value of our intellectual property. Additionally, the project can be preserved as a startup opportunity to be pursued when market conditions are favorable. This strategy aims to maximize the project’s value while laying the groundwork for future growth.
@@ -109,7 +161,7 @@ iGEM验证实验的顺利完成，技术路径的可行；
 
 ### Financial Analysis
 
-【思考是否&如何呈现ing】
+【分析一下产品的：改造cost，扩大培养cost，冷藏保存cost，冷藏运输cost，售后服务cost；以及产品售价，会员服务费售价；final毛利率。以及加入融资来源的介绍】
 
 ### Risks
 
@@ -141,8 +193,18 @@ Moreover, existing nickel ion separation methods are relatively crude and inexpe
 
 ## Long-term Impacts
 
-**Positive**: 1.减少采矿活动 2.减缓镍储备的消耗速度 3.降低水体污染程度，进而推动SDGs的目标达成 4.创造生物行业的新兴就业机会与市场 5.有了替代技术支撑，政府将更强硬地立法和执行环境保护相关法规 
+**Positive:**
 
-**Negative**: 1.将工程化的微生物投放至环境水体中，可能造成基因逃逸和污染的风险，增强野生细菌拥有重金属离子抗性的风险，使得现有净水手段难以奏效 2.传统采矿及冶金行业可能面临市场萎缩和就业率下降的问题，造成摩擦性失业 3.生物制剂不同于工业流水化产品，不同批次可能出现差异较大的问题，造成重金属清除效果不稳定
+1. Reduce mining activities, benefiting ecological protection and labor health.
+2. Slow down the depletion of nickel reserves, enhancing the sustainability of global resources.
+3. Decrease water pollution levels, thereby promoting the achievement of SDGs.
+4. Create emerging job opportunities and markets in the bioindustry.
+5. With alternative technologies in place, the government will enforce stricter environmental protection laws and regulations.
+
+**Negative:**
+
+1. Introducing engineered microorganisms into environmental water bodies may pose risks of gene escape and contamination, increasing the likelihood of wild bacteria developing resistance to heavy metal ions, making existing water purification methods less effective.
+2. The traditional mining and metallurgy industries may face market contraction and declining employment rates, leading to frictional unemployment.
+3. Unlike standardized industrial products, biological agents may exhibit significant variability between batches, resulting in unstable heavy metal removal effectiveness.
 
 ## References
