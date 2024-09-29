@@ -216,8 +216,84 @@
     </section>
     <!-- Other pages -->
     <section class="page-4" id="deep-water">
-      
-      <h1>Page4</h1>
+      <div class="background-container">
+        <img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/color-background.svg"
+    alt="Color Background"
+    class="color-background"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/noncolor-bubble-1.svg"
+    alt="Non-Color Bubble 1"
+    class="noncolor-bubble-1"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/noncolor-bubble-2.svg"
+    alt="Non-Color Bubble 2"
+    class="noncolor-bubble-2"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/noncolor-bubble-3.svg"
+    alt="Non-Color Bubble 3"
+    class="noncolor-bubble-3"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/noncolor-pie-1.svg"
+    alt="Non-Color Pie 1"
+    class="noncolor-pie-1"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/noncolor-pie-2.svg"
+    alt="Non-Color Pie 2"
+    class="noncolor-pie-2"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/noncolor-pie-3.svg"
+    alt="Non-Color Pie 3"
+    class="noncolor-pie-3"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/noncolor-text.svg"
+    alt="Non-Color Text"
+    class="noncolor-text"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/color-bubble-1.svg"
+    alt="Color Bubble 1"
+    class="color-bubble-1"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/color-bubble-2.svg"
+    alt="Color Bubble 2"
+    class="color-bubble-2"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/color-bubble-3.svg"
+    alt="Color Bubble 3"
+    class="color-bubble-3"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/color-pie-1.svg"
+    alt="Color Pie 1"
+    class="color-pie-1"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/color-pie-2.svg"
+    alt="Color Pie 2"
+    class="color-pie-2"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/color-pie-3.svg"
+    alt="Color Pie 3"
+    class="color-pie-3"
+/>
+<img 
+    src="https://static.igem.wiki/teams/5115/homepage-section-water/color-text.svg"
+    alt="Color Text"
+    class="color-text"
+/>
+
+      </div>
     </section>
     <section class="page-5" id="summary">
       <!-- More content -->
@@ -525,13 +601,28 @@ section {
 .fish,
 .tube,
 .greyblock,
-.tear-svg {
+.tear-svg,
+.noncolor-bubble-1,
+.noncolor-bubble-2,
+.noncolor-bubble-3,
+.noncolor-pie-1,
+.noncolor-pie-2,
+.noncolor-pie-3,
+.noncolor-text,
+.color-bubble-1,
+.color-bubble-2,
+.color-bubble-3,
+.color-pie-1,
+.color-pie-2,
+.color-pie-3,
+.color-text {
   position: absolute;
   top: 0;
   width: 100%;
   height: auto;
   left: 0;
 }
+
 
 /* Cloud positions */
 .left-cloud {
