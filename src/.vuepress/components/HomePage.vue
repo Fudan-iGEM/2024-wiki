@@ -160,7 +160,6 @@
         <!-- Text over background image -->
         <div class="overlay-text">
           <h1>Page2</h1>
-          <h2>This will be water</h2>
           <p>Static model will be presented here.</p>
         </div>
       </div>
