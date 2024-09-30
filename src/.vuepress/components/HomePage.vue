@@ -485,10 +485,8 @@ export default {
         // Initialize cloud positions
         gsap.set('.left-cloud', { x: '10%' });
         gsap.set('.right-cloud', { x: '-25%' });
-
         page1Tl.to('.left-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
         page1Tl.to('.right-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
-
         gsap.set('.tramcar',{ x: 920.4, y: -153.7 });
         page1Tl.to(".tramcar", {
             duration: 3, 
