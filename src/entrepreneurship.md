@@ -97,11 +97,11 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
 
 ## Product Development, Milestones, Resources, and Risks
 
-###key goals:
+### Key Goals:
 
 To improve nickel recovery efficiency, enhance the cleaner's ability to handle higher heavy metal, salt, and pH concentrations, scale up production, achieve profitability, and set a green industry benchmark.
 
-###key resources:
+### Key Resources:
 
 - Ample technical labor provided by the campus
 - Ongoing pursuit of funding
@@ -121,7 +121,7 @@ To improve nickel recovery efficiency, enhance the cleaner's ability to handle h
 
 ### Our Business Partners
 
-####U Power
+#### U Power
 
 Located in Xuhui district, Shanghai, U Power is a company dedicated to integrating key power and control systems for electric vehicles into the chassis to facilitate car manufacturing. With a battery research and development team of up to **30 professionals**, U Power possesses unique insights into the entire lifecycle of power batteries. After several interactions, U Power expressed significant interest in the MINERAL project.
 
@@ -137,7 +137,7 @@ Additionally, professionals from YouPao Technology's marketing department recomm
 
 Furthermore, U Power recommended several closely related companies for potential collaboration:
 
-####GEM
+#### GEM
 
 On the recommendation of U Power, we visited GEM, a company focused on the recycling of waste metal resources.
 
@@ -153,7 +153,7 @@ GEM expressed strong interest in our project and invited us to their key mineral
 
 【GEM废水照片】
 
-####PS
+#### PS
 
 With the technical cooperation agreement with GEM as proof of our project's commercial capabilities, we further expanded our potential customers and partners by reaching out to Suzhou In Times of Chemical Environmental Protection Equipment Technology Co., Ltd. (hereafter referred to as PS).
 
