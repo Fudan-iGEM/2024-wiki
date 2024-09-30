@@ -49,7 +49,7 @@ z = white_listed + ['BBa_K4162001', 'BBa_K4162009', 'BBa_K4162010', 'BBa_K416201
  'BBa_K4162022', 'BBa_K4162023', 'BBa_K4162101', 'BBa_K4162103', 'BBa_K4162106',
  'BBa_K4162107', 'BBa_K4162108', 'BBa_K4162112', 'BBa_K4765022', 'BBa_K4765022',
  'BBa_K4765111', 'BBa_K4765112', 'BBa_K4765113', 'BBa_K4765117', 'BBa_K4765126' ] # testing software tool
-white_listed += ['BBa_K5115058', 'BBa_K5115059' ] # a fusion protein
+white_listed += ['BBa_K5115058', 'BBa_K5115059', 'BBa_K5115086', 'BBa_K5115087' ] # a fusion protein
 z = sorted( list(set(z)) )
 z += range(0, 91)
 #z += range(101, 141)
@@ -241,7 +241,7 @@ print('\n'.join(["'%s'," % x for x in sorted(sub_is_NOT_basic) ]))
 # 'BBa_K5115033',
 # 'BBa_K5115035',
 # 'BBa_K5115036',
-# 'BBa_K5115039',
+# 'BBa_K5115038',
 # 'BBa_K5115052',
 # 'BBa_K5115053',
 # 'BBa_K5115060',
@@ -255,7 +255,6 @@ print('\n'.join(["'%s'," % x for x in sorted(sub_is_NOT_basic) ]))
 # 'BBa_K5115079',
 # 'BBa_K5115080',
 # 'BBa_K5115081',
-# 'BBa_K5115082',
 
 print('\n\nCAUTION: remove files in parts-html for update\n')
 #print('Validate with https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
