@@ -10,328 +10,761 @@ author:
 
 ---
 
-## 1 Preface
+I’m a bit torn about whether to refer to them as a "group," "population," "patients," "angels," or "Star Children." Could "patients" be considered discriminatory? (We can clarify our unified terminology at the beginning moving forward.)
+
+## 1 We shall eliminate barriers between ASD and science
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/1neurons.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/1neurons.jpg" style='width:100%'>
     <br>
     <div>
     	<p><small style="color: gray">Neurons networks built by an iGEMer and an angle with twisted bars.</small></p>
     </div>
 </div>
 
-（注：选取上图是因为有神经元和身份多样性，黑白对比也明显，和头图视频一样都是彩色系。（或者改成我们新设计的logo？）
+(Maybe consider changing it to a photo of people holding hands in a circle.)
 
-（preface目前的语言表达是否不够正式？）
+Globally, about 1 in every 100 children is diagnosed with **Autism Spectrum Disorder (ASD)**. They seem distant, which is why they are often given two beautiful names: **Star Children** and **Angels**. ASD is the most common and representative disorder within the category of pervasive developmental disorders. It typically begins in early childhood and is characterized by social interaction difficulties, communication challenges, restricted interests, and repetitive behaviors. Many children with ASD also experience varying degrees of intellectual disability.
 
-你曾听说过**孤独症障碍谱系(ASD)**吗？ASD是广泛性发育障碍中最常见、最具有代表性的疾病。该疾病起病于婴幼儿时期，以社会交往障碍、交流障碍、局限的兴趣、刻板与重复行为方式为主要临床表现，多数患儿还会伴有不同程度的精神发育迟滞。全球大约每100个儿童中就有1人患有ASD，且日益常见。**然而，ASD本身是否造就了与科学间的必然障碍呢？**
+**However, does ASD inherently create an insurmountable barrier to science?** We want to say, **the answer is no!** In recent years, the concept of **neurodiversity** has gained increasing recognition. Its core idea is that so-called "disorders" are actually normal variations in human cognition, emotion, learning, and neurological function. Neurodevelopmental disorders, especially autism, are better understood as part of a spectrum, encompassing a range of measurable traits found throughout the general population. In fact, our research has shown that individuals with ASD may display unique talents in **STEM** (science, technology, engineering, and mathematics) fields, and many might even pursue careers in STEM. *[Examples like Zhou Wei or notable scientists can be mentioned here.]*
 
-你曾见过ASD患者吗？他们如远在天边，故而拥有两个好听的名字，**星宝**和**天使**。**然而，ASD患者是否绝对与科学无缘呢？**
+Unfortunately, **real barriers still exist**. Through literature reviews, surveys, interviews, and field observations, we have conducted in-depth research into the obstacles that ASD individuals face in engaging with science. Here are the key findings. **[Attach a detailed report of our findings as a reference.]**
 
-我们想说，**答案是否定的！**近年来，**神经多样性**的知名度不断提高，其核心理念在于，所谓的“障碍”实际上是人类认知、情感、学习和神经功能的正常变异。神经发育疾病，尤其是孤独症，更适合被视为一个维度，它包括了在普通人群中持续分布的一系列可测量的特质。事实上，我们在调研中发现，ASD患者或许在**STEM** (science, technology, engineering, and mathematics)领域表现出特殊天赋，他们更可能以STEM领域为生涯追求（可以举周玮和科学家的例子）。然而，遗憾的是，就目前而言，**障碍又是客观存在的。**
+1. Due to a lack of specialized professionals, current STEM education for ASD individuals is scarce, with most lessons focusing only on mathematics. (This could be supplemented with a white paper.) (Our interdisciplinary team aims to address this and attract collaborative partners.)
+2. The content is often abstract and requires high cognitive ability from students. (We propose STEAMed to address this issue.) (Start with A, then move to Med.)
+3. Public awareness is low, and the importance of scientific outreach for the ASD community is often overlooked. (We focus on promoting awareness.)
+4. The increasing prevalence of ASD has led to a growing demand for educational resources. (We aim to scale after initial pilots.)
 
-Now we are here, inspired to eliminate the barrier and expand their access to science. 我们深入调研了ASD患者拥抱科学的障碍。根据ASD患者需求与特点，利用我们团队专业性及交叉性的优势，提出创新性的教学理念**STEAMed** (science, technology, engineering, art, mathematics, and medicine)，联合现有的公益资源，采取分层次教学设计，量身制定了一系列教学内容*（这几个短句逻辑关系可能有点乱？）*。我们创办了“星愿绘本馆”等一系列品牌科普活动*（给其他的也起一些好听的英文名）*。多方调研显示，我们的教育获得了良好的效果。我们相信，**星空下的我们都能成为科学家！**
+Our interviewees, including parents of ASD individuals, experts in special education and public welfare, as well as staff from rehabilitation centers and special schools, have all expressed a shared desire to **remove these barriers**. Teachers from various rehabilitation centers and special schools **welcomed** the idea of us piloting **more practical, concrete, and interactive** lessons after refining our course designs. Now we are here, inspired to eliminate the barriers and expand their access to science.
 
-## 2 the Barriers and Our Inspiration
+## 2 Ideal: from STEM to STEAMed
 
-【这一总起段落待修改】我们通过文献、访谈、交流参观、教学见习、*问卷调查（还在进行）*等形式，现有的障碍和局限，从各个视角进一步确认我们整体构思的价值、创新性、可行性。在这个过程中，**我们的理念和构想得到了高度肯定**，我们还得到了许多宝贵的细节和补充性建议，迸发出了许多新的灵感。
+Based on the needs and characteristics of individuals with ASD, and leveraging our team's expertise and interdisciplinary strengths, we propose an innovative educational approach called **STEAMed** (science, technology, engineering, art, mathematics, and medicine). We have named our project “STEAMed Education — for Scientists from the Star.”
 
-### 2.1 from STEM, to STEAM, further to STEAMed
+**[Image: newly designed logo]**
 
-**现有的STEM教育远远不能满足日益增长的ASD群体的需求**。总体而言，ASD康复教育机构数量有限，人才缺口高。受重视程度、专业能力等的限制，开展STEM教育机构和特教更是寥寥无几，且学科常局限于数学。
+### 2.1 Why do we propose STEAMed?
 
-**STEAM**（science, technology, engineering, and art）是一种新兴的跨学科教育模式，让学生通过欣赏、创作艺术走近科学，从而大大提高了传统STEM课程的可理解性与包容性，有利于消除学生与科学知识间的障碍。STEM教育和艺术疗法都分别被证明对ASD患者有益，然而，**目前暂无研究聚焦于ASD人群的STEAM教育**。
+**STEAM** (science, technology, engineering, art, and mathematics) is an emerging interdisciplinary educational model that allows students to approach science through the appreciation and creation of art, greatly **enhancing the accessibility and inclusivity** of traditional STEM courses. This helps break down barriers between students and scientific knowledge. Both STEM education and art therapy have been shown to benefit individuals with ASD. However, **there has been no research specifically focusing on STEAM education for the ASD community**. Building upon STEAM, we propose an even more innovative and targeted educational approach called **STEAMed**. Medicine, being closely linked to everyday life, plays a key role in helping individuals with ASD **understand their condition**, **accept themselves**, and develop healthy daily habits. We hope to use everyday topics to help individuals with ASD engage with STEM, making science a form of companionship.
 
-【附件：现有研究与研究不足】（参阅相伯开题报告）
+**[Attachment: existing research and identified gaps]** (Refer to our project proposal document.)
 
-我们不想仅仅止步于尚未尝试的STEAM。我们针对ASD患者的特点，更进一步，提出了**创新性教学理念STEAMed**。*（前两句话不知道如何表达更合适。可以翻译后再看）*这在保留STEAM融合教育特点的同时，强调了生物医学。我们希望在一个更加包容的学习环境中，在想象与创造中，使ASD患者**了解"疾病"的生物医学基础、治疗方法和日常管理策略****（这几个词可能还要改。比如如何涵盖卫生行为习惯？）*，帮助他们更好地**自我接纳**，理解和适应外界环境并与之互动。我们团队有诸多医学生，学科交叉性为我们STEAMed的实现奠定了良好基础。（最后这句需要吗？）
+### 2.2 Did stakeholders support STEAMed?
 
-（这一段到底放哪里合适？）星宝画展让进一步确认了“STEAMed”的可行性。我们担任讲解志愿者，参观了复旦大学人体科学馆与天使知音沙龙合办的**“多彩星空”星宝人体与艺术主题画展**。星宝在画作中**大胆的用色、新颖的构图与独特的视角**都深深吸引了我们的目光，进一步让我们确信ASD群体在**科学感知及艺术创作方面的潜力和才能**。参展后，我们分别拜访了人体科学馆馆长及天使知音沙龙教学负责人。令人鼓舞的是，他们很支持我们的构想，并期待达成进一步的合作。（最后这句需要吗？或者需要表述得更为具体？）
+Through exhibitions, interviews, teaching observations, and *surveys (still ongoing)*, we further validated the value, innovation, and feasibility of our overall concept from various perspectives. In this process, **our ideas and concepts have received high praise**, reinforcing our belief in the immense potential of "STEAMed."
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/2colorful-starry-sky-art-theme-exhibition.jpg" style='width:50%'>    <br>    <div>        <p><small style="color: gray">We visited the exhibition as volunteers.</small></p>    </div></div>
-
-### 2.2 试点教学
-
-在形成STEAMed这一初步构想后，我们邀请复旦大学**社会发展与公共政策学院两位副教授**进行了线下会谈。她们都致力于公益事业。付芳教授曾负责多项关注自闭症儿童的项目。俞志元教授的主要研究领域包括公益慈善事业和社会组织等。她们高度肯定了我们的设想：**“你们有活力，有交叉，有创造，有行动。相信你们将为自闭症公益领域注入新鲜血液！”**（这句话有无更好的表述，是编造的）*（参考柴郡猫工作成果再做补充）*。我们就普及度/覆盖面的的话题进行了深入探讨。教授们建议挑选代表性群体，开展**小范围试点**，做**“从零到一的突破”**。试点阶段有助于我们验证该模式的有效性，深入了解不同亚群的具体需求，为更大范围的服务推广打下坚实的基础。即所谓，**“星星之火，可以燎原”**。
+We invited two associate professors from Fudan University’s **School of Social Development and Public Policy** for in-person discussions. Both are dedicated to public welfare projects. **[Associate Professor Fu Fang]** has overseen several projects focusing on children with autism, while Associate Professor **Yu Zhiyuan** specializes in charitable work and social organizations. They highly praised the initial concept of STEAMed: **“Your team is dynamic, interdisciplinary, creative, and action-oriented. We believe you will inject fresh energy into the field of autism public welfare!”** (This quote is fabricated; perhaps we could rephrase it.)
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/5interview-fufang.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/5interview-fufang.jpg" style='width:100%'>
     <br>
     <div>
-    	<p><small style="color: gray">We are communicating with associate professor Fu Fang.</small></p>
+    	<p><small style="color: gray">We were communicating with associate professor Fu Fang.</small></p>
     </div>
 </div>
 
-(这张图不知道为什么始终加载不出来)（打算改放两位老师个人主页大头像）
 
-因此，我们开始着手选择合适的试点对象。我们联系了上海多家自闭症相关教育机构，包括专注于低龄或高龄自闭症患者的康复机构，也包括ASD特殊教育学校，以志愿者的身份在其中见习。在见习前后，我们通过线上与线下访谈，进一步了解该机构及其学员的需求与特点。这些机构都谈及了受限于师资等条件，**对于科普课程心有余而力不足**，十分期待与我们达成长期合作。最终我们选择了湛蓝，这是**上海首家**为**大龄**心智障碍人士提供身体、智力和职业发展培训项目的非盈利组织（NGO）。这是因为相对于康复机构而言，特校对课程的正规性、系统性等要求更高，不适宜作为早期试点对象。而多家康复机构中，湛蓝天使（湛蓝喜欢称呼其学员为天使，以下都以此称呼）理解能力、社交能力、表达能力相对较强，对于科学表现出了更浓厚的兴趣。同时，湛蓝天使多处于职业阶段，如咖啡师、厨师等，STEAMed与其日常生活联系更紧密。（效益和性价比最大化）（对我们来说，重要的是先拿出一个经过初步验证的可复制课程模式）
 
-在见习过程中，我们还意识到。同时，有必要此外也有利于陪伴和认识。在见习中，我们对艺术有了更深的体会。天使知音沙龙关注通过音乐的熏陶启迪天使的心智。他们的运营模式这也启发了我们在教育中更多**融入音乐的元素**。同时，还发现了体育的重要性，我们还发现他们有许多**身体活动**。
+*(This image doesn't seem to load for some reason.)* *(We plan to replace it with the profile pictures of the two teachers.)*
 
-### 2.3 other feedbacks and our guidelines（标题怎么拟？）
+*(What would be the best way to present this paragraph?)* We served as volunteer guides and visited the **“Colorful Starry Sky” Human Body and Art Themed Art Exhibition**, co-hosted by the Fudan University Human Body Science Museum and the Angel's Companion Salon. The artwork was created by the Star Children after their visit to the human body science exhibit. The **bold use of color, innovative composition, and unique perspectives** in the pieces had a tremendous impact on us, allowing us to vividly perceive the potential and talent of the Star Children in **medical science awareness and artistic creation**. After the exhibition, we separately visited the director of the Human Body Science Museum and the educational head of the Angel's Companion Salon. Encouragingly, they expressed strong support for the “STEAMed” concept and look forward to further collaboration in the future.
 
-（待完善）
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/2colorful-starry-sky-art-theme-exhibition.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We visited the exhibition as volunteers.</small></p>    </div></div>
 
-我们根据服务对象年龄，依次访谈了多家关注ASD群体的公益康复机构。**北京市彩虹村庄国际康养基地**过去主要关注2-7岁的ASD儿童，近来逐渐向大龄及老龄拓展。其高级业务主任在访谈中谈到，“肢体障碍者往往能获得更多的同情和帮助，而**心智障碍者则容易被排斥**”。而我们的努力，或许可以为他们**“打开一扇窗”**，实现科学潜能。具体操作层面，她指出教学内容当**“尽量具体而非抽象”**，注意**“增加互动元素”**。
+We also communicated with rehabilitation institutions and special education schools. The **Beijing Rainbow Village International Health and Wellness Base** has primarily focused on ASD children aged 2 to 7, but has recently begun to expand its efforts to older and elderly individuals. In an interview, its senior business director, **Wang Yishuang**, mentioned that “people with physical disabilities often receive more sympathy and assistance, while **those with intellectual disabilities are more likely to be excluded**.” Our efforts may help **“open a window”** for them to realize their scientific potential.
 
-彩虹村庄整合园区内同时具备养老院与心智障碍人群康复中心的独特优势，升级“老残共养服务模式”，成为**中国首家**也是**唯一**一家实现“特需儿童康复-大龄特需青年职业培训转衔与辅助就业-家庭养老”全生命周期的照护的机构。
+【MP3】【Transcript】
 
-【MP3】【逐字稿】
+We contacted **several autism-related educational institutions in Shanghai** and **interned there as volunteers**. Before and after the internship, we further explored the needs and characteristics of the institutions and their students through both online and offline interviews. These institutions expressed that, due to limitations in faculty and other resources, they are **unable to effectively implement popular science courses** (this may overlap with the barriers mentioned in the first section) and are very much looking forward to establishing long-term cooperation with us. The internship also deepened our understanding of the arts, such as how the Angel's Companion Salon focuses on enlightening the minds of the children through **musical immersion**. Additionally, we discovered that various institutions provide rich **physical activities** for the ASD community, which inspired us to design course themes that incorporate relevant physical activity elements.
 
-*【附问卷题目PDF+问卷结果PDF】（还在进行）*
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/caihongyuxiaohuoche.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We were taking a small train with ASD children.</small></p>    </div></div>
 
-我们通过参展、访谈、教学见习、*问卷调查（还在进行）*等形式，从各个视角进一步确认我们整体构思的价值、创新性、可行性。在这个过程中，**我们的理念和构想得到了高度肯定**，我们还得到了许多宝贵的细节和补充性建议，迸发出了许多新的灵感。
+【Photos: A collage of offline activities at Rainbow Village, online activities at Zhan Yi, and the online activities at Tan Lan, along with pictures of the Rainbow Rain Little Train (physical activities).】
 
-【照片，把彩虹村庄线下、展翼线上、湛蓝线上的拼一下】
+## 3 Teaching Methods
 
+### 3.1 Pilot and Tiered Teaching Method
 
+After establishing the preliminary concept of STEAMed, we encountered two challenges: **popularity and specificity**. During discussions, the two associate professors suggested that we select **representative groups** to conduct small-scale pilot programs, making a **"breakthrough from zero to one."** Our initial internship experiences also indicated that **the familiarity between educators and students** is crucial, which can only be achieved through relatively long-term service at a specific location. During the pilot phase, we can gain deeper insights into the **specific needs of different subgroups** (details will be addressed in section 3.7) and develop a preliminary validated, replicable course model that lays a solid foundation for broader service promotion. As the saying goes, **"A single spark can start a prairie fire."**
 
-整理出了两本指南初版（放文末），通用性如下，包括。不在正文中概括。基于此，设计课程。并在课程开展中进一步完善指南。
+Therefore, we began selecting suitable pilot subjects. Compared to rehabilitation institutions, special schools have higher requirements for the regularity and systematicity of courses, making them unsuitable as early pilot subjects. After thorough communication with various rehabilitation institutions, we ultimately chose **Zhan Lan and Rainbow Rain**. The teachers from both institutions expressed a supportive attitude, stating, **“Why not give it a try!”** Zhan Lan is **Shanghai's first NGO** to offer physical, intellectual, and vocational development training programs for **older** individuals with intellectual disabilities. The **Zhan Lan Angels** have relatively strong comprehension, social, and expression skills, showing a keen interest in science. Additionally, the Zhan Lan Angels are often in vocational stages, such as baristas and chefs, making STEAMed more closely related to their daily lives. In contrast, Rainbow Rain provides physical and cognitive rehabilitation training for **ASD children**, representing another subgroup of the ASD population.
 
-## 3 How STEAMed Work?
+### 3.2 Process Evaluation System
 
-### 3.1 Method（待整合到第2部分）
+(The outcome evaluation system will be addressed in Section 4.) (Should we focus more on different dimensions in the evaluation for different tiered subjects?)
 
-"STEAMed"通过精心设计和论证的一次次体验式课程来工作，以PBL模式来运行。和STEM教育类似，STEAMed同样基于ASD人群在现实生活中遇到的问题，通过综合的学科方法，培养科学兴趣和科学能力。STEAMed关注过程而非结果，因此也关注专业人群对于ASD儿童转变的评价。
+One major challenge is how to evaluate the course effectiveness during the process. A robust evaluation mechanism will enhance the effectiveness and scientific basis of our teaching. The core characteristics of the ASD population are social interaction and communication difficulties, meaning that feedback obtained from them may be limited. Therefore, we pay special attention to the perspectives of stakeholders. With the suggestions and guidance from teachers at various nonprofit institutions, our evaluation primarily focuses on the following four aspects:
 
-**基于文献、访谈以及与ASD儿童的亲身互动**，我们围绕不同的科学问题引导设计ASD儿童如何在课堂中探索解决一个较为宽泛的“科学问题”。在每次课程中，我们都注意培养ASD儿童的“Science”, “Technology”, “Engineering”, “Art”, “Medicine”能力。我们设计了专用于“ASD人群教学”的STEAMed工具包，通过深思熟虑的“教学引导材料”和“手工教具”，ASD儿童可以在过程中动手体会科学问题，理解科学。
+1. How was the student's experience in this class?
+2. How interested were the students in this lesson?
+3. Did the students deepen their understanding of a particular issue?
+4. Did this class help the students in their daily lives?
+5. What aspects of this lesson can be improved?
 
-**我们还设计了过程中的评价机制，让我们的成果更具科学性。**在[社会工作付芳副教授](/fudan/inclusivity/#2-3-5-付芳)的建议与指导下，我们设计了过程中评价机制，主要考虑四个部分：
+Methodologically, we use post-class tests for **objective** evaluations and conduct self-assessments and interviews with stakeholders (experts, special education professionals, parents, nonprofit workers, volunteers, etc.) for **subjective** evaluations.
 
-1. ASD儿童在这节课体验如何？他们感兴趣吗？
-2. ASD儿童在这节课后有没有加深对于某一科学问题的理解？
-3. ASD儿童在日常生活中有没有运用学习的知识？
-4. 专业工作者（特教老师和社会学专家）及ASD儿童家长是否认可我们的工作及这些工作对于ASD儿童的成长与变化。
+【Refer to Xiang Bo's project proposal for further improvement, which includes a flowchart drawn by Zi Ming.】
 
-在方法学上，我们使用了课后小测试等客观化评价，ASD儿童自评、利益相关者访谈及评价等主观化评价的方式开展。我们的所有测试方法都在我们的导师和社会学家的建议和论证下使用，在特教老师和家长的监督下开展，并受复旦大学教务处的监管。
+### 3.3 The Guidelines for Education (Also included in section 8.4; should this be written here?)
 
+During the research process, we received many valuable details and supplementary suggestions. We organized these into two initial teaching guidelines: one for course content design and another for interactive considerations. We will continue to refine these guidelines as we implement the subsequent courses.
 
+*【Attached: PDF of questionnaire titles + PDF of questionnaire results】 (still ongoing)*
 
-### 3.2 Course Ⅰ Gene Science
+## 4 STEAMed Practice
 
-> Discuss Topic：为什么我们有独一无二的面貌和性格？
->
-> 开展地点：上海市湛蓝残疾人服务中心
->
-> 推送链接：[星愿绘本馆 | “天使”人间](https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ)
+After thorough validation and discussion, we carefully launched the STEAMed course. In each class, we guide ASD students (hereinafter referred to as "students") to explore a "small scientific question" rooted in daily life, enhancing their skills in "Science," "Technology," "Engineering," "Art," and "Medicine."
 
-#### 课程设计
+**Our teaching materials include three types:**
 
-我们选择以基因科学作为“STEAMed”的第一个课程，具有一定的尝试性质。在课程设计阶段，我们设计了以下的内容作为尝试，并提出了一些问题：
-**课程构思：**
+1. Picture books or colorful teaching materials, created by us or adapted after obtaining copyrights. These will be used for theoretical learning, drawing sessions, and small tests.
+2. Teaching aids, primarily handmade tools, including origami and paper-cutting. These will be used in hands-on activities to develop "Engineering" skills.
+3. Game tools, primarily cards. These will be used as props for physical games.
 
-1. 基因及基因的结构是怎样的？
-2. 碱基的互补配对规律？
-3. 基因如何影响性状？
-4. 为什么我们每个人都与众不同？
+**Our process evaluations include three types:**
 
-**问题：**
+1. Objective evaluations through testing, distributed to students to complete after class.
+2. Subjective evaluations, distributed to students to score the course after class.
+3. Subjective evaluations through interviews with volunteers, special education teachers, and parents involved throughout the process, to assess the changes in students.
 
-1. ASD儿童的接受力和配合度如何？
-2. 教学人员如何配备
+We also explored "STEAMed" teaching for high-functioning and low-functioning students, hoping that "STEAMed" can be more universally applicable and help more students.
 
-在第一次课程开始前，我们与湛蓝公益的老师进行了线上的讨论和交流，讨论中，我们讲解了我们课程设计的思路，并获得了一线老师的反馈：
 
-1. 从经验来看，ASD儿童可以接受基因科学的科普性教学，但要注意重复和讲课节奏；
-2. 建议我们采用“1对2”，“1对1”的“讲师/志愿者-服务对象”配置；
-3. 建议我们设计动手画画、手工或体育运动环节。
 
-与湛蓝公益交流后，我们在与指导老师充分交流和讨论后，确定了本节课程的设计逻辑与课程资料。我们还采用“1对2”的授课方式，并招募了来自复旦大学的志愿者全程参与我们的活动。
+### 4.1 Course Ⅰ Gene Science
 
-#### 课程开展
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
+<p>  
+    <strong>📅 Topic:</strong> 什么是基因及碱基<br>  
+    <strong>👥 Location:</strong> 上海市湛蓝残疾人服务中心<br>  
+    <strong>🖇️ 推送链接:</strong> <a href="https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ" target="_blank">星愿绘本馆 | “天使”人间</a>  
+</p>  
+</div>
 
-本次课程，我们采用了绘本教学的模式，在我们去年的彩色绘本的基础上，对于ASD人群进行了充分的简化和必要内容的补充，可以见附件：
 
-【链接绘本】
+#### 4.1.1 Topic Selection
 
-作为教学的组成部分，我们在绘本中设计了绘图环节，利用“豌豆颜色”的差异，说明了性状与基因的关系。同时，我们指导ASD儿童绘画“自画像”（ART），增强他们的自我认同感，做“独一无二”的我自己。
+Last year, we achieved great results in the "Gene" series picture book teaching, which inspired us to choose "Gene Science" as the theme for our first course. This initial course serves as a pilot to explore whether the STEAMed model can work effectively. Therefore, during the course design phase, we not only conceptualized the content of this course but also contemplated the questions we wanted to answer in this first attempt.
 
-我们设计“碱基配对”游戏，在活动中锻炼他们的肢体协调，并加深对于科学问题的理解。
+**Course Content:**
 
-本节课程的教案可见附件：
+1. What are genes and what is their internal structure?
+2. What are the rules of complementary base pairing?
+3. How do genes influence traits?
+4. Why is each of us unique?
 
-【链接附件】
+**Questions:**
 
-#### 课程评价
+1. How well can ASD children comprehend and cooperate?
+2. How should the teaching staff be arranged?
 
-我们设计了课后自评问卷，可见附件：
+#### 4.1.2 Preparation
 
-【附问卷】
+Before the first course began, we had online discussions and exchanges with the teachers from Zhan Lan Public Welfare. During the discussions, we explained our course design approach and received feedback from the front-line teachers:
 
-经过分析
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/online-meeting-with-zhanlan.jpg" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.1.2 Online Meeting with Zhanlan</span>
+      <br><br>
+    </div>
+</div>
 
-我们还访谈了全程参与授课的志愿者，对于ASD儿童的表现进行评价。
 
+1. Based on experience, ASD children can accept popular science teaching on gene science, but it's important to pay attention to repetition and the pace of the lesson.
+2. It is recommended that we adopt a "1-to-2" or "1-to-1" configuration of "instructor/volunteer - service recipient."
+3. It is suggested that we design hands-on drawing, crafts, or physical activity segments.
 
+After communicating with Zhan Lan Public Welfare, we confirmed the design logic and course materials for this lesson after extensive discussions with the supervising teachers. We also adopted a "1-to-2" teaching method and recruited volunteers from Fudan University to participate in our activities throughout.
 
-#### 反思
+#### 4.1.3 Course Implementation
 
-这次活动让我们认为STEAMed的理念是成功且有效的。同时，志愿者们给出了有用的建议。
+**1. Scientific Knowledge:** In this course, we used a picture book teaching model. Based on our colorful picture books from last year, we made thorough simplifications and necessary additions to the content for the ASD population. The picture book: [Picture Book A](https://static.igem.wiki/teams/5115/inclusivity/picture-book-a-course-1.pdf)
 
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-1.jpg" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.1.3.1 Course 1 Zhanlan 1</span>
+      <br><br>
+    </div>
+</div>
 
 
-### 3.3 Course Ⅱ Gene Engineering
+**2. Artistic Ability:** In the picture book, we designed a drawing activity that uses the differences in "pea colors" to illustrate the relationship between traits and genes. At the same time, we guided ASD children to create "self-portraits" (ART), enhancing their sense of self-identity and allowing them to be "uniquely themselves."
 
-Topic：“黄金大米”如何生产及能否作为食物的伦理思考
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-3.jpg" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.1.3.1 Course 1 Zhanlan 2</span>
+      <br><br>
+    </div>
+</div>
 
 
+**3. Engineering Understanding and Practical Ability:** We also designed a "Base Pairing" game to develop their physical coordination while deepening their understanding of scientific concepts during the activity.
 
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-2.jpg" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.1.3.1 Course 1 Zhanlan 3</span>
+      <br><br>
+    </div>
+</div>
+**The lesson plan for this session can be found in the attachment:**
 
+[Link to attachment]
 
-### 3.4 Course Ⅲ Neuroscience and Cerebrology
+#### 4.1.4 Course Evaluation
 
-Topic: 我们是如何感受世界的
+We designed a post-course self-assessment questionnaire, which can be found in the attachment: [course-1-quiz](https://static.igem.wiki/teams/5115/inclusivity/course-1-quiz.pdf)
 
-脑科学：认识自己，认识差异。每个人大脑的运作方式各异，而大脑运作的差异性是科学创新的根源之一。
+In their responses to these questionnaires, the students demonstrated a solid understanding of the genetics topics covered.
 
-2.3.1的画作也启发了我们星宝对人体科学及脑科学的兴趣。
+[Analysis Chart]
 
+#### 4.1.5 Reflection
 
+We had a discussion with Professor Fang Fu from Fudan University, and she concluded that the outcomes of this session were excellent. She believes that STEAMed can continue to move forward.
 
-### 3.5 Course Ⅳ Biomedicine and Stomatology
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-interview-volunteer.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.1.5 Interview Volunteers</span>
+      <br><br>
+    </div>
+</div>
 
-口腔医学院大理海灵。our team member 陈雪婷
 
-星宝反馈：做牙膏就像在做咖啡
+At the same time, the teachers and volunteers provided valuable suggestions:
 
-口腔医学：我们了解到星宝的
+1. Increase hands-on activities to help students complete their scientific exploration of "genes" under guidance.
+2. Familiarize ourselves with each student's personality in advance; implementing "STEAMed" requires a personalized approach.
+3. The one-on-one and one-on-two models, along with reflections, are indeed effective.
 
+After detailed discussions, we accepted these suggestions. This course has boosted our confidence and assured us that the "STEAMed" model is feasible.
 
+### 4.3 Course Ⅱ Gene Engineering
 
-### 3.6 Course Ⅴ Artificial Intelligence
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
+<p>  
+    <strong>📅 Topic:</strong> DNA双螺旋、基因编辑与转基因食物<br>  
+    <strong>👥 Location:</strong> 上海市湛蓝残疾人服务中心<br>  
+    <strong>🖇️ 推送链接:</strong> <a href="https://mp.weixin.qq.com/s/4V7yzuG5VeXQ3IBlING87A" target="_blank">星愿绘本馆 | 当天使遇见“基因”</a>  
+</p>  
+</div>
 
-泓成内链
 
-星宝：很多都和厨师、咖啡等职业关联展开构想
+#### 4.3.1 Theme Selection
 
+Inspired by our first course, we also fully adapted our previous picture book to design a curriculum centered on genetic engineering. Building on our first experience, the implementation of this course was much smoother.
 
+**Course Content:**
 
-### 3.7 STEAMed and diversity of ASD people（分层教学）
+1. What is the structure of the DNA double helix?
+2. What are the steps involved in genetic engineering?
+3. How is "Golden Rice" made?
 
-彩虹村庄+展翼
+#### 4.3.2 Course Implementation
 
+**1. Scientific Knowledge:** In this course, we again used the picture book teaching model, further simplifying and supplementing the necessary content based on our colorful picture book from last year for the ASD population. Please see the attachment: [Picture-Book-B](https://static.igem.wiki/teams/5115/inclusivity/picture-book-b-course-2.pdf).
 
+**2. Engineering Skills:** Using the DNA double helix structure as a backdrop, we guided the students in creating a DNA spiral structure through origami. This hands-on activity helped them understand the scientific knowledge of DNA.
 
-## 4 How we practice STEAMed thoughtfully
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-dna.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.3.1 Course 2-1</span>
+      <br><br>
+    </div>
+</div>
 
-iHP的工作范式给予了我们启发，在Inclusivity的工作中，我们同样在DBTL的基础上，引入了AREA框架。AREA 代表 Predict、Reflect、Engage 和 Act，旨在修改研究和应对社会问题的创新。该框架既是系统的，也是迭代的，以允许为利益相关者和创新者之间以道德为出发点，持续灵活地做出决策可接受性、可持续性和社会可取性。iHP工作范式及工作框架的更详细介绍，可以参见[the method section of our integrated Human Practice page](/fudan/Human-Practices/#section-2-working-frame)。
 
+**3. Technological Perspective:** We guided the students in learning about gene editing techniques through an experiential approach using scissors and paper.
 
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-engineer.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.3.2 Course 2-2</span>
+      <br><br>
+    </div>
+</div>
 
-参考相伯立项书，里面有梓铭画的一张流程图。
 
-## 5 效果、反响与宣传
+**4. Practical Skills:** We designed a "Gene Editing" game to enhance their physical coordination during the activity and deepen their understanding of scientific concepts.
 
-总结来说，（团队扩张）我们借助XX名专家 XX XX的力量*（这些可能都得出现在致谢页面？）*。共面向XX人次开展课程。面向XX人次开展访谈（引用iHP）。XX人次问卷调查。
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-game.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.3.3 Course 2-3</span>
+      <br><br>
+    </div>
+</div>
 
-家长，奶奶的照片。
 
-问卷调研：大众对面向自闭症科普的认可。
+The lesson plan for this course can be found in the attachment:
 
-宣传：我们的视频在多少平台传播，共得到了浏览。推送。澎湃。自闭症科普
+[Link to Attachment]
 
-交流展示：远征（XX高校，XX省份），公益人。得到了广泛的组织的支持
+#### 4.3.3 Course Evaluation
 
-星星之火可以燎原
+We designed a self-assessment questionnaire for after the class, which can be found in the attachment: [course-2-quiz](https://static.igem.wiki/teams/5115/inclusivity/course-2-quiz.pdf)
 
-## 6 延续（可持续性）与拓展
+The students demonstrated a thorough understanding of genetic concepts in their responses to these questionnaires.
 
-emm有些想做一个调查。自闭症及其家庭是否不希望自己康复。或者起码我们要强调一下人文关怀意识。
 
-经验总结为两本指南。
 
-拓展服务对象
+### 4.4 Course Ⅲ Neuroscience and Cerebrology
 
-努力发掘/激发更多对象的兴趣
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
+<p>  
+    <strong>📅 Topic:</strong> 感官与感受世界<br>  
+    <strong>👥 Location:</strong> 上海市湛蓝残疾人服务中心<br>  
+    <strong>🖇️ 推送链接:</strong> <a href="https://mp.weixin.qq.com/s/mgt9XwOQiUCA1l6q6eR6Dw" target="_blank">星愿绘本馆｜当天使遇见脑科学</a>  
+</p>  
+</div>
 
-##### 特殊教育学校
 
-上海有多家ASD特殊教育学校。Importantly，这些特殊教育学校都很期待我们能设计出课程，打破ASD患者与科学之间的障碍。
+#### 4.4.1 Topic Selection
 
-升华。也接触到了其他心智障碍群体。结合education中接触的“正常”大中小学生。进一步理解神经多样性和包容性。希望更多元的评价体系和教学方式。教学相长，共同走向科学。
+The artwork of the star children has also inspired us to explore their interest in human science and brain science. Understanding brain science is a process of self-awareness and recognizing differences.
 
+**Course Content:**
 
+1. What is the structure of the brain?
+2. What is a neuron?
+3. How do we perceive vision?
 
-我们把课程资料（含教学设计、教案、PPT、课后测试等）都上传在……*（需要找泓成/政翰帮忙）*。欢迎大家下载，交流。
+#### 4.4.2 Course Implementation
 
-更多的体艺形式。舞蹈 太极拳
+**1. Scientific Knowledge:** We used a teaching-guidance method to educate the students about the structure of the brain and the generation of sensory perception.
 
-##### 复旦公益社团：达成了长期合作意向。作为陪伴志愿者，共同开展课程。
 
-引用商业，SDG4
 
-面对ASD群体的差异化问题，我们决定采用**分层教学**设计。As spectrum所提示的那样，ASD包含了各种严重程度，不同群体的智商、学习能力和语言表达能力有所差异。对于相对弱势者，有必要进一步简化课程内容，降低课程难度，教学中注意强化和重复。此外，不同年龄段患者也有其不同需求。对于低龄患者，陪伴会更为重要，辅以适当启蒙。对于高龄患者，更需要注重与职业技能的衔接，以助其更好地适应社会。因此，我们需要根据患者的opinions, needs, and values，**更针对性地把控教学内容与难度**。
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-teach.jpg" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.4.2.1 Course 3-1</span>
+      <br><br>
+    </div>
+</div>
 
-而后，我们线上访谈或实地走访了上海的多家自闭症康复机构，它们或专注于低龄，或专注于高龄患者。他们从各自视角出发为“分层教学设计”提出了具体建议。
 
-（受相伯资助）
+**2. Engineering Skills:** Under our guidance, the students constructed a "simulated neuron."
 
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-engineer.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.4.2.2 Course 3-2</span>
+      <br><br>
+    </div>
+</div>
 
 
-## 7 草稿箱
+**3. Scientific Perception:** Under our guidance, the students completed experimental activities such as the "color blind spot," "color perception experiment," and "reaction speed test."
 
-3 Our 主题与品牌
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-experience.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.4.2.3 Course 4-3</span>
+      <br><br>
+    </div>
+</div>
 
-**基于文献、访谈以及与星宝的亲身互动**，我们围绕以下主题+系列活动，原创并开展了多轮课程。每门课程中都各个学科、各个教学手段+DBTL，注意其与STEAMed的关联。附上详细的教案和资料，以供来人参考。
 
-3.1 “星愿绘本馆”：基因与合成生物学
+**4. Practical Skills:** Experience the generation of vision and reaction abilities through games like "Catch the Shadow" and "Handkerchief Toss."
 
-去年，我们团队为儿童设计了两本[绘本](https://2023.igem.wiki/fudan/education/#feed-curious-minds)，获得了持续性的良好反响。我们在与童类人创始人及复旦大学出版社童书编辑的对话中了解到，不论是对正常儿童，还是ASD患者，增添故事性都将有利于其对知识的理解。因此，我们决定基于这两本绘本，展开首次教学。
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-game.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.4.2.4 Course 3-4</span>
+      <br><br>
+    </div>
+</div>
 
-【梓铭补充figure，出版社】
 
-**北京市彩虹村庄国际康养基地**高级业务主任认为**“绘本是很好的模式”**，教学内容当**“尽量具体而非抽象”**，注意**“增加互动元素”**。上海市展翼儿童培智服务中心的老师还强调了**“配对”训练**常用于辅助自闭症儿童康复，建议我们用“基因与性状配对”来替代“基因控制性状”。
+#### 4.4.3 Course Evaluation
 
+We designed a post-class self-assessment questionnaire, which can be found in the attachment: [course-3-quiz](https://static.igem.wiki/teams/5115/inclusivity/course-3-quiz.pdf).
 
+The students demonstrated a thorough understanding of brain science in their responses to these questionnaires.
 
-依次授课《基因是什么》《基因编辑》和我们今年的项目。
 
-做线上游戏的启发在于
 
-进一步改进点。
+### 4.5 Course Ⅳ Biomedicine and Stomatology
 
-我们正在进一步撰写科普童书。
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
+<p>  
+    <strong>📅 Topic:</strong> 牙齿健康与健康习惯<br>  
+    <strong>👥 Location:</strong> 上海市湛蓝残疾人服务中心<br>  
+    <strong>🖇️ 推送链接:</strong> <a href="https://mp.weixin.qq.com/s/mgt9XwOQiUCA1l6q6eR6Dw" target="_blank">暂无推送</a>  
+</p>  
+</div>
 
-3.2 “实验探究”：神经科学与五感
 
-脑科学：认识自己，认识差异。每个人大脑的运作方式各异，而大脑运作的差异性是科学创新的根源之一。
+#### 4.5.1 Topic Selection
 
-2.3.1的画作也启发了我们星宝对人体科学及脑科学的兴趣。
+The teachers at Rainbow Village mentioned that the students have a fondness for candy (possibly related to their cognitive performance). We also learned that the students generally have a need for developing life skills, and their parents hope we can incorporate more science courses related to personal habits into our curriculum. Therefore, we chose the topic of "Dental Health."
 
-3.3 ”制作生活“：口腔医学
+**Course Content:**
 
-口腔医学院大理海灵。our team member 陈雪婷
+1. What is the process of tooth growth?
+2. The Bass brushing technique.
+3. How to make toothpaste from scratch.
 
-星宝反馈：做牙膏就像在做咖啡
+#### 4.5.2 Course Implementation
 
-口腔医学：我们了解到星宝的
+**1. Scientific Knowledge:** We used a teaching-guided approach to educate the students about the classification and growth of teeth.
 
-3.4 “”：人工智能
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-teach.jpg" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.5.2.1 Course 4-1</span>
+      <br><br>
+    </div>
+</div>
 
-泓成内链
 
-星宝：很多都和厨师、咖啡等职业关联展开构想
+**2. Engineering Skills:** We guided the students in making handmade toothpaste using chemical principles.
 
-3.5 小结与展望
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-engineer.jpg" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.5.2.2 Course 4-2</span>
+      <br><br>
+    </div>
+</div>
 
-简单版和困难版。分别在两个公益机构小范围试点。而后，我们来到了特校*（是否要编造一个具体的col？否则看着很假？）*，进一步验证。
 
-（创新点）每种教学手段/品牌主题也都适用于（给来人奠基）其他教学内容。
+**3. Artistic Skills:** The students painted the positions and shapes of teeth.
 
-不仅仅是教学，也是陪伴。
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-art.jpg" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.5.2.3 Course 4-3</span>
+      <br><br>
+    </div>
+</div>
 
-未来的日子里，我们打算教学急救、卫生、生理知识（AI一下）、性教育（被毙了，想再考虑一下）
 
-音乐的作用（可以假装我们设计了一首歌？）
+Our slides can be found in the attachment: [course-4-ppt.pdf](https://static.igem.wiki/teams/5115/inclusivity/course-4-ppt.pdf)
 
-4 DBTL
+### 4.6 Course Ⅴ Artificial Intelligence
 
-引用iHP。参考相伯立项书，里面有梓铭画的一张流程图。
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
+<p>  
+    <strong>📅 Topic:</strong> 信息科技与人工智能<br>  
+    <strong>👥 Location:</strong> 上海市湛蓝残疾人服务中心<br>  
+    <strong>🖇️ 推送链接:</strong> <a href="https://mp.weixin.qq.com/s/diG6aQBKsdMvoDihidEK3Q" target="_blank">星愿绘本馆｜天使与AI的邂逅</a>  
+</p>  
+</div>
+#### 4.6.1 Topic Selection
 
+During the course, we discovered that in the age of artificial intelligence, students can obtain information of interest through the internet, even using smart assistants (like Xiao Ai, although this is not a typical AI assistant). We also found that students could relax when alone. Some students, like typical children, enjoy playing games. Therefore, we chose information technology and artificial intelligence as the topic, utilizing game-based websites to cultivate the students' "STEAMed" abilities.
 
+**Course Content:**
 
-上文还可以添加：
+1. What is artificial intelligence?
+2. What can information technology bring us?
+3. Online mini-games related to synthetic biology education.
 
-为寻找教学对象，我们与多个机构对接。最终选中了两个机构+一个特教。预实验以后把我们的课程教给特教，达成共识。并与其中的孩子达成了亲密的关系。大龄的更关注与其现有社会技能的对接，咖啡师 厨师 讲解中注重与其生活日常的类比。
+#### 4.6.2 Course Implementation
 
-预尝试以后，我们在两个机构分别。
+**1. Technological Perspective:** We provided students with a science popularization lesson on the development of information technology. Our slides can be found in the attachment: [course-5-ppt.pdf](https://static.igem.wiki/teams/5115/inclusivity/course-5-ppt.pdf)
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-teach.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.6.2.1 Course 5-1</span>
+      <br><br>
+    </div>
+</div>
+
+
+**2. Experiential Teaching Game:** We designed an experiential teaching game, and the link to the game is: [Smart Planet](https://chc1234567890.github.io/SynbioUniverse).
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-game.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.6.2.2 Course 5-2</span>
+      <br><br>
+    </div>
+</div>
+
+
+**3. Artistic Ability:** The students illustrated their conceptualization of artificial intelligence.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-art.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.6.2.3 Course 5-3</span>
+      <br><br>
+    </div>
+</div>
+
+
+
+
+#### 4.6.3 Feedback
+
+We designed a post-class self-evaluation questionnaire, which can be found in the attachment: [course-5-quiz](https://static.igem.wiki/teams/5115/inclusivity/course-5-quiz.pdf).
+
+The students demonstrated a thorough understanding of artificial intelligence in their responses to these questionnaires.
+
+
+
+### 4.7 STEAMed and diversity of ASD people
+
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
+<p>  
+    <strong>📅 Topic:</strong> 基因是什么<br>  
+    <strong>👥 Location:</strong> 上海彩虹雨儿童智能训练中心<br>  
+    <strong>🖇️ 推送链接:</strong> 1.<a href="https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ" target="_blank">星愿绘本馆 | 陪伴“星星”，拉手基因</a> 2.<a href="https://mp.weixin.qq.com/s/-q65xuoICfR6TYni6GSmuw" target="_blank">星愿绘本馆丨“星星”的碱基之旅</a> 
+</p>  
+</div>
+
+
+In our conversation with Professor Fu Fang, we noted the impact of different levels of functionality in autism on teaching. In response to the diverse needs of the ASD population, we decided to adopt a **differentiated teaching** approach.
+
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/discuss-with-mrs-cui.png" style='width:100%'>
+    <div>
+          <span style="color: gray">Figure 4.7.1 Discuss with Mrs. Cui</span>
+      <br><br>
+    </div>
+</div>
+
+
+We had both in-person and online discussions with Wang Yishuang, the Senior Business Director at Beijing Rainbow Village International Health Base, and Cui Jingjing from Shanghai Rainbow Rain. Based on the experts' suggestions, we recognized that there are differences in IQ, learning abilities, and language expression among various groups. Therefore, for those who are relatively disadvantaged, it is necessary to further simplify the course content, reduce the difficulty level, and focus on reinforcement and repetition during teaching. Additionally, patients of different age groups have distinct needs. For younger patients, companionship is crucial, accompanied by appropriate enlightenment. For older patients, greater emphasis should be placed on connecting with vocational skills to help them better adapt to society. Thus, we need to **more specifically tailor the teaching content and difficulty** based on the patients' opinions, needs, and values.
+
+After careful consideration, we agreed with the experts' views and conducted two sessions of STEAMed teaching for low-functioning autistic students at Shanghai Rainbow Rain. The content and approach of the teaching were derived from [4.1 Course I Gene Science](/fudan/inclusivity/#4-1-course-Ⅰ-gene-science).
+
+In our first practice, the feedback was not ideal, as the students did not understand the concept of genes. After reflecting on this, we conducted a second practice. We used the same course but further reduced the difficulty and added more hands-on activities, resulting in a much more successful outcome.
+
+These efforts demonstrated the potential for differentiated teaching within the STEAMed framework. We hope to have the opportunity to further promote differentiated STEAMed teaching and help eliminate barriers for ASD students in the field of science.
+
+
+
+## 5 Results (to be improved)
+
+After completing several rounds of teaching, we conducted interviews with experts, teachers, and parents [Attachment: transcript] to obtain a more comprehensive and objective evaluation and to identify areas for improvement.
+
+### 5.1 Highlights (how to avoid repetition with Section 8)
+
+- Developed replicable educational content
+- Targeted evaluation system
+- Positive impact on a portion of the ASD population.
+
+"He's holding onto it."
+
+Photos of parents and grandmother.
+
+### 5.2 Shortcomings and areas for improvement
+
+Due to time constraints, there was still insufficient attention to relatively lower-level concerns. Professor Fu Fang [Attachment: transcript] suggested that in the future, we could facilitate interaction between different ASD subgroups.
+
+We will continue to design new teaching content based on the needs and interests of the learners. Additionally, we look forward to incorporating more physical and artistic forms of expression.
+
+## 6 Publicity and Promotion
+
+### 6.1 Public education
+
+As mentioned above, public awareness is one of the barriers for the ASD population in accessing science. Therefore, we are particularly eager to spark interest in raising awareness of the scientific potential of the ASD community.
+
+#### 6.1.1 Media promotion
+
+In addition to the posts and vlogs released during the course, we have written a popular science post [draft completed, awaiting release] to raise awareness of the ASD community.
+
+We also submitted an article to China's mainstream media outlet [“The Paper”](https://www.thepaper.cn/newsDetail_forward_28867253), providing a comprehensive summary and review of STEAMed education. The article has been published on The Paper's app and website, and will be promoted through various mainstream media platforms, with the editor estimating a **million-level readership** for the single article.
+
+#### 6.1.2 Charity sales
+
+April 2, 2024, marks the 17th **“World Autism Awareness Day”**. Taking this opportunity, we held three **charity sales** events on various campuses of Fudan University. In addition to the usual cultural and creative products and artworks from the ASD community, we designed a set of postcards based on our picture book [PDF attached]. We shared this year's inclusivity project with people inside and outside the university, using the postcards to collect public messages in hopes of inspiring scientific interest in the ASD community. After the charity sale, we donated the proceeds along with the postcards to [Rainbow Rain].
+
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/handanyimai.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We were holding a charity sale.</small></p>    </div></div>
+
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/fenglinmingxinpian.jpg" style='width:50%'>    <br>    <div>        <p><small style="color: gray">The postcard carried the public's good wishes for the ASD community.</small></p>    </div></div>
+
+#### 6.1.3 Teaching Collaboration
+
+We recruited volunteers for STEAMed education targeting the ASD community through [online posts](https://mp.weixin.qq.com/s/R--7Ph2Z23VN8PBek537Og) and offline booths. Additionally, we provided a volunteer registration channel for the general public through WeChat groups. Through hands-on practice, volunteers were able to gain a deeper understanding of the significance of popular science education for the ASD community.
+
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/zhiyuanzhezhaoxin.png" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We are recruiting teaching volunteers.</small></p>    </div></div>
+
+### 6.2 Engaging with the Public Welfare Sector (consider moving to 8.2)
+
+We were invited to participate in the **[Expedition Forum](https://mp.weixin.qq.com/s/rz5_monngU4MajMzbODBXg)** and the **Fudan Public Welfare Exchange Gathering**. At the Expedition Forum, there were four guests from large public welfare institutions and foundations, as well as public welfare organizations from 18 universities across six provinces. The Fudan Public Welfare Exchange Gathering included six guest professors, 18 alumni guests, and seven student organization leaders. During the open discussion, members of public welfare organizations expressed their willingness to collaborate with us, and the guests indicated that they would help connect us with more public welfare resources in the future to jointly promote this meaningful project.
+
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/yuanzhenghegongyiren.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We were invited to participate in the Expedition Forum and Fudan Charity Exchange Gathering.</small></p>    </div></div>
+
+## 7 our sustainable mechanism
+
+### 7.1 Teaching Targets
+
+In the future, we will focus on a broader range of ASD populations and individuals with intellectual disabilities. Beyond rehabilitation institutions, we have also reached out to several **special education schools** for ASD in Shanghai. They are all eager to apply our refined curriculum to help break down the barriers between their students and science. Throughout the project, we have also engaged with **other groups with intellectual disabilities**, who face similar challenges as the ASD community. We aim to inspire scientific interest in more of these related groups and tap into their scientific potential. This is also the true essence of neurodiversity and inclusivity.
+
+### 7.2 Partners
+
+As mentioned in Section 7, we have received support from individual volunteers, public welfare organizations, and public welfare institutions. In addition to the [Bertalanffy Club], operated by iGEM, we have also reached long-term cooperation agreements with the [Fudan University Nanshangu Association] and the [Fudan University Red Cross]. Together, we will design and deliver courses. With the support of these partners, we are confident in the long-term sustainability of our project. (This final sentence can be deleted.)
+
+### 7.3 Funding Sources
+
+After submitting applications and going through a selection process, we successfully received funding from Fudan University's Undergraduate Academic Practice Research Support Program, known as the Xiangbo Project. We also secured funding intentions from the **U.S. Consulate General in Shanghai**. Additionally, [Professor Fu Fang] and [Professor Yu Zhiyuan] have expressed their willingness to help us obtain sponsorships from foundations and hospitals.
+
+This section requires input from Ziming and Kexin to supplement ideas for the commercial page.
+
+### 7.4 A Foundation for Others
+
+Our STEAMed is an innovative and replicable concept. All of our course materials (including lesson plans, PPTs, post-lesson assessments, etc.) have been distributed freely both offline and online nationwide. We have summarized our experience with science education for the ASD population into two guides, which have been uploaded in multiple languages. We welcome other organizations to contact us through various channels to exchange ideas on how to optimize and promote STEAMed education. By doing this, other teams or external entities can easily build upon our work.
+
+## 8 Conclusion
+
+In summary, we have developed an innovative educational concept, **STEAMed**, based on the needs and characteristics of individuals with ASD, leveraging our team's expertise and interdisciplinary advantages. Using the iHP framework, we have thoughtfully practiced our ideas, creating replicable educational models and content. We applied commercial concepts to ensure the project's sustainability and promotion. Our project is not only about sparking interest, building knowledge, and offering career training for the ASD community but also aligns with [SDG 4: Quality Education] and represents an important step towards building a technologically advanced nation. We look forward to using diverse evaluation systems and teaching methods to move closer to science together through mutual learning and teaching. By enhancing inclusivity in the scientific community, we aim to amplify more voices in the field. We believe that **under the starry sky, we can all become scientists!**
+
+
+
+
+
+## Draft Box
+
+In summary, (team expansion) we have leveraged the expertise of **XX experts** along with **XX and XX's** support (*perhaps these should appear on the acknowledgment page?*). We have conducted courses for **XX participants**, interviews with **XX participants**, and surveys for **XX participants**.
+
+Based on the needs and characteristics of individuals with ASD, we utilized our team's professional expertise and interdisciplinary advantages to propose an innovative teaching concept called **STEAMed** (Science, Technology, Engineering, Art, Mathematics, and Medicine). In collaboration with existing public welfare resources, we designed a series of educational materials tailored to their needs, employing a multi-level teaching approach (*the logic of these short phrases might be a bit disjointed*). We launched a series of branded science activities, including the "Star Wishes Picture Book Library" (*we might want to come up with catchy English names for the other initiatives; Ziming suggested removing this part*). Various surveys indicate that our educational efforts have achieved positive results.
+
+Ziming’s interview with Rainbow Rain could include a collage of all the Tencent Meeting screenshots in the shared document.
+
+(*Mention above that Zhanlan also forwarded it*).
+
+"STEAMed" will be delivered through meticulously designed and polished experiential courses.
+
+We designed a series of teaching materials tailored to their needs (*the logic of these short phrases might be a bit disjointed*). We launched a series of branded science activities, including the "Star Wishes Picture Book Library" (*we might want to come up with catchy English names for the other initiatives; Ziming suggested removing this part*). Various surveys indicate that our educational efforts have achieved positive results.
+
+**Based on literature, interviews, and personal interaction with ASD children**, we continuously explore new course topics and design educational content. In each course, we guide participants to explore a relatively broad "scientific question," aiming to enhance their proficiency in **Science, Technology, Engineering, Art, and Medicine**. We have designed a specialized "STEAMed toolkit for ASD teaching," which includes carefully curated "teaching guidance materials" and "handmade teaching aids." Through hands-on experience, ASD children can explore scientific questions and develop a better understanding of science.
+
+### 3.7 STEAMed and the Diversity of ASD People (Multi-Level Teaching)
+
+Rainbow Village + Zhanyi
+
+Rainbow Village integrates the unique advantages of its park, which includes both a nursing home and a rehabilitation center for individuals with intellectual disabilities, and has upgraded its "co-care for the elderly and disabled" service model. It has become **China's first** and **only** institution to provide full-life-cycle care, from rehabilitation for special needs children, to vocational training for older youth with special needs, to family elder care.
+
+In response to the diverse needs within the ASD community, we adopted a **multi-level teaching** design. As the spectrum suggests, ASD includes various levels of severity, with differing IQ levels, learning abilities, and language skills across groups. For those at a relative disadvantage, it is necessary to further simplify course content, reduce difficulty, and emphasize reinforcement and repetition during teaching. Additionally, individuals of different age groups have different needs. For younger children, companionship is more crucial, supplemented with appropriate enlightenment. For older individuals, the focus should be on vocational skills to better integrate them into society. Therefore, we need to **tailor the teaching content and difficulty** based on the patients' opinions, needs, and values.
+
+Afterward, we conducted online interviews or in-person visits to several autism rehabilitation institutions in Shanghai, each specializing in either younger or older patients. They provided specific suggestions for "multi-level teaching design" from their respective perspectives.
+
+Should we place the postcard exchange here? Or should it be added as a heartfelt wish at the end? Where are the photos?
+
+---
+
+### 9.30
+
+Attach references and cross-links. Edit each other’s work.
+Translate into English, supplement references, and attachments (teaching materials, verbatim transcripts, and audio).
+Upload the English wiki, with Kexin revising the ending, and Hongcheng handling in-game links.
+
+---
+
+Questions: Header image. Attachment links. Should there be multiple versions of the same issue? Some images are not displaying.
+
+---
+
+### 10.1-10.2
+
+Formatting improvements.
+Image selection and beautification.
+Ziming: Art design + science push.
+Enhancements: Mainly making all attachments more solid, plus the multilingual versions.
+Update Xiangbo (col) and attribution sections according to the finalized content, along with relevant page links.
+
+---
+
+Some thoughts on conducting a survey. Do individuals with autism and their families wish for recovery? At the very least, we need to emphasize our humanistic care.
+
+---
+
+In response to the diverse needs within the ASD community, we adopted a **multi-level teaching** design. As the spectrum suggests, ASD includes various levels of severity, with differing IQ levels, learning abilities, and language skills across groups. For those at a relative disadvantage, it is necessary to further simplify course content, reduce difficulty, and emphasize reinforcement and repetition during teaching. Additionally, individuals of different age groups have different needs. For younger children, companionship is more crucial, supplemented with appropriate enlightenment. For older individuals, the focus should be on vocational skills to better integrate them into society. Therefore, we need to **tailor the teaching content and difficulty** based on the patients' opinions, needs, and values.
+
+Afterward, we conducted online interviews or in-person visits to several autism rehabilitation institutions in Shanghai, each specializing in either younger or older patients. They provided specific suggestions for "multi-level teaching design" from their respective perspectives.
+
+---
+
+### 3 Our Themes and Brands
+
+**Based on literature, interviews, and personal interaction with ASD children**, we created and carried out multiple rounds of courses around the following themes and activities. Each course incorporates various disciplines, teaching methods, and DBTL, ensuring alignment with STEAMed. Detailed lesson plans and materials are attached for future reference.
+
+---
+
+### 3.1 "Star Wishes Picture Book Library": Genetics and Synthetic Biology
+
+Last year, our team designed two [picture books](https://2023.igem.wiki/fudan/education/#feed-curious-minds) for children, which received sustained positive feedback. In our conversations with the founder of Tongle and children's book editors at Fudan University Press, we learned that adding more storytelling elements can help children, including ASD patients, better understand knowledge. Thus, we decided to launch our first lesson based on these two picture books.
+
+(*Ziming to supplement with figure and publisher*).
+
+The **Senior Business Director at the Beijing Rainbow Village International Care and Wellness Center** mentioned that **“picture books are a great model”** and advised that course content should be **“as concrete as possible rather than abstract”** and include **“more interactive elements”**. Teachers at the Shanghai Zhanyi Children’s Service Center also emphasized that **“matching” training is commonly used to assist in autism rehabilitation and suggested that we replace "genes control traits" with "gene and trait matching".**
+
+---
+
+The courses included "What is a gene?", "Gene Editing", and our project this year.
+
+The inspiration for the online game came from this.
+
+Further improvements to be made.
+
+We are also in the process of writing another children's science book.
+
+---
+
+### 3.2 "Experimental Exploration": Neuroscience and the Five Senses
+
+Brain science: Understanding ourselves and differences. Everyone's brain operates differently, and these differences in brain function are one of the roots of scientific innovation.
+
+Artwork from section 2.3.1 also inspired our Star Children’s interest in human science and neuroscience.
+
+---
+
+### 3.3 "Life Creation": Oral Medicine
+
+Our team member, Chen Xueting, collaborated with the School of Stomatology’s Dali Hailing.
+
+Star Child feedback: "Making toothpaste is like making coffee."
+
+Oral medicine: We learned that Star Children...
+
+---
+
+### 3.4 "": Artificial Intelligence
+
+Hongcheng to handle the links.
+
+Star Children associated many ideas with careers like chefs and baristas.
+
+---
+
+### 3.5 Summary and Outlook
+
+We created both simple and advanced versions. We piloted them at two public welfare organizations before conducting trials at a special education school (*should we make up a specific "col" to make this look less fake?*), further validating the courses.
+
+(*Innovative point*) Each teaching method or brand theme is also applicable to other teaching content (*laying the foundation for future endeavors*).
+
+It's not just about teaching, it's also about companionship.
+
+---
+
+In the future, we plan to teach first aid, hygiene, and physiological knowledge (*could AI help with this?*), and we are reconsidering sex education (which was rejected, but we’d like to revisit it).
+
+---
+
+The role of music (*could we pretend we designed a song?*).
+
+---
+
+### 4 DBTL
+
+Referencing iHP and the Xiangbo project proposal, which includes a flowchart drawn by Ziming.
+
+---
+
+Earlier we could add:
+
+To find teaching subjects, we reached out to multiple institutions. We eventually selected two organizations and one special education school. After a pilot run, we reached a consensus with the special education school and formed close relationships with the children there. The older children were more focused on integrating their existing social skills, with analogies to their daily lives like being a barista or chef.
+
+After the pilot, we worked with two institutions respectively.
+
