@@ -6,11 +6,11 @@ import navbar from "./navbar.js";
 export default hopeTheme({
   hostname: "https://2024.igem.wiki/fudan/",
   navbarTitle: "Fudan",
-  favicon: "https://static.igem.wiki/teams/5115/czh/logo-czh.svg",
+  favicon: "https://static.igem.wiki/teams/5115/czh/background-logo.svg",
   home: "/",
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://static.igem.wiki/teams/5115/czh/logo-czh.svg",
+  logo: "https://static.igem.wiki/teams/5115/czh/background-logo.svg",
 
   repo: "https://gitlab.igem.org/2024/fudan.git",
 

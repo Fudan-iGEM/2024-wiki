@@ -55,6 +55,7 @@ import Navbar from "@theme-hope/modules/navbar/components/Navbar";
   position: relative;
   font-size: 1.5rem;
   font-weight: 700;
+  color: #f3e4c0;
 }
 @media (max-width: 959px){
   .vp-navbar{

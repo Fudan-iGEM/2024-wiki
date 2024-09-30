@@ -458,7 +458,7 @@ export default {
   },
   methods: {
     updatePreserveAspectRatio() {
-      if (window.innerWidth >= 1180) {
+      if (window.innerWidth >= 1024) {
         this.preserveAspectRatio = 'xMidYMid slice';
       } else {
         this.preserveAspectRatio = 'xMinYMin meet';
@@ -849,6 +849,7 @@ html {
   pointer-events: none; /* Prevent the animation layer from blocking interactions */
   z-index: 1;
   overflow: hidden;
+  background-color: #CDE3EC;
 }
 
 main {
@@ -1019,7 +1020,12 @@ section {
   -webkit-mask-repeat: no-repeat;
 }
 
-
+@media (min-width: 1025px){
+  .scrollDist {
+    width: 100%;
+    height: 300vh;
+  }
+}
 
 /* Hide the tear on mobile devices */
 @media (max-width: 900px) {
@@ -1029,7 +1035,7 @@ section {
 }
 
 /* Mobile devices */
-@media (max-width: 1225px) {
+@media (max-width: 1025px) and (min-height: 1365px) {
   /* .frame0,
   .frame1,
   .frame2 {
@@ -1054,6 +1060,18 @@ section {
     height: 33.3vh;
   }
 }
+@media (max-width: 1025px) and (max-height: 1365px){
+  .frame0,
+  .frame1,
+  .frame2 {
+    display: none;
+  }
+  .scrollDist {
+    width: 100%;
+    height: 50vh;
+  }
+}
+
 
 @media (max-width: 525px) {
   .frame0,
