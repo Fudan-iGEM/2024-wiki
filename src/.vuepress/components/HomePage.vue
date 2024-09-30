@@ -390,7 +390,7 @@
 
     <section class="page-10" id="gift">
       <div class="background-container">
-        
+        <Lottie animationUrl="https://static.igem.wiki/teams/5115/homepage-tail/cold-play.json" />
       </div>
     </section>
     
@@ -450,7 +450,11 @@
 
 <script>
 /* import PageFooter from '@theme-hope/components/PageFooter'; */
+import Lottie from '../components/Lottile.vue';
 export default {
+  components: {
+    Lottie
+  },
   data() {
     return {
       preserveAspectRatio: 'xMinYMin meet', // Initial value for screens narrower than 1180px
@@ -623,8 +627,8 @@ export default {
           ease: 'power1.inOut',
           scrollTrigger: {
             trigger: '.page-4',
-            start: 'top 10%',
-            end: 'bottom 70%',
+            start: 'center 70%',
+            end: 'bottom bottom',
             scrub: true,
           },
         }
