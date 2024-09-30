@@ -195,7 +195,7 @@ html[data-theme="dark"] .custom-link {
   }
   
   .home-logo {
-    animation: rotateLogo 0.27s linear infinite;
+    animation: rotateLogo 0.27s steps(8) infinite;
   }
   </style>
   

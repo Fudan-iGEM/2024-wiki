@@ -110,6 +110,16 @@
           alt="Right Cloud"
           class="right-cloud"
         />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage-section2/word.svg"
+          alt="Image World"
+          class="track-word"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage-section2/mine-car.svg"
+          alt="Mine Car"
+          class="tramcar"
+        />
 
         <!-- Text over background image -->
         <div class="overlay-text">
@@ -197,7 +207,7 @@
             id="blueDot"
             cx="681.7"
             cy="226.4"
-            r="10"
+            r="15"
             fill="#e2f5f8"
             opacity="0.9"
           />
@@ -208,8 +218,8 @@
             d="
             M 681.7 226.4
             Q 660 292 605.3 357.9
-            L 632.2 440.7
-            L 632.2 652.7"
+            L 628.2 440.7
+            L 628.2 652.7"
           />
         </svg>
       </div>
@@ -222,7 +232,7 @@
           class="background-image"
         />
         <img 
-          src="https://static.igem.wiki/teams/5115/homepage-page4/gray-block.svg"
+          src="https://static.igem.wiki/teams/5115/homepage-page4/data1-gray-block.svg"
           alt="Color Background"
           class="gray-block"
         />
@@ -257,7 +267,7 @@
           class="noncolor-pie-3"
         />
         <img 
-          src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-text.svg"
+          src="https://static.igem.wiki/teams/5115/homepage-page4/data1-new-noncolor-text.svg"
           alt="Non-Color Text"
           class="noncolor-text"
         />
@@ -292,7 +302,7 @@
           class="color-pie-3"
         />
         <img 
-          src="https://static.igem.wiki/teams/5115/homepage-page4/color-text.svg"
+          src="https://static.igem.wiki/teams/5115/homepage-page4/data1-mew-color-text.svg"
           alt="Color Text"
           class="color-text"
         />
@@ -301,22 +311,22 @@
     <section class="page-5" id="summary">
       <div class="background-container">
         <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/background.svg"
+            src="https://static.igem.wiki/teams/5115/homepage-page5/data2-background.svg"
             alt="Background"
             class="background-image"
         />
         <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/gray-block.svg"
+            src="https://static.igem.wiki/teams/5115/homepage-page4/data2-gray-block.svg"
             alt="Gray Block"
             class="gray-block2"
         />
         <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/noncolor-text.svg"
+            src="https://static.igem.wiki/teams/5115/homepage-page4/data2-new-noncolor-text.svg"
             alt="Non-Color Text"
             class="noncolor-text2"
         />
         <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/color-text.svg"
+            src="https://static.igem.wiki/teams/5115/homepage-page4/data2-new-color-text.svg"
             alt="Color Text"
             class="color-text2"
         />
@@ -333,22 +343,34 @@
 
       </div>
     </section>
-
+    
     <section class="page-7" id="ecoli">
       <div class="background-container">
-        
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage-page5/section4-background.png"
+            alt="Background"
+            class="background-image"
+        />
       </div>
     </section>
 
     <section class="page-8" id="carbo-cl">
       <div class="background-container">
-        
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage-page5/section5-6-background.png"
+            alt="Background"
+            class="background-image"
+        />
       </div>
     </section>
 
     <section class="page-9" id="time-cannel">
       <div class="background-container">
-        
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage9/page9-background.svg"
+            alt="Background"
+            class="background-image"
+        />
       </div>
     </section>
 
@@ -512,8 +534,8 @@ export default {
           ease: 'power1.inOut',
           scrollTrigger: {
             trigger: '.page-4',
-            start: 'top 80%',
-            end: 'bottom bottom',
+            start: 'top 10%',
+            end: 'bottom 70%',
             scrub: true,
           },
         }
@@ -565,7 +587,7 @@ export default {
           scrollTrigger: {
             trigger: '.page-5',
             start: 'top 80%',
-            end: 'bottom bottom',
+            end: 'bottom 20%',   /*  */
             scrub: true,
           },
         }
@@ -822,7 +844,9 @@ section {
 .gray-block,
 .gray-block2,
 .color-text2,
-.noncolor-text2 {
+.noncolor-text2,
+.track-word,
+.tramcar {
   position: absolute;
   top: 0;
   width: 100%;
@@ -859,7 +883,14 @@ section {
 
 /* Remove gaps between pages */
 .page-1,
-.page-2 {
+.page-2,
+.page-3,
+.page-4,
+.page-5,
+.page-6,
+.page-7,
+.page-8,
+.page-9 {
   margin: 0;
   padding: 0;
   display: flex;
@@ -885,7 +916,7 @@ section {
 }
 
 /* Mobile devices */
-@media (max-width: 1025px) {
+@media (max-width: 1225px) {
   .frame0,
   .frame1,
   .frame2 {
