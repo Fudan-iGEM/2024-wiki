@@ -119,6 +119,7 @@ export default hopeTheme({
         color: "#ffffff",
       },
       manifest: {
+        background_color: "#A9DEE8",
         icons: [
           {
             src: "https://static.igem.wiki/teams/5115/fonts/icon/chrome-mask-512.png",

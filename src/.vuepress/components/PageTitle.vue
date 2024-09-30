@@ -18,7 +18,7 @@ const title = computed(() => pageData.value.title);
 <style scoped>
 .page-title-container {
   position: absolute;
-  bottom: calc(3vw); /* Adjusted default for general alignment */
+  bottom: calc(3.5vw); /* Adjusted default for general alignment */
   left: 24%; /* Approximately 1/6th of the page */
   transform: translateX(-30%); /* Center the text and author info */
   text-align: center;
@@ -67,9 +67,9 @@ const title = computed(() => pageData.value.title);
 }
 
 /* iPhone 14 Pro Max: 430x932 */
-@media (max-width: 430px) {
+@media (max-width: 431px) {
   .page-title-container {
-    bottom: calc(2vw); /* Adjusted for iPhone 14 Pro Max */
+    bottom: 0vw; /* Adjusted for iPhone 14 Pro Max */
   }
 
   .responsive-page-title {
@@ -82,9 +82,9 @@ const title = computed(() => pageData.value.title);
 }
 
 /* Additional adjustments for very small screens */
-@media (max-width: 375px) {
+@media (max-width: 391px) {
   .page-title-container {
-    bottom: calc(3vw); /* Adjusted for iPhone 14 Pro Max */
+    bottom: 0vw; /* Adjusted for iPhone 14 Pro Max */
   }
   .responsive-page-title {
     font-size: 10vw;

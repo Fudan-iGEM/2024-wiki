@@ -214,7 +214,6 @@
         </svg>
       </div>
     </section>
-    <!-- Other pages -->
     <section class="page-4" id="deep-water">
       <div class="background-container">
         <img 
@@ -322,12 +321,41 @@
             class="color-text2"
         />
       </div>
-
-      <!-- More content -->
     </section>
-    <section class="page-6" id="summary">
-      
-      <!-- More content -->
+
+    <section class="page-6" id="lls-love">
+      <div class="background-container">
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage-page5/background.svg"
+            alt="Background"
+            class="background-image"
+        />
+
+      </div>
+    </section>
+
+    <section class="page-7" id="ecoli">
+      <div class="background-container">
+        
+      </div>
+    </section>
+
+    <section class="page-8" id="carbo-cl">
+      <div class="background-container">
+        
+      </div>
+    </section>
+
+    <section class="page-9" id="time-cannel">
+      <div class="background-container">
+        
+      </div>
+    </section>
+
+    <section class="page-10" id="gift">
+      <div class="background-container">
+        
+      </div>
     </section>
   </main>
 </template>

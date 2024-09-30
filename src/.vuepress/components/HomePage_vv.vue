@@ -218,89 +218,115 @@
     <section class="page-4" id="deep-water">
       <div class="background-container">
         <img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/color-background.svg"
-    alt="Color Background"
-    class="background-image"
-/>
+          src="https://static.igem.wiki/teams/5115/homepage-page4/color-background.svg"
+          alt="Color Background"
+          class="background-image"
+        />
         <img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/gray-block.svg"
-    alt="Color Background"
-    class="gray-block"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-1.svg"
-    alt="Non-Color Bubble 1"
-    class="noncolor-bubble-1"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-2.svg"
-    alt="Non-Color Bubble 2"
-    class="noncolor-bubble-2"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-3.svg"
-    alt="Non-Color Bubble 3"
-    class="noncolor-bubble-3"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-1.svg"
-    alt="Non-Color Pie 1"
-    class="noncolor-pie-1"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-2.svg"
-    alt="Non-Color Pie 2"
-    class="noncolor-pie-2"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-3.svg"
-    alt="Non-Color Pie 3"
-    class="noncolor-pie-3"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-text.svg"
-    alt="Non-Color Text"
-    class="noncolor-text"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-1.svg"
-    alt="Color Bubble 1"
-    class="color-bubble-1"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-2.svg"
-    alt="Color Bubble 2"
-    class="color-bubble-2"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-3.svg"
-    alt="Color Bubble 3"
-    class="color-bubble-3"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-1.svg"
-    alt="Color Pie 1"
-    class="color-pie-1"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-2.svg"
-    alt="Color Pie 2"
-    class="color-pie-2"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-3.svg"
-    alt="Color Pie 3"
-    class="color-pie-3"
-/>
-<img 
-    src="https://static.igem.wiki/teams/5115/homepage-page4/color-text.svg"
-    alt="Color Text"
-    class="color-text"
-/>
-
+          src="https://static.igem.wiki/teams/5115/homepage-page4/gray-block.svg"
+          alt="Color Background"
+          class="gray-block"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-1.svg"
+          alt="Non-Color Bubble 1"
+          class="noncolor-bubble-1"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-2.svg"
+          alt="Non-Color Bubble 2"
+          class="noncolor-bubble-2"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-bubble-3.svg"
+          alt="Non-Color Bubble 3"
+          class="noncolor-bubble-3"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-1.svg"
+          alt="Non-Color Pie 1"
+          class="noncolor-pie-1"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-2.svg"
+          alt="Non-Color Pie 2"
+          class="noncolor-pie-2"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-pie-3.svg"
+          alt="Non-Color Pie 3"
+          class="noncolor-pie-3"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/noncolor-text.svg"
+          alt="Non-Color Text"
+          class="noncolor-text"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-1.svg"
+          alt="Color Bubble 1"
+          class="color-bubble-1"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-2.svg"
+          alt="Color Bubble 2"
+          class="color-bubble-2"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/color-bubble-3.svg"
+          alt="Color Bubble 3"
+          class="color-bubble-3"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-1.svg"
+          alt="Color Pie 1"
+          class="color-pie-1"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-2.svg"
+          alt="Color Pie 2"
+          class="color-pie-2"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/color-pie-3.svg"
+          alt="Color Pie 3"
+          class="color-pie-3"
+        />
+        <img 
+          src="https://static.igem.wiki/teams/5115/homepage-page4/color-text.svg"
+          alt="Color Text"
+          class="color-text"
+        />
       </div>
     </section>
     <section class="page-5" id="summary">
+      <div class="background-container">
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage-page5/background.svg"
+            alt="Background"
+            class="background-image"
+        />
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage-page5/gray-block.svg"
+            alt="Gray Block"
+            class="gray-block2"
+        />
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage-page5/noncolor-text.svg"
+            alt="Non-Color Text"
+            class="noncolor-text2"
+        />
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage-page5/color-text.svg"
+            alt="Color Text"
+            class="color-text2"
+        />
+      </div>
+
+      <!-- More content -->
+    </section>
+    <section class="page-6" id="summary">
+      
       <!-- More content -->
     </section>
   </main>
@@ -402,6 +428,143 @@ export default {
         gsap.set('.tear-svg', { display: 'none' });
       }
     },
+    initPage4Animations(gsap) {
+    if (window.innerWidth >= 900) {
+      // Set initial positions for fly-in elements
+      gsap.set(['.color-pie-1', '.noncolor-pie-1'], { xPercent: -100, yPercent: -100 });
+      gsap.set(['.color-pie-2', '.noncolor-pie-2'], { xPercent: -100, yPercent: 100 });
+      gsap.set(['.color-pie-3', '.noncolor-pie-3'], { xPercent: 100, yPercent: 100 });
+
+      const page4Tl = gsap.timeline({
+        scrollTrigger: {
+          trigger: '.page-4',
+          start: 'top 80%',
+          end: 'top 60%',
+          scrub: 1,
+        },
+      });
+
+      // Fly-in animations
+      page4Tl.to(['.color-pie-1', '.noncolor-pie-1'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0);
+      page4Tl.to(['.color-pie-2', '.noncolor-pie-2'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0);
+      page4Tl.to(['.color-pie-3', '.noncolor-pie-3'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0);
+
+      // Floating animations
+      gsap.to(['.noncolor-bubble-1', '.color-bubble-1'], {
+        y: -20,
+        duration: 2,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+      });
+
+      gsap.to(['.noncolor-bubble-2', '.color-bubble-2'], {
+        y: -20,
+        duration: 2,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+        delay: 0.5,
+      });
+
+      gsap.to(['.noncolor-bubble-3', '.color-bubble-3'], {
+        y: -20,
+        duration: 2,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+        delay: 1,
+      });
+
+      // Opacity animations
+      gsap.to(
+        ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water'],
+        {
+          opacity: 0,
+          ease: 'power1.inOut',
+          scrollTrigger: {
+            trigger: '.page-4',
+            start: 'top 80%',
+            end: 'bottom bottom',
+            scrub: true,
+          },
+        }
+      );
+    } else {
+      // Reset styles on mobile devices
+      gsap.set(
+        [
+          '.color-pie-1',
+          '.noncolor-bubble-1',
+          '.color-pie-2',
+          '.noncolor-bubble-2',
+          '.color-pie-3',
+          '.noncolor-bubble-3',
+          '.color-bubble-1',
+          '.color-bubble-2',
+          '.color-bubble-3',
+          '.color-pie-1',
+          '.color-pie-2',
+          '.color-pie-3',
+          '.color-text',
+        ],
+        { clearProps: 'all' }
+      );
+    }
+    },
+    initPage5Animations(gsap) {
+    if (window.innerWidth >= 900) {
+
+/*       const page5Tl = gsap.timeline({
+        scrollTrigger: {
+          trigger: '.page-5',
+          start: 'top 80%',
+          end: 'top 60%',
+          scrub: 1,
+        },
+      }); */
+     
+      gsap.set(['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', 
+                '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', 
+                '.color-text2','.background-image-water'],
+              { opacity: 0 });
+      // Opacity animations
+      gsap.to(
+        ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water'],
+        {
+          opacity: 1,
+          ease: 'power1.inOut',
+          scrollTrigger: {
+            trigger: '.page-5',
+            start: 'top 80%',
+            end: 'bottom bottom',
+            scrub: true,
+          },
+        }
+      );
+    } else {
+      // Reset styles on mobile devices
+      gsap.set(
+        [
+          '.color-pie-1',
+          '.noncolor-bubble-1',
+          '.color-pie-2',
+          '.noncolor-bubble-2',
+          '.color-pie-3',
+          '.noncolor-bubble-3',
+          '.color-bubble-1',
+          '.color-bubble-2',
+          '.color-bubble-3',
+          '.color-pie-1',
+          '.color-pie-2',
+          '.color-pie-3',
+          '.color-text',
+          '.color-text2',
+        ],
+        { clearProps: 'all' }
+      );
+    }
+    },
   },
   async mounted() {
     // Initial screen width check
@@ -424,6 +587,8 @@ export default {
     this.initPage1Animations(gsap);
     this.initPage2Animations(gsap);
     this.initPage3Animations(gsap);
+    this.initPage4Animations(gsap);
+    this.initPage5Animations(gsap);
 
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
@@ -575,7 +740,7 @@ section {
   position: relative;
   padding: 0; /* Remove default padding */
   margin: 0;
-  min-height: 100vh;
+/*   min-height: 100vh; */
   max-width: 100%;
   overflow-x: hidden;
 }
@@ -589,6 +754,11 @@ section {
 }
 
 .background-image {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.background-image-water {
   width: 100%;
   height: 100%;
   display: block;
@@ -621,7 +791,10 @@ section {
 .color-pie-2,
 .color-pie-3,
 .color-text,
-.gray-block {
+.gray-block,
+.gray-block2,
+.color-text2,
+.noncolor-text2 {
   position: absolute;
   top: 0;
   width: 100%;
@@ -690,12 +863,12 @@ section {
   .frame2 {
     display: none;
   }
-  .left-cloud,
+/*   .left-cloud,
   .right-cloud,
   .light,
   .vehicle,
   .block,
-  .cbuilding,
+  .cbuilding, */
   .rock,
   .smoke,
   .fish,
