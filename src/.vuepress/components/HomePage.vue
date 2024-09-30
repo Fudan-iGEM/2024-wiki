@@ -390,7 +390,7 @@
 
     <section class="page-10" id="gift">
       <div class="background-container">
-        <Lottie animationUrl="https://static.igem.wiki/teams/5115/homepage-tail/cold-play.json" />
+        <lottie :options="earthOptions"></lottie>
       </div>
     </section>
     
@@ -458,6 +458,10 @@ export default {
   data() {
     return {
       preserveAspectRatio: 'xMinYMin meet', // Initial value for screens narrower than 1180px
+      earthOptions: {
+              path: 'https://static.igem.wiki/teams/5115/homepage-tail/cold-play.json',
+              autoplay:true,
+          },
     };
   },
   methods: {
@@ -1102,6 +1106,15 @@ section {
     height: 18vh;
   }
 }
+
+.page10-lottie {
+  width: 1920px;
+  max-width: 100%; /* Ensures responsiveness on smaller screens */
+  height: auto;    /* Maintains aspect ratio */
+  margin: 0 auto;  /* Centers the animation horizontally */
+  display: block;  /* Removes any inline spacing issues */
+}
+
 /* footer */
 footer{
   background-color: black;

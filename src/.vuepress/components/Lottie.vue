@@ -1,49 +1,45 @@
 <template>
-    <div ref="lottieContainer" :style="containerStyle"></div>
-  </template>
-  
-  <script>
-  import lottie from 'lottie-web';
-  
-  export default {
-    props: {
-      animationUrl: {
-        type: String,
-        required: true
+  <div :style="style" ref="lavContainer"></div>
+</template>
+
+<script>
+import lottie from 'lottie-web';
+
+export default {
+  props: {
+      options: {
+          type: Object,
+          required: true
       },
-      loop: {
-        type: Boolean,
-        default: true
-      },
-      autoplay: {
-        type: Boolean,
-        default: true
-      },
-    },
-    data() {
+      height: Number,
+      width: Number,
+  },
+  data () {
       return {
-        containerStyle: {
-          position: 'absolute',
-          top: 0,
-          left: 0,
-          width: '100%',
-          height: '100%',
-          zIndex: -1,
-        }
-      };
-    },
-    mounted() {
-      lottie.loadAnimation({
-        container: this.$refs.lottieContainer,
-        path: this.animationUrl,
-        loop: this.loop,
-        autoplay: this.autoplay,
-      });
-    },
-  };
-  </script>
-  
-  <style scoped>
-  /* 让动画充满父容器 */
-  </style>
-  
+          style: {
+              width: this.width ? `${this.width}px` : '100%',
+              height: this.height ? `${this.height}px` : '100%',
+              overflow: 'hidden',
+          }
+      }
+  },
+
+  mounted () {
+      this.anim = lottie.loadAnimation({
+              container: this.$refs.lavContainer,
+              renderer: 'svg',
+              loop: this.options.loop !== false,
+              autoplay: this.options.autoplay !== false,
+              path: this.options.path,
+              rendererSettings: this.options.rendererSettings
+          }
+      );
+      this.anim.setSpeed(0.3);
+      this.anim.addEventListener('complete', () => {
+              this.anim.destroy()
+              this.$emit('lottie-complete');
+          });
+      this.$emit('animCreated', this.anim)
+  }
+}
+</script>
