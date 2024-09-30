@@ -198,7 +198,7 @@
           class="tube"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/text/section4-text1-instead.svg"
+          src="https://static.igem.wiki/teams/5115/text/new-section4-text1-instead.svg"
           alt="Text4"
           class="text4"
         />

@@ -9,6 +9,8 @@ author:
   url: /fudan/team/#kexin-zheng
 ---
 
+<br><br>
+
 As mentioned in [Mencius](https://en.wikipedia.org/wiki/Mencius), the wise enlighten others through their own clarity; today, those who are confused can also enlighten others. This underscores the importance of *self-education* before *educating others*. We realize that understanding knowledge from the perspective of learners is essential for effective education. Thus, while conducting our  educational activities this year, we focuse on exploring the needs of our target audience and developing the educational skills of our members.
 
 According to Bandura's [Social Cognitive Career Theory, SCCT](https://career.iresearchnet.com/career-development/social-cognitive-career-theory/), early exposure to high-quality science education can enhance students' career-related self-efficacy, potentially influencing their future career choices and involvement in the scientific field.
