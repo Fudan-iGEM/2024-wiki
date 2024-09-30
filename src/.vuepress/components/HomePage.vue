@@ -450,7 +450,7 @@
 
 <script>
 /* import PageFooter from '@theme-hope/components/PageFooter'; */
-import Lottie from '../components/Lottile.vue';
+import Lottie from '../components/Lottie.vue';
 export default {
   components: {
     Lottie
