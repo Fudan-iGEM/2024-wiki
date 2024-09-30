@@ -594,7 +594,7 @@ function universalGetById(x, id)
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Qualitative Experience</td><td style="width:150px;">None</td><td></td></tr></tbody></table></div></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
-<tbody><tr><td style="width:200px;font-weight:bold ! important">Group Favorite</td><td style="width:150px;">No</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
+<tbody><tr><td style="width:200px;font-weight:bold ! important">Group Favorite</td><td style="width:150px;">Yes</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
 <table_break>
 </table_break><table id="table_header" width="915" border="0" cellspacing="0" cellpadding="0" style="position:relative;margin-left: 10px;border: 1px solid gray;background-color: #ccccff; padding-left: 10px;padding-right:2px;padding-top:3px;line-height: 150%; ">
 <tbody><tr><td style="width:200px;font-weight:bold ! important">Star Rating</td><td style="width:150px;">None</td><td colspan="9"></td></tr></tbody></table><div style="height: 3px"></div>
