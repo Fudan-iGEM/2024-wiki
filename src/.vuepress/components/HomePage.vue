@@ -1097,7 +1097,6 @@ footer{
   .logos {
     margin-bottom: 2rem;
   }
-  
   .logo-row {
     display: flex;
     justify-content: space-around;
@@ -1220,7 +1219,6 @@ html[data-theme="dark"] .custom-link {
       transform: rotate(360deg);
     }
   } */
-  
   .home-logo {
     animation: rotateLogo 0.27s steps(8) infinite;
   }
