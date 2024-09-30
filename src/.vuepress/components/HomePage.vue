@@ -351,11 +351,10 @@
     <section class="page-6" id="lls-love">
       <div class="background-container">
         <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/background.svg"
+            src="https://static.igem.wiki/teams/5115/page6/page6.svg"
             alt="Background"
             class="background-image"
         />
-
       </div>
     </section>
     
@@ -450,7 +449,7 @@
 </template>
 
 <script>
-import PageFooter from '@theme-hope/components/PageFooter';
+/* import PageFooter from '@theme-hope/components/PageFooter'; */
 export default {
   data() {
     return {
