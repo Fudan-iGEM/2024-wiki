@@ -1133,16 +1133,13 @@ footer{
     justify-content: space-around;
     margin-bottom: 1rem;
   }
-  
   .logo {
     max-height: 7rem;
     margin: 0 1rem;
   }
-  
   .footer-contact {
     margin-top: 2rem;
   }
-  
   .social-links {
     margin-top: 2rem;
   }
