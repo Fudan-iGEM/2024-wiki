@@ -32,6 +32,9 @@ export default hopeTheme({
         end: ["Search", "Outlook"],  // ,"Outlook"
       },
   plugins: {
+    components:{
+      components: ["PDF",],
+    },
     mdEnhance: {
       align: true,
       attrs: true,
