@@ -111,21 +111,15 @@
           class="right-cloud"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage-section2/word.svg"
+          src="https://static.igem.wiki/teams/5115/homepage-section2/section2-mine-text-imagine.svg"
           alt="Image World"
           class="track-word"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage-section2/mine-car.svg"
+          src="https://static.igem.wiki/teams/5115/homepage-section2/new-mine-car.svg"
           alt="Mine Car"
           class="tramcar"
         />
-
-        <!-- Text over background image -->
-        <div class="overlay-text">
-          <h1>Mile</h1>
-          <p>Imaging a world</p>
-        </div>
       </div>
     </section>
     <!-- Page 2 -->
@@ -162,16 +156,22 @@
           class="light"
         />
         <img
+          src="https://static.igem.wiki/teams/5115/text/section3-text1-steel.svg"
+          alt="Text2"
+          class="text2"
+        />
+        <img
           src="https://static.igem.wiki/teams/5115/homepage-section3/smoke.svg"
           alt="Smoke"
           class="smoke"
         />
 
         <!-- Text over background image -->
-        <div class="overlay-text">
-          <h1>Page2</h1>
-          <p>Static model will be presented here.</p>
-        </div>
+        <img
+          src="https://static.igem.wiki/teams/5115/text/section3-text2-battery.svg"
+          alt="Text3"
+          class="text3"
+        />
       </div>
     </section>
     <!-- Page 3 -->
@@ -196,6 +196,21 @@
           src="https://static.igem.wiki/teams/5115/homepage-section-water/short-water-tube.svg"
           alt="Tube"
           class="tube"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/text/section4-text1-instead.svg"
+          alt="Text4"
+          class="text4"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/text/section4-text2-killer.svg"
+          alt="Text5"
+          class="text5"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/text/section4-text3-wrong.svg"
+          alt="Text6"
+          class="text6"
         />
         <!-- Tear animation SVG -->
         <svg
@@ -414,6 +429,28 @@ export default {
 
         page1Tl.to('.left-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
         page1Tl.to('.right-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
+
+        gsap.set('.tramcar',{ x: 920.4, y: -153.7 });
+        page1Tl.to(".tramcar", {
+            duration: 3, 
+            motionPath: {
+              path: [
+                { x: 0, y: 0 }           
+              ],
+              align: ".tramcar", 
+              alignOrigin: [0, 0], 
+            },
+            ease: "power2.out",
+            yoyo: true
+        });
+
+        page1Tl.to('.track-word', {
+                maskSize: '100% 100%',
+                WebkitMaskSize: '100% 100%',
+                duration: 1.5,
+                ease: 'none',
+              }, 0);
+
       } else {
         gsap.set('.left-cloud', { clearProps: 'all' });
         gsap.set('.right-cloud', { clearProps: 'all' });
@@ -853,7 +890,17 @@ section {
   height: auto;
   left: 0;
 }
-
+.text2,
+.text3,
+.text4,
+.text5,
+.text6 {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: auto;
+  left: 0;
+}
 
 /* Cloud positions */
 .left-cloud {
@@ -907,6 +954,19 @@ section {
   overflow: visible;
   pointer-events: none;
 }
+/* Text */
+.track-word {
+  opacity: 1; 
+
+  mask-image: linear-gradient(135deg, transparent 0%, rgba(0, 0, 0, 1) 100%);
+  -webkit-mask-image: linear-gradient(135deg, transparent 0%, rgba(0, 0, 0, 1) 100%);
+  mask-size: 0% 0%;
+  -webkit-mask-size: 0% 0%;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+}
+
+
 
 /* Hide the tear on mobile devices */
 @media (max-width: 900px) {

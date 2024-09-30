@@ -376,7 +376,12 @@
 
     <section class="page-10" id="gift">
       <div class="background-container">
-        
+        <svg width="1920" height="953" viewBox="0 0 1920 953" xmlns="http://www.w3.org/2000/svg" class="tunnel-svg">
+            <circle cx="360" cy="476.5" r="20"  fill="blue"/>
+            <circle cx="560" cy="476.5" r="40"  fill="blue"/>
+            <circle cx="860" cy="476.5" r="60"  fill="blue"/>
+            <circle cx="1360" cy="476.5" r="80" fill="blue"/>
+        </svg>
       </div>
     </section>
   </main>
@@ -640,6 +645,22 @@ export default {
     this.initPage4Animations(gsap);
     this.initPage5Animations(gsap);
 
+    /*  */
+    gsap.to(".tunnel-svg", {
+  scrollTrigger: {
+    trigger: ".page-10",
+    start: "top top", // 从页面开始
+    end: "bottom bottom", // 到页面结束
+    scrub: true, // 滚动同步动画
+    pin: true, // 固定这个section，模拟穿越隧道的感觉
+    markers: true, // 调试时使用，发布时可以删除
+  },
+  scaleY: 2, // 拉长至原来的10倍高度
+    /* background: "linear-gradient(to bottom, #ff8c00, #ff4500)", // 渐变色变化 */
+    transformOrigin: "top top", // 保持顶部固定，向下拉长
+    ease: "none" // 平滑过渡
+});
+/*  */
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
       const floatingTl = gsap.timeline({ repeat: -1, yoyo: true });
@@ -726,6 +747,8 @@ export default {
         .fromTo('.carbo4', { y: -30 }, { y: -250, duration: 5 }, 'afterScaling')
         .fromTo('.carbo5', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling')
         .fromTo('.title', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling');
+
+      
     }
   },
   beforeDestroy() {
@@ -968,4 +991,3 @@ section {
   }
 }
 </style>
-现在想在这个代码的基础上，为page-1的tramcar增加以下动画：在该section中所有图片的比例都是1920*953；tramcar首先从X：428.6；Y：253.85（中心点坐标）先平移到，在此左右迅速翻转后，
