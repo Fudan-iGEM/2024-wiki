@@ -20,23 +20,49 @@ Please find more information in our business plan.⬇️
 
 ## Identifying and Understanding Unmet Needs
 
-As global awareness of environmental protection increases, the demand for sustainable resource management and the reduction of industrial pollution is growing. According to estimates by AsianMetal, 4.4 to 4.6 million tons of nickel-containing scrap are collected annually, with a nickel content of nearly 350,000 tons, accounting for about one-fourth of the total nickel demand. The mining and production processes of nickel have caused significant environmental damage, including deforestation, soil erosion, and water pollution. The Earth urgently needs effective methods to mitigate the pollution caused by the nickel mining industry.
+As global awareness of environmental protection increases, the demand for sustainable resource management and the reduction of industrial pollution is growing. According to estimates by AsianMetal, **4.4 to 4.6 million tons of nickel-containing scrap** are collected annually, with a nickel content of nearly **350,000 tons**, accounting for about **1/4** of the total nickel demand. The mining and production processes of nickel have caused significant environmental damage, including deforestation, soil erosion, and water pollution. 
 
-【插入镍年均消耗量的graph】
+The Earth urgently needs effective methods to mitigate the pollution caused by the nickel mining industry.
 
-On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM has pointed out that high-grade nickel ore with a content of over 1.7% can only sustain consumption for 7 to 10 more years. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1-1.webp" style='width:100%'>
+    <div>
+    	<span style="color: gray">Figure 1: Nickel has a significant market demand.</span>
+        <br><br>
+    </div>
+</div>
 
-【插入镍预测耗尽年限的预测graph】
+On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM has pointed out that high-grade nickel ore with a content of over **1.7%** can only sustain consumption for **7 to 10 years**. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
 
-【SWOT分析】
+<div style="text-align: center;" id="fig2">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1-2.webp" style='width:100%'>
+    <div>
+    	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years.</span>
+        <br><br>
+    </div>
+</div>
 
-However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in a new nickel recycling system that meets the pursuit of innovation and efficiency. As a result, we have identified the potential customers for the MINERAL project as industrial manufacturers utilizing nickel, including battery manufacturers, stainless steel producers, industrial wastewater treatment companies, mining companies, and stainless steel manufacturers.
+However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in a new nickel recycling system that meets the pursuit of innovation and efficiency. As a result, we have identified the potential customers for the MINERAL project as industrial manufacturers utilizing nickel, including **battery manufacturers**, **stainless steel producers**, **industrial wastewater treatment companies**, **mining companies**, and **electroplating companies**.
 
-【插入potential customers的示意图】
+<div style="text-align: center;" id="fig3">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig5.webp" style='width:100%'>
+    <div>
+    	<span style="color: gray">Figure 3: Nickel Consumption Structure</span>
+        <br><br>
+    </div>
+</div>
+
+<div style="text-align: center;" id="fig4">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig4.webp" style='width:100%'>
+    <div>
+    	<span style="color: gray">Figure 4: Potential Customers</span>
+        <br><br>
+    </div>
+</div>
 
 ## Competitive Analysis
 
-### 
+###
 
 | Perspectives            | MINERAL | Precipitation with NaOH | Precipitation with Sulphide | Molecular Membrane Filtration | Ion Exchange | Electrochemical Method | Adsorption  with Activated Carbon |
 | ----------------------- | ------- | ----------------------- | --------------------------- | ----------------------------- | ------------ | ---------------------- | --------------------------------- |
@@ -51,11 +77,17 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
 
 ## Our Possible, Scalable and Inventive Solution
 
-In response to the identified unmet needs and based on the MINERAL project, we propose our product—the nickel ion wastewater cleaner—accompanied by our unique monthly subscription service. After purchasing our basic product, customers will receive free equipment installation and technical guidance. By paying a monthly membership fee, they can access our real-time wastewater treatment monitoring system, which provides suggestions for improving product usage strategies and saving costs. Utilizing our technology of introducing genes into *E. coli* to control the absorption and enrichment of nickel ions, we have successfully developed a product that significantly reduces nickel ion concentrations in water, validating the feasibility of our project.
+In response to the identified unmet needs and based on the MINERAL project, we propose our product—**the nickel ion wastewater cleaner**—accompanied by our unique **monthly subscription service**. After purchasing our basic product, customers will receive **free equipment installation and technical guidance**. By paying a monthly membership fee, they can access our **real-time wastewater treatment monitoring system**, which provides optimization for improving product usage strategies and saving costs. Utilizing our technology of introducing genes into *E. coli* to control the absorption and enrichment of nickel ions, we have successfully developed a product that significantly reduces nickel ion concentrations in water, validating the feasibility of our project.
 
-【月计费会员制示意图】
+<div style="text-align: center;" id="fig5">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig6.webp" style='width:100%'>
+    <div>
+    	<span style="color: gray">Figure 5: Business Model of MINERAL</span>
+        <br><br>
+    </div>
+</div>
 
-Our product is a carboxylated solid that encapsulates nickel particles, which is not only technologically advanced but also offers significant commercial advantages. This solid form is easy to monitor and control for quality assurance, ensuring efficiency and consistency in commercial production. The visible nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
+Our product is a carboxylated solid that encapsulates nickel particles, which is not only technologically advanced but also offers significant commercial advantages. This solid form is **easy to monitor and control for quality assurance**, ensuring efficiency and consistency in commercial production. The **visible** nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
 【technologically advanced，easy to monitor，efficiency and consistency，visible effect，easy to scale up五点指向中心一个competitiveness的图片】
 
@@ -87,7 +119,7 @@ To improve nickel recovery efficiency, enhance the cleaner's ability to handle h
 
 **Government Support**: Moreover, our project has received substantial backing from the government, especially since green technologies and sustainable development are highly encouraged under current policies.【link to相关政策整理】 Government support includes financial subsidies, tax incentives, research grants, and other initiatives, all of which will greatly accelerate the growth and market expansion of our project. The strategic use of these key resources lays a solid foundation for the success of our project and paves the way for future development.
 
-### 我们现有的合作企业
+### Our Business Partners
 
 ####U Power
 
@@ -173,13 +205,23 @@ Moreover, existing nickel ion separation methods are relatively crude and inexpe
 
 ## Our Skills, Capabilities and Stakeholders
 
-**Skills:** To ensure the success of the project, we need to master key skills, including **technological innovation** to optimize product performance, **channel development** to expand the market, **marketing** to enhance brand influence, **financial management** to ensure proper use of funds, **factory operations** to guarantee production efficiency, **human resource management** to build an efficient team, **public relations** to maintain the company's image, and **data analysis** to guide strategic decisions. Together, these skills will drive the development of the project and strengthen its market competitiveness.【我感觉是没用的words，可能要修改一下逻辑，与我们成员已有的技能对应？】
+**Skills**: To ensure the success of the project, we need to master key skills, including **technological innovation** to optimize product performance, **channel development** to expand the market, **marketing** to enhance brand influence, **financial management** to ensure proper use of funds, **factory operations** to guarantee production efficiency, **human resource management** to build an efficient team, **public relations** to maintain the company's image, and **data analysis** to guide strategic decisions. Together, these skills will drive the development of the project and strengthen its market competitiveness.
 
-**Capability:** Our team needs excellent **communication and collaboration** skills to ensure smooth information flow and teamwork. **Presentation skills** are crucial for conveying the project's vision and attracting support. Strong **analytical and decision-making abilities** are essential for solving complex problems and seizing opportunities. A **responsible attitude** and **good reputation** are vital for gaining the trust and support of stakeholders and ensuring the project's smooth progression. These core capabilities will collectively drive the success and sustainable development of the project.
+**Capability**: Our team needs excellent **communication and collaboration** skills to ensure smooth information flow and teamwork. **Presentation skills** are crucial for conveying the project's vision and attracting support. Strong **analytical and decision-making abilities** are essential for solving complex problems and seizing opportunities. A **responsible attitude** and **good reputation** are vital for gaining the trust and support of stakeholders and ensuring the project's smooth progression. These core capabilities will collectively drive the success and sustainable development of the project.
 
-**Reliable Team:** Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.【link to members】
+Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
 
-**Stakeholders: **
+<div style="text-align: center;" id="figx">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig3.webp" style='width:100%'>
+    <div>
+    	<span style="color: gray">Figure x: SWOT Analysis</span>
+        <br><br>
+    </div>
+</div>
+
+**Reliable Team**: Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.【link to members】
+
+**Stakeholders **:
 
 | Dimensions             | Gov.                                                | Wastewater Treatment Company                    | Residual                              | Scientist                                                    | Potential Customers                           | Mining Company                            | Sustainable Development Organization |
 | ---------------------- | --------------------------------------------------- | ----------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------- | ------------------------------------ |
@@ -193,7 +235,7 @@ Moreover, existing nickel ion separation methods are relatively crude and inexpe
 
 ## Long-term Impacts
 
-**Positive:**
+**Positive**:
 
 1. Reduce mining activities, benefiting ecological protection and labor health.
 2. Slow down the depletion of nickel reserves, enhancing the sustainability of global resources.
@@ -201,7 +243,7 @@ Moreover, existing nickel ion separation methods are relatively crude and inexpe
 4. Create emerging job opportunities and markets in the bioindustry.
 5. With alternative technologies in place, the government will enforce stricter environmental protection laws and regulations.
 
-**Negative:**
+**Negative**:
 
 1. Introducing engineered microorganisms into environmental water bodies may pose risks of gene escape and contamination, increasing the likelihood of wild bacteria developing resistance to heavy metal ions, making existing water purification methods less effective.
 2. The traditional mining and metallurgy industries may face market contraction and declining employment rates, leading to frictional unemployment.
