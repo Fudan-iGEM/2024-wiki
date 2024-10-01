@@ -203,12 +203,17 @@
           class="text4"
         />
         <img
+          src="https://static.igem.wiki/teams/5115/homepage7/section4-text4-jungles.svg"
+          alt="Text4-5"
+          class="text4-5"
+        />
+        <img
           src="https://static.igem.wiki/teams/5115/text/section4-text2-killer.svg"
           alt="Text5"
           class="text5"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/text/section4-text3-wrong.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/new-section4-text3-wrong.svg"
           alt="Text6"
           class="text6"
         />
@@ -351,7 +356,7 @@
     <section class="page-6" id="lls-love">
       <div class="background-container">
         <img 
-            src="https://static.igem.wiki/teams/5115/page6/page6.svg"
+            src="https://static.igem.wiki/teams/5115/homepage7/page6.png"
             alt="Background"
             class="background-image"
         />
@@ -361,7 +366,7 @@
     <section class="page-7" id="ecoli">
       <div class="background-container">
         <img
-          src="https://static.igem.wiki/teams/5115/homepage7/page7-background-new.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
           alt="Background7"
           class="background-image"
         />
@@ -392,7 +397,7 @@
     <section class="page-8" id="carbo-cl">
       <div class="background-container">
         <img
-          src="https://static.igem.wiki/teams/5115/homepage8/page8-background-new.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
           alt="Background New"
           class="background-image"
         />
@@ -422,7 +427,7 @@
           class="nickel2"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel3.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page8-nickel3.svg"
           alt="Nickel 3"
           class="nickel3"
         />
@@ -432,7 +437,7 @@
           class="nickel4"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel5.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page8-nickel5.svg"
           alt="Nickel 5"
           class="nickel5"
         />
@@ -446,7 +451,7 @@
     <section class="page-9" id="time-cannel">
       <div class="background-container">
         <img
-          src="https://static.igem.wiki/teams/5115/homepage9/page9-background-new.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
           alt="Background New"
           class="background-image"
         />
@@ -483,8 +488,32 @@
 
       </div>
     </section>
+    <section class="page-10" id="time tunnel">
+      <div class="background-container">
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/new1-page10-background.png"
+          alt="background10"
+          class="background-image"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-cube.svg"
+          alt="Cube"
+          class="cube"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/page10-word1.svg"
+          alt="Word10"
+          class="word10"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/page10-word2.svg"
+          alt="word11"
+          class="word11"
+        />
 
-    <section class="page-10" id="gift">
+      </div>
+    </section>
+    <section class="page-11" id="gift">
       <div class="background-container">
         <lottie :options="earthOptions"></lottie>
       </div>
@@ -559,6 +588,7 @@ export default {
           },
       plasmidLeftPercent: { x: 15.52, y: 68.47 },
       plasmidRightPercent: { x: 84.77, y: 68.47 },
+      carboPercent: {x: 7.8, y: 22.8 },
     };
   },
   methods: {
@@ -571,7 +601,7 @@ export default {
     },
     
     initPage1Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page1Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-1',
@@ -613,7 +643,7 @@ export default {
       }
     },
     initPage2Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page2Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-2',
@@ -641,7 +671,7 @@ export default {
       }
     },
     initPage3Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page3Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-3',
@@ -672,7 +702,7 @@ export default {
       }
     },
     initPage4Animations(gsap) {
-    if (window.innerWidth >= 900) {
+    if (window.innerWidth >= 500) {
       // Set initial positions for fly-in elements
       gsap.set(['.color-pie-1', '.noncolor-pie-1'], { xPercent: -100, yPercent: -100 });
       gsap.set(['.color-pie-2', '.noncolor-pie-2'], { xPercent: -100, yPercent: 100 });
@@ -756,7 +786,7 @@ export default {
     }
     },
     initPage5Animations(gsap) {
-    if (window.innerWidth >= 900) {
+    if (window.innerWidth >= 500) {
 
 /*       const page5Tl = gsap.timeline({
         scrollTrigger: {
@@ -831,22 +861,23 @@ export default {
         },
       });
     },
-    initPage8Animations(gsap) {
-      if (window.innerWidth >= 900) { 
+    initPage7Animations(gsap) {
+      if (window.innerWidth >= 500) { 
         const nickels = [
-          { class: '.nickel1', duration: 10, delay: 0 },
-          { class: '.nickel2', duration: 12, delay: 2 },
+          { class: '.nickel1', duration: 10, delay: 2 },
+          { class: '.nickel2', duration: 20, delay: 0 },
           { class: '.nickel3', duration: 14, delay: 4 },
-          { class: '.nickel4', duration: 16, delay: 6 },
-          { class: '.nickel5', duration: 18, delay: 8 },
+          { class: '.nickel4', duration: 18, delay: 6 },
+          { class: '.nickel5', duration: 10, delay: 8 },
+          { class: '.nickel-son', duration: 12, delay: 7 },
         ];
 
         nickels.forEach(nickel => {
           gsap.fromTo(
             nickel.class,
-            { x: 300, opacity: 1 }, 
+            { x: '8.25%', opacity: 1 }, 
             { 
-              x: -1583.8, 
+              x: '-82.9%', 
               opacity: 0, 
               duration: nickel.duration, 
               delay: nickel.delay, 
@@ -854,7 +885,7 @@ export default {
               repeat: -1, 
               modifiers: {
 
-                x: gsap.utils.unitize(x => parseFloat(x) <= -1583.8 ? 300 : x)
+                x: gsap.utils.unitize(x => parseFloat(x) <= '-82.9%' ? '8.25%' : x)
               },
               onRepeat: function() {
 
@@ -865,7 +896,122 @@ export default {
         });
       } else {
 
-        gsap.set(['.nickel1', '.nickel2', '.nickel3', '.nickel4', '.nickel5'], { clearProps: 'all' });
+        gsap.set(['.nickel1', '.nickel2', '.nickel3', '.nickel4', '.nickel5','.nickel-son'], { clearProps: 'all' });
+      }
+    },
+    initPage8Animations(gsap) {
+      if (window.innerWidth >= 500) { 
+        gsap.set('.bacteria1', { y: '0', opacity: 0});
+        gsap.set('.bacteria2', { y: '-32.06%', opacity: 0});
+        gsap.set('.bacteria3', { y: '-32.06%', opacity: 0});
+        const page8Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-8',
+            start: 'top 90%', 
+            end: 'bottom bottom',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+        page8Tl.to('.bacteria1', {
+          opacity: 1,
+          duration: 2,
+          ease: 'power1.out',
+        }, 0); 
+
+        page8Tl.to('.bacteria2', {
+          y: '0', 
+          opacity: 1,
+          duration: 2,
+          ease: 'power1.out',
+        }, 0.3); 
+
+        page8Tl.to('.bacteria3', {
+          y: '0',
+          opacity: 1,
+          duration: 2,
+          ease: 'power1.out',
+        }, 0.6); 
+      } else {
+        gsap.set(['.bacteria1', '.bacteria2', '.bacteria3'], { clearProps: 'all' });
+      }
+    },
+    initPageBAnimations(gsap) {
+      if (window.innerWidth >= 500) { 
+        gsap.set('.bacteria', { y: '0', opacity: 0});
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { y: '0', opacity: 0});
+        const pageBTl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 90%', 
+            end: 'top 50%',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+        pageBTl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3','.bacteria'], {
+          opacity: 1,
+          duration: 1,
+          ease: 'power1.out',
+        }, 0); 
+      } else {
+        gsap.set(['.bacteria'], { clearProps: 'all' });
+      }
+    },
+    initPage9Animations(gsap) {
+      if (window.innerWidth >= 500) { 
+        const page9Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 60%', 
+            end: 'top 30%',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          left: '7.8%',
+          top: '22.8%',
+          scale: 0.186,
+          transform: 'translate(-50%, -50%)', 
+        });
+
+        page9Tl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          left: '50%',
+          top: '50%',
+          scale: 1,
+          ease: 'power1.out',
+          duration: 1, 
+        });
+        page9Tl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          rotation: 5, 
+          yoyo: true,
+          repeat: 5, 
+          ease: 'power1.inOut',
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 20%',
+            end: 'top top',
+            scrub: true,
+          },
+          duration: 0.1, 
+        }, '+=0.2');
+        page9Tl.to('.carbo9-2', {
+          y: '10%',
+          yoyo: true,
+          ease: 'power1.inOut',
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top top',
+            end: '40% top',
+            scrub: true,
+          },
+          duration: 0.1, 
+        }, '+=0.2');
+
+      } else {
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
       }
     },
   },
@@ -894,7 +1040,10 @@ export default {
     this.initPage5Animations(gsap);
     this.setPlasmidPositions(gsap);
     this.initPlasmidRotation(gsap);
+    this.initPage7Animations(gsap);
     this.initPage8Animations(gsap);
+    this.initPageBAnimations(gsap);
+    this.initPage9Animations(gsap);
 
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
@@ -1117,7 +1266,8 @@ section {
 .carbo9-1,
 .carbo9-2,
 .carbo9-3,
-.nickel-son {
+.nickel-son,
+.cube {
   position: absolute;
   top: 0;
   width: 100%;
@@ -1127,12 +1277,15 @@ section {
 .text2,
 .text3,
 .text4,
+.text4-5,
 .text5,
 .text6,
 .word1,
 .word2,
 .word8,
-.word9 {
+.word9,
+.word11,
+.word10 {
   position: absolute;
   top: 0;
   width: 100%;
@@ -1244,9 +1397,9 @@ section {
 
 /* Hide the tear on mobile devices */
 @media (max-width: 900px) {
-  .tear-svg {
+/*   .tear-svg {
     display: none;
-  }
+  } */
 }
 
 /* Mobile devices */
