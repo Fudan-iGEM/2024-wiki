@@ -15,7 +15,7 @@ I’m a bit torn about whether to refer to them as a "group," "population," "pat
 ## 1 We shall eliminate barriers between ASD and science
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/1neurons.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/1neurons.jpg" style="width:100%">
     <br>
     <div>
     	<p><small style="color: gray">Neurons networks built by an iGEMer and an angle with twisted bars.</small></p>
@@ -56,7 +56,7 @@ Through exhibitions, interviews, teaching observations, and *surveys (still ongo
 We invited two associate professors from Fudan University’s **School of Social Development and Public Policy** for in-person discussions. Both are dedicated to public welfare projects. **[Associate Professor Fu Fang]** has overseen several projects focusing on children with autism, while Associate Professor **Yu Zhiyuan** specializes in charitable work and social organizations. They highly praised the initial concept of STEAMed: **“Your team is dynamic, interdisciplinary, creative, and action-oriented. We believe you will inject fresh energy into the field of autism public welfare!”** (This quote is fabricated; perhaps we could rephrase it.)
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/5interview-fufang.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/5interview-fufang.jpg" style="width:100%">
     <br>
     <div>
     	<p><small style="color: gray">We were communicating with associate professor Fu Fang.</small></p>
@@ -69,7 +69,7 @@ We invited two associate professors from Fudan University’s **School of Social
 
 *(What would be the best way to present this paragraph?)* We served as volunteer guides and visited the **“Colorful Starry Sky” Human Body and Art Themed Art Exhibition**, co-hosted by the Fudan University Human Body Science Museum and the Angel's Companion Salon. The artwork was created by the Star Children after their visit to the human body science exhibit. The **bold use of color, innovative composition, and unique perspectives** in the pieces had a tremendous impact on us, allowing us to vividly perceive the potential and talent of the Star Children in **medical science awareness and artistic creation**. After the exhibition, we separately visited the director of the Human Body Science Museum and the educational head of the Angel's Companion Salon. Encouragingly, they expressed strong support for the “STEAMed” concept and look forward to further collaboration in the future.
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/2colorful-starry-sky-art-theme-exhibition.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We visited the exhibition as volunteers.</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/2colorful-starry-sky-art-theme-exhibition.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">We visited the exhibition as volunteers.</small></p>    </div></div>
 
 We also communicated with rehabilitation institutions and special education schools. The **Beijing Rainbow Village International Health and Wellness Base** has primarily focused on ASD children aged 2 to 7, but has recently begun to expand its efforts to older and elderly individuals. In an interview, its senior business director, **Wang Yishuang**, mentioned that “people with physical disabilities often receive more sympathy and assistance, while **those with intellectual disabilities are more likely to be excluded**.” Our efforts may help **“open a window”** for them to realize their scientific potential.
 
@@ -77,7 +77,7 @@ We also communicated with rehabilitation institutions and special education scho
 
 We contacted **several autism-related educational institutions in Shanghai** and **interned there as volunteers**. Before and after the internship, we further explored the needs and characteristics of the institutions and their students through both online and offline interviews. These institutions expressed that, due to limitations in faculty and other resources, they are **unable to effectively implement popular science courses** (this may overlap with the barriers mentioned in the first section) and are very much looking forward to establishing long-term cooperation with us. The internship also deepened our understanding of the arts, such as how the Angel's Companion Salon focuses on enlightening the minds of the children through **musical immersion**. Additionally, we discovered that various institutions provide rich **physical activities** for the ASD community, which inspired us to design course themes that incorporate relevant physical activity elements.
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/caihongyuxiaohuoche.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We were taking a small train with ASD children.</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/caihongyuxiaohuoche.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">We were taking a small train with ASD children.</small></p>    </div></div>
 
 【Photos: A collage of offline activities at Rainbow Village, online activities at Zhan Yi, and the online activities at Tan Lan, along with pictures of the Rainbow Rain Little Train (physical activities).】
 
@@ -163,7 +163,7 @@ Last year, we achieved great results in the "Gene" series picture book teaching,
 Before the first course began, we had online discussions and exchanges with the teachers from Zhan Lan Public Welfare. During the discussions, we explained our course design approach and received feedback from the front-line teachers:
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/online-meeting-with-zhanlan.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/online-meeting-with-zhanlan.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.1.2 Online Meeting with Zhanlan</span>
       <br><br>
@@ -182,7 +182,7 @@ After communicating with Zhan Lan Public Welfare, we confirmed the design logic 
 **1. Scientific Knowledge:** In this course, we used a picture book teaching model. Based on our colorful picture books from last year, we made thorough simplifications and necessary additions to the content for the ASD population. The picture book: [Picture Book A](https://static.igem.wiki/teams/5115/inclusivity/picture-book-a-course-1.pdf)
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-1.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-1.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.1.3.1 Course 1 Zhanlan 1</span>
       <br><br>
@@ -193,7 +193,7 @@ After communicating with Zhan Lan Public Welfare, we confirmed the design logic 
 **2. Artistic Ability:** In the picture book, we designed a drawing activity that uses the differences in "pea colors" to illustrate the relationship between traits and genes. At the same time, we guided ASD children to create "self-portraits" (ART), enhancing their sense of self-identity and allowing them to be "uniquely themselves."
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-3.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-3.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.1.3.1 Course 1 Zhanlan 2</span>
       <br><br>
@@ -204,7 +204,7 @@ After communicating with Zhan Lan Public Welfare, we confirmed the design logic 
 **3. Engineering Understanding and Practical Ability:** We also designed a "Base Pairing" game to develop their physical coordination while deepening their understanding of scientific concepts during the activity.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-2.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-2.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.1.3.1 Course 1 Zhanlan 3</span>
       <br><br>
@@ -227,7 +227,7 @@ In their responses to these questionnaires, the students demonstrated a solid un
 We had a discussion with Professor Fang Fu from Fudan University, and she concluded that the outcomes of this session were excellent. She believes that STEAMed can continue to move forward.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-interview-volunteer.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-interview-volunteer.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.1.5 Interview Volunteers</span>
       <br><br>
@@ -271,7 +271,7 @@ Inspired by our first course, we also fully adapted our previous picture book to
 **2. Engineering Skills:** Using the DNA double helix structure as a backdrop, we guided the students in creating a DNA spiral structure through origami. This hands-on activity helped them understand the scientific knowledge of DNA.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-dna.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-dna.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.3.1 Course 2-1</span>
       <br><br>
@@ -282,7 +282,7 @@ Inspired by our first course, we also fully adapted our previous picture book to
 **3. Technological Perspective:** We guided the students in learning about gene editing techniques through an experiential approach using scissors and paper.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-engineer.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-engineer.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.3.2 Course 2-2</span>
       <br><br>
@@ -293,7 +293,7 @@ Inspired by our first course, we also fully adapted our previous picture book to
 **4. Practical Skills:** We designed a "Gene Editing" game to enhance their physical coordination during the activity and deepen their understanding of scientific concepts.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-game.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-game.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.3.3 Course 2-3</span>
       <br><br>
@@ -341,7 +341,7 @@ The artwork of the star children has also inspired us to explore their interest 
 
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-teach.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-teach.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.4.2.1 Course 3-1</span>
       <br><br>
@@ -352,7 +352,7 @@ The artwork of the star children has also inspired us to explore their interest 
 **2. Engineering Skills:** Under our guidance, the students constructed a "simulated neuron."
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-engineer.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-engineer.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.4.2.2 Course 3-2</span>
       <br><br>
@@ -363,7 +363,7 @@ The artwork of the star children has also inspired us to explore their interest 
 **3. Scientific Perception:** Under our guidance, the students completed experimental activities such as the "color blind spot," "color perception experiment," and "reaction speed test."
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-experience.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-experience.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.4.2.3 Course 4-3</span>
       <br><br>
@@ -374,7 +374,7 @@ The artwork of the star children has also inspired us to explore their interest 
 **4. Practical Skills:** Experience the generation of vision and reaction abilities through games like "Catch the Shadow" and "Handkerchief Toss."
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-game.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-game.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.4.2.4 Course 3-4</span>
       <br><br>
@@ -416,7 +416,7 @@ The teachers at Rainbow Village mentioned that the students have a fondness for 
 **1. Scientific Knowledge:** We used a teaching-guided approach to educate the students about the classification and growth of teeth.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-teach.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-teach.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.5.2.1 Course 4-1</span>
       <br><br>
@@ -427,7 +427,7 @@ The teachers at Rainbow Village mentioned that the students have a fondness for 
 **2. Engineering Skills:** We guided the students in making handmade toothpaste using chemical principles.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-engineer.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-engineer.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.5.2.2 Course 4-2</span>
       <br><br>
@@ -438,7 +438,7 @@ The teachers at Rainbow Village mentioned that the students have a fondness for 
 **3. Artistic Skills:** The students painted the positions and shapes of teeth.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-art.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-art.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.5.2.3 Course 4-3</span>
       <br><br>
@@ -472,7 +472,7 @@ During the course, we discovered that in the age of artificial intelligence, stu
 **1. Technological Perspective:** We provided students with a science popularization lesson on the development of information technology. Our slides can be found in the attachment: [course-5-ppt.pdf](https://static.igem.wiki/teams/5115/inclusivity/course-5-ppt.pdf)
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-teach.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-teach.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.6.2.1 Course 5-1</span>
       <br><br>
@@ -483,7 +483,7 @@ During the course, we discovered that in the age of artificial intelligence, stu
 **2. Experiential Teaching Game:** We designed an experiential teaching game, and the link to the game is: [Smart Planet](https://chc1234567890.github.io/SynbioUniverse).
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-game.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-game.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.6.2.2 Course 5-2</span>
       <br><br>
@@ -494,7 +494,7 @@ During the course, we discovered that in the age of artificial intelligence, stu
 **3. Artistic Ability:** The students illustrated their conceptualization of artificial intelligence.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-art.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-art.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.6.2.3 Course 5-3</span>
       <br><br>
@@ -526,7 +526,7 @@ The students demonstrated a thorough understanding of artificial intelligence in
 In our conversation with Professor Fu Fang, we noted the impact of different levels of functionality in autism on teaching. In response to the diverse needs of the ASD population, we decided to adopt a **differentiated teaching** approach.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/discuss-with-mrs-cui.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/discuss-with-mrs-cui.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.7.1 Discuss with Mrs. Cui</span>
       <br><br>
@@ -580,7 +580,7 @@ We also submitted an article to China's mainstream media outlet [“The Paper”
 
 April 2, 2024, marks the 17th **“World Autism Awareness Day”**. Taking this opportunity, we held three **charity sales** events on various campuses of Fudan University. In addition to the usual cultural and creative products and artworks from the ASD community, we designed a set of postcards based on our picture book [PDF attached]. We shared this year's inclusivity project with people inside and outside the university, using the postcards to collect public messages in hopes of inspiring scientific interest in the ASD community. After the charity sale, we donated the proceeds along with the postcards to [Rainbow Rain].
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/handanyimai.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We were holding a charity sale.</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/handanyimai.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">We were holding a charity sale.</small></p>    </div></div>
 
 <div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/fenglinmingxinpian.jpg" style='width:50%'>    <br>    <div>        <p><small style="color: gray">The postcard carried the public's good wishes for the ASD community.</small></p>    </div></div>
 
@@ -588,13 +588,13 @@ April 2, 2024, marks the 17th **“World Autism Awareness Day”**. Taking this 
 
 We recruited volunteers for STEAMed education targeting the ASD community through [online posts](https://mp.weixin.qq.com/s/R--7Ph2Z23VN8PBek537Og) and offline booths. Additionally, we provided a volunteer registration channel for the general public through WeChat groups. Through hands-on practice, volunteers were able to gain a deeper understanding of the significance of popular science education for the ASD community.
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/zhiyuanzhezhaoxin.png" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We are recruiting teaching volunteers.</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/zhiyuanzhezhaoxin.png" style="width:100%">    <br>    <div>        <p><small style="color: gray">We are recruiting teaching volunteers.</small></p>    </div></div>
 
 ### 6.2 Engaging with the Public Welfare Sector (consider moving to 8.2)
 
 We were invited to participate in the **[Expedition Forum](https://mp.weixin.qq.com/s/rz5_monngU4MajMzbODBXg)** and the **Fudan Public Welfare Exchange Gathering**. At the Expedition Forum, there were four guests from large public welfare institutions and foundations, as well as public welfare organizations from 18 universities across six provinces. The Fudan Public Welfare Exchange Gathering included six guest professors, 18 alumni guests, and seven student organization leaders. During the open discussion, members of public welfare organizations expressed their willingness to collaborate with us, and the guests indicated that they would help connect us with more public welfare resources in the future to jointly promote this meaningful project.
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/yuanzhenghegongyiren.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We were invited to participate in the Expedition Forum and Fudan Charity Exchange Gathering.</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/yuanzhenghegongyiren.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">We were invited to participate in the Expedition Forum and Fudan Charity Exchange Gathering.</small></p>    </div></div>
 
 ## 7 our sustainable mechanism
 

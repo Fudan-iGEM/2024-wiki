@@ -25,7 +25,7 @@ As global awareness of environmental protection increases, the demand for sustai
 The Earth urgently needs effective methods to mitigate the pollution caused by the nickel mining industry.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1-1.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1-1.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 1: Nickel has a significant market demand.</span>
         <br><br>
@@ -35,7 +35,7 @@ The Earth urgently needs effective methods to mitigate the pollution caused by t
 On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM has pointed out that high-grade nickel ore with a content of over **1.7%** can only sustain consumption for **7 to 10 years**. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1-2.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1-2.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years.</span>
         <br><br>
@@ -45,7 +45,7 @@ On the other hand, current global nickel reserves are struggling to meet the gro
 However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in a new nickel recycling system that meets the pursuit of innovation and efficiency. As a result, we have identified the potential customers for the MINERAL project as industrial manufacturers utilizing nickel, including **battery manufacturers**, **stainless steel producers**, **industrial wastewater treatment companies**, **mining companies**, and **electroplating companies**.
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig5.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig5.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 3: Nickel Consumption Structure</span>
         <br><br>
@@ -53,7 +53,7 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
 </div>
 
 <div style="text-align: center;" id="fig4">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig4.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig4.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 4: Potential Customers</span>
         <br><br>
@@ -80,7 +80,7 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
 In response to the identified unmet needs and based on the MINERAL project, we propose our product—**the nickel ion wastewater cleaner**—accompanied by our unique **monthly subscription service**. After purchasing our basic product, customers will receive **free equipment installation and technical guidance**. By paying a monthly membership fee, they can access our **real-time wastewater treatment monitoring system**, which provides optimization for improving product usage strategies and saving costs. Utilizing our technology of introducing genes into *E. coli* to control the absorption and enrichment of nickel ions, we have successfully developed a product that significantly reduces nickel ion concentrations in water, validating the feasibility of our project.
 
 <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig6.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig6.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 5: Business Model of MINERAL</span>
         <br><br>
@@ -212,7 +212,7 @@ Moreover, existing nickel ion separation methods are relatively crude and inexpe
 Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
 
 <div style="text-align: center;" id="figx">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig3.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig3.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure x: SWOT Analysis</span>
         <br><br>

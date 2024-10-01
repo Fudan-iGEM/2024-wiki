@@ -1,5 +1,5 @@
 ---
-title: Integrated HP
+title: Integrated Human Practices
 headergif: https://static.igem.wiki/teams/5115/header/ihp-header.gif
 
 author:
@@ -74,7 +74,7 @@ Therefore, with questions and aspirations about nickel recovery, we visited Mr. 
 <h3 style="font-size: 26px;">3.1 Discussing with Mr. Xiong</h3>
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/4-26-with-mr-xiong.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/4-26-with-mr-xiong.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 3.1 Discussing with Mr. Xiong</span>
       <br><br>
@@ -108,7 +108,7 @@ Following his advice, we explored additional sources of nickel pollution, leadin
 ### 3.2 Meeting with BIT-China, ShanghaiTech-China, and Tongji-China
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/5-4-meeting-shanghai-igemers.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/5-4-meeting-shanghai-igemers.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 3.2 Shanghai iGEMers Share Meeting at Fudan</span>
       <br><br>
@@ -167,7 +167,7 @@ Since we still needed to find answers within the electric vehicle battery recycl
 ### 3.4 Meeting with U Power
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-9-meeting-upower.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-9-meeting-upower.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 3.4 Meeting with U Power</span>
       <br><br>
@@ -193,7 +193,7 @@ With this question in mind, and inspired by Mr. Xiong and the investment experts
 ### 3.5 Visit GEM victory
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 3.5.1 Visit GEM Victory</span>
       <br><br>
@@ -213,7 +213,7 @@ We presented the partially validated "MEME" project to Greenme’s engineering e
 The experts pointed out that nickel recovery is a small part of electric vehicle battery recycling and encouraged us to focus on addressing broader nickel wastewater pollution issues.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-2.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-2.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 3.5.2 Visit GEM Victory 2</span>
       <br><br>
@@ -228,7 +228,7 @@ Greenme's experts provided several technical expectations for our project:
 3. **Nickel nanoparticle production**: The engineers are highly interested in the production of nickel nanoparticles, which could revolutionize the inefficient process of nickel extraction from laterite ores and enable a closed-loop industry.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-3.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-3.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 3.5.3 Visit GEM Victory 3</span>
       <br><br>
@@ -244,7 +244,7 @@ To gain a comprehensive understanding of these industrial nickel wastewater issu
 ### 3.6 Visit CPS Victory
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-27-online-cps.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-27-online-cps.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 3.6.1 Online Meeting with CPS</span>
       <br><br>
@@ -264,7 +264,7 @@ Following the advice of their technical experts, we optimized our technical appr
 Subsequently, on September 10, we visited Suzhou, China, and had an in-depth exchange with IES Environmental Protection Technology. We also toured their workshop and factory facilities.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-1.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-1.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 3.6.2 Visit CPS Victory</span>
       <br><br>
@@ -341,7 +341,7 @@ Will be updated in the next version.
 ### 4.3 The 10th CCiC
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-11-ccic-txj.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-11-ccic-txj.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 4.3.1 The 11th CCiC</span>
       <br><br>
@@ -389,7 +389,7 @@ Will be updated in the next version.
 
 
 
-###  4.5 Discuss with Prof. Ma
+### 4.5 Discuss with Prof. Ma
 
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-30-discuss-majinbiao.jpg" style='width:40%'>
@@ -485,7 +485,7 @@ However, these methods are not enough. To find the testing methods we are lookin
 ### 5.1 Discuss with Professor Zhu Xiuping
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-16-discuss-zhuxiuping.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-16-discuss-zhuxiuping.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 5.1 Discuss with Prof. Zhu</span>
       <br><br>
@@ -512,7 +512,7 @@ After our discussion with professor Zhu, we also visit prof Feng from the Depart
 ### 5.2 Discuss with Professor Feng Wei
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-2-discuss-prof-feng.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-2-discuss-prof-feng.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 5.2 Discuss with Prof. Feng</span>
       <br><br>
@@ -547,7 +547,7 @@ Through further literature research and discussions with Professor Feng Wei, we 
 ## 5.3 Visit to the Laboratory of CNERC-CTHMP.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-linzhang-lab.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-linzhang-lab.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 5.3.2 The Lab of CNERC-CTHMP</span>
       <br><br>
@@ -586,7 +586,7 @@ In the initial conception of Mineral, we designed a membrane-based hardware syst
 ### 6.1 Discussed with Professor Cai
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware1.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware1.png" style="width:100%">
     <div>
           <span style="color: gray">Figure 6.1 model of Agarose–carbon nanotube (aCNT) composite fiber</span>
       <br><br>
@@ -608,7 +608,7 @@ We explained our membrane-based hardware concept to Professor Cai, who pointed o
 ### 6.2 Discussed with Professor Lin Zhang: MINERAL hardware for natural water bodies.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-linzhang.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-linzhang.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 6.2.1: Prof. Lin and Us</span>
       <br><br>
@@ -626,7 +626,7 @@ We explained our membrane-based hardware concept to Professor Cai, who pointed o
 On August 16, Professor Lin Zhang from Central South University emphasized the importance of considering the specificity and key issues of different application environments. He pointed out that our bacterial density is extremely low compared to large natural water bodies. Two problems need to be addressed: 1. Increase the contact area between MINERAL and the ions in the water; 2. Enhance the flux of water passing through MINERAL per unit time.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-prof-lin.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-prof-lin.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 6.2.2 Discuss with Prof. Lin</span>
       <br><br>
@@ -650,7 +650,7 @@ After further research and discussions, we created hardware designs for natural 
 </div>
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-2.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-2.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 6.3.1 Visit CPS Victory 2</span>
       <br><br>
@@ -663,7 +663,7 @@ Inspired by Professor Lin Zhang, we aimed to enhance the hardware design for tre
 On September 10, during our visit to the Suzhou Yisibei pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing MINERAL hardware suitable for industrial environments. 
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-victory-4.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-victory-4.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 6.3.2 Visit GEM Victory 4</span>
       <br><br>
@@ -692,7 +692,7 @@ We also considered MINERAL's placement after preliminary alkaline treatment of n
 ### Write to the Shanghai Municipal Ecology and Environment Bureau to seek data and support.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-9-contact-sepb.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-9-contact-sepb.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 7.1 Contacting the Shanghai Environmental Protection Bureau</span>
       <br><br>
@@ -750,7 +750,7 @@ yinmingbo 问一下mrw和sy
 ### 9.2 Discuss with Prof. Don Cleveland
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-27-discuss-don-cleveland.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-27-discuss-don-cleveland.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 9.2: Discuss with Mr. Don Cleveland</span>
       <br><br>
@@ -772,7 +772,7 @@ On July 27, we had dinner with Don Cleveland, the chair of the Department of Cel
 ### 9.3 Discuss with Zhang Chuyue
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-16-discuss-zhangchuyue.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-16-discuss-zhangchuyue.jpg" style="width:100%">
     <div>
           <span style="color: gray">Figure 9.2: Discuss with Chuyue Zhang</span>
       <br><br>

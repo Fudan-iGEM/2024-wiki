@@ -7,13 +7,12 @@ headergif: https://static.igem.wiki/teams/5115/header/description-header.gif
 ---
 
 
-
 ## Another Lesson?
 
 Humans often realize their mistakes only when the damage is irreparable, a lesson echoed throughout history. Our relentless overexploitation of natural resources has left scars on the environment, and the cycle of neglect persists. While metals like copper and aluminum are now commonly recycled, others, such as nickel, still lag far behind, following the very paths we've seen before.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig1.png" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/description/description-fig1.png" style="width:100%">
     <div>
         <span style="color:gray">Figure 1: Overexploitation of natural resources</span>
         <br><br>
@@ -25,14 +24,14 @@ Humans often realize their mistakes only when the damage is irreparable, a lesso
 
 Nickel is an essential metal element that plays a crucial role in modern industries, particularly in the production of electric vehicle batteries and stainless steel, which are foundational to sectors like transportation and construction. In many ways, nickel powers and supports the modern society as we know it. 
 
-However, nickel mining and extraction come at a significant **environmental cost**. The process of extracting nickel from ores typically involves large-scale mining operations, which release toxic by-products, including nickel-laden wastewater. This wastewater, when discharged into rivers, lakes, or oceans, can be **highly toxic** to aquatic ecosystems, disrupting biodiversity and threatening aquatic life[^1]. Yet, because global nickel reserves are currently perceived as abundant, there has been little urgency to prioritize recycling, despite its importance for sustainability and environmental protection.
+However, nickel mining and extraction come at a significant environmental cost. The process of extracting nickel from ores typically involves large-scale mining operations, which release toxic by-products, including nickel-laden wastewater. This wastewater, when discharged into rivers, lakes, or oceans, can be highly toxic to aquatic ecosystems, disrupting biodiversity and threatening aquatic life[^1]. Yet, because global nickel reserves are currently perceived as abundant, there has been little urgency to prioritize recycling, despite its importance for sustainability and environmental protection.
 
-While nickel reserves may seem sufficient today, this apparent abundance has created a **dangerous complacency**. Recycling remains overlooked, accelerating **resource depletion** and intensifying **environmental degradation**. Mining operations continue to devastate ecosystems, causing deforestation, soil erosion, and habitat loss, all while industrial emissions contribute further harm.
+While nickel reserves may seem sufficient today, this apparent abundance has created a dangerous complacency. Recycling remains overlooked, accelerating resource depletion and intensifying environmental degradation. Mining operations continue to devastate ecosystems, causing deforestation, soil erosion, and habitat loss, all while industrial emissions contribute further harm.
 
-Meanwhile, the demand for nickel is growing at an **unsustainable rate**, outpacing production[^2]. This growing imbalance between supply and demand will eventually lead to resource shortages, though this is often ignored due to the immediate availability of nickel. As a result, the need for recycling nickel remains underestimated, despite its critical importance for future generations.
+Meanwhile, the demand for nickel is growing at an unsustainable rate, outpacing production[^2]. This growing imbalance between supply and demand will eventually lead to resource shortages, though this is often ignored due to the immediate availability of nickel. As a result, the need for recycling nickel remains underestimated, despite its critical importance for future generations.
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
     <div>
         <span style="color:gray">Figure 2: Nickel in our modern world</span>
         <br><br>
@@ -40,49 +39,36 @@ Meanwhile, the demand for nickel is growing at an **unsustainable rate**, outpac
 </div>
 
 
+## Current Nickel Recycling Methods
 
+Nickel can be sourced from either mining or recycling. Today, nickel recycling mainly involves recovering it from end-of-life products, such as stainless steel and batteries. Conventional recycling methods typically rely on melting, refining, and purifying scrap metal. While these processes help recover some nickel, they are energy-intensive, costly, and waste generating[^3]. 
 
-## Current Nickel Recycling
-
-Nickel can be sourced from either mining or recycling. Today, nickel recycling mainly involves recovering it from end-of-life products, such as stainless steel and batteries. Conventional recycling methods typically rely on melting, refining, and purifying scrap metal. While these processes help recover some nickel, they are **energy-intensive**, costly, and **waste generating**[^3]. 
-
-Despite the environmental damage caused by mining, it remains the more cost-effective option compared to recycling. As a result, there is little economic incentive to prioritize recycling. Currently, only **1%** of the global nickel supply comes from recycling [^4].
+Despite the environmental damage caused by mining, it remains the more cost-effective option compared to recycling. As a result, there is little economic incentive to prioritize recycling. Currently, only &nbsp;1%&nbsp; of the global nickel supply comes from recycling[^4].
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig3.png" style='width:50%'>
-    <div>
-        <span style="color:gray">Figure 3: Current nickel recycling methods</span>
-        <br><br>
-    </div>
+    <img src="https://static.igem.wiki/teams/5115/description/description-fig3.png" style="width:100%">
 </div>
 
 
-
-
-
-
-
-Unlike traditional recycling methods, biological approaches offer a more **energy-efficient**, **environmentally friendly**, and **element-specific** way for nickel recovery.
-
-
-
+Unlike traditional recycling methods, biological approaches offer a more energy-efficient, environmentally friendly, and element-specific way for nickel recovery.
 
 
 ## Project Overview
 
 Facing with the pressing issues of heavy metal pollution and resource depletion, our projects have focused on using synthetic biology to tackle nickel emissions and recycling.
 
-We have developed a symbiotic system involving *E. coli* and cyanobacteria to **recover nickel ions** from industrial wastewater, reduce them to its neutral state, and transform them into **harmless microparticles**.
+We have developed a symbiotic system involving *E. coli* and cyanobacteria to recover nickel ionsfrom industrial wastewater, reduce them to its neutral state, and transform them into harmless microparticles.
 
 Our project, **Microparticle Integration for Nickel Extraction and Reusable Applications (MINERAL)**, not only addresses current nickel pollution but also aims to meet the increasing demand for sustainable nickel recovery in the near future.
 
 <div style="text-align: center;" id="fig4">
-    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
     <div>
         <span style="color:gray">Figure 4: Overview of MINERAL</span>
         <br><br>
     </div>
 </div>
+
 
 ## Our Problems
 
@@ -90,69 +76,65 @@ Before we can move forward with our project design, several key challenges must 
 
 ### 1. Nickel Levels are Regulated in *E. coli*
 
-The natural nickel transport and regulation mechanisms in *Escherichia coli* limit its ability to take up large amounts of nickel. NikABCDE, the primary active nickel transporter in *E. coli*, facilitates most of the nickel ion influx[^5], while RcnA works in reverse, actively pumping excess nickel out of the cell[^6]. RcnR, a transcription factor, upregulates the expression of RcnA in the presence of nickel[^7]. This balance makes *E. coli* inherently inefficient for bioaccumulating the necessary levels of nickel for our purposes. To overcome this limitation, we must use synthetic biology to engineer *E. coli* to enhance its nickel uptake capacity.
+The natural nickel transport and regulation mechanisms in *Escherichia coli* limit its ability to take up large amounts of nickel. [NikABCDE](https://parts.igem.org/Part:BBa_K5115082), the primary active nickel transporter in *E. coli*, facilitates most of the nickel ion influx[^5], while RcnA works in reverse, actively pumping excess nickel out of the cell[^6]. [RcnR](https://parts.igem.org/Part:BBa_K5115000), a transcription factor, upregulates the expression of RcnA in the presence of nickel[^7]. This balance makes *E. coli* inherently inefficient for bioaccumulating the necessary levels of nickel for our purposes. To overcome this limitation, we must use synthetic biology to engineer *E. coli* to enhance its nickel uptake capacity.
 
- 
 
 ### 2. Multiple Threats to *E. coli* in Industrial Wastewater
 
-Industrial wastewater presents a **toxic environment** for *E. coli* due to the presence of various heavy metals, including nickel. While nickel is our target metal, its increased uptake at higher concentrations can inhibit *E. coli* growth and even cause cell death [^8]. Other toxic metals in the environment can further threaten the survival of our engineered *E. coli*.
+Industrial wastewater presents a **toxic environment** for *E. coli* due to the presence of various heavy metals, including nickel. While nickel is our target metal, its increased uptake at higher concentrations can inhibit *E. coli* growth and even cause cell death[^8]. Other toxic metals in the environment can further threaten the survival of our engineered *E. coli*.
 
-Additionally, **bacteriophages**—natural predators of bacteria—are abundant in wastewater[^9] and can infect and destroy *E. coli* before they can accumulate nickel, further complicating the bioremediation process[^10].
+Additionally, bacteriophages - natural predators of bacteria — are abundant in wastewater[^9] and can infect and destroy *E. coli* before they can accumulate nickel, further complicating the bioremediation process[^10].
 
- 
 
-### 3. High Substrate and Enzyme Concentrations Needed for Nickel Reduction
+### 3. High Enzyme Concentrations Needed for Nickel Reduction
 
-The reduction of nickel requires the enzyme Ni/Fe hydrogenase, which reversibly catalyzes hydrogen oxidation[^11]. For efficient nickel reduction, high cytosolic concentrations of hydrogenase, nickel, and hydrogen are necessary. However, achieving such concentrations within *E. coli* may interfere with its normal biological functions, complicating the production process.
-
+The reduction of nickel requires the enzyme Ni/Fe hydrogenase, which reversibly catalyzes hydrogen oxidation[^11]. For efficient nickel reduction, high cytosolic concentrations of hydrogenase, nickel, and hydrogen are all needed. However, achieving such concentrations within *E. coli* may interfere with its normal biological functions (expression [burden](/fudan/software/#burden-predictor)), complicating the production process.
  
 
 ### 4. Lack of a Stable Hydrogen Source in *E. coli*
 
-To drive nickel reduction, a steady supply of hydrogen gas is essential, as hydrogenase catalyzes the reaction in both directions. However, *E. coli* lacks a stable, continuous source of hydrogen, which limits the efficiency of this process. Addressing this challenge is crucial for our project’s success.
+To drive nickel reduction, a steady supply of hydrogen gas is essential, as hydrogenase catalyzes the reaction in both directions. However, *E. coli* lacks a stable, continuous source of hydrogen, which limits the efficiency of this process. 
 
+Addressing these four challenges is crucial for our project’s success.
 
 
 ## Our Solutions
 
-We present four interrelated systems to target the problems identified in the previous section: **Nickel Enrichment**, **Survival**, **Nickel Microparticle**, and **Hydrogen Supply System**. These systems work together to enable efficient and low-impact nickel absorption, which is then processed into reusable nickel microparticles. 
+We present four interrelated modules to tackle the problems identified in the previous section: Nickel Enrichment, Survival, Nickel Microparticle, and Hydrogen Supply Module. These systems work together to enable efficient and low-impact nickel absorption, then processed into reusable nickel microparticles. 
 
  <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
     <div>
-        <span style="color:gray">Figure 5: Four systems of MINERAL</span>
+        <span style="color:gray">Figure 5: Four modules of MINERAL</span>
         <br><br>
     </div>
 </div>
 
 
-### 1. Nickel Enrichment System
+### 1. Nickel Enrichment Module
 
 **a)**    **Nickel Transport Proteins**
 
-We introduce two sets of  nickel transport proteins to maximize the influx of nickel ions.
+We introduce two sets of nickel transport proteins to maximize the influx of nickel ions.
 
-- **NikABCDE**: This ATP-binding cassette transporter,native to E. coli, transports nickel ions from the periplasm into the cytoplasm[^12]. We utilize the Ribozyme-Assisted Polycistronic expression system (pRAP) system to achieve a balanced expression and therefore proper assembly of this multi-subunit complex[^13].
+- **NikABCDE**: This ATP-binding cassette transporter, native to *E. coli*, transports nickel ions from the periplasm into the cytoplasm[^12]. We utilize the Ribozyme-Assisted Polycistronic expression system (pRAP) from [2022](https://2022.igem.wiki/fudan/parts), to achieve a balanced expression and therefore proper assembly of this multi-subunit complex[^13]. Briefly about pRAP: by inserting [the Twister ribozyme sequences](https://parts.igem.org/Part:BBa_K4765020 ) before each coding sequnece (CDS), the RNA of Twister ribozyme conduct self-cleaving in the mRNA[^23]. To protect the cleaved mono-cistron mRNA from degradation, a stem-loop structure is placed at the 3' end of CDS [^24]. In 2023, we extensively tested various [stem-loops](https://2023.igem.wiki/fudan/part-collection/#ribozyme-assisted-polycistronic-co-expression) using [BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129). For parts we made this year, this strong protective stem-loop sequence was used. As for the ribosome binding sequence (RBS) after the ribozyme and before the CDS, we used [T7 RBS](https://parts.igem.org/Part:BBa_K4162006), from bacteriophage T7 gene 10[^25]. It is an intermediate strength RBS according to [our 2022 results](https://2022.igem.wiki/fudan/measurement#optimization), which allows us to change it to a weaker [J6 RBS](https://parts.igem.org/Part:BBa_J61100) or a stronger [B0 RBS](https://parts.igem.org/Part:BBa_B0030) if needed, enabling flexible protein expression levels between various ribozyme connected parts.
 
-
-- **NixA**: A monomeric protein belonging to the nickel-cobalt transporter (NiCoT) family[^14]. To increase transport efficiency, dimerization can be accomplished with NixA-FKBP fusion proteins and linkers[^15].
-
+- **NixA**: A monomeric protein belonging to the nickel-cobalt transporter (NiCoT) family[^14]. To increase transport efficiency, dimerization can be accomplished with NixA-FKBP fusion proteins and linker compound[^15].
 
 
-**b)**    **Knockout of Nickel Efflux Proteins**
+**b)**    **Prevent Nickel Efflux**
 
-To prevent nickel ions from being pumped out of the cell, we point-mutate **RcnR** so that it remains in a repressing state despite rising concentrations of nickel. As the expression of **RcnA** is repressed, the efflux of nickel ion is lowered, thereby maintaining high cytosolic nickel concentrations.
+To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR at its Cys35 residue so that it remains in a repressing state despite rising concentrations of nickel. As the expression of RcnA is repressed, the efflux of nickel ion is lowered, thereby maintaining high cytosolic nickel concentrations.
 
 <div style="text-align: center;" id="fig6">
-    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
     <div>
         <span style="color:gray">Figure 6: Nickel enrichment system</span>
         <br><br>
     </div>
 </div>
 
-###  2. Survival System
+### 2. Survival module @@@@
 
 **a) Heavy Metal Tolerance**
 
@@ -172,7 +154,7 @@ The initial step of bacteriophage infection is its adsorption to host receptors,
 We overexpress YejM to upregulate the production of LPS, blocking recognition sites on the surface of bacteria, allowing the *E. coli* to possess higher resistance towards bacteriophages in the environment[^20].
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
     <div>
         <span style="color:gray">Figure 7: Survival system</span>
         <br><br>
@@ -193,7 +175,7 @@ We utilize **carboxysomes**, which are bacterial microcompartments (BMCs)[^22], 
 - **Containment**: In the event of accidental leakage, the carboxysome shell ensures that the nickel will do minimal harm to the environment.
 
 <div style="text-align: center;" id="fig8">
-    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
     <div>
         <span style="color:gray">Figure 8: Nickel microparticle system</span>
         <br><br>
@@ -209,7 +191,7 @@ We utilize **carboxysomes**, which are bacterial microcompartments (BMCs)[^22], 
 ​	Hydrogen gas is essential for powering our nickel microparticle production. To ensure a continuous supply of hydrogen, we adopt a [symbiotic system](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system), following the strategy used by iGEM Fudan 2023. In this setup, cyanobacteria act as hydrogen donors, providing a stable source of hydrogen gas to support nickel microparticle generation.
 
 <div style="text-align: center;" id="fig9">
-    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
     <div>
         <span style="color:gray">Figure 9: Hydrogen Supply System</span>
         <br><br>
@@ -252,8 +234,10 @@ Please visit our [implementation](/fudan/implementation/) page for more details 
 [^16]: Benoit, S. L., Miller, E. F., & Maier, R. J. (2013). Helicobacter pylori Stores Nickel To Aid Its Host Colonization. *Infection and Immunity*, *81*(2), 580. [https://doi.org/10.1128/IAI.00858-12](https://doi.org/10.1128/IAI.00858-12)
 [^17]: Ge, R., Watt, R. M., Sun, X., Tanner, J. A., He, Q.-Y., Huang, J.-D., & Sun, H. (2006). Expression and characterization of a histidine-rich protein, Hpn: Potential for Ni2+ storage in Helicobacter pylori. *Biochemical Journal*, *393*(Pt 1), 285–293. [https://doi.org/10.1042/BJ20051160](https://doi.org/10.1042/BJ20051160)
 [^18]: Diep, P., Mahadevan, R., & Yakunin, A. F. (2018). Heavy Metal Removal by Bioaccumulation Using Genetically Engineered Microorganisms. *Frontiers in Bioengineering and Biotechnology*, *6*, 157. [https://doi.org/10.3389/fbioe.2018.00157](https://doi.org/10.3389/fbioe.2018.00157)
-[^19]:Labrie, S. J., Samson, J. E., & Moineau, S. (2010). Bacteriophage resistance mechanisms. *Nature Reviews Microbiology*, *8*(5), 317–327. [https://doi.org/10.1038/nrmicro2315](https://doi.org/10.1038/nrmicro2315)
-[^20]:Shu, S., & Mi, W. (2022). Regulatory mechanisms of lipopolysaccharide synthesis in Escherichia coli. *Nature Communications*, *13*(1), 4576. [https://doi.org/10.1038/s41467-022-32277-1](https://doi.org/10.1038/s41467-022-32277-1)
-[^21]:Miao, C., Jia, P., Luo, C., Pang, J., Xiao, L., Zhang, T., Duan, J., Li, Y., & Sun, Z. (2024). The size-dependent in vivo toxicity of amorphous silica nanoparticles: A systematic review. *Ecotoxicology and Environmental Safety*, *271*, 115910. [https://doi.org/10.1016/j.ecoenv.2023.115910](https://doi.org/10.1016/j.ecoenv.2023.115910)
-[^22]:Li, T., Jiang, Q., Huang, J., Aitchison, C. M., Huang, F., Yang, M., Dykes, G. F., He, H.-L., Wang, Q., Sprick, R. S., Cooper, A. I., & Liu, L.-N. (2020). Reprogramming bacterial protein organelles as a nanoreactor for hydrogen production. *Nature Communications*, *11*(1), 5448. [https://doi.org/10.1038/s41467-020-19280-0](https://doi.org/10.1038/s41467-020-19280-0)
-
+[^19]: Labrie, S. J., Samson, J. E., & Moineau, S. (2010). Bacteriophage resistance mechanisms. *Nature Reviews Microbiology*, *8*(5), 317–327. [https://doi.org/10.1038/nrmicro2315](https://doi.org/10.1038/nrmicro2315)
+[^20]: Shu, S., & Mi, W. (2022). Regulatory mechanisms of lipopolysaccharide synthesis in Escherichia coli. *Nature Communications*, *13*(1), 4576. [https://doi.org/10.1038/s41467-022-32277-1](https://doi.org/10.1038/s41467-022-32277-1)
+[^21]: Miao, C., Jia, P., Luo, C., Pang, J., Xiao, L., Zhang, T., Duan, J., Li, Y., & Sun, Z. (2024). The size-dependent in vivo toxicity of amorphous silica nanoparticles: A systematic review. *Ecotoxicology and Environmental Safety*, *271*, 115910. [https://doi.org/10.1016/j.ecoenv.2023.115910](https://doi.org/10.1016/j.ecoenv.2023.115910)
+[^22]: Li, T., Jiang, Q., Huang, J., Aitchison, C. M., Huang, F., Yang, M., Dykes, G. F., He, H.-L., Wang, Q., Sprick, R. S., Cooper, A. I., & Liu, L.-N. (2020). Reprogramming bacterial protein organelles as a nanoreactor for hydrogen production. *Nature Communications*, *11*(1), 5448. [https://doi.org/10.1038/s41467-020-19280-0](https://doi.org/10.1038/s41467-020-19280-0)
+[^23]: Eiler, D., Wang, J., & Steitz, T. A. (2014). Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme. *Proceedings of the National Academy of Sciences*, *111*(36), 13028–13033. [https://doi.org/10.1073/pnas.1414571111](https://doi.org/10.1073/pnas.1414571111)
+[^24]: Liu, Y., Wu, Z., Wu, D., Gao, N., & Lin, J. (2022). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synthetic Biology*, *12*(1), 136–143. [https://doi.org/10.1021/acssynbio.2c00416](https://doi.org/10.1021/acssynbio.2c00416)
+[^25]: Olins, P. O., Devine, C. S., Rangwala, S. H., Kavka, K. S. (1988) The T7 phage gene 10 leader RNA, a ribosome-binding site that dramatically enhances the expression of foreign genes in *Escherichia coli*. *Gene*, *73*(1), 227-35. [https://doi.org/10.1016/0378-1119(88)90329-0](https://doi.org/10.1016/0378-1119(88)90329-0)
