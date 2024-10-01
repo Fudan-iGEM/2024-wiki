@@ -90,7 +90,7 @@ When cells express heterologous genes, they must utilize their own resources, su
 
 #### Model Construction
 
-The core of Burden Predictor is an improved version of the mechanistic model framework from Weiße et al. and Nikolados et al.[^3][^4] We did not choose genome-scale models or machine learning models because of their computational intensity and time consumption, as well as the scarcity of high-quality data.
+The core of Burden Predictor is an improved version of the mechanistic model framework from Weiße et al.[^3] and Nikolados et al.[^4]. We did not choose genome-scale models or machine learning models because of their computational intensity and time consumption, as well as the scarcity of high-quality data.
 
 As illustrated in [Figure 4](#figure-4), our model incorporates the basic gene expression processes including transcription (TX) and translation (TL). Transcription is simplified into a dumped process, while translation contains two stages - initiation, when the ribosome binds to the ribosome binding site (RBS) of the mRNA; and elongation, when the ribosome moves along the open reading frame and produces polypeptide chain.
 
