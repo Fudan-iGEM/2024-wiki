@@ -496,7 +496,7 @@
           class="background-image"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage10/page10-cube.svg"
+          src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-cube.svg"
           alt="Cube"
           class="cube"
         />
