@@ -170,7 +170,7 @@ Following his advice, we explored additional sources of nickel pollution, leadin
 </div>
 
 
-On May 4th, we hosted a project design exchange (Fudan-BIT-Tongji-ShanghaiTech Meeting) at Fudan University with BIT-China, ShanghaiTech-China, and Tongji-China. To our surprise, BIT-China also focused on battery issues, though they approached electric vehicle battery recycling with entirely different strategies. While their work was not centered on pollution, through in-depth discussions, we gained new insights from an engineering perspective and realized that nickel, though significant in our project, is not the primary industrial concern in battery production and recycling.
+On May 4th, we hosted a project design exchange (Fudan-BIT-Tongji-ShanghaiTech Meeting) at our university with BIT-China, ShanghaiTech-China, and Tongji-China. To our surprise, BIT-China also focused on battery issues, though they approached electric vehicle battery recycling with entirely different strategies. While their work was not centered on pollution, through in-depth discussions, we gained new insights from an engineering perspective and realized that nickel, though significant in our project, is not the primary industrial concern in battery production and recycling.
 
 <br>
 
@@ -418,7 +418,7 @@ Professor Zhao Guoping from the Shanghai Institutes for Biological Sciences, Chi
 <p>  
     <strong><small>📅 Date:</small></strong> <small>Jul. 30th, 2024</small><br>  
     <strong><small>👥 People:</small></strong> <small>Xujie Tan</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Ma Jinbiao, deputy director of the State Key Laboratory of Genetic Engineering at Fudan University, specializes in structural biology research on non-coding RNA and epigenetics.</small>  
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Ma Jinbiao, deputy director of the State Key Laboratory of Genetic Engineering at our university, specializes in structural biology research on non-coding RNA and epigenetics.</small>  
 </p>  
 </div>
 
@@ -475,7 +475,7 @@ For the formation of nickel nanoparticles, we plan to use the magnetic propertie
 
 <br>
 
-However, these methods are not enough. To find the testing methods we are looking for, we visited Professor Zhu Xiuping from the Department of Environmental Science and Engineering at Fudan University on July 16. 
+However, these methods are not enough. To find the testing methods we are looking for, we visited Professor Zhu Xiuping from the Department of Environmental Science and Engineering at our university on July 16. 
 
 ### 5.1 Discuss with Professor Zhu Xiuping
 
@@ -490,7 +490,7 @@ However, these methods are not enough. To find the testing methods we are lookin
 <p>  
     <strong><small>📅 Date:</small></strong> <small>Jul. 16th, 2024</small><br>  
     <strong><small>👥 People:</small></strong> <small>Ziming Suo, Yuanqi Li, Ruiwen Ma</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Xiuping Zhu, who works in the Department of Environmental Science and Engineering at Fudan University, mainly engages in research on electrochemical water treatment and resource energy recycling and utilization.</small>  
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Xiuping Zhu, who works in the Department of Environmental Science and Engineering at our university, mainly engages in research on electrochemical water treatment and resource energy recycling and utilization.</small>  
 </p>  
 </div>
 
@@ -502,7 +502,7 @@ Recognizing our insufficient environmental science-related experimental equipmen
 
 <br>
 
-After our discussion with professor Zhu, we also visit prof Feng from the Department of Chemistry at Fudan University on August 2.
+After our discussion with Professor Zhu, we also visit Professor Feng from the Department of Chemistry at our university on August 2.
 
 ### 5.2 Discuss with Professor Wei Feng
 

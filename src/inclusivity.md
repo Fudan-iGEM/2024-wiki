@@ -694,7 +694,7 @@ Afterward, we conducted online interviews or in-person visits to several autism 
 
 ### 3.1 "Star Wishes Picture Book Library": Genetics and Synthetic Biology
 
-Last year, our team designed two [picture books](https://2023.igem.wiki/fudan/education/#feed-curious-minds) for children, which received sustained positive feedback. In our conversations with the founder of Tongle and children's book editors at Fudan University Press, we learned that adding more storytelling elements can help children, including ASD patients, better understand knowledge. Thus, we decided to launch our first lesson based on these two picture books.
+Last year, our team designed two [picture books](https://2023.igem.wiki/fudan/education/#feed-curious-minds) for children, which received sustained positive feedback. In our conversations with the founder of Tongle and children's book editors at our university Press, we learned that adding more storytelling elements can help children, including ASD patients, better understand knowledge. Thus, we decided to launch our first lesson based on these two picture books.
 
 (*Ziming to supplement with figure and publisher*).
 

@@ -172,7 +172,7 @@ After that, we retrieved the soaked composite fibers and immersed them in clean 
 
 ## Learn
 
-To refine our hardware design, we utilized the working paradigm of [Integrated Human Practices](https://2024.igem.wiki/fudan/human-practices/#cycle-4-hardware). We consulted Dr. Han Hui from IES Environmental Protection Technology (Suzhou) Co., Ltd. Upon understanding our design, Dr. Han immediately recognized and praised the ingenuity of our approach, convinced of its potential for practical application, and offered some suggestions. 
+To refine our hardware design, we utilized the working paradigm of [Integrated Human Practices](/fudan/human-practices/#cycle-4-hardware). We consulted Dr. Han Hui from IES Environmental Protection Technology (Suzhou) Co., Ltd. Upon understanding our design, Dr. Han immediately recognized and praised the ingenuity of our approach, convinced of its potential for practical application, and offered some suggestions. 
 
 She pointed out that in the realm of water treatment engineering, the appropriate consumable replacement cycle is key to industrial application considering the high operational demands of integrated equipment and the cost of consumables. Therefore, our materials need to **maintain robust mechanical properties**. Based on the design of our aCNT composite fiber, Dr. Han suggested that we first **conduct a series of gradient ratio experiments**, measuring and comparing the mechanical strength and bacterial adsorption capabilities of aCNT fibers with different proportions of these two components. By combining the results, we could find an ideal ratio. 
 

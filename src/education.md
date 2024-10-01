@@ -32,7 +32,7 @@ So, our goal is to inspire students across all educational stages in China, plan
 
 <p><small style="color: gray">📅 Date: Nov.11, 2023<br>🗣️ Organizers: Ziming Suo, Kexin Zheng, Xujie Tan, Ruiwen Ma, Hongcheng Chen<br>👥 Audience: Public in Fudan University</small></p>
 
-Our team secured two booths at the [Starry Sky Academic Culture Festival](https://mp.weixin.qq.com/s/d18fl0Bhf2tGK7M7HiVJYw) at Fudan University to showcase synthetic biology and our project. During this event, we enthusiastically introduced synthetic biology concepts and information about iGEM to undergraduate and graduate students. We also gained insights into effective educational approaches and the appropriate complexity of popular science for higher education students, laying a solid foundation for future educational initiatives. [This experience](https://mp.weixin.qq.com/s/ZAvP470rsg1TDX8qlwq5sw) also helped our team members refine their presentation skills and abilities.
+Our team secured two booths at the [Starry Sky Academic Culture Festival](https://mp.weixin.qq.com/s/d18fl0Bhf2tGK7M7HiVJYw) at our university to showcase synthetic biology and our project. During this event, we enthusiastically introduced synthetic biology concepts and information about iGEM to undergraduate and graduate students. We also gained insights into effective educational approaches and the appropriate complexity of popular science for higher education students, laying a solid foundation for future educational initiatives. [This experience](https://mp.weixin.qq.com/s/ZAvP470rsg1TDX8qlwq5sw) also helped our team members refine their presentation skills and abilities.
 
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/starrybooth1.webp" style="width:100%">
@@ -105,7 +105,7 @@ After this event, we were pleased to see a significant improvement in our team m
 
 <p><small style="color: gray">📅 Date: Mar.3, 2024<br>🗣️ Organizers: Yuhan Li, Kexin Zheng, Xujie Tan, Wanqi Li, Hongcheng Chen, Kevin Qi<br> 👥 Audience: High school students from all over China</small></p>
 
-By collaborating with the State Key Laboratory of Genetics Engineering, we [invited high school students](https://mp.weixin.qq.com/s/PkEyOO0QkiYaLgErkqDIbw) from across China to participate in a summer camp at Fudan University focused on understanding biological sciences. During the camp, we guided the students on a tour of the campus and biology labs, culminating in a roundtable discussion where we aimed to learn about their perceptions of synthetic biology and provide educational outreach.
+By collaborating with the State Key Laboratory of Genetics Engineering, we [invited high school students](https://mp.weixin.qq.com/s/PkEyOO0QkiYaLgErkqDIbw) from across China to participate in a summer camp at our university focused on understanding biological sciences. During the camp, we guided the students on a tour of the campus and biology labs, culminating in a roundtable discussion where we aimed to learn about their perceptions of synthetic biology and provide educational outreach.
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/together.webp" style="width:100%">

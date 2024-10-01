@@ -330,7 +330,7 @@ Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
     </div>
 </div>
 
-**[Reliable Team](https://2024.igem.wiki/fudan/team/)**: Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
+**[Reliable Team](/fudan/team/)**: Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
 
 **Stakeholders**:
 
