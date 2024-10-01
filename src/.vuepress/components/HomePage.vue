@@ -203,12 +203,17 @@
           class="text4"
         />
         <img
+          src="https://static.igem.wiki/teams/5115/homepage7/section4-text4-jungles.svg"
+          alt="Text4-5"
+          class="text4-5"
+        />
+        <img
           src="https://static.igem.wiki/teams/5115/text/section4-text2-killer.svg"
           alt="Text5"
           class="text5"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/text/section4-text3-wrong.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/new-section4-text3-wrong.svg"
           alt="Text6"
           class="text6"
         />
@@ -351,7 +356,7 @@
     <section class="page-6" id="lls-love">
       <div class="background-container">
         <img 
-            src="https://static.igem.wiki/teams/5115/page6/page6.svg"
+            src="https://static.igem.wiki/teams/5115/homepage7/page6.png"
             alt="Background"
             class="background-image"
         />
@@ -361,7 +366,7 @@
     <section class="page-7" id="ecoli">
       <div class="background-container">
         <img
-          src="https://static.igem.wiki/teams/5115/homepage7/page7-background-new.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
           alt="Background7"
           class="background-image"
         />
@@ -392,7 +397,7 @@
     <section class="page-8" id="carbo-cl">
       <div class="background-container">
         <img
-          src="https://static.igem.wiki/teams/5115/homepage8/page8-background-new.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
           alt="Background New"
           class="background-image"
         />
@@ -422,7 +427,7 @@
           class="nickel2"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel3.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page8-nickel3.svg"
           alt="Nickel 3"
           class="nickel3"
         />
@@ -432,7 +437,7 @@
           class="nickel4"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel5.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page8-nickel5.svg"
           alt="Nickel 5"
           class="nickel5"
         />
@@ -446,7 +451,7 @@
     <section class="page-9" id="time-cannel">
       <div class="background-container">
         <img
-          src="https://static.igem.wiki/teams/5115/homepage9/page9-background-new.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
           alt="Background New"
           class="background-image"
         />
@@ -483,8 +488,17 @@
 
       </div>
     </section>
+    <section class="page-10" id="time tunnel">
+      <div class="background-container">
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/new1-page10-background.png"
+          alt="background10"
+          class="background-image"
+        />
 
-    <section class="page-10" id="gift">
+      </div>
+    </section>
+    <section class="page-11" id="gift">
       <div class="background-container">
         <lottie :options="earthOptions"></lottie>
       </div>
@@ -571,7 +585,7 @@ export default {
     },
     
     initPage1Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page1Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-1',
@@ -613,7 +627,7 @@ export default {
       }
     },
     initPage2Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page2Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-2',
@@ -641,7 +655,7 @@ export default {
       }
     },
     initPage3Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page3Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-3',
@@ -672,7 +686,7 @@ export default {
       }
     },
     initPage4Animations(gsap) {
-    if (window.innerWidth >= 900) {
+    if (window.innerWidth >= 500) {
       // Set initial positions for fly-in elements
       gsap.set(['.color-pie-1', '.noncolor-pie-1'], { xPercent: -100, yPercent: -100 });
       gsap.set(['.color-pie-2', '.noncolor-pie-2'], { xPercent: -100, yPercent: 100 });
@@ -756,7 +770,7 @@ export default {
     }
     },
     initPage5Animations(gsap) {
-    if (window.innerWidth >= 900) {
+    if (window.innerWidth >= 500) {
 
 /*       const page5Tl = gsap.timeline({
         scrollTrigger: {
@@ -832,21 +846,22 @@ export default {
       });
     },
     initPage8Animations(gsap) {
-      if (window.innerWidth >= 900) { 
+      if (window.innerWidth >= 500) { 
         const nickels = [
-          { class: '.nickel1', duration: 10, delay: 0 },
-          { class: '.nickel2', duration: 12, delay: 2 },
+          { class: '.nickel1', duration: 10, delay: 2 },
+          { class: '.nickel2', duration: 20, delay: 0 },
           { class: '.nickel3', duration: 14, delay: 4 },
-          { class: '.nickel4', duration: 16, delay: 6 },
-          { class: '.nickel5', duration: 18, delay: 8 },
+          { class: '.nickel4', duration: 18, delay: 6 },
+          { class: '.nickel5', duration: 10, delay: 8 },
+          { class: '.nickel-son', duration: 12, delay: 7 },
         ];
 
         nickels.forEach(nickel => {
           gsap.fromTo(
             nickel.class,
-            { x: 300, opacity: 1 }, 
+            { x: '8.25%', opacity: 1 }, 
             { 
-              x: -1583.8, 
+              x: '-82.9%', 
               opacity: 0, 
               duration: nickel.duration, 
               delay: nickel.delay, 
@@ -854,7 +869,7 @@ export default {
               repeat: -1, 
               modifiers: {
 
-                x: gsap.utils.unitize(x => parseFloat(x) <= -1583.8 ? 300 : x)
+                x: gsap.utils.unitize(x => parseFloat(x) <= '-82.9%' ? '8.25%' : x)
               },
               onRepeat: function() {
 
@@ -865,7 +880,7 @@ export default {
         });
       } else {
 
-        gsap.set(['.nickel1', '.nickel2', '.nickel3', '.nickel4', '.nickel5'], { clearProps: 'all' });
+        gsap.set(['.nickel1', '.nickel2', '.nickel3', '.nickel4', '.nickel5','.nickel-son'], { clearProps: 'all' });
       }
     },
   },
@@ -1127,6 +1142,7 @@ section {
 .text2,
 .text3,
 .text4,
+.text4-5,
 .text5,
 .text6,
 .word1,
@@ -1244,9 +1260,9 @@ section {
 
 /* Hide the tear on mobile devices */
 @media (max-width: 900px) {
-  .tear-svg {
+/*   .tear-svg {
     display: none;
-  }
+  } */
 }
 
 /* Mobile devices */
