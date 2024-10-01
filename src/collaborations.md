@@ -50,4 +50,6 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
     <img src="https://static.igem.wiki/teams/5115/collaborations/3.png" style="width:100%">
 </div>
 
+----
+
 We sincerely appreciate the support and help from all sectors of our local society. As the saying goes, *'A single spark can start a prairie fire.'* We passionately believe that our collaborations can pave the way for an even brighter, more inspiring future for synthetic biology.

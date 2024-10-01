@@ -181,7 +181,6 @@ When we test our microparticle U module ([BBa_K5115066](https://parts.igem.org/P
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
 </div>
 
-
 In summary, our integrated approach combines efficient nickel bioaccumulation, enhanced *E. coli* survival, specialized nickel microparticle and a stable hydrogen supply from symbiotic cyanobacteria. Together, MINERAL ensure sustainable nickel recovery from industrial wastewater while minimizing environmental impact. For more details on our project design, please visit our [Design](/fudan/design) page.
 
 As our project name suggests, the the quest of our nickel microparticles does not end here. Please visit our [Implementation](/fudan/implementation/) page for our plans on future applications.
