@@ -198,9 +198,14 @@
           class="tube"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/text/section4-text1-instead.svg"
+          src="https://static.igem.wiki/teams/5115/text/new-section4-text1-instead.svg"
           alt="Text4"
           class="text4"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/section4-text4-jungles.svg"
+          alt="Text4-5"
+          class="text4-5"
         />
         <img
           src="https://static.igem.wiki/teams/5115/text/section4-text2-killer.svg"
@@ -208,7 +213,7 @@
           class="text5"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/text/section4-text3-wrong.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/new-section4-text3-wrong.svg"
           alt="Text6"
           class="text6"
         />
@@ -351,74 +356,252 @@
     <section class="page-6" id="lls-love">
       <div class="background-container">
         <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/background.svg"
+            src="https://static.igem.wiki/teams/5115/homepage7/page6.png"
             alt="Background"
             class="background-image"
         />
-
       </div>
     </section>
     
     <section class="page-7" id="ecoli">
       <div class="background-container">
-        <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/section4-background.png"
-            alt="Background"
-            class="background-image"
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
+          alt="Background7"
+          class="background-image"
         />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-plasmid-left.svg"
+          alt="Plasmid Left"
+          class="plasmid-left"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-plasmid-right.svg"
+          alt="Plasmid Right"
+          class="plasmid-right"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-word1.svg"
+          alt="Word1"
+          class="word1"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-word2.svg"
+          alt="Word2"
+          class="word2"
+        />
+
       </div>
     </section>
 
     <section class="page-8" id="carbo-cl">
       <div class="background-container">
-        <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/section5-6-background.png"
-            alt="Background"
-            class="background-image"
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
+          alt="Background New"
+          class="background-image"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-bacteria1.svg"
+          alt="Bacteria 1"
+          class="bacteria1"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-bacteria2.svg"
+          alt="Bacteria 2"
+          class="bacteria2"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-bacteria3.svg"
+          alt="Bacteria 3"
+          class="bacteria3"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel1.svg"
+          alt="Nickel 1"
+          class="nickel1"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel2.svg"
+          alt="Nickel 2"
+          class="nickel2"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page8-nickel3.svg"
+          alt="Nickel 3"
+          class="nickel3"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel4.svg"
+          alt="Nickel 4"
+          class="nickel4"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page8-nickel5.svg"
+          alt="Nickel 5"
+          class="nickel5"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-word.svg"
+          alt="Word"
+          class="word8"
         />
       </div>
     </section>
-
     <section class="page-9" id="time-cannel">
       <div class="background-container">
-        <img 
-            src="https://static.igem.wiki/teams/5115/homepage9/page9-background.svg"
-            alt="Background"
-            class="background-image"
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page789-background-new.png"
+          alt="Background New"
+          class="background-image"
         />
-      </div>
-    </section>
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-bacteria.svg"
+          alt="Bacteria"
+          class="bacteria"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-carbo3.svg"
+          alt="Carbo3"
+          class="carbo9-3"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-carbo2.svg"
+          alt="Carbo2"
+          class="carbo9-2"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-carbo1.svg"
+          alt="Carbo1"
+          class="carbo9-1"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-nickel.svg"
+          alt="Nickel"
+          class="nickel-son"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-word.svg"
+          alt="Word"
+          class="word9"
+        />
 
-    <section class="page-10" id="gift">
+      </div>
+    </section>
+    <section class="page-10" id="time tunnel">
       <div class="background-container">
-        
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/new1-page10-background.png"
+          alt="background10"
+          class="background-image"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-cube.svg"
+          alt="Cube"
+          class="cube"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/page10-word1.svg"
+          alt="Word10"
+          class="word10"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/page10-word2.svg"
+          alt="word11"
+          class="word11"
+        />
+
+      </div>
+    </section>
+    <section class="page-11" id="gift">
+      <div class="background-container">
+        <lottie :options="earthOptions"></lottie>
       </div>
     </section>
     
     
-    
-  </main>
+    <!-- footer -->
+    <footer>
+      <!-- Wave Section -->
+      <div class="waves">
+        <div class="wave" id="wave1"></div>
+        <div class="wave" id="wave2"></div>
+        <div class="wave" id="wave3"></div>
+        <div class="wave" id="wave4"></div>
+      </div>
   
+      <div class="footer-wrapper" >
+        <div class="logos">
+          <a href="https://www.yfc.cn/" target="_blank">
+            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/yf-lyh.svg" alt="yfc.cn" />
+          </a>
+          <!-- a href="#" target="_blank">
+            <img class="logo" src="https://static.igem.wiki/teams/5115/test/additional-sponsor-1.png" alt="additional sponsor #1" />
+          </a>
+          <a href="#" target="_blank">
+            <img class="logo" src="https://static.igem.wiki/teams/5115/test/additional-sponsor-2.png" alt="additional sponsor #2" />
+          </a -->
+          <a href="https://www.fudan.edu.cn/en/" target="_blank">
+            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/fudan-lyh.svg" alt="www.fudan.edu.cn" />
+          </a>
+          <a href="https://life.fudan.edu.cn/main.htm" target="_blank">
+            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/life-lyh.svg" alt="life.fudan.edu.cn" />
+          </a>
+          <a href="https://2024.igem.wiki/fudan/">
+            <img class="logo home-logo" src="https://static.igem.wiki/teams/5115/czh/logo-trans.svg" alt="Team Fudan #iGEM2024" />
+          </a>
+        </div>
+        <hr />
+  
+        <!-- Contact and Copyright Section -->
+        <div class="footer-contact">
+          <p><small>&copy; 2024 - Content on this site is licensed under a
+              <a class="custom-link" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a>.
+          </small>
+          <br><small>The repository used to create this website is available at
+              <a class="custom-link" href="https://gitlab.igem.org/2024/fudan" target="_blank">gitlab.igem.org/2024/fudan</a>.
+          </small></p>
+        </div>
+  
+        <!-- Social Media Icons Section -->
+        <div class="social-links">
+          Contact&nbsp;us:&nbsp;<a class="custom-link" href="mailto:igem@fudan.edu.cn" target="_blank">igem@fudan.edu.cn</a>
+        </div>
+      </div>
+    </footer>
+  </main>
 </template>
 
 <script>
-import PageFooter from '@theme-hope/components/PageFooter';
+/* import PageFooter from '@theme-hope/components/PageFooter'; */
+import Lottie from '../components/Lottie.vue';
 export default {
+  components: {
+    Lottie
+  },
   data() {
     return {
       preserveAspectRatio: 'xMinYMin meet', // Initial value for screens narrower than 1180px
+      earthOptions: {
+              path: 'https://static.igem.wiki/teams/5115/homepage-tail/cold-play.json',
+              autoplay:true,
+          },
+      plasmidLeftPercent: { x: 15.52, y: 68.47 },
+      plasmidRightPercent: { x: 84.77, y: 68.47 },
+      carboPercent: {x: 7.8, y: 22.8 },
     };
   },
   methods: {
     updatePreserveAspectRatio() {
-      if (window.innerWidth >= 1180) {
+      if (window.innerWidth >= 1024) {
         this.preserveAspectRatio = 'xMidYMid slice';
       } else {
         this.preserveAspectRatio = 'xMinYMin meet';
       }
     },
+    
     initPage1Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page1Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-1',
@@ -431,10 +614,8 @@ export default {
         // Initialize cloud positions
         gsap.set('.left-cloud', { x: '10%' });
         gsap.set('.right-cloud', { x: '-25%' });
-
         page1Tl.to('.left-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
         page1Tl.to('.right-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
-
         gsap.set('.tramcar',{ x: 920.4, y: -153.7 });
         page1Tl.to(".tramcar", {
             duration: 3, 
@@ -462,7 +643,7 @@ export default {
       }
     },
     initPage2Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page2Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-2',
@@ -490,7 +671,7 @@ export default {
       }
     },
     initPage3Animations(gsap) {
-      if (window.innerWidth >= 900) {
+      if (window.innerWidth >= 500) {
         const page3Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-3',
@@ -521,7 +702,7 @@ export default {
       }
     },
     initPage4Animations(gsap) {
-    if (window.innerWidth >= 900) {
+    if (window.innerWidth >= 500) {
       // Set initial positions for fly-in elements
       gsap.set(['.color-pie-1', '.noncolor-pie-1'], { xPercent: -100, yPercent: -100 });
       gsap.set(['.color-pie-2', '.noncolor-pie-2'], { xPercent: -100, yPercent: 100 });
@@ -576,8 +757,8 @@ export default {
           ease: 'power1.inOut',
           scrollTrigger: {
             trigger: '.page-4',
-            start: 'top 10%',
-            end: 'bottom 70%',
+            start: 'center 70%',
+            end: 'bottom bottom',
             scrub: true,
           },
         }
@@ -605,7 +786,7 @@ export default {
     }
     },
     initPage5Animations(gsap) {
-    if (window.innerWidth >= 900) {
+    if (window.innerWidth >= 500) {
 
 /*       const page5Tl = gsap.timeline({
         scrollTrigger: {
@@ -657,6 +838,182 @@ export default {
       );
     }
     },
+    setPlasmidPositions(gsap) {
+      /* const sizePercent = (window.innerWidth / 1920) * 100; // ≈26.666% */
+      gsap.set('.plasmid-left', {
+        width:  '50%',
+        height: '50%',
+      });
+      gsap.set('.plasmid-right', {
+        width: '50%',
+        height:'50%',
+      });
+    },
+    initPlasmidRotation(gsap) {
+      gsap.to(['.plasmid-left', '.plasmid-right'], {
+        rotation: 360,
+        ease: 'none',
+        scrollTrigger: {
+          trigger: '.page-7',
+          start: 'top center',
+          end: 'bottom center',
+          scrub: true,
+        },
+      });
+    },
+    initPage7Animations(gsap) {
+      if (window.innerWidth >= 500) { 
+        const nickels = [
+          { class: '.nickel1', duration: 10, delay: 2 },
+          { class: '.nickel2', duration: 20, delay: 0 },
+          { class: '.nickel3', duration: 14, delay: 4 },
+          { class: '.nickel4', duration: 18, delay: 6 },
+          { class: '.nickel5', duration: 10, delay: 8 },
+          { class: '.nickel-son', duration: 12, delay: 7 },
+        ];
+
+        nickels.forEach(nickel => {
+          gsap.fromTo(
+            nickel.class,
+            { x: '8.25%', opacity: 1 }, 
+            { 
+              x: '-82.9%', 
+              opacity: 0, 
+              duration: nickel.duration, 
+              delay: nickel.delay, 
+              ease: 'none', 
+              repeat: -1, 
+              modifiers: {
+
+                x: gsap.utils.unitize(x => parseFloat(x) <= '-82.9%' ? '8.25%' : x)
+              },
+              onRepeat: function() {
+
+                gsap.set(this.targets(), { opacity: 1 });
+              }
+            }
+          );
+        });
+      } else {
+
+        gsap.set(['.nickel1', '.nickel2', '.nickel3', '.nickel4', '.nickel5','.nickel-son'], { clearProps: 'all' });
+      }
+    },
+    initPage8Animations(gsap) {
+      if (window.innerWidth >= 500) { 
+        gsap.set('.bacteria1', { y: '0', opacity: 0});
+        gsap.set('.bacteria2', { y: '-32.06%', opacity: 0});
+        gsap.set('.bacteria3', { y: '-32.06%', opacity: 0});
+        const page8Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-8',
+            start: 'top 90%', 
+            end: 'bottom bottom',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+        page8Tl.to('.bacteria1', {
+          opacity: 1,
+          duration: 2,
+          ease: 'power1.out',
+        }, 0); 
+
+        page8Tl.to('.bacteria2', {
+          y: '0', 
+          opacity: 1,
+          duration: 2,
+          ease: 'power1.out',
+        }, 0.3); 
+
+        page8Tl.to('.bacteria3', {
+          y: '0',
+          opacity: 1,
+          duration: 2,
+          ease: 'power1.out',
+        }, 0.6); 
+      } else {
+        gsap.set(['.bacteria1', '.bacteria2', '.bacteria3'], { clearProps: 'all' });
+      }
+    },
+    initPageBAnimations(gsap) {
+      if (window.innerWidth >= 500) { 
+        gsap.set('.bacteria', { y: '0', opacity: 0});
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { y: '0', opacity: 0});
+        const pageBTl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 90%', 
+            end: 'top 50%',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+        pageBTl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3','.bacteria'], {
+          opacity: 1,
+          duration: 1,
+          ease: 'power1.out',
+        }, 0); 
+      } else {
+        gsap.set(['.bacteria'], { clearProps: 'all' });
+      }
+    },
+    initPage9Animations(gsap) {
+      if (window.innerWidth >= 500) { 
+        const page9Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 60%', 
+            end: 'top 30%',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          left: '7.8%',
+          top: '22.8%',
+          scale: 0.186,
+          transform: 'translate(-50%, -50%)', 
+        });
+
+        page9Tl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          left: '50%',
+          top: '50%',
+          scale: 1,
+          ease: 'power1.out',
+          duration: 1, 
+        });
+        page9Tl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          rotation: 5, 
+          yoyo: true,
+          repeat: 5, 
+          ease: 'power1.inOut',
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 20%',
+            end: 'top top',
+            scrub: true,
+          },
+          duration: 0.1, 
+        }, '+=0.2');
+        page9Tl.to('.carbo9-2', {
+          y: '10%',
+          yoyo: true,
+          ease: 'power1.inOut',
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top top',
+            end: '40% top',
+            scrub: true,
+          },
+          duration: 0.1, 
+        }, '+=0.2');
+
+      } else {
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
+      }
+    },
   },
   async mounted() {
     // Initial screen width check
@@ -681,6 +1038,12 @@ export default {
     this.initPage3Animations(gsap);
     this.initPage4Animations(gsap);
     this.initPage5Animations(gsap);
+    this.setPlasmidPositions(gsap);
+    this.initPlasmidRotation(gsap);
+    this.initPage7Animations(gsap);
+    this.initPage8Animations(gsap);
+    this.initPageBAnimations(gsap);
+    this.initPage9Animations(gsap);
 
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
@@ -802,6 +1165,7 @@ html {
   pointer-events: none; /* Prevent the animation layer from blocking interactions */
   z-index: 1;
   overflow: hidden;
+  background-color: #CDE3EC;
 }
 
 main {
@@ -889,7 +1253,21 @@ section {
 .color-text2,
 .noncolor-text2,
 .track-word,
-.tramcar {
+.tramcar,
+.bacteria1,
+.bacteria2,
+.bacteria3,
+.nickel1,
+.nickel2,
+.nickel3,
+.nickel4,
+.nickel5,
+.bacteria,
+.carbo9-1,
+.carbo9-2,
+.carbo9-3,
+.nickel-son,
+.cube {
   position: absolute;
   top: 0;
   width: 100%;
@@ -899,8 +1277,15 @@ section {
 .text2,
 .text3,
 .text4,
+.text4-5,
 .text5,
-.text6 {
+.text6,
+.word1,
+.word2,
+.word8,
+.word9,
+.word11,
+.word10 {
   position: absolute;
   top: 0;
   width: 100%;
@@ -908,6 +1293,32 @@ section {
   left: 0;
 }
 
+.plasmid-left,
+.plasmid-right {
+  position: absolute;
+/*   width: 26.67%; 
+  height: 26.67%; */
+  transform: translate(-50%, -50%); 
+}
+
+.plasmid-left {
+  left: 15.49%; /* (297.5 / 1920) * 100 ≈ 15.49% */
+  top: 68.45%;  /* (653.4 / 953) * 100 ≈ 68.45% */
+}
+
+.plasmid-right {
+  left: 84.54%; /* (1622.8 / 1920) * 100 ≈ 84.54% */
+  top: 68.45%;  /* Same as plasmid-left */
+}
+/* .plasmid-left {
+  left: 11.6%;
+  top: 46%;
+}
+
+.plasmid-right {
+  left: 51.6%;
+  top: 46%;
+} */
 /* Cloud positions */
 .left-cloud {
   left: 0;
@@ -949,7 +1360,12 @@ section {
   display: flex;
   min-height: auto;
 }
-
+.page-7 .background-container {
+  position: relative;
+  width: 100%;
+  /* height: 100%; */
+  overflow: hidden;
+}
 /* Tear SVG */
 .tear-svg {
   position: absolute;
@@ -972,22 +1388,27 @@ section {
   -webkit-mask-repeat: no-repeat;
 }
 
-
-
-/* Hide the tear on mobile devices */
-@media (max-width: 900px) {
-  .tear-svg {
-    display: none;
+@media (min-width: 1025px){
+  .scrollDist {
+    width: 100%;
+    height: 300vh;
   }
 }
 
+/* Hide the tear on mobile devices */
+@media (max-width: 900px) {
+/*   .tear-svg {
+    display: none;
+  } */
+}
+
 /* Mobile devices */
-@media (max-width: 1225px) {
-  .frame0,
+@media (max-width: 1025px) and (min-height: 1365px) {
+  /* .frame0,
   .frame1,
   .frame2 {
     display: none;
-  }
+  } */
 /*   .left-cloud,
   .right-cloud,
   .light,
@@ -1007,6 +1428,18 @@ section {
     height: 33.3vh;
   }
 }
+@media (max-width: 1025px) and (max-height: 1365px){
+  .frame0,
+  .frame1,
+  .frame2 {
+    display: none;
+  }
+  .scrollDist {
+    width: 100%;
+    height: 50vh;
+  }
+}
+
 
 @media (max-width: 525px) {
   .frame0,
@@ -1033,4 +1466,151 @@ section {
     height: 18vh;
   }
 }
+
+.page10-lottie {
+  width: 1920px;
+  max-width: 100%; /* Ensures responsiveness on smaller screens */
+  height: auto;    /* Maintains aspect ratio */
+  margin: 0 auto;  /* Centers the animation horizontally */
+  display: block;  /* Removes any inline spacing issues */
+}
+
+/* footer */
+footer{
+  background-color: black;
+}
+.footer-wrapper {
+    text-align: center;
+    padding: 2rem 1rem;
+    position: relative;
+    background-color: #FEBC5B; 
+  }
+  html[data-theme="dark"] .footer-wrapper{
+    background-color: #df9226; 
+}
+  .logos {
+    margin-bottom: 2rem;
+  }
+  .logo-row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+  }
+  .logo {
+    max-height: 7rem;
+    margin: 0 1rem;
+  }
+  .footer-contact {
+    margin-top: 2rem;
+  }
+  .social-links {
+    margin-top: 2rem;
+  }
+  .custom-link {
+  color: #2736c1; 
+  font-weight: 600;
+}
+
+
+html[data-theme="dark"] .custom-link {
+  color: #2736c1;
+}
+  /* Wave Animation Section */
+  /* .waves {
+    margin-top: 5vw;
+    position: relative;
+    width: 100%;
+  }
+  
+  .wave {
+    position: absolute;
+    top: -0.99rem;
+    left: 0;
+    width: 100%;
+    height: 1rem;
+    transition: 0.5s;
+    background: url(https://static.igem.wiki/teams/5115/czh/footer-light.png);
+    background-size: 600px 1rem;
+  }
+  html[data-theme="dark"] .wave{
+    position: absolute;
+    top: -0.99rem;
+    left: 0;
+    width: 100%;
+    height: 1rem;
+    transition: 0.5s;
+    background: url(https://static.igem.wiki/teams/5115/czh/footer-dark.png);
+    background-size: 600px 1rem;
+}
+  html[data-theme="dark"] .waves::after {
+    content: "";
+    clear: both;
+    display: block;
+    position: relative;
+  }
+  .waves::after {
+    content: "";
+    clear: both;
+    display: block;
+    position: relative;
+  }
+  
+  .wave#wave1 {
+    z-index: 2;
+    opacity: 1;
+    bottom: -8rem;
+    animation: animateWave 11s linear infinite;
+  }
+  
+  .wave#wave2 {
+    z-index: 1;
+    opacity: 0.5;
+    bottom: 3rem;
+    animation: animateWave_02 10s linear infinite;
+  }
+  
+  .wave#wave3 {
+    z-index: 2;
+    opacity: 0.2;
+    bottom: 4rem;
+    animation: animateWave 15s linear infinite;
+  }
+  
+  .wave#wave4 {
+    z-index: 1;
+    opacity: 0.1;
+    bottom: 5rem;
+    animation: animateWave_02 20s linear infinite;
+  } */
+  
+  /* Wave Animations */
+  /* @keyframes animateWave_02 {
+    0% {
+      background-position-x: 0px;
+    }
+    100% {
+      background-position-x: 1000px;
+    }
+  }
+  
+  @keyframes animateWave {
+    0% {
+      background-position-x: 1000px;
+    }
+    100% {
+      background-position-x: 0px;
+    }
+  }
+  
+  @keyframes rotateLogo {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } */
+  .home-logo {
+    animation: rotateLogo 0.27s steps(8) infinite;
+  }
 </style>

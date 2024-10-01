@@ -495,22 +495,57 @@
           alt="background10"
           class="background-image"
         />
+        <svg
+          viewBox="0 0 1920 2500"
+          xmlns="http://www.w3.org/2000/svg"
+          class="time-svg"
+        >
+          <defs>
+            <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+              <stop offset="0%" style="stop-color: pink; stop-opacity: 1" />
+              <stop offset="100%" style="stop-color: lightblue; stop-opacity: 1" />
+            </linearGradient>
+          </defs>
+
+
+          <rect x="1500" y="400" width="50" height="250" rx="30" ry="30" fill="url(#gradient)" class="rect-original-1" />
+          <rect x="1700" y="600" width="50" height="100" rx="30" ry="30" fill="url(#gradient)" class="rect-original-2" />
+          <rect x="150" y="500" width="50" height="250" rx="30" ry="30" fill="url(#gradient)" class="rect-original-3" />
+          <rect x="450" y="800" width="50" height="150" rx="30" ry="30" fill="url(#gradient)" class="rect-original-4" />
+          <rect x="50" y="1050" width="50" height="300" rx="30" ry="30" fill="url(#gradient)" class="rect-original-5" />
+
+
+          <rect x="300" y="200" width="50" height="180" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-1" />
+          <rect x="700" y="250" width="50" height="220" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-2" />
+          <rect x="1200" y="350" width="50" height="170" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-3" />
+          <rect x="900" y="450" width="50" height="260" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-4" />
+          <rect x="200" y="650" width="50" height="140" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-5" />
+          <rect x="1600" y="750" width="50" height="190" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-6" />
+          <rect x="1350" y="900" width="50" height="220" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-7" />
+          <rect x="600" y="1150" width="50" height="150" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-8" />
+          <rect x="400" y="1300" width="50" height="180" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-9" />
+          <rect x="1100" y="1450" width="50" height="210" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-10" />
+          <rect x="750" y="1600" width="50" height="130" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-11" />
+          <rect x="500" y="1750" width="50" height="160" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-12" />
+          <rect x="1400" y="1900" width="50" height="200" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-13" />
+          <rect x="1800" y="2050" width="50" height="170" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-14" />
+          <rect x="100" y="2200" width="50" height="240" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-15" />
+        </svg>
         <img
           src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-cube.svg"
           alt="Cube"
           class="cube"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage10/page10-word1.svg"
+          src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-word1.svg"
           alt="Word10"
           class="word10"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage10/page10-word2.svg"
+          src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-word2.svg"
           alt="word11"
           class="word11"
         />
-
       </div>
     </section>
     <section class="page-11" id="gift">
@@ -1014,6 +1049,21 @@ export default {
         gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
       }
     },
+/*     initPage10Animations(gsap){
+      if (window.innerWidth >= 500) { 
+        const page9Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 60%', 
+            end: 'top 30%',   
+            scrub: true,     
+          },
+        });
+
+      } else {
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
+      }
+    }, */
   },
   async mounted() {
     // Initial screen width check
@@ -1267,7 +1317,8 @@ section {
 .carbo9-2,
 .carbo9-3,
 .nickel-son,
-.cube {
+.cube,
+.time-svg {
   position: absolute;
   top: 0;
   width: 100%;
@@ -1367,7 +1418,8 @@ section {
   overflow: hidden;
 }
 /* Tear SVG */
-.tear-svg {
+.tear-svg,
+.time-svg {
   position: absolute;
   top: 0;
   left: 0;
