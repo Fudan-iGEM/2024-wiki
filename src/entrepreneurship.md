@@ -373,8 +373,8 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
 
 ## References
 
-[^1 ]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
-[^2 ]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)
-[^3]: Kazeminezhad, I., & Mosivand, S. (2017). Elimination of copper and nickel from wastewater by electrooxidation method. *Journal of Magnetism and Magnetic Materials*, 422, 84-92. [https://doi.org/10.1016/j.jmmm.2016.08.049](https://doi.org/10.1016/j.jmmm.2016.08.049)]
-[^4 ]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. Separation and Purification Technology, 348, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](https://doi.org/10.1016/j.seppur.2024.127771)
+[^1]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
+[^2]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)
+[^3]: Kazeminezhad, I., & Mosivand, S. (2017). Elimination of copper and nickel from wastewater by electrooxidation method. *Journal of Magnetism and Magnetic Materials*, 422, 84-92. [https://doi.org/10.1016/j.jmmm.2016.08.049](https://doi.org/10.1016/j.jmmm.2016.08.049)
+[^4]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. Separation and Purification Technology, 348, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](https://doi.org/10.1016/j.seppur.2024.127771)
 
