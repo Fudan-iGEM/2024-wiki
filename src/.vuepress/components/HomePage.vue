@@ -501,15 +501,29 @@
           class="cube"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage10/page10-word1.svg"
+          src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-word1.svg"
           alt="Word10"
           class="word10"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage10/page10-word2.svg"
+          src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-word2.svg"
           alt="word11"
           class="word11"
         />
+        <svg
+          viewBox="0 0 1920 2500"
+          xmlns="http://www.w3.org/2000/svg"
+          class="tear-svg"
+        >
+          <defs>
+            <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+              <stop offset="0%" style="stop-color: pink; stop-opacity: 1" />
+              <stop offset="100%" style="stop-color: lightblue; stop-opacity: 1" />
+            </linearGradient>
+          </defs>
+          <rect x="50" y="1050" width="100" height="300" rx="20" ry="20" fill="url(#gradient)" />
+        </svg>
+
 
       </div>
     </section>
@@ -1014,6 +1028,21 @@ export default {
         gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
       }
     },
+/*     initPage10Animations(gsap){
+      if (window.innerWidth >= 500) { 
+        const page9Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 60%', 
+            end: 'top 30%',   
+            scrub: true,     
+          },
+        });
+
+      } else {
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
+      }
+    }, */
   },
   async mounted() {
     // Initial screen width check
