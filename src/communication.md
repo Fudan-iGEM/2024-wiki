@@ -1,6 +1,6 @@
 ---
 title: Communication
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/ihp-header.gif
 ---
 
 <br><br>

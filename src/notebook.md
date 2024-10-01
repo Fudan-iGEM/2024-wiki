@@ -39,7 +39,7 @@ Meanwhile, some of us put efforts to autism education, include: revising a pictu
 
 ## April
 
-On April 5th, team members visited an art exhibit 需要链接或者照片 in our university, showcasing artwork by autistic children. On April 18th, after two months of research and discussion, we finalized our project for [the competition](https://competition.igem.org/) "**MINERAL**: Microparticle Integration for Nickel Extraction and Reusable Applications".
+On April 5th, team members visited an [art exhibit](/fudan/inclusivity/#_2-2-did-stakeholders-support-steamed) in our university, showcasing artwork by autistic children. On April 18th, after two months of research and discussion, we finalized our project for [the competition](https://competition.igem.org/) "**MINERAL**: Microparticle Integration for Nickel Extraction and Reusable Applications".
 
 <div style="text-align: center;" id="fig4">
     <img src="https://static.igem.wiki/teams/5115/notebook/april-1.png" style="width:100%">
@@ -78,9 +78,7 @@ We went to [Suzhou](https://en.wikipedia.org/wiki/Suzhou) and attended the 11th 
 
 After returning to [Shanghai](https://en.wikipedia.org/wiki/Shanghai), we interviewed [Professor Zhu](/fudan/human-practices/#c3-2-discuss-with-professor-zhu-xiuping) on nanoparticle safety.
 
-We continued our molecular cloning, and engaged with Professor Don W. Cleveland in scientific discussions (low left of [the image](#fig7)).
-
-面向 high school students 活动介绍 需要链接去页面
+We continued our molecular cloning, and engaged with Professor Don W. Cleveland in a scientific discussions about [the future and responsibility](/fudan/human-practices/#section-7-future-and-responsibility) of our project (low left of [the image](#fig7)).
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/notebook/july-1.jpg" style="width:100%">
@@ -98,7 +96,7 @@ We interviewed experts from [various fields](/fudan/human-practices/#c3-4-visit-
 
 ## September - October
 
-While experiments were ongoing, we [finalized the authorship](/fudan/attributions/) for our wiki pages, and started writing the pages and documenting previous events. Meanwhile, we are analyzing wet lab data and further improving the dry lab work.
+We interviewed experts from various fields [Integrated Human Practices](/fudan/human-practices/#c3-4-visit-to-the-laboratory-of-cnerc-cthmp) and actively engaged with students from different schools [Collaborations](/fudan/collaborations/#with-institutions-collages-and-companies). Meanwhile, our wet lab and dry lab experiments were both ongoing.
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/notebook/september-1.jpg" style="width:100%">
