@@ -845,7 +845,7 @@ export default {
         },
       });
     },
-    initPage8Animations(gsap) {
+    initPage7Animations(gsap) {
       if (window.innerWidth >= 500) { 
         const nickels = [
           { class: '.nickel1', duration: 10, delay: 2 },
@@ -883,6 +883,85 @@ export default {
         gsap.set(['.nickel1', '.nickel2', '.nickel3', '.nickel4', '.nickel5','.nickel-son'], { clearProps: 'all' });
       }
     },
+    initPage8Animations(gsap) {
+      if (window.innerWidth >= 500) { 
+        gsap.set('.bacteria1', { y: '0', opacity: 0});
+        gsap.set('.bacteria2', { y: '-32.06%', opacity: 0});
+        gsap.set('.bacteria3', { y: '-32.06%', opacity: 0});
+        const page8Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-8',
+            start: 'top 70%', 
+            end: 'top top',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+        page8Tl.to('.bacteria1', {
+          opacity: 1,
+          duration: 1,
+          ease: 'power1.out',
+        }, 0); 
+
+        page8Tl.to('.bacteria2', {
+          y: '0', 
+          opacity: 1,
+          duration: 1,
+          ease: 'power1.out',
+        }, 0.3); 
+
+        page8Tl.to('.bacteria3', {
+          y: '0',
+          opacity: 1,
+          duration: 1,
+          ease: 'power1.out',
+        }, 0.6); 
+      } else {
+        gsap.set(['.bacteria1', '.bacteria2', '.bacteria3'], { clearProps: 'all' });
+      }
+    },
+    initPageBAnimations(gsap) {
+      if (window.innerWidth >= 500) { 
+        gsap.set('.bacteria', { y: '0', opacity: 0});
+        const page9Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 90%', 
+            end: 'top 60',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+        page9Tl.to('.bacteria', {
+          opacity: 1,
+          duration: 1,
+          ease: 'power1.out',
+        }, 0); 
+      } else {
+        gsap.set(['.bacteria'], { clearProps: 'all' });
+      }
+    },
+/*     initPage9Animations(gsap) {
+      if (window.innerWidth >= 500) { 
+        gsap.set('.bacteria', { y: '0', opacity: 0});
+        const page9Tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 90%', 
+            end: 'top 60',   
+            scrub: true,     
+            // markers: true,  
+          },
+        });
+        page9Tl.to('.bacteria', {
+          opacity: 1,
+          duration: 1,
+          ease: 'power1.out',
+        }, 0); 
+      } else {
+        gsap.set(['.bacteria'], { clearProps: 'all' });
+      }
+    }, */
   },
   async mounted() {
     // Initial screen width check
@@ -909,7 +988,10 @@ export default {
     this.initPage5Animations(gsap);
     this.setPlasmidPositions(gsap);
     this.initPlasmidRotation(gsap);
+    this.initPage7Animations(gsap);
     this.initPage8Animations(gsap);
+    this.initPageBAnimations(gsap);
+/*     this.initPage9Animations(gsap); */
 
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
