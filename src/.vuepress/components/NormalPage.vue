@@ -21,7 +21,6 @@ import { useThemeLocaleData } from '@theme-hope/composables/index';
 import MarkdownContent from '@theme-hope/components/MarkdownContent';
 import PageNav from '@theme-hope/components/PageNav';
 import SkipLink from '@theme-hope/components/SkipLink';
-
 // import PageMeta from '@theme-hope/modules/info/components/PageMeta'; // THE META USER IS NOT AN INDICATION OF AUTHORSHIP 2024.9.18
 import TOC from '@theme-hope/modules/info/components/TOC';
 

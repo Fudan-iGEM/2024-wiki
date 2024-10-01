@@ -351,11 +351,10 @@
     <section class="page-6" id="lls-love">
       <div class="background-container">
         <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/background.svg"
+            src="https://static.igem.wiki/teams/5115/page6/page6.svg"
             alt="Background"
             class="background-image"
         />
-
       </div>
     </section>
     
@@ -391,7 +390,7 @@
 
     <section class="page-10" id="gift">
       <div class="background-container">
-        
+        <lottie :options="earthOptions"></lottie>
       </div>
     </section>
     
@@ -446,20 +445,27 @@
       </div>
     </footer>
   </main>
-  
 </template>
 
 <script>
-import PageFooter from '@theme-hope/components/PageFooter';
+/* import PageFooter from '@theme-hope/components/PageFooter'; */
+import Lottie from '../components/Lottie.vue';
 export default {
+  components: {
+    Lottie
+  },
   data() {
     return {
       preserveAspectRatio: 'xMinYMin meet', // Initial value for screens narrower than 1180px
+      earthOptions: {
+              path: 'https://static.igem.wiki/teams/5115/homepage-tail/cold-play.json',
+              autoplay:true,
+          },
     };
   },
   methods: {
     updatePreserveAspectRatio() {
-      if (window.innerWidth >= 1180) {
+      if (window.innerWidth >= 1024) {
         this.preserveAspectRatio = 'xMidYMid slice';
       } else {
         this.preserveAspectRatio = 'xMinYMin meet';
@@ -479,10 +485,8 @@ export default {
         // Initialize cloud positions
         gsap.set('.left-cloud', { x: '10%' });
         gsap.set('.right-cloud', { x: '-25%' });
-
         page1Tl.to('.left-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
         page1Tl.to('.right-cloud', { x: '0%', duration: 2.5, ease: 'power2.out' }, 0);
-
         gsap.set('.tramcar',{ x: 920.4, y: -153.7 });
         page1Tl.to(".tramcar", {
             duration: 3, 
@@ -624,8 +628,8 @@ export default {
           ease: 'power1.inOut',
           scrollTrigger: {
             trigger: '.page-4',
-            start: 'top 10%',
-            end: 'bottom 70%',
+            start: 'center 70%',
+            end: 'bottom bottom',
             scrub: true,
           },
         }
@@ -850,6 +854,7 @@ html {
   pointer-events: none; /* Prevent the animation layer from blocking interactions */
   z-index: 1;
   overflow: hidden;
+  background-color: #CDE3EC;
 }
 
 main {
@@ -1020,7 +1025,12 @@ section {
   -webkit-mask-repeat: no-repeat;
 }
 
-
+@media (min-width: 1025px){
+  .scrollDist {
+    width: 100%;
+    height: 300vh;
+  }
+}
 
 /* Hide the tear on mobile devices */
 @media (max-width: 900px) {
@@ -1030,7 +1040,7 @@ section {
 }
 
 /* Mobile devices */
-@media (max-width: 1225px) {
+@media (max-width: 1025px) and (min-height: 1365px) {
   /* .frame0,
   .frame1,
   .frame2 {
@@ -1055,6 +1065,18 @@ section {
     height: 33.3vh;
   }
 }
+@media (max-width: 1025px) and (max-height: 1365px){
+  .frame0,
+  .frame1,
+  .frame2 {
+    display: none;
+  }
+  .scrollDist {
+    width: 100%;
+    height: 50vh;
+  }
+}
+
 
 @media (max-width: 525px) {
   .frame0,
@@ -1081,6 +1103,15 @@ section {
     height: 18vh;
   }
 }
+
+.page10-lottie {
+  width: 1920px;
+  max-width: 100%; /* Ensures responsiveness on smaller screens */
+  height: auto;    /* Maintains aspect ratio */
+  margin: 0 auto;  /* Centers the animation horizontally */
+  display: block;  /* Removes any inline spacing issues */
+}
+
 /* footer */
 footer{
   background-color: black;
@@ -1102,16 +1133,13 @@ footer{
     justify-content: space-around;
     margin-bottom: 1rem;
   }
-  
   .logo {
     max-height: 7rem;
     margin: 0 1rem;
   }
-  
   .footer-contact {
     margin-top: 2rem;
   }
-  
   .social-links {
     margin-top: 2rem;
   }
