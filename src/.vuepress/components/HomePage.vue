@@ -573,6 +573,7 @@ export default {
           },
       plasmidLeftPercent: { x: 15.52, y: 68.47 },
       plasmidRightPercent: { x: 84.77, y: 68.47 },
+      carboPercent: {x: 7.8, y: 22.8 },
     };
   },
   methods: {
@@ -891,29 +892,29 @@ export default {
         const page8Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-8',
-            start: 'top 70%', 
-            end: 'top top',   
+            start: 'top 90%', 
+            end: 'bottom bottom',   
             scrub: true,     
             // markers: true,  
           },
         });
         page8Tl.to('.bacteria1', {
           opacity: 1,
-          duration: 1,
+          duration: 2,
           ease: 'power1.out',
         }, 0); 
 
         page8Tl.to('.bacteria2', {
           y: '0', 
           opacity: 1,
-          duration: 1,
+          duration: 2,
           ease: 'power1.out',
         }, 0.3); 
 
         page8Tl.to('.bacteria3', {
           y: '0',
           opacity: 1,
-          duration: 1,
+          duration: 2,
           ease: 'power1.out',
         }, 0.6); 
       } else {
@@ -923,16 +924,17 @@ export default {
     initPageBAnimations(gsap) {
       if (window.innerWidth >= 500) { 
         gsap.set('.bacteria', { y: '0', opacity: 0});
-        const page9Tl = gsap.timeline({
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { y: '0', opacity: 0});
+        const pageBTl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-9',
             start: 'top 90%', 
-            end: 'top 60',   
+            end: 'top 50%',   
             scrub: true,     
             // markers: true,  
           },
         });
-        page9Tl.to('.bacteria', {
+        pageBTl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3','.bacteria'], {
           opacity: 1,
           duration: 1,
           ease: 'power1.out',
@@ -941,27 +943,62 @@ export default {
         gsap.set(['.bacteria'], { clearProps: 'all' });
       }
     },
-/*     initPage9Animations(gsap) {
+    initPage9Animations(gsap) {
       if (window.innerWidth >= 500) { 
-        gsap.set('.bacteria', { y: '0', opacity: 0});
         const page9Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-9',
-            start: 'top 90%', 
-            end: 'top 60',   
+            start: 'top 60%', 
+            end: 'top 30%',   
             scrub: true,     
             // markers: true,  
           },
         });
-        page9Tl.to('.bacteria', {
-          opacity: 1,
-          duration: 1,
+
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          left: '7.8%',
+          top: '22.8%',
+          scale: 0.186,
+          transform: 'translate(-50%, -50%)', 
+        });
+
+        page9Tl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          left: '50%',
+          top: '50%',
+          scale: 1,
           ease: 'power1.out',
-        }, 0); 
+          duration: 1, 
+        });
+        page9Tl.to(['.carbo9-1', '.carbo9-2', '.carbo9-3'], {
+          rotation: 5, 
+          yoyo: true,
+          repeat: 5, 
+          ease: 'power1.inOut',
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top 20%',
+            end: 'top top',
+            scrub: true,
+          },
+          duration: 0.1, 
+        }, '+=0.2');
+        page9Tl.to('.carbo9-2', {
+          y: '10%',
+          yoyo: true,
+          ease: 'power1.inOut',
+          scrollTrigger: {
+            trigger: '.page-9',
+            start: 'top top',
+            end: '40% top',
+            scrub: true,
+          },
+          duration: 0.1, 
+        }, '+=0.2');
+
       } else {
-        gsap.set(['.bacteria'], { clearProps: 'all' });
+        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
       }
-    }, */
+    },
   },
   async mounted() {
     // Initial screen width check
@@ -991,7 +1028,7 @@ export default {
     this.initPage7Animations(gsap);
     this.initPage8Animations(gsap);
     this.initPageBAnimations(gsap);
-/*     this.initPage9Animations(gsap); */
+    this.initPage9Animations(gsap);
 
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
