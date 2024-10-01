@@ -361,7 +361,7 @@
     <section class="page-7" id="ecoli">
       <div class="background-container">
         <img
-          src="https://static.igem.wiki/teams/5115/homepage7/page7-background.svg"
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-background-new.svg"
           alt="Background7"
           class="background-image"
         />
@@ -809,27 +809,14 @@ export default {
     }
     },
     setPlasmidPositions(gsap) {
-      const leftXPercent = (297.5 / 1920) * 100; // ≈15.5%
-      const rightXPercent = (1622.8 / 1920) * 100; // ≈84.5%
-      const yPercent = (653.4 / 953) * 100; // ≈68.5%
-      const sizePercent = (700 / 1920) * 100; // ≈26.666%
-
+      /* const sizePercent = (window.innerWidth / 1920) * 100; // ≈26.666% */
       gsap.set('.plasmid-left', {
-        x: leftXPercent + '%',
-        y: yPercent + '%',
-        width: sizePercent + '%',
-        height: sizePercent + '%',
-        transformOrigin: '50% 50%',
-        position: 'absolute', 
+        width:  '50%',
+        height: '50%',
       });
-
       gsap.set('.plasmid-right', {
-        x: rightXPercent + '%',
-        y: yPercent + '%',
-        width: sizePercent + '%',
-        height: sizePercent + '%',
-        transformOrigin: '50% 50%',
-        position: 'absolute',
+        width: '50%',
+        height:'50%',
       });
     },
     initPlasmidRotation(gsap) {
@@ -1123,16 +1110,16 @@ section {
   transform: translate(-50%, -50%); 
 }
 
-/* .plasmid-left {
-  left: 15.49%;
-  top: 68.45%;
+.plasmid-left {
+  left: 15.49%; /* (297.5 / 1920) * 100 ≈ 15.49% */
+  top: 68.45%;  /* (653.4 / 953) * 100 ≈ 68.45% */
 }
 
 .plasmid-right {
-  left: 84.54%;
-  top: 68.45%;
-} */
-.plasmid-left {
+  left: 84.54%; /* (1622.8 / 1920) * 100 ≈ 84.54% */
+  top: 68.45%;  /* Same as plasmid-left */
+}
+/* .plasmid-left {
   left: 11.6%;
   top: 46%;
 }
@@ -1140,7 +1127,7 @@ section {
 .plasmid-right {
   left: 51.6%;
   top: 46%;
-}
+} */
 /* Cloud positions */
 .left-cloud {
   left: 0;
