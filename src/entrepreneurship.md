@@ -8,19 +8,32 @@ headergif: https://static.igem.wiki/teams/5115/header/entrepreneurship-header.gi
 
 ## Our Mission
 
-**Why**: We need more nickel to sustain Earth's operations and reduce pollution from mining.
+### Why
 
-**How**: Provide an eco-friendly method to absorb nickel from contaminated water.
+We need more nickel to sustain Earth's operations and reduce pollution from mining.
 
-**What**: Mass-produced nickel-absorbing bacterial cleaner for water bodies.
+### How
 
-Please find more information in our business plan.⬇️
+Provide an eco-friendly method to absorb nickel from contaminated water.
 
-【待插入bp英文版】
+### What
+
+Mass-produced nickel-absorbing bacterial cleaner for water bodies.
+
+Please find more information in our [business plan](#pdf2).
+
+<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="90%" height="100vw"/>
+
+<div style="text-align: center;" id="pdf2">
+    	<span style="color: gray">Business Plan of MINERAL</span>
+        <br><br>
+    </div>
 
 ## Identifying and Understanding Unmet Needs
 
-As global awareness of environmental protection increases, the demand for sustainable resource management and the reduction of industrial pollution is growing. According to estimates by AsianMetal, **4.4 to 4.6 million tons of nickel-containing scrap** are collected annually, with a nickel content of nearly **350,000 tons**, accounting for about **1/4** of the total nickel demand. The mining and production processes of nickel have caused significant environmental damage, including deforestation, soil erosion, and water pollution. 
+### Growing Demand for Nickel
+
+As global awareness of environmental protection increases, the demand for sustainable resource management and the reduction of industrial pollution is growing. According to estimates by AsianMetal, **4.4 to 4.6 million tons of nickel-containing scrap** are collected annually, with a nickel content of nearly **350,000 tons**, accounting for about **1/4** of the total nickel demand[^1]. The mining and production processes of nickel have caused significant environmental damage, including deforestation, soil erosion, and water pollution.
 
 The Earth urgently needs effective methods to mitigate the pollution caused by the nickel mining industry.
 
@@ -32,7 +45,7 @@ The Earth urgently needs effective methods to mitigate the pollution caused by t
     </div>
 </div>
 
-On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM has pointed out that high-grade nickel ore with a content of over **1.7%** can only sustain consumption for **7 to 10 years**. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
+On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM has pointed out that high-grade nickel ore with a content of over **1.7%** can only sustain consumption for **7 to 10 years**[^2]. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
 
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig2new.webp" style='width:100%'>
@@ -59,8 +72,9 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
         <br><br>
     </div>
 </div>
+### Competitive Analysis
 
-## Competitive Analysis
+We conducted competitive analysis with the most popular ways[^3].
 
 <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig9.webp" style='width:100%'>
@@ -70,8 +84,9 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
     </div>
 </div>
 
-
 ## Our Possible, Scalable and Inventive Solution
+
+### Business Model
 
 In response to the identified unmet needs and based on the MINERAL project, we propose our product—**the Nickel Ion Wastewater Cleaner**—accompanied by our unique **monthly subscription service**. After purchasing our basic product, customers will receive **free equipment installation and technical guidance**. By paying a monthly membership fee, they can access our **real-time wastewater treatment monitoring system**, which provides optimization for improving product usage strategies and saving costs. Utilizing our technology of introducing genes into *E. coli* to control the absorption and enrichment of nickel ions, we have successfully developed a product that significantly reduces nickel ion concentrations in water, validating the feasibility of our project.
 
@@ -82,9 +97,9 @@ In response to the identified unmet needs and based on the MINERAL project, we p
         <br><br>
     </div>
 </div>
+### Competitiveness of MINERAL
 
-
-Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to **efficiently** recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner. The **visible** nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
+Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to **efficiently** recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The **visible** nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig7new.webp" style='width:100%'>
@@ -93,7 +108,7 @@ Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to
         <br><br>
     </div>
 </div>
-
+### Product Lifecycle
 
 Most importantly, our product simplifies the previously cumbersome industrial process using a highly innovative approach—no chemical reagents, no molecular membrane filtration. You simply need to add the Nickel Ion Wastewater Cleaner to wastewater with the corresponding concentration, and you will be able to observe the valuable nickel being separated.
 
@@ -104,15 +119,19 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
         <br><br>
     </div>
 </div>
+### Exit Strategy
 
+Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
+
+It includes **seeking mergers with wastewater treatment companies** to leverage their market resources and accelerate the application of our technology. We also **retain the option to sell patents and licenses** to realize the commercial value of our intellectual property. Additionally, the project can **be preserved as a startup opportunity** to be pursued when market conditions are favorable. This strategy aims to maximize the project’s value while laying the groundwork for future growth.
 
 ## Product Development, Milestones, Resources, and Risks
 
-### Key Goals:
+### Key Goals
 
 To **improve nickel recovery efficiency**, **enhance the cleaner's ability** to handle higher heavy metal, salt, and pH concentrations, scale up production, achieve profitability, and **set a green industry benchmark**.
 
-### Key Resources:
+### Key Resources
 
 - Ample technical labor provided by the campus
 - Ongoing pursuit of funding
@@ -268,12 +287,7 @@ After visiting CPS's factory, we found that their **medium-sized facility** is i
     	<span style="color: gray">Technical Cooperation Intention Agreement</span>
         <br><br>
     </div>
-
-Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
-
-It includes **seeking mergers with wastewater treatment companies** to leverage their market resources and accelerate the application of our technology. We also **retain the option to sell patents and licenses** to realize the commercial value of our intellectual property. Additionally, the project can **be preserved as a startup opportunity** to be pursued when market conditions are favorable. This strategy aims to maximize the project’s value while laying the groundwork for future growth.
-
-### Timeline
+### Development Timeline
 
 <div style="text-align: center;" id="fig19">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig11.webp" style='width:100%'>
@@ -293,8 +307,6 @@ It includes **seeking mergers with wastewater treatment companies** to leverage 
         <br><br>
     </div>
 </div>
-
-
 We first analyzed the profit model for **battery recycling companies** among potential customers. 
 
 Focusing on the most valuable materials in raw material recovery, **cobalt and nickel**, the existing hydrometallurgical and pyrometallurgical combined technology can recover 107.84 tons of nickel sulfate (current price: approximately \$4,500/ton) and 84.65 tons of cobalt sulfate (current price: approximately \$13,000/ton) from every 1,000 tons of used power batteries. With our microbial separation technology, production is estimated to increase by 10%-30%. Based on the current market price of industrial raw materials, the revenue from processing each ton of waste power batteries can directly amount to approximately $228,000.
@@ -316,9 +328,13 @@ Therefore, **in the sales scenario of our microbial heavy metal ion cleaner**, t
 
 ## Our Skills, Capabilities and Stakeholders
 
-**Skills**: To ensure the success of the project, we need to master key skills, including **technological innovation** to optimize product performance, **channel development** to expand the market, **marketing** to enhance brand influence, **financial management** to ensure proper use of funds, **factory operations** to guarantee production efficiency, **human resource management** to build an efficient team, **public relations** to maintain the company's image, and **data analysis** to guide strategic decisions. Together, these skills will drive the development of the project and strengthen its market competitiveness.
+### Skills
 
-**Capability**: Our team needs excellent **communication and collaboration** skills to ensure smooth information flow and teamwork. **Presentation skills** are crucial for conveying the project's vision and attracting support. Strong **analytical and decision-making abilities** are essential for solving complex problems and seizing opportunities. A **responsible attitude** and **good reputation** are vital for gaining the trust and support of stakeholders and ensuring the project's smooth progression. These core capabilities will collectively drive the success and sustainable development of the project.
+To ensure the success of the project, we need to master key skills, including **technological innovation** to optimize product performance, **channel development** to expand the market, **marketing** to enhance brand influence, **financial management** to ensure proper use of funds, **factory operations** to guarantee production efficiency, **human resource management** to build an efficient team, **public relations** to maintain the company's image, and **data analysis** to guide strategic decisions. Together, these skills will drive the development of the project and strengthen its market competitiveness.
+
+### Capability 
+
+Our team needs excellent **communication and collaboration** skills to ensure smooth information flow and teamwork. **Presentation skills** are crucial for conveying the project's vision and attracting support. Strong **analytical and decision-making abilities** are essential for solving complex problems and seizing opportunities. A **responsible attitude** and **good reputation** are vital for gaining the trust and support of stakeholders and ensuring the project's smooth progression. These core capabilities will collectively drive the success and sustainable development of the project.
 
 Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
 
@@ -329,10 +345,11 @@ Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
         <br><br>
     </div>
 </div>
+### [Reliable Team](/fudan/team/)
 
-**[Reliable Team](/fudan/team/)**: Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
+Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
 
-**Stakeholders**:
+### Stakeholders
 
 <div style="text-align: center;" id="fig22">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig10.webp" style='width:100%'>
@@ -358,5 +375,6 @@ Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
 
 [^1 ]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
 [^2 ]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)
-[^3 ]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. *Separation and Purification Technology, 348*, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](<https://doi.org/10.1016/j.seppur.2024.127771>)
-[^4 ]: Kazeminezhad, I., & Mosivand, S. (2017). Elimination of copper and nickel from wastewater by electrooxidation method. *Journal of Magnetism and Magnetic Materials*, 422, 84-92. [https://doi.org/10.1016/j.jmmm.2016.08.049](https://doi.org/10.1016/j.jmmm.2016.08.049)
+[^3]: Kazeminezhad, I., & Mosivand, S. (2017). Elimination of copper and nickel from wastewater by electrooxidation method. *Journal of Magnetism and Magnetic Materials*, 422, 84-92. [https://doi.org/10.1016/j.jmmm.2016.08.049](https://doi.org/10.1016/j.jmmm.2016.08.049)]
+[^4 ]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. Separation and Purification Technology, 348, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](https://doi.org/10.1016/j.seppur.2024.127771)
+
