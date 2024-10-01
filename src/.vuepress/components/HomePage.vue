@@ -89,14 +89,18 @@
           <image
             class="mineral2"
             xlink:href="https://static.igem.wiki/teams/5115/homepage/mineral.svg"
-        />
+          />
+          <g id="scroll-arrow">
+            <polygon class="down-arrow" points="960,910 940,880 980,880" fill="#000" />
+          </g>
       </g>
+      
     </svg>
   </div>
 
   <!-- Scrollable main content area -->
   <main>
-    <div class="scrollDist"></div>
+    <div class="scrollDist" ></div>
     <!-- Page 1 -->
     <section class="page-1" id="sky">
       <!-- Background image -->
@@ -531,7 +535,7 @@
 
       </div>
     </section>
-    <section class="page-10" id="time tunnel">
+    <section class="page-10" id="time-tunnel">
       <div class="background-container">
         <img
           src="https://static.igem.wiki/teams/5115/homepage7/new1-page10-background.png"
@@ -696,6 +700,16 @@ export default {
       plasmidRightPercent: { x: 84.77, y: 68.47 },
       carboPercent: {x: 7.8, y: 22.8 },
     };
+  },
+  mounted() {
+    // Add event listener for the arrow click to scroll down by 200vw
+    document.getElementById('scroll-arrow').addEventListener('click', () => {
+      window.scrollBy({
+        top: window.innerWidth * 2, // Scrolling 200vw equivalent
+        left: 0,
+        behavior: 'smooth',
+      });
+    });
   },
   methods: {
     updatePreserveAspectRatio() {
@@ -1226,7 +1240,7 @@ export default {
     });
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
-      gsap.set(['.mineral'], {
+      gsap.set(['.mineral','.down-arrow'], {
           y: '20%',
         });
       const floatingTl = gsap.timeline({ repeat: -1, yoyo: true });
@@ -1313,7 +1327,11 @@ export default {
         .fromTo('.carbo4', { y: -30 }, { y: -250, duration: 5 }, 'afterScaling')
         .fromTo('.carbo5', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling')
         .fromTo('.title', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling')
-        .fromTo('.mineral2',{ y: 0 },  { y: -400, duration: 5 }, 'afterScaling');
+        .fromTo('.mineral2',{ y: 200 },  { y: -350, duration: 5 }, 'afterScaling')
+        .fromTo('.down-arrow',{ y: 200 },  { y: -350, duration: 5 }, 'afterScaling')
+        .addLabel('afterframe')
+        .fromTo('.mineral2',{ y: -350 },  { y: -953, duration: 2 }, 'afterframe')
+        .fromTo('.down-arrow',{ y: -350 },  { y: -953, duration: 2 }, 'afterframe');
     }
   },
   beforeDestroy() {
@@ -1398,6 +1416,10 @@ section {
   width: 100%;
   height: 100%;
   overflow: hidden;
+}
+.down-arrow {
+  pointer-events: auto; 
+  cursor: pointer;      
 }
 
 .background-image {
