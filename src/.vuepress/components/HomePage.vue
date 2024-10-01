@@ -812,7 +812,7 @@ export default {
       const leftXPercent = (297.5 / 1920) * 100; // ≈15.5%
       const rightXPercent = (1622.8 / 1920) * 100; // ≈84.5%
       const yPercent = (653.4 / 953) * 100; // ≈68.5%
-      const sizePercent = (512 / 1920) * 100; // ≈26.666%
+      const sizePercent = (700 / 1920) * 100; // ≈26.666%
 
       gsap.set('.plasmid-left', {
         x: leftXPercent + '%',
@@ -1133,13 +1133,13 @@ section {
   top: 68.45%;
 } */
 .plasmid-left {
-  left: 16%;
-  top: 50%;
+  left: 11.6%;
+  top: 46%;
 }
 
 .plasmid-right {
-  left: 56%;
-  top: 50%;
+  left: 51.6%;
+  top: 46%;
 }
 /* Cloud positions */
 .left-cloud {
