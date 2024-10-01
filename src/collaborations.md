@@ -19,7 +19,7 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
 | May 4th     | [BIT-China 2024](https://2024.igem.wiki/bit-china/)<br>[ShanghaiTech-China 2024](https://2024.igem.wiki/shanghaitech-china/)<br>[Tongji-China 2024](https://2024.igem.wiki/tongji-china/) | [Exchange project ideas](/fudan/human-practices/#_3-2-meeting-with-bit-china-shanghaitech-china-and-tongji-china) |
 | August 9th  | [U Power Tech](https://upower.com/about-us/)<br>[Shanghai Municipal Bureau of Ecology and Environment](https://sthj.sh.gov.cn/) | [Background research](/fudan/human-practices/#_3-4-meeting-with-u-power) |
 | August 15th | [CUS-China 2024](https://2024.igem.wiki/csu-china/)<br>[HNU-China 2024](https://2024.igem.wiki/hnu-china/) | [Exchange project ideas](/fudan/human-practices/#)                                      |
-| August 16th | [Chinese National Engineering Research Center for Control & Treatment of Heavy Metal Pollution](https://zjsgczx.csu.edu.cn/)<br>[G-Green E-Eco M-Manufacture](https://www.gem.com.cn/gb/index.html)<br>[Yi-si-bei](https://www.cps88.cn/) | [Applications of our hardware](/fudan/human-practices/#c2-9-discuss-with-prof-lin) |
+| August 16th | [Chinese National Engineering Research Center for Control & Treatment of Heavy Metal Pollution](https://zjsgczx.csu.edu.cn/)<br>[G-Green E-Eco M-Manufacture](https://www.gem.com.cn/gb/index.html)<br>[Yisibei](https://www.cps88.cn/) | [Applications of our hardware](/fudan/human-practices/#c2-9-discuss-with-prof-lin) |
 
 
 <div style="text-align: center;" id="fig1">

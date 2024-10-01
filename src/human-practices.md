@@ -637,7 +637,7 @@ After further research and discussions, we created hardware designs for natural 
 Inspired by Professor Lin Zhang, we aimed to enhance the hardware design for treating industrial nickel wastewater from an industrial perspective. 
 
 
-On September 10, during our visit to the Suzhou Yisibei pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing MINERAL hardware suitable for industrial environments. 
+On September 10, during our visit to the [Suzhou Yisibei](https://www.cps88.cn/) pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing MINERAL hardware suitable for industrial environments. 
 
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-victory-4.jpg" style="width: 100%">

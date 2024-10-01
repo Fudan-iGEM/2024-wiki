@@ -113,7 +113,7 @@ We present four interrelated modules to tackle the problems identified in the pr
 
 ### 1. Nickel Enrichment Module
 
-**a)**    **Nickel Transport Proteins**
+#### a) Nickel Transport Proteins
 
 We introduce two sets of nickel transport proteins to maximize the influx of nickel ions.
 
@@ -121,7 +121,7 @@ We introduce two sets of nickel transport proteins to maximize the influx of nic
 - **NixA**: A monomeric protein belonging to the nickel-cobalt transporter (NiCoT) family[^14]. To increase transport efficiency, dimerization can be accomplished with NixA-FKBP fusion proteins and linker compound[^15].
 
 
-**b)**    **Prevent Nickel Efflux**
+#### b) Prevent Nickel Efflux
 
 To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR at its Cys35 residue so that it remains in a repressing state despite rising concentrations of nickel. As the expression of RcnA is repressed, the efflux of nickel ion is lowered, thereby maintaining high cytosolic nickel concentrations.
 
@@ -132,7 +132,7 @@ To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR a
 
 ### 2. Survival Module
 
-**a) Heavy Metal Tolerance**
+#### a) Heavy Metal Tolerance
 
 Inspired by *Helicobacter pylori*’s natural defense against high cytosolic nickel concentrations[^16], we choose to express two types of nickel binding proteins that can lower cytosolic heavy metal concentrations. This protects *E. coli* from the detrimental effects caused by nickel ions and other heavy metals possibly present in industrial wastewater. 
 
@@ -142,7 +142,7 @@ Inspired by *Helicobacter pylori*’s natural defense against high cytosolic nic
 Although both proteins serve to increase bacteria tolerance to cytosolic nickel levels, their difference in amino acid composition help to reduce the overall burden on *E. coli*.
 
 
-**b) Phage resistance**
+#### b) Phage resistance
 
 The initial step of bacteriophage infection is its adsorption to host receptors, and bacteria has evolved various methods to defend against phages. Lipopolysaccharide (LPS) is a natural protective barrier, blocking phage adsorption[^19].
 
@@ -153,7 +153,7 @@ We overexpress YejM to upregulate the production of LPS, blocking recognition si
 </div>
 
 
-**c) Anti-Free and Anti-UV**
+#### c) Anti-Free and Anti-UV
 
 The [Anti-Freeze](https://2023.igem.wiki/fudan/results/#anti-freeze-module) and [Anti-UV](https://2023.igem.wiki/fudan/results/#_1-survival-system) modules developed in [2023](https://2023.igem.wiki/fudan/results/) are both useful to increase bacteria's ability to survive in the wastewater environment, which could be employed if needed.
 
