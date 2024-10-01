@@ -8,21 +8,26 @@ headergif: https://static.igem.wiki/teams/5115/header/software-header.gif
 
 <br><br>
 
-Try PartHub 3.0 [here](https://fudanigem2024.scm.azurewebsites.net/) (TBA) or follow the [installation pipeline](#tutorial) to deploy our software on your computer!
+:::tip
+
+Try PartHub 3.0 [here](http://47.97.85.37:5000/) or follow the [installation pipeline](#tutorial) to deploy our software on your own device!
+
+:::
 
 
 ## Highlights
 
-- Efficiently uses the iGEM Registry and supports relevant synthetic biology standards like Genbank and FASTA format
-- Validation against both published and new experimental data, with detailed documentation and user studies
-- Well-documented APIs and programmatic access; easy integration with Snapgene
+- Efficiently uses the iGEM Registry and supports relevant synthetic biology standards such as Genbank and FASTA format
+- Validation against both published and new experimental data
+- Flexible and adaptable design, can be easily tailored to a wide range of application scenarios
+- Well-documented APIs; easy integration with Snapgene
 - Intuitive web UI, comprehensive documentation, and detailed tutorial
 
 ## Overview
 
 Parts are at the core of synthetic biology, and over the years, Fudan's software has been dedicated to providing useful tools for parts management and analysis ([Table 1](#table1)). Our initial efforts, [PartHub 1.0](https://2022.igem.wiki/fudan/software) and [PartHub 2.0](https://2023.igem.wiki/fudan/software), were well-received for their features in displaying parts' citation relationships and enhancing search functionality. However, a critical gap remained: the importance of **sequence information** for parts. While citation relationships and search functionalities are valuable, the sequence of a part is arguably the most essential piece of information. The sequence not only defines the functional properties of a part but also influences its compatibility and performance in host organisms.
 
-Therefore, we are excited to introduce **PartHub 3.0** this year, which addresses this gap by focusing on two critical aspects of parts: **burden estimation** and **similarity query**.
+Therefore, we are excited to introduce **PartHub 3.0** this year, which addresses this gap by focusing on two critical aspects of parts: **burden estimation** and **similarity query** ([Table 1](#table1)).
 
 <div style="text-align: center;" id="table1">
           <span style="color: gray">Table 1: Comparison of PartHub 1.0-3.0</span>
@@ -34,11 +39,11 @@ Therefore, we are excited to introduce **PartHub 3.0** this year, which addresse
 |2.0|Enhanced Search Functionality|Users can quickly find the parts they are interested in thanks to advanced search and recommendation algorithm.|
 |3.0|Parts Burden Estimation and Similarity Query|Apart from the features above, researchers can also understand the burden of different parts and find parts similar to their target part.|
 
-### Schematic Figure
+In our software, 
 
 <div style="text-align: center;" id="figure-1">
 <img src="https://static.igem.wiki/teams/5115/software/schematic2.png"
-style='width:80%'>
+style='width:100%'>
 <br>
 <div>
 <p><small style="color: gray">Figure 1. Schematic figure of PartHub 3.0.
@@ -46,33 +51,116 @@ style='width:80%'>
 </div>
 </div>
 
+
 ## Features
 
 PartHub 3.0 is designed with a strong emphasis on user-friendliness, ensuring that researchers without computer science background can also easily navigate and utilize its advanced features. The frontend of our software is built using [Vue.js 3.0](https://vuejs.org/) and [Ant Design Vue 4.2.3](https://antdv.com/components/overview) to enhance the visual appeal and usability of the application. On the backend, we employ [Flask](https://flask.palletsprojects.com/en/3.0.x/) for efficient and scalable development. For data storage, we use [Neo4j 5.11](https://neo4j.com/), a powerful graph database that excels in managing large datasets with complex relationships. This combination of technologies ensures that PartHub 3.0 is not only robust but also intuitive and accessible.
 
 Our software is compatible with the following browsers:
 
-| <img src='https://static.igem.wiki/teams/5115/software/edge-logo.svg' style='height:2rem'>Edge | <img src='https://static.igem.wiki/teams/5115/software/firefox-logo.svg' style='height:2rem'>Firefox | <img src='https://static.igem.wiki/teams/5115/software/chrome-logo.svg' style='height:2rem'>Chrome | <img src='https://static.igem.wiki/teams/5115/software/safari-logo.svg' style='height:2rem'>Safari | <img src='https://static.igem.wiki/teams/5115/software/opera-logo.svg' style='height:2rem'>Opera |
+| <img src='https://static.igem.wiki/teams/5115/software/edge-logo.svg' style='height:1.6rem'>Edge | <img src='https://static.igem.wiki/teams/5115/software/firefox-logo.svg' style='height:1.6rem'>Firefox | <img src='https://static.igem.wiki/teams/5115/software/chrome-logo.svg' style='height:1.6rem'>Chrome | <img src='https://static.igem.wiki/teams/5115/software/safari-logo.svg' style='height:1.6rem'>Safari | <img src='https://static.igem.wiki/teams/5115/software/opera-logo.svg' style='height:1.6rem'>Opera |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Edge version≥116                                             | version≥116                                                  | version≥116                                                  | version≥18                                                   | version≥100                                                  |
+| version≥116                                                  | version≥116                                                  | version≥116                                                  | version≥18                                                   | version≥100                                                  |
+
+#### API
 
 To facilitate integration with other tools and platforms, we have also created comprehensive and easy-to-use RESTful APIs for our software. The API documentation provides detailed information on all available endpoints, including request and response formats and example usage.
 
-<PDF url="https://static.igem.wiki/teams/5115/software/software-apis.pdf" page="1" width="100%" height='75vw' />
+<PDF url="https://static.igem.wiki/teams/5115/software/software-apis1.pdf" page="1" width="100%" height='75vh' />
 
-To ensure the continuous improvement of PartHub 3.0, we have compiled a detailed [document](link TBA). We have also uploaded our source code on [Gitlab](https://gitlab.igem.org/2024/software-tools/fudan), and created a [Docker image](https://hub.docker.com/repository/docker/chc1234567890/fudanigem2024/general).
+#### Document
 
-**(pdf TBA)**
+To ensure the continuous improvement of PartHub 3.0, we have compiled a detailed [document](link TBA). We have also uploaded our source code on [Gitlab](https://gitlab.igem.org/2024/software-tools/fudan), and created a [Docker image](https://hub.docker.com/repository/docker/chc1234567890/fudanigem2024/general) for easier installation.
+
+<!--<PDF url="https://" page="1" width="100%" height='75vh' />-->
 
 ## Tutorial
 
 ### 1. Installation
 
-**TBA**
+::: details Installation
+
+You can directly visit our **live demo** at http://47.97.85.37:5000/.
+
+#### Install with readily available docker image
+
+Please install [docker](https://www.docker.com/) first, and create a file named `docker-compose.yml` with the following content in your working directory:
+
+```yaml
+services:
+  flask:
+    image: chc1234567890/fudanigem2024:1.0.0
+    ports:
+      - "5000:5000"
+    restart: always
+    depends_on:
+      - parthub
+    environment:
+      - SERVER_URL=bolt://parthub:7687
+      - SERVER_USER=neo4j
+      - SERVER_PASSWORD=igem2024
+  parthub:
+    image: neo4j:5.11
+    restart: always
+    environment:
+      - NEO4J_AUTH=neo4j/igem2024
+      - NEO4J_PLUGINS=["graph-data-science"]
+      - NEO4J_dbms_security_procedures_allowlist=gds.*
+      - NEO4J_dbms_security_procedures_unrestricted=gds.*
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    deploy:
+      resources:
+        reservations:
+          memory: 2G
+```
+
+Then, open the terminal (in Windows, cmd or powershell; in Linux and mac, bash), change the working directory to where `docker-compose.yaml` is and run the following command:
+
+```bash
+docker compose up -d
+```
+
+Once the deployment is complete, PartHub 3.0 will be running at [http://localhost:5000](http://localhost:5000/).
+
+#### Install from source code on Gitlab
+
+The software use [docker](https://www.docker.com/) and [node.js](https://nodejs.org/en) for deployment, so please install them first!
+
+For Linux and mac platform, run the following commands in bash:
+
+```bash
+git clone https://gitlab.igem.org/2024/software-tools/fudan.git
+cd fudan/webUI
+npm install
+cd ..
+bash pack.sh
+```
+
+For Windows platform, run the following commands in cmd or powershell:
+
+```bat
+git clone https://gitlab.igem.org/2024/software-tools/fudan.git
+cd fudan/webUI
+npm install
+cd ..
+pack.bat
+```
+
+Once the deployment is complete, PartHub 3.0 will be running at [http://localhost:5000](http://localhost:5000/).
+
+:::
 
 ### 2. Burden Predictor
 
-**TBA**
+
+
+:::tip
+
+**Warning: ** Do not include Non-ASCII characters in the sequence file, or it may cause error!
+
+:::
 
 ### 3. Similar Parts Searching
 
@@ -84,13 +172,17 @@ To ensure the continuous improvement of PartHub 3.0, we have compiled a detailed
 
 As synthetic biology continues to advance, the parts being introduced into cells are becoming increasingly complex. However, introducing complex parts into cells can increase the metabolic burden, thereby slowing down the growth rate of the cells. Excessive burden can lead to significant selective pressure, causing engineered bacteria to mutate back to their wild-type forms more quickly, which can result in the engineered cells being out-competed by their less functional or non-functional mutants[^1]. Therefore, it is crucial to investigate why some parts impose a greater burden than others.
 
-When cells express heterologous genes, they must utilize their own resources, such as ribosomes, tRNAs, and ATP. The limited availability of these resources for gene expression is one of the primary and most predictable sources of cellular burden. A recent study measured the burden of 301 parts from iGEM registry and found that the depletion of gene expression resources was the main cause of the observed burden[^2]. However, there are currently no methods available to predict the burden of a part based on its sequence and structure. Therefore, we have developed a model that takes into account the allocation of gene expression resources within the cell, using only the sequence and structure of the part as input.
+When cells express heterologous genes, they must utilize their own resources, such as ribosomes, tRNAs, and ATP. The limited availability of these resources is one of the primary and most predictable sources of cellular burden. A recent study measured the burden of 301 parts from iGEM registry and found that the depletion of gene expression resources was the main cause of the observed burden[^2]. However, there are currently no methods available to predict the burden of a part based on its sequence and structure.
+
+To address these issues, we have developed **Burden Predictor** that takes into account the allocation of gene expression resources within the cell, using only the sequence and structure of the part as input.
 
 ### Implementation
 
 #### Model Construction
 
-The core of Burden Predictor is an improved version of the mechanistic model framework from Weiße et al.[^3] and Nikolados et al.[^4]. We did not choose genome-scale models or machine learning models because of their computational intensity and time consumption, as well as the scarcity of high-quality data.
+The core of Burden Predictor is an improved version of the mechanistic model framework from Weiße et al. and Nikolados et al.[^3][^4] We did not choose genome-scale models or machine learning models because of their computational intensity and time consumption, as well as the scarcity of high-quality data.
+
+Moreover, we selected *Escherichia coli* as our host organism for initial development and validation. However, the model is designed to be flexible and adaptable, allowing researchers to conveniently model the burden in other host organisms by simply changing the parameters of the model. This flexibility ensures that our software can be widely applied across different situations, making it a versatile tool for synthetic biology research.
 
 As illustrated in [Figure 4](#figure-4), our model incorporates the basic gene expression processes including transcription (TX) and translation (TL). Transcription is simplified into a dumped process, while translation contains two stages - initiation, when the ribosome binds to the ribosome binding site (RBS) of the mRNA; and elongation, when the ribosome moves along the open reading frame and produces polypeptide chain.
 
@@ -105,13 +197,27 @@ style='width:80%'>
 </div>
 
 
-To capture how cells allocate their resources across various types of proteins, we partitions the proteome into five components, including heterologous proteins (expressed by the parts introduced into the cell), ribosomes, metabolic enzymes, transporters, and housekeeping proteins. In our model, mRNA transcripts compete for free ribosomes and energy for translation, leading to a competitive environment where genes from the introduced parts must contend with native genes for cellular resources. This competition, coupled with the dilution of heterologous proteins due to the predicted growth rate, creates a two-way interaction between the parts and the cellular host.
+To capture how cells allocate their resources across various types of proteins, we partitions the proteome into five components, including heterologous proteins (expressed by the parts introduced into the cell), ribosomes, metabolic enzymes, transporters, and housekeeping proteins. In our model, mRNA transcripts compete for free ribosomes and energy for translation, leading to a competitive environment where genes from the introduced parts must contend with native genes for cellular resources. This competition, coupled with the dilution of heterologous proteins due to the predicted growth rate, creates a two-way interaction between the parts and the cellular host. The burden of a part is defined as the reduction percentage of the growth rate of the host organism compared to the wild type.
 
 To make our software more useful to synthetic biology, we have introduced the commonly used parameters of parts into our software, including plasmid copy number, promoter strength, RBS strength, and the length the coding sequence (CDS). In our software, plasmid copy number and promoter strengths is modeled as the maximal TX rate of a gene, RBS strengths the binding affinity and dissociation constant between transcripts and ribosomes, and CAI the maximum TL elongation rate. These features allow synthetic biologists to explore how different environmental and genetic conditions influence the behavior of gene circuits within the host cell.
 
-We built a small library containing several commonly used basic parts (promoters, RBS, CDS) with experimentally validated promoter strength and RBS strength **(pdf TBA)**. For the basic parts not in the parts library, we employed [Promoter Calculator](https://github.com/barricklab/promoter-calculator) and [RBS calculator](https://github.com/hsalis/Ribosome-Binding-Site-Calculator-v1.0) to estimate the promoter strength and RBS strength based on their sequences, respectively[^5][^6].
+We have also built a small library containing several commonly used basic parts, including promoters, RBS, and CDS. These parts have been experimentally validated for their promoter strength and RBS strength.
+
+<PDF url="https://static.igem.wiki/teams/5115/software/software-basic-parts-lib.pdf" page="1" width="100%" height='75vh' />
+
+For basic parts not included in our library, we employ the [Promoter Calculator](https://github.com/barricklab/promoter-calculator) and [RBS Calculator](https://github.com/hsalis/Ribosome-Binding-Site-Calculator-v1.0) to estimate the promoter strength and RBS strength based on their sequences, respectively[^5][^6]. These tools use advanced algorithms to predict the functional properties of sequences, ensuring that users can accurately assess the performance of new parts.
+
+Users have several options to add new parts to the Burden Predictor:
+
+1. **Input the Part's Sequence**: Manually enter the sequence of the part directly into the software.
+2. **Upload the Sequence File**: Upload sequence files in Genbank or FASTA format.
+3. **Search the iGEM Registry by PartHub**: Use PartHub to search the iGEM Registry for parts of interest and add them to the Burden Predictor.
+
+For detailed instructions on how to use these features, please refer to our [tutorial](https://yanglab.westlake.edu.cn/chat/1839852143880699904#_2-burden-predictor).
 
 #### Methods
+
+::: details Modeling of TX rate, TL initiation rate and TL elongation rate
 
 In Burden Predictor, we model **TX rate** of the i-th heterologous gene as maximum TX rate multiplies a function of energy: 
 
@@ -141,20 +247,17 @@ $$\gamma(a) = \frac{\gamma_{\max}a}{K_{\gamma} + a}$$
 
 where $\gamma_{\max}$ is the maximum TL elongation rate, and $K_{\gamma}$ the energy required when the rate reaches half-maximum.
 
-Further details on the construction and parametrization of Burden Predictor can be found in the Methods section of the software documentation.
+:::
 
-**(pdf TBA)**
-
-
-w_rep for inducible promoter
-
-Promoter & RBS Strength Calculation
+Further details on the construction and parametrization of Burden Predictor can be found in our [document](#document).
 
 ### Results
 
 #### Parameter fitting
 
-Considering the characteristics of the [data](https://static.igem.wiki/teams/5115/software/fitting-data.pdf) we used, we manually set $\beta_{n}$ to 200 and fitted $\beta_{prom}$ and $\beta_{RBS}$ using the function`curve_fit` from [SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html). The fitting result is shown in [Figure 5](#figure-5).
+To calibrate our models and ensure they accurately reflect the experimental data, we performed parameter fitting using the `curve_fit` function from the [SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html) library. The data we used for this process is detailed in the [fitting data table](https://static.igem.wiki/teams/5115/software/fitting-data.pdf). Given the characteristics of this data, we manually set the parameter $\beta_n$ to constant. The remaining parameters, $\beta_{prom}$ and $\beta_{RBS}$, were fitted using `curve_fit`. The value of these parameters can be found in our [document](#document).
+
+To validate the fitting, we plotted the experimental burden against the predicted burden and performed a linear regression analysis, which yielded an $R^2$ value of 0.7304, indicating a good fit between the experimental and predicted data ([Figure 5](#figure-5)).
 
 <div style="text-align: center;" id="figure-5">
 <img src="https://static.igem.wiki/teams/5115/software/fitting.png"
@@ -165,7 +268,6 @@ style='width:80%'>
 </small></p>
 </div>
 </div>
-
 #### Benchmarking of Promoter Calculator and RBS Calculator
 
 To test the accuracy of the Promoter Calculator and the RBS Calculator, we conducted a benchmarking process for both of the calculators. This benchmarking involves converting the predicted data from these calculators to the same magnitude as the experimental data, ensuring direct comparability and integration into our software.
@@ -208,87 +310,125 @@ The data used for benchmarking can be accessed [here](https://static.igem.wiki/t
 
 #### Validation against experimental data
 
-1. we chose several parts that have been measured by experiments[^2].
+We selected a set of parts that have been previously measured by experiments[^2], and performed predictions for these selected parts using our software and compared the predicted burden values with the experimental data. The results are summarized in [Figure 9](#figure-9), which plots the experimental burden against the predicted burden.
 
-2. 我们自己做的parts
+<div style="text-align: center;" id="figure-9">
+<img src="https://static.igem.wiki/teams/5115/software/burden-against-published.png"
+style='width:80%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 9. Experimental burden of parts from [2] vs. Predicted burden calculated by Burden Predictor
+</small></p>
+</div>
+</div>
 
-wiki 上放所有实验 parts 的 experimental_burden-simulated_burden 图
+我们自己做的parts **(TBA)**
 
-parts used table & experimental data 放到 static 上去，链接
-
-#### Relationship between burden and $H_{prom}$, $H_{RBS}$, and CDS length, etc.
-
-##### Burden vs. H_prom
-
-The burden of a promoter (H_prom) is a critical factor that influences the expression levels of downstream genes. We analyzed the relationship between the burden and the promoter strength (H_prom) to understand how promoter strength affects the metabolic burden. The resulting scatter plot and heatmap show the distribution of promoter burdens across various parts in the iGEM Registry. This analysis helps in identifying promoters that are less likely to cause significant metabolic burden, which is crucial for maintaining cell viability and efficient gene expression.
-
-##### Burden vs. H_RBS
-
-The ribosome binding site (RBS) is another key element that affects gene expression. We evaluated the relationship between the burden and the RBS strength (H_RBS) to determine its impact on the model's predictions. The scatter plot and heatmap of burden vs. H_RBS illustrate the distribution of RBS burdens and help in selecting RBS sequences that optimize protein production without imposing excessive metabolic load on the cell.
-
-##### Burden vs. H_prom and H_RBS Heatmap
-
-To gain a comprehensive understanding of the combined effects of promoters and RBSs, we created a heatmap that visualizes the burden of both elements together (H_prom and H_RBS). This heatmap provides insights into the synergistic or antagonistic effects of promoter and RBS combinations. By identifying optimal combinations, researchers can design constructs that achieve the desired expression levels with minimal metabolic burden.
-
-##### Burden vs. CDS Length
-
-The length of the coding sequence (CDS) can also influence the metabolic burden and expression efficiency. We analyzed the relationship between the burden and the length of the coding sequences (CDS_length). The resulting heatmap and scatter plot show how CDS length affects the metabolic burden. This analysis is particularly useful for designing constructs with long CDSs, ensuring that they do not overwhelm the cellular machinery.
-
-### Discussion
-
-Flexible for further development
+The detailed information and data of the parts can be accessed [here]. **(TBA)**
 
 ## Similarity Estimator
 
 ### Introduction
 
-Sequences are fundamental in synthetic biology, and any improvements or optimizations based on them can significantly enhance the design and experimental efficiency of biological constructs. Recognizing that similar parts are more likely to have similar biological characteristics and functions, we have developed the Similarity Estimator, a tool that can estimate the similarity of parts in the iGEM Registry. This tool is now integrated into our previously developed PartHub, leveraging both sequence and category information to provide a comprehensive similarity score. By identifying and utilizing parts with similar properties, researchers can streamline the process of designing and testing new biological constructs, thereby accelerating their research and development efforts.
+Sequences are fundamental in synthetic biology, and any improvements or optimizations based on them can significantly enhance the design and experimental efficiency of biological constructs. Recognizing that similar parts are more likely to have similar biological characteristics and functions, we have developed the **Similarity Estimator**, a tool that can estimate the similarity of parts in the iGEM Registry.
+
+This tool is seamlessly integrated into our previously developed [PartHub](https://2023.igem.wiki/fudan/software/#parthub-2), allowing users to visualize both the citation and similarity relationships between different parts. Similar to the Burden Predictor, the Similarity Estimator allows users to manually input sequences, upload sequence files in Genbank or FASTA format, or search for parts of interest within PartHub. Our software enables researchers to easily identify and analyze parts with similar biological properties, facilitating more efficient synthetic biology design and experimentation.
 
 ### Implementation
 
-Initially, we tried to estimate the similarity of parts by text embeddings based on k-mers. It is 一种新兴的基于机器学习的序列相似度计算方法. However, 这种方法不能过于注重全局，不能很好捕获局部特征，也不能……（请自行思考并添加）. Therefore, we employ BLAST (Basic Local Alignment Search Tool) to align sequences and calculates similarity based on one of its key indicator of sequence similarity - the bitscore. The primary reason for this choice is that BLAST is a robust method for sequence alignment, providing reliable bitscores that reflect the degree of sequence similarity. Additionally, using the bitscore allows for a more precise and biologically meaningful comparison of sequences compared to k-mer-based methods, which can be less sensitive to small but significant differences.
-
-To further enhance the similarity assessment, the software also considers the category labels of parts from the iGEM Registry. This is achieved by calculating the number of shared categories and assigning a weight to each category based on its hierarchical level. This approach ensures that parts with similar functional annotations are given higher similarity scores.
-
-The similarity relationships and reference relationships between parts are stored in a Neo4j database. Neo4j is a powerful graph database that is well-suited for handling complex relationships and providing efficient queries. This allows for quick and accurate retrieval of similarity information.
-
-For visualization, the software uses Neovis.js, a JavaScript library that provides an intuitive and interactive way to explore the graph data. This visualization helps users to understand the relationships between parts and identify clusters of similar parts.
-
-When calculating the similarity between parts, the software excludes reference and twin parts to avoid redundancy and ensure that the similarity scores are meaningful. Reference parts are often duplicates or highly similar to other parts, and twins are exact copies, which can skew the similarity scores.
-
-The software does not distinguish between basic parts and composite parts when calculating similarity. This is because both types of parts can have significant biological relevance, and distinguishing between them may overlook important similarities. By treating all parts equally, the software provides a more comprehensive and inclusive similarity assessment.
-
 #### Sequence similarity
 
-BLAST    bitscore identity e-value<1e-5
+Initially, we explored estimating the similarity of parts using k-mer embeddings, a machine learning-based method for sequence similarity calculation. However, this approach tends to focus too much on global features and fails to capture local characteristics effectively. Therefore, we employ [**BLAST**](https://blast.ncbi.nlm.nih.gov/Blast.cgi) (Basic Local Alignment Search Tool), a well-established method for sequence alignment and similarity comparison, to align sequences and estimate similarity scores. The score is calculated based on its key indicator, the **bitscore**, which is a robust measure of the alignment's quality. The primary reason for this choice is that BLAST is a robust method for sequence alignment, and using the bitscore allows for a more precise and biologically meaningful comparison of sequences compared to k-mer embedding methods.
+
+Our software begins by constructing a database of part sequences. When a query is received, the software aligns the sequence of the queried part against the database. To ensure high-quality alignments, the results are filtered by an E-value threshold of less than $10^{-5}$. The E-value is a statistical measure in BLAST that indicates the number of alignments expected to occur by chance. A lower E-value signifies a higher confidence in the alignment, indicating a stronger similarity between the query and the database sequences.
+
+After filtering the alignments, our software scales the bitscore of each result by the maximum bitscore among all the results, ensuring that the similarity scores are comparable across different alignments.
+
+The sequence similarity score, denoted as $\text{SeqScore}$ is then calculated by combining the scaled bitscore and the identity, each weighted differently. The identity represents the percentage of nucleotides that are identical between the query and the database sequence. The formula for the sequence similarity score between part i and part j is as follows:
 
 $$\text{SeqScore}_{i,j} = \max\limits_{\text{id}(k)=(i,j)} (0.8 \times \frac{\text{BitScore}_k}{\max\limits_l \text{BitScore}_l} + 0.2 \times \text{identity}_k)$$
 
+If two parts have multiple alignments, the software selects the maximum sequence similarity score among all the alignments. 
+
 #### Category similarity
 
-共有的category数量
+Our software also considers the [category labels from the iGEM Registry](https://parts.igem.org/Categories). This is achieved by calculating the number of shared categories and assigning a weight to each category based on its hierarchical level. This approach ensures that parts with similar functional annotations are given higher similarity scores.
 
-$c_{i,j}$ : array - the category labels both A and B have
+The category similarity score, denoted as $\text{CatScore}$, is calculated using the following formula:
 
-$d_{i,j}$ : array - the level of category of $c_{i,j}$
+$$\text{CatScore} = \sum\limits_{i} B^{d_{i}}$$
 
-$$\text{CatScore}_{i,j} = \sum\limits_{k} B^{d_{i,j,k}}$$
+where:
 
-where $B=1.5$
+- $\{c_i\}$ is the array of category labels that both parts A and B share.
+- $\{d_i\}$ is the array of hierarchical levels of the shared categories $c_i$.
+- $B=1.5$ is a constant that determines the weight of each hierarchical level.
 
-#### overall score
+#### Overall similarity
 
-$$\text{OverallScore}_{i,j} = \min (\text{SeqScore}_{i,j} + \text{CatScore}_{i,j}, 100)$$
+The overall similarity score is calculated as follows:
 
-#### similarity comparison between database and uploaded file
+$$\text{OverallScore} = \min (\text{SeqScore} + \text{CatScore}, 100)$$
 
-### Example
+#### Visualization
 
-以今年的parts为例
+After calculating the similarity scores, our software will list the top similar parts of the queried part, and show the similarity relationships of the queried part along with the reference relationships built in [PartHub 2.0](https://2023.igem.wiki/fudan/software/#parthub-2).
+
+The similarity relationships and reference relationships between parts are stored in a Neo4j database, a powerful graph database well-suited for handling complex relationships. For visualization, the software uses [Neovis.js](https://neo4j-contrib.github.io/neovis.js/), a JavaScript library that provides an interactive way to explore the graph data.
 
 ## DBTL Cycle
 
-写几次code review里面的更改
+(the following will be transferred to Engineering page)
+
+### First Round
+
+#### Design
+
+In the initial design phase, we focused on developing a method to calculate the burden of a certain part and the similarity between biological parts. We decided to use k-mer embeddings combined with K-Nearest Neighbors (KNN) to compute the similarity scores at first. The k-mer embeddings were chosen because they capture global features of the sequences, which we believed would provide a robust basis for similarity calculations. The goal was to create a tool that could predict the burden of parts based on their sequences and integrate this functionality into PartHub 2.0.
+
+#### Build
+
+During the build phase, we implemented the k-mer embeddings and KNN algorithm to calculate the similarity scores. We developed a basic WebUI framework to input sequences, upload files, and display the similarity results. The burden calculation module was also initiated, but it was not yet fully integrated into the WebUI. We focused on ensuring that the similarity calculation functioned correctly and that the results were displayed in a clear and understandable format.
+
+#### Test
+
+We conducted initial testing of the similarity calculation using a set of known parts and their sequences. The k-mer embeddings and KNN algorithm produced similarity scores, but the results were not as expected, because the global features captured by k-mer embeddings did not accurately reflect the biological similarity between parts, particularly in cases where functional annotations and specific sequence features were more important. The burden calculation module was also tested, but it was incomplete and did not provide reliable predictions.
+
+#### Learn
+
+From the initial testing, we learned that k-mer embeddings, while useful for capturing global sequence features, were not sufficient for accurately measuring the biological similarity between parts. Therefore, we decided to switch to using BLAST for similarity calculations, as it is better suited for aligning sequences and identifying local similarities, which are crucial for biological function. The corresponding commit on Gitlab can be accessed [here](https://gitlab.igem.org/2024/software-tools/fudan/-/commit/4238e76316cd369e80f846098d99e58f28e039b8).
+
+### Second Round
+
+#### Design
+
+In the second round, we refocused our design efforts on using BLAST for similarity calculations. We also addressed the feedback from our advisor regarding the WebUI. The goal was to create a more intuitive and user-friendly interface that would facilitate the use of the similarity and burden prediction tools. We planned to integrate the similarity results more effectively into the search pipeline to provide a comprehensive view of part relationships.
+
+#### Build
+
+During the build phase, we implemented the BLAST algorithm to calculate the similarity scores. We also refined the WebUI by optimizing the layout and size of components, making the interface more intuitive. We added more descriptive text and annotations to help users understand the functions and features of the tool. The burden calculation module was fully integrated into the WebUI, allowing users to input sequences, upload files, and view burden predictions alongside similarity results.
+
+#### Test
+
+We conducted extensive testing of the updated similarity and burden prediction tools. The BLAST algorithm produced more accurate and biologically relevant similarity scores, reflecting the specific functional annotations and sequence features of the parts. The WebUI was tested by our team members ([Figure 10](#figure-10)) and advisors, who gave us valuable suggestions and provided [feedback](https://gitlab.igem.org/2024/software-tools/fudan/-/merge_requests/1) on the usability and intuitiveness of the interface. We made additional adjustments based on this feedback to further improve the user experience.
+
+<div style="text-align: center;" id="figure-10">
+<img src="https://static.igem.wiki/teams/5115/software/dbtl-discussion.jpg"
+style='width:80%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 10. Discussion with our team members on our software
+</small></p>
+</div>
+</div>
+
+#### Learn
+
+From the second round of testing, we learned that the BLAST algorithm significantly improved the accuracy of the similarity calculations. We also [integrated](https://gitlab.igem.org/2024/software-tools/fudan/-/commit/21353ed9fc3d4f9df1c612e61bcfe73a435eecb9) the similarity results into the search pipeline, which enhanced the overall functionality of the tool. We have documented the improvements of our software in [Changelog](https://gitlab.igem.org/2024/software-tools/fudan/-/blob/main/CHANGELOG.md).
+
+
+
+During the development of our software, we adhered to a structured Design-Build-Test-Learn (DBTL) cycle to ensure continuous improvement and alignment with user needs. We received valuable suggestions and feedback from our team members and advisors, which was crucial in refining our software. We followed the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) at all times, and maintained a [Changelog](https://gitlab.igem.org/2024/software-tools/fudan/-/blob/main/CHANGELOG.md) to keep track of our improvements. Please visit the [Engineering](https://2024.igem.wiki/fudan/engineering/) page for detailed information.
 
 ## Reference
 
