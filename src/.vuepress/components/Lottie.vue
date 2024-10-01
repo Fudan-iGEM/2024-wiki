@@ -20,6 +20,10 @@ export default {
               width: this.width ? `${this.width}px` : '100%',
               height: this.height ? `${this.height}px` : '100%',
               overflow: 'hidden',
+              /* position: 'absolute', */
+              top: 0,
+              left: 0,
+              bottom: 0,
           }
       }
   },

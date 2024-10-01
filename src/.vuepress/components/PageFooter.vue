@@ -64,6 +64,7 @@
     position: relative;
     background-color: #FEBC5B; 
   }
+  /*  */
   html[data-theme="dark"] .footer-wrapper{
     background-color: #df9226; 
 }

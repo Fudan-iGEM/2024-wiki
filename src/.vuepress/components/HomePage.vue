@@ -81,8 +81,8 @@
       />
 
       <g mask="url(#m)">
-        <rect fill="#CDE3EC" width="100%" height="100%" />
-        <text x="350" y="200" fill="#162a43" class="title">I saw three ships on sailing in.</text>
+        <rect fill="#CDE3EC" width="100%" height="100%" class="gan"/>
+        <text x="920" y="10" class="title">I saw three ships on sailing in.</text>
       </g>
     </svg>
   </div>
@@ -583,7 +583,7 @@
       </div>
     </section>
 
-    <section class="page-12" id="lls-love-2">
+<!--     <section class="page-12" id="lls-love-2">
       <div class="background-container">
         <img 
             src="https://static.igem.wiki/teams/5115/data2/new-page11-background.png"
@@ -601,25 +601,34 @@
             class="word14"
         />
       </div>
-    </section>
+    </section> -->
 
     <section class="page-11" id="gift">
       <div class="background-container">
-        <lottie :options="earthOptions"></lottie>
+        <lottie :options="earthOptions"  class="lottie-animation"></lottie>
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage11/new1-page11-cube.svg"
+            alt="NickelNickel"
+            class="nick"
+        />
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage11/new1-page11-word.svg"
+            alt="Word14"
+            class="word14"
+        />
+        <div class="waves">
+          <div class="wave" id="wave1"></div>
+          <div class="wave" id="wave2"></div>
+          <div class="wave" id="wave3"></div>
+          <div class="wave" id="wave4"></div>
+        </div>
       </div>
     </section>
     
     
     <!-- footer -->
     <footer>
-      <!-- Wave Section -->
-      <div class="waves">
-        <div class="wave" id="wave1"></div>
-        <div class="wave" id="wave2"></div>
-        <div class="wave" id="wave3"></div>
-        <div class="wave" id="wave4"></div>
-      </div>
-  
+      <!-- Wave Section -->  
       <div class="footer-wrapper" >
         <div class="logos">
           <a href="https://www.yfc.cn/" target="_blank">
@@ -1155,6 +1164,16 @@ export default {
             scrub: true, 
           }
         });
+        gsap.to(".gan", {
+          attr: { fill: "#FEBC5B" },
+          scrollTrigger: {
+            trigger: ".page-10",
+            start: "75% bottom",
+            end: "75% bottom", 
+            scrub: false, 
+            onLeaveBack: () => gsap.to(".gan", { attr: { fill: "#CDE3EC" }, duration: 0 }) // Revert to original color
+          }
+        });
       } else {
         // Clear GSAP properties for mobile
         gsap.set(['.cube', '.word10', '.word11'], { clearProps: 'all' });
@@ -1191,7 +1210,13 @@ export default {
     this.initPageBAnimations(gsap);
     this.initPage9Animations(gsap);
     this.initPage10Animations(gsap);
-
+    gsap.to('.nick', {
+      y: '+=50', // Move 20px down
+      duration: 2, // Duration of the float down
+      repeat: -1, // Repeat indefinitely
+      yoyo: true, // Reverse the animation
+      ease: 'power1.inOut' // Smooth easing
+    });
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
       const floatingTl = gsap.timeline({ repeat: -1, yoyo: true });
@@ -1289,6 +1314,10 @@ export default {
 
 <style scoped>
 /* Common styles */
+.title{
+  top: 0%;
+  z-index: 100;
+}
 body,
 html {
   width: 100%;
@@ -1301,7 +1330,10 @@ html {
   overflow-x: hidden; /* Prevent horizontal scrollbar */
   background-color: black !important;
 }
-
+footer{
+  margin: 0;
+  padding: 0;
+}
 .animation-container {
   position: fixed;
   top: 0;
@@ -1312,7 +1344,7 @@ html {
   pointer-events: none; /* Prevent the animation layer from blocking interactions */
   z-index: 1;
   overflow: hidden;
-  background-color: #CDE3EC;
+  background: linear-gradient(to bottom, #CDE3EC 90%, #FEBC5B 90%);
 }
 
 main {
@@ -1416,7 +1448,6 @@ section {
 .nickel-son,
 .cube,
 .time-svg,
-.nick,
 .noncolor-data2-graph-1,
 .noncolor-data2-graph-2,
 .noncolor-data2-graph-3,
@@ -1430,6 +1461,14 @@ section {
   height: auto;
   left: 0;
 }
+.nick{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  left: 0;
+}
+
 .text2,
 .text3,
 .text4,
@@ -1441,10 +1480,17 @@ section {
 .word8,
 .word9,
 .word11,
-.word10,
-.word14 {
+.word10{
   position: absolute;
   top: 0;
+  width: 100%;
+  height: auto;
+  left: 0;
+}
+
+.word14 {
+  position: absolute;
+  top: 10%;
   width: 100%;
   height: auto;
   left: 0;
@@ -1641,13 +1687,13 @@ footer{
 }
 .footer-wrapper {
     text-align: center;
-    padding: 2rem 1rem;
+/*     padding: 2rem 1rem; */
     position: relative;
     background-color: #FEBC5B; 
   }
-  html[data-theme="dark"] .footer-wrapper{
+/*   html[data-theme="dark"] .footer-wrapper{
     background-color: #df9226; 
-}
+} */
   .logos {
     margin-bottom: 2rem;
   }
@@ -1676,10 +1722,11 @@ html[data-theme="dark"] .custom-link {
   color: #2736c1;
 }
   /* Wave Animation Section */
-  /* .waves {
-    margin-top: 5vw;
+  .waves {
+/*     margin-top: 5vw; */
     position: relative;
     width: 100%;
+    
   }
   
   .wave {
@@ -1692,7 +1739,7 @@ html[data-theme="dark"] .custom-link {
     background: url(https://static.igem.wiki/teams/5115/czh/footer-light.png);
     background-size: 600px 1rem;
   }
-  html[data-theme="dark"] .wave{
+/*   html[data-theme="dark"] .wave{
     position: absolute;
     top: -0.99rem;
     left: 0;
@@ -1701,7 +1748,7 @@ html[data-theme="dark"] .custom-link {
     transition: 0.5s;
     background: url(https://static.igem.wiki/teams/5115/czh/footer-dark.png);
     background-size: 600px 1rem;
-}
+} */
   html[data-theme="dark"] .waves::after {
     content: "";
     clear: both;
@@ -1741,10 +1788,10 @@ html[data-theme="dark"] .custom-link {
     opacity: 0.1;
     bottom: 5rem;
     animation: animateWave_02 20s linear infinite;
-  } */
+  }
   
   /* Wave Animations */
-  /* @keyframes animateWave_02 {
+  @keyframes animateWave_02 {
     0% {
       background-position-x: 0px;
     }
@@ -1769,8 +1816,28 @@ html[data-theme="dark"] .custom-link {
     to {
       transform: rotate(360deg);
     }
-  } */
+  }
   .home-logo {
     animation: rotateLogo 0.27s steps(8) infinite;
   }
+
+
+  .nick,
+  .word14,
+  .waves {
+  position: absolute;
+  z-index: 200; /* 图片在上层 */
+}
+  .lottie-animation {
+/*   position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; */
+  z-index: 1; /* Lottie 在下层 */
+  margin: 0;
+  padding: 0;
+  bottom: 0;
+  }
+
 </style>
