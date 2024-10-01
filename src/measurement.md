@@ -8,85 +8,99 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 ## Introduction
 
-In our [MINERAL](/description/) project, we are working towards improving *Escherichia coli*'s ability to absorb nickel ions from water and convert them into safer nickel nanoparticles using hydrogenase enzymes. This involves introducing a variety of genetic modules into *E. coli* through plasmid transformation, each responsible for functions like nickel uptake, tolerance, and the assembly of our "microfactory."
+In our [MINERAL](/fudan/description/) project, we are working towards improving *Escherichia coli*'s ability to absorb nickel ions from wastewater and convert them into biosafe [nickel particles](/fudan/description/#_3-nickel-microparticle-module) using hydrogenase enzymes. This involves introducing a variety of genetic modules into *E. coli* using plasmid transformation. Different DNA modules are responsible for functions like nickel uptake, nickel tolerance, and concentrated nickel reduction in bacteria cytosol.
 
-However, these plasmids can impose varying metabolic demands on the host bacteria, making it essential to evaluate their impact on *E. coli*'s growth and overall fitness. To achieve controlled expression and minimize leakage that could hinder cell growth, we employ both arabinose and IPTG for induction in our *E. coli* strain. This dual induction strategy allows for optimal conditions for expressing our target proteins.However, different plasmids can impose varying metabolic burdens on the host cells, making it essential to assess their impact on *E. coli*'s growth and overall fitness.
+These genetic modules would impose varying metabolic demands on the host bacteria, making it essential to evaluate their impact on *E. coli*'s overall fitness, if we want our engineered bacteria to work healthly.
 
-Rather than relying solely on traditional growth curves, which can be time-consuming, we’ve chosen to implement "spot assays." This method provides a quicker and more efficient way to assess bacterial growth under stress, giving us valuable insights into how different plasmid constructs influence bacterial performance in nickel-rich environments.The data generated from these assays will also support the development of our [Software](/fudan/software/), which is designed to assess the metabolic pressure exerted by plasmids on *E. coli*, helping us validate our findings and optimize our engineering efforts.
+Rather than relying solely on bacteria growth curves from OD~600~ measurement, which can be time-consuming, we’ve adapted Spot Assay from yeast genetics studies. This method provides an efficient approach to assess bacterial growth over a large number of samples, giving us valuable insights into how different plasmids influence bacterial growth. [The data](#@@@@) generated from these spots also support the development of our [Software](/fudan/software/), which is designed to predict the metabolic pressure exerted by plasmids on *E. coli*, helping us optimizing our engineering efforts.
 
-## Method overview
+
+<div style="text-align: center;" id="fig-00">
+    <img src="https://static.igem.wiki/teams/5115/measurement-sy/spot-essay.png" style='width:90%'>
+    <div>
+        <span style="color:gray">Figure 1: Baseline Growth of <em>E. coli</em> in Spot Assay<br>
+          <small>BL21AI was transformed with 6 different plasmids, and colonies from the transformants were proceeded with Spot Assay. Leaky expression of plasmid #11 causing visible growth defect even without L-arabinose and IPTG induction.</small>
+        </span>
+        <br><br>
+    </div>
+   <br><br>
+</div>
+
+
+To achieve well controlled expression and minimize leakage that could hinder bacteria growth, we chose *E. coli* strain BL21AI, which is an *E. coli* B/r strain and does not contain the *lon* protease. It is also deficient in the outer membrane protease, OmpT. The lacking both reduces degradation of heterologous proteins expressed in this strain, suitable for testing plasmid burden. The strain BL21AI carries a chromosomal insertion of a cassette containing the T7 RNA polymerase[^4] gene in the *araB* locus[^5], allowing expression of T7 RNAP to be regulated by the araBAD promoter. To test a plasmid's burden, we induced with both 0.2% L-arabinose and 1 mM IPTG. This induction strategy allows for optimal conditions for expressing our target proteins, thus testing plasmid burden. However, some plasmids still leaks in BL21AI, causing visible growth defect without induction (Figure 1).
+
+
+## Spot Assay Overview
 
 ### Key Characteristics and Functionality
 
-The spot assay, traditionally used in yeast research, is a widely adopted technique for assessing cell growth and viability under various stress conditions. This method is particularly valuable for comparing how different genetic modifications, such as plasmid transformations, affect microbial growth in a controlled and high-throughput manner[^1]. In our  [MINERAL](/description/) project, where *E. coli* is engineered to absorb and convert nickel ions, the spot assay serves as an essential tool to evaluate how these transformations impact bacterial fitness.
+The Spot Assay, traditionally used in yeast genetics research, is a widely adopted technique for assessing cell growth and viability under experimental conditions. This method is particularly valuable for comparing how different genetic modifications, such as plasmid transformations, genetic deleteions or mutations, affect microbial growth in a controlled and high-throughput manner[^1]. In our project, where *E. coli* is engineered to absorb and convert nickel ions, the Spot Assay serves as an essential tool to evaluate how these transformations impact bacterial fitness.
 
 #### Applicability and Advantages
 
-In a spot assay, dilutions of bacterial culture are spotted onto agar plates and incubated for colony formation[^2]. The number and size of colonies reveal how different plasmid constructs influence *E. coli* growth in varying nickel concentrations.
+In a Spot Assay, dilutions of bacterial culture are spotted onto agar plates, without or with inductants, and incubated for colony formation[^2]. The number and size of colonies reveal how different plasmids influence *E. coli* growth.
 
-This method offers several advantages: it requires minimal materials, provides rapid results (with evaluations possible within 12 hours), and allows for high-throughput testing of multiple strains or plasmids simultaneously. The assay’s sensitivity makes it ideal for detecting subtle growth differences, enabling efficient assessment of plasmid-induced metabolic changes[^3]. By utilizing spot assays, we can systematically identify optimal plasmid combinations that enhance *E. coli*’s performance in nickel-rich environments while minimizing metabolic burdens.
+This method offers several advantages:
+* it requires minimal materials, provides rapid results (with evaluations possible within 24 hours)
+* it allows for simultaneously testing of multiple plasmids or a same plasmids into multiple strains
+* it is very sensitive, making it ideal for detecting subtle growth differences, enabling efficient assessment of plasmid-induced metabolic changes[^3]
+* it is internally control, as the same starting culture being plot onto different plates with different conditions
 
-## Protocol
+By utilizing Spot Assays, we can systematically identify optimal plasmid combinations that enhance *E. coli*’s performance in nickel-rich environments while minimizing metabolic burdens.
 
-**Step 1: Preparation of Bacterial Culture**
+## Spot Assay Protocol
 
-- Control group
+### Step 1: Start a bacterial culture
 
-1. Inoculate a single colony of *E. coli* BL21(AI) containing the plasmid of interest in 3 mL of LB broth supplemented with the appropriate antibiotic.
-2. Shake at 220 rpm for 5 hours at 37°C.
+Inoculate a single colony of *E. coli* BL21(AI) containing the plasmid of interest in 3 mL of LB broth supplemented with the appropriate antibiotic. Shake at 220 rpm, 37°C overnight. To compare clonal variation, multiple colonies could be started from the same plate.
 
-- Experimental group
+### Step 2: Normalize the liquid cultures
 
-1. Inoculate a single colony of *E. coli* BL21(AI) containing the plasmid in 3 mL of LB broth with the corresponding antibiotic. 
-2. Adding IPTG to a final concentration of 1 mM and arabinose to 0.2% during the incubation. 
-3. Shake at 220 rpm for 5 hours at 37°C.
+After growth, measure the optical density (OD<sub>600</sub>) of all samples using a spectrophotometer. Normalize the cultures to an OD<sub>600</sub> of 0.6 by diluting with antibiotic containing fresh LB broth.
 
-**Step 2: Normalization**
+Do not put the culture into 4 degree. Do not over grow. Ideally, collecting all samples before OD<sub>600</sub> of 0.8.
 
-1. After growth, measure the optical density (OD<sub>600</sub>) of all samples using a spectrophotometer.
-2. Normalize the cultures to an OD<sub>600</sub> of 0.6 by diluting them in LB broth.
+### Step 3: Series Dilution
 
-**Step 3: Dilution Series**
+1. Transfer 20 µL of the normalized culture to row A of a 96-well plate
+2. Fill the wells in rows A-E with 180 µL of LB broth using a multichannel pipette
+3. Conduct a 1:10 serial dilution by transferring 20 µL of culture from each well in row A to the corresponding well in row B. Mix well and repeat this process down to row E, results a series dilution to 1:10^4^
 
-1. Transfer 20 µL of the normalized culture to row A of a 96-well plate. 
-2. Fill the wells in rows A-E with 180 µL of LB broth using a multichannel pipette.
-3. Conduct a 1:10 serial dilution by transferring 20 µL of culture from each well in row A to the corresponding well in row B. Mix well and repeat this process down to row E.
+### Step 4: Spotting and Incubation
 
-**Step 4: Spotting and Incubation**
+1. Sterilize the spotter by submerging it in ethanol and briefly flaming it after each transfer. Ensure the spotter has cooled down adequately after flaming before making the next spot.
+2. Immediately transfer equal volumes (typically 5 µL) of diluted culture from each well using a 48-prong spotter(frogger) onto prewarmed dry agar plates containing selective media, in [our case](/fudan/software/) without or with 0.2% L-arabinose and 1 mM IPTG. Dry plates absorb liquid quickly, which is critical to form spots with clear outlines. Do not use plates with any visible liquid on the spotting surface.
+3. Incubate the agar plates at 37°C for 12 hours. Various length of incubation could be chosen, e.g. when studying growth trend.
 
-1. Sterilize the spotter by submerging it in 70% ethanol and briefly flaming it after each transfer. Ensure the spotter has cooled down adequately after flaming before making the next transfer.
-2. Immediately transfer equal volumes (typically 5 µL) of diluted culture from each well using a 48-prong spotter(frogger)  onto dry agar plates containing selective media.
-3. Incubate the agar plates at 37°C for 12 hours.
+### Step 5: Imaging and Analysis
 
-**Step 5: Observation and Analysis**
+1. Capture high-quality images of the plates post-incubation with consistent lighting and focus. The plates could be put back to 37°C for extended incubation followed with imaging, if needed.
+2. By observing the spot growth of an appropriate dilution (typically 1:10^4^), clear growth difference indicates that plasmid burden on bacteria is quite different.
+3. For quantification, open the gray images in [ImageJ](https://imagej.net/ij/) and use the circular selection tool to outline the smallest spot, not colony within the spotted area, in the chosen dilution, excluding the background. Do not use a dilution most spots are fully covered by bacteria. It would be very helpful to store the selection into ImageJ's [ROI Manager](https://imagej.net/ij/docs/menus/analyze.html) window.
+4. Measure the gray value in five different plate locations (corners and center) using the circular selection, then click “Analyze” and “Measure” to obtain the mean values, using their mean as the background value.
+5. Using the same circular selection, measure the gray value of each spot in the chosen dilution and record these values in an Excel spreadsheet.
+6. Subtract the mean background value from each of the gray values of the spots measured.
+7. Repeat this process for all plates. The resulting values will reflect the growth levels of each biological replicate, including the control. In our case, spots on not-induced plates are baseline for each plasmid, and we use baseline of plasmids just expressing fluorescent proteins [(#0, #1, #19, #25)](#tab1) as our control.
+8. Calculate the mean and standard deviation of the relative growth values obtained from the previous step for three or more replicates. These mean values could be used further to cacluate plasmid burden (induced divided by non-induced), etc.
 
-1. Capture high-quality images of the spotting assay plates post-incubation with consistent lighting and focus.
-2. Choose an appropriate dilution (typically 1:10,000) that shows clear growth differences among samples for quantification.
-3. Open the processed image in ImageJ and use the circular selection tool to outline the smallest spot in the chosen dilution, excluding the background.
-4. Measure the gray value in five different plate locations (corners and center) using the circular selection, then click “Analyze” and “Measure” to obtain the mean values.
-5. Using the same circular selection, measure the gray value of each colony in the chosen dilution and record these values in an Excel spreadsheet.
-6. Subtract the mean background gray value from each of the gray values of the spots measured.
-7. Repeat this process for all plates. The resulting values will reflect the growth levels of each biological replicate, including the control.
-8. Calculate the mean and standard deviation of the relative growth values obtained from the previous step for three or more replicates.
-9. Plot the mean relative growth values with error bars (± standard deviation) on a bar graph to illustrate the impact of the plasmid on the stress experienced by the strains.
+**Special Tips on Spotting**
 
-**Special Tips**
-
-To ensure reproducibility for other iGEM teams, pay special attention to the spotter's use: when transferring samples, confirm that each prong captures an equal-sized droplet, and use a steady, vertical motion to maintain uniformity. Additionally, make sure that all samples are normalized to the same initial  OD<sub>600</sub> to ensure accurate comparisons across experiments. Finally, when selecting areas for measurement in ImageJ, be mindful of the size of the selection; it should encompass the entire spot while excluding background to avoid skewing the gray value readings.
+To ensure reproducibility by others, please pay special attention to the spotter's use:
+* When transferring samples, confirm that each prong captures an equal-sized bacteria liquid droplet, and use a steady, vertical motion when move
+* Make sure that all samples are normalized to the same initial  OD<sub>600</sub> to ensure accurate comparisons across conditions
+* Finally, when selecting areas for measurement in ImageJ, be mindful of the size of the selection; it should encompass the entire spot while excluding background to avoid skewing the gray value readings.
 
 
-## Results
+## Data for our Software
 
-To validate our methodology, we utilized a structured approach to investigate the impact of various plasmids on bacterial growth. We focused on the plasmids listed below, which serve as the foundation for our experiments.
+To generate data for our [Software](/fudan/software/), we utilized a structured approach to investigate the impact of various plasmids on bacterial growth. We chose the plasmids listed below.
 
 <div style="text-align: center;">
-   <p><small style="color: gray">Table 1: Plasmid Information
-    <br>
-A detailed table outlining the plasmid No., Parts ID, descriptions and resistance, which provides a clear overview of the plasmids employed in our study.</small></p>
+   <p id="tab1"><span>Table 1: Parts for the plasmid burden investigation</span></p>
 </div>
 
-| No.  | Parts ID     | description                                           | resistance |
-| ---- | :----------- | ----------------------------------------------------- | ---------- |
+| No.  | Parts    | Part Name     | Resistance |
+| ---- | :------- | ------------- |----------- |
 | #0   | BBa_K4162001 | StayGold                                              | Amp        |
 | #1   | BBa_K4162001 | StayGold = (n2)oxStayGold(c4)v2.0                     | Kan        |
 | #2   | BBa_K4162009 | ribozyme + B0_RBS + crtE                              | Kan        |
@@ -106,7 +120,7 @@ A detailed table outlining the plasmid No., Parts ID, descriptions and resistanc
 | #16  | BBa_K4162108 | ribozyme+RBS+CDS module: crtEBI                       | Kan        |
 | #17  | BBa_K4162112 | ribozyme+RBS+CDS module: crtIYB                       | Kan        |
 | #18  | BBa_K4162021 | ribozyme+RBS+CDS module: crtIYEB                      | Kan        |
-| #19  | BBa_K4765022 | mScarlet                                              | Kan        |
+| #19  | BBa_K4765022 | mScarlet                                              | Amp        |
 | #20  | BBa_K4765111 | Twister P1 + T7_RBS + AnAFP + stem-loop               | Kan        |
 | #21  | BBa_K4765112 | Twister P1 + T7_RBS + SAHS 33020 +  stem-loop         | Kan        |
 | #22  | BBa_K4765113 | Twister P1 + T7_RBS + H. ex mtSSB +  stem-loop        | Amp        |
@@ -114,55 +128,55 @@ A detailed table outlining the plasmid No., Parts ID, descriptions and resistanc
 | #24  | BBa_K4765126 | ribozyme connected: H. ex mtSSB + SAHS  33020 + AnAFP | Amp        |
 | #25  | BBa_K4765022 | mScarlet                                              | Kan        |
 
-Next, we illustrate the colony growth patterns observed in both control and experimental groups following serial dilutions, showcasing the differences in colony morphology and density that emerged from each treatment condition. These images highlight how each plasmid influenced bacterial proliferation, providing a clear visual representation of the experimental outcomes.
+After [bacteria transformation](/fudan/experiments/#other-experimental-methods), we grow liquid culture and made series dilutions in 96-well plates. Next, we spot the same dilution onto two plates, one only contains antibotics, the other contains antibotics, 0.2% L-arabinose and 1 mM IPTG.
 
-<div style="text-align: center;" id="fig-1">
-<img src="https://static.igem.wiki/teams/5115/measurement-sy/2024-09-27-01-02-14.png"
-style='width:70%'>
-<br>
-<div>
-<p><small style="color: gray">Figure 1: Spot Assay Results of Colonies at 12 hours of incubation at 37°C.
-    <br>
-This figure illustrates the colony growth patterns observed in both the control and experimental groups following serial dilutions. Odd-numbered rows represent the control group, while even-numbered rows show the experimental group. From left to right, the columns correspond to the initial culture(A), dilutions of 1:10(B), 1:100(C), 1:1,000(D), and 1:10,000(E).</small></p>
-</div>
+<div style="text-align: center;" id="fig1">
+    <img src="https://static.igem.wiki/teams/5115/measurement-sy/2024-09-27-01-02-14.png" style="width:80%; height: auto;"><br>
+    <div>
+        <span style="color: gray">Figure 2 & 3: Representative images of @@@@.<br>
+         <small>These figure illustrates the growth patterns of bacteria spots, in both the control and experimental groups following serial dilutions. From left to right, the columns correspond to the initial culture(A), dilutions of 1:10(B), 1:100(C), 1:10^3^(D), and 1:10^4^(E).</small>
+         </span>
+      <br><br>
+    </div>
 </div>
 
-As the dilutions progress, a noticeable decrease in colony density is observed, with the experimental group displaying different growth characteristics compared to the control group, indicating the impact of plasmid expression on bacterial proliferation.
+As the dilutions progress, a noticeable decrease in bacteria density is visiable, with the experimental group displaying different growth characteristics compared to the control group, indicating the impact of plasmid expression on bacterial proliferation (plasmid burden for short).
 
 Subsequently, after measuring the gray value of each group of colonies using [ImageJ](https://imagej.nih.gov/ij/), we quantitatively compare the growth rates of different plasmid-expressing strains, normalized to the best-performing strain shown in [Figure 2](#fig-2).
 
-<div style="text-align: center;" id="fig-2">
-<img src="https://static.igem.wiki/teams/4765/wiki/zsl/anafp-survival-curve1.png"
-style='width:70%'>
-<br>
-<div>
-  <p><small style="color: gray">Figure 2: Relative Growth of <em> E. coli</em> Under Different Plasmid Conditions 
-   <br>
-This bar graph compares the growth rates of bacterial strains expressing various plasmids. The growth is normalized to the strain with the highest performance (100% growth rate). The bars indicate the percentage decline in growth rate for each strain, with experimental measurements juxtaposed against computational predictions, offering insights into plasmid performance.</small></p>
-</div>
+<div style="text-align: center;" id="fig2">
+    <img src="https://static.igem.wiki/teams/5115/measurement-sy/2024-09-27-01-02-14.png" style="width:80%; height: auto;"><br>
+    <div>
+        <span style="color: gray">Figure 4: Quantification of the spots shown in [Figure 2 & 3](#fig1).<br>
+         <small>This bar graph compares the growth rates of bacterial strains expressing various plasmids. For the baseline values, the growth is normalized to @@@@. The bars indicate the percentage decline in growth rate for each strain, with experimental measurements juxtaposed against computational predictions, offering insights into plasmid performance.</small>
+         </span>
+      <br><br>
+    </div>
 </div>
 
-## Previous inspiring Methodologies in iGEM
+## Previous Inspiring Methodologies in iGEM
 
 In previous iGEM projects, several methods have provided valuable insights that inspire our approach, highlighting related concepts that informed our experimental design.
 
-One such application involved assessing [the inhibition of bacteriophage Lambda by dCas12a using a bacteriophage spot assay](https://2019.igem.org/Team:Wageningen_UR/Results/Phage_Repression). While their spot assay provided valuable insights, it had limitations in quantification and visual clarity, which could obscure subtle differences in growth. Inspired by these observations, we developed our approach to enhance quantification and improve the visual representation of results, allowing for a more nuanced analysis of plasmid expression effects on bacterial strains.
+[Wageningen UR 2019](https://2019.igem.org/Team:Wageningen_UR) team assessed the inhibition of bacteriophage Lambda by dCas12a using a bacteriophage Spot Assay (their Figure 7). While their Spot Assay provided valuable insights, it had limitations in image clarity and lacking quantification, which could obscure subtle differences in growth. Inspired by their observations, we emphazed our approach on quantification and visual clarity of assay results, allowing for a more nuanced analysis of plasmid burden.
 
-Another relevant study examined [the effect of glucanase expression on cell wall integrity](https://2019.igem.org/Team:Tartu_TUIT/Results) by testing cultures under hypo-osmotic stress and in the presence of DMSO. However, their method lacked precision, as the absence of a spotter led to uneven colony distributions, making it difficult to achieve consistent areas for analysis. This limitation resulted in qualitative rather than quantitative comparisons, highlighting the need for improved measurement techniques.
+[Tartu TUIT 2019](https://2019.igem.org/Team:Tartu_TUIT/Results) team examined the effect of glucanase expression on cell wall integrity by testing cultures under hypo-osmotic stress and in the presence of DMSO. However, their method lacked precision, as the absence of [a metal spotter](https://biokimicroki.com/replica-plating-in-microbiology-animal-biotechnology/) led to uneven colony distributions, making it difficult to achieve consistent areas for analysis. This limitation resulted in qualitative rather than quantitative comparisons.
 
-The [ETH Zurich spot-plaque assay protocol](https://static.igem.org/mediawiki/2019/8/8d/T--ETH_Zurich--spot-plaque-assay-protocol.pdf) outlines a systematic approach for assessing bacteriophage activity against bacterial cultures. While the protocol provides a foundational approach, it could benefit from more detailed documentation to enhance reproducibility. Furthermore, ensuring a standardized initial OD<sub>600</sub> is essential for reliable comparisons, and this has inspired us to refine our methodology for improved consistency in our experiments. 
+[ETH Zurich 2019] provided a [spot-plaque assay protocol](https://static.igem.org/mediawiki/2019/8/8d/T--ETH_Zurich--spot-plaque-assay-protocol.pdf), which outlines a systematic approach for assessing bacteriophage activity against bacterial cultures. While the protocol includes basic steps, it could benefit from detailed documentation to facilitate reproducibility. Furthermore, our experience suggests to ensure a standardized initial OD<sub>600</sub> is essential for reliable comparisons, which was missing in their protocol.
 
-These prior studies have guided our improvements in methodology, particularly in quantifying the effects of plasmid expression on bacterial strains. By adopting advanced imaging techniques and utilizing ImageJ for precise quantification, we aim to overcome limitations observed in previous projects, such as inefficiencies in enzyme activity and measurement variability. Our approach not only builds upon these foundational concepts but also enhances them, ensuring a more robust investigation into the effects of our engineered constructs.
+These prior studies have guided our improvements in methodology, particularly in quantification.
 
 ## Summary
 
-This measurement approach is designed to be easily repeated by other iGEM teams, with a **well-documented** protocol that outlines each step clearly. Our team utilized this methodology to assess the growth stress effects of various plasmids introduced into *E. coli*, providing essential data to inform [Software](/fudan/software/) development aimed at optimizing microbial performance.
+The measurement approach described above should be easily repeated by others. We have clearly outlines each step, with special tips. We utilized this methodology to assess the growth stress on *E. coli* after introducing various plasmids, providing essential data to inform [Software](/fudan/software/) development aimed at optimizing genetic engieering.
 
-Importantly, our method can be **broadly applied across various research projects**, including those investigating plasmid impacts on metabolic pathways, gene expression levels, and stress responses in different environmental conditions. It is particularly useful for projects focused on antibiotic resistance, enzyme activity assays, synthetic circuit efficiency, and metabolic engineering. By integrating appropriate controls to validate the measurement process and calibrate units, we ensured the reliability of our results, promoting a standardized approach that can enhance experimental rigor in diverse synthetic biology applications.
+The Spot Assay could be broadly applied across various research projects, including those investigating stress responses in different environmental conditions, antibiotic resistance, synthetic circuit efficiency, and metabolic engineering. By integrating appropriate controls to validate the measurement process and calibrate units, we ensured the reliability and reproducibility of our results.
+
 
 ## References
 
 [^1]: Petropavlovskiy, A. A., Tauro, M. G., Lajoie, P., & Duennwald, M. L. (2020). A Quantitative Imaging-Based Protocol for Yeast Growth and Survival on Agar Plates. *STAR protocols*, *1*(3), 100182. https://doi.org/10.1016/j.xpro.2020.100182
-
 [^2]: Sahu, S. R., Utkalaja, B. G., Patel, S. K., & Acharya, N. (2023). Spot Assay and Colony Forming Unit (CFU) Analyses-based sensitivity test for *Candida albicans* and *Saccharomyces cerevisiae*. *Bio-protocol*, *13*(21), e4872. https://doi.org/10.21769/BioProtoc.4872
 [^3]: Petropavlovskiy, A. A., Tauro, M. G., Lajoie, P., & Duennwald, M. L. (2020). A Quantitative Imaging-Based Protocol for Yeast Growth and Survival on Agar Plates. *STAR protocols*, *1*(3), 100182. https://doi.org/10.1016/j.xpro.2020.100182
+[^4]: Studier, F. W., and Moffatt, B. A. (1986). Use of Bacteriophage T7 RNA Polymerase to Direct Selective High-Level Expression of Cloned Genes. *J. Mol. Biol*. *189*, 113-130. [https://doi.org/10.1016/0022-2836(86)90385-2](https://doi.org/10.1016/0022-2836(86)90385-2)
+[^5]: Ogden, S., Haggerty, D., Stoner, C. M., Kolodrubetz, D., and Schleif, R. (1980). The Escherichia coli L-Arabinose Operon: Binding Sites of the Regulatory Proteins and a Mechanism of Positive and Negative Regulation. *Proc. Natl. Acad. Sci. USA*, *77*, 3346-3350. [https://doi.org/10.1073/pnas.77.6.3346](https://doi.org/10.1073/pnas.77.6.3346)

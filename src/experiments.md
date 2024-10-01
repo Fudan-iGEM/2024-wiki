@@ -125,5 +125,5 @@ The phage carries Kan resistance. If the bacteria was infected by phage, colonie
 * Inserts and vectors were ligated using [ClonExpress reaction](https://2021.igem.org/Team:Fudan/Experiments#clonexpress-ligation-reaction).
 * [Bacteria transformation](https://2023.igem.wiki/fudan/experiments/#plasmid-transformation) and [plating](https://2023.igem.wiki/fudan/experiments/#plating) were conducted as described previously.
 * [Bacteria colony PCR](https://2022.igem.wiki/fudan/experiments#colony-pcr) with [the listed primers](/fudan/parts/) was used to screen plasmids before sending to Sanger sequencing.
-* [Bacteria spot assay](/fudan/measurement/#key-characteristics-and-functionality) is detailed on our [Measurement](/fudan/measurement) page.
+* [Bacteria Spot Assay](/fudan/measurement/#key-characteristics-and-functionality) is detailed on our [Measurement](/fudan/measurement) page.
 * Bacteria [cryopreservation](https://2022.igem.wiki/fudan/experiments#cell-cryopreservation) and [recovery](https://2022.igem.wiki/fudan/experiments#cell-recovery) were performed as described previously.

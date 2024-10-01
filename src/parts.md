@@ -9,7 +9,7 @@ author:
   url: /fudan/team/#yi-shi
 ---
 
-## useful 2023 modules, anti-freezing, anti-UV?
+<br><br>
 
 <pre>
 ## Common Forward Primer for ribozyme connected parts: 5-tcagcaaattgtgaacatcatcacg-3
@@ -40,7 +40,7 @@ R_csoS1D  5-GCACGCTCGACTACCTG-3
 ## Forward Primer paired with R_cso: 5-atggggtcaaacatgcct-3
 </pre>
 
-## Our favourite part is, explain why xxxxx
+## Our favourite parts are [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067) and [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
 
 ----
 
