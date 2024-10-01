@@ -831,6 +831,43 @@ export default {
         },
       });
     },
+    initPage8Animations(gsap) {
+      if (window.innerWidth >= 900) { 
+        const nickels = [
+          { class: '.nickel1', duration: 10, delay: 0 },
+          { class: '.nickel2', duration: 12, delay: 2 },
+          { class: '.nickel3', duration: 14, delay: 4 },
+          { class: '.nickel4', duration: 16, delay: 6 },
+          { class: '.nickel5', duration: 18, delay: 8 },
+        ];
+
+        nickels.forEach(nickel => {
+          gsap.fromTo(
+            nickel.class,
+            { x: 300, opacity: 1 }, 
+            { 
+              x: -1583.8, 
+              opacity: 0, 
+              duration: nickel.duration, 
+              delay: nickel.delay, 
+              ease: 'none', 
+              repeat: -1, 
+              modifiers: {
+
+                x: gsap.utils.unitize(x => parseFloat(x) <= -1583.8 ? 300 : x)
+              },
+              onRepeat: function() {
+
+                gsap.set(this.targets(), { opacity: 1 });
+              }
+            }
+          );
+        });
+      } else {
+
+        gsap.set(['.nickel1', '.nickel2', '.nickel3', '.nickel4', '.nickel5'], { clearProps: 'all' });
+      }
+    },
   },
   async mounted() {
     // Initial screen width check
@@ -857,6 +894,7 @@ export default {
     this.initPage5Animations(gsap);
     this.setPlasmidPositions(gsap);
     this.initPlasmidRotation(gsap);
+    this.initPage8Animations(gsap);
 
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
