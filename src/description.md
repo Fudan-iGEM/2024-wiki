@@ -118,7 +118,6 @@ We present four interrelated modules to tackle the problems identified in the pr
 We introduce two sets of nickel transport proteins to maximize the influx of nickel ions.
 
 - **NikABCDE**: This ATP-binding cassette transporter, native to *E. coli*, transports nickel ions from the periplasm into the cytoplasm[^12]. We utilize the Ribozyme-Assisted Polycistronic expression system (pRAP) from [2022](https://2022.igem.wiki/fudan/parts), to achieve a balanced expression and therefore proper assembly of this multi-subunit complex[^13]. Briefly about pRAP: by inserting [the Twister ribozyme sequences](https://parts.igem.org/Part:BBa_K4765020 ) before each coding sequnece (CDS), the RNA of Twister ribozyme conduct self-cleaving in the mRNA[^23]. To protect the cleaved mono-cistron mRNA from degradation, a stem-loop structure is placed at the 3' end of CDS [^24]. In 2023, we extensively tested various [stem-loops](https://2023.igem.wiki/fudan/part-collection/#ribozyme-assisted-polycistronic-co-expression) using [BBa_K4765129](https://parts.igem.org/Part:BBa_K4765129). For parts we made this year, this strong protective stem-loop sequence was used. As for the ribosome binding sequence (RBS) after the ribozyme and before the CDS, we used [T7 RBS](https://parts.igem.org/Part:BBa_K4162006), from bacteriophage T7 gene 10[^25]. It is an intermediate strength RBS according to [our 2022 results](https://2022.igem.wiki/fudan/measurement#optimization), which allows us to change it to a weaker [J6 RBS](https://parts.igem.org/Part:BBa_J61100) or a stronger [B0 RBS](https://parts.igem.org/Part:BBa_B0030) if needed, enabling flexible protein expression levels between various ribozyme connected parts.
-
 - **NixA**: A monomeric protein belonging to the nickel-cobalt transporter (NiCoT) family[^14]. To increase transport efficiency, dimerization can be accomplished with NixA-FKBP fusion proteins and linker compound[^15].
 
 
@@ -128,23 +127,19 @@ To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR a
 
 <div style="text-align: center;" id="fig6">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
-    <div>
-        <span style="color:gray">Figure 6: Nickel enrichment system</span>
-        <br><br>
-    </div>
 </div>
 
-### 2. Survival module @@@@
+
+### 2. Survival Module
 
 **a) Heavy Metal Tolerance**
 
-Inspired by *Helicobacter pylori*’s natural defense against high cytosolic nickel concentrations[^16], we choose to express two types of nickel binding proteins that can **lower cytosolic heavy metal concentrations**. This protects *E. coli* from the detrimental effects caused by nickel ions and other heavy metals possibly present in industrial wastewater. 
+Inspired by *Helicobacter pylori*’s natural defense against high cytosolic nickel concentrations[^16], we choose to express two types of nickel binding proteins that can lower cytosolic heavy metal concentrations. This protects *E. coli* from the detrimental effects caused by nickel ions and other heavy metals possibly present in industrial wastewater. 
 
 - **Hpn (*H. pylori* nickel-binding)**: A histidine-rich cytoplasmic protein found in *H. pylori* capable of storing Ni ions[^17]. 
 - **Metallothioneins**: Cystine-rich cytoplasmic proteins that bind to various heavy metals. Compared to Hpn, they bind to a wider range of heavy metals. We use the metallothionein from *Pisum sativum* (MTA) as it shows a higher affinity for nickel[^18].
 
-Although both proteins serve to lower cytosolic nickel levels, their difference in amino acid composition help to reduce the overall burden on *E. coli.*
-
+Although both proteins serve to increase bacteria tolerance to cytosolic nickel levels, their difference in amino acid composition help to reduce the overall burden on *E. coli*.
 
 
 **b) Phage resistance**
@@ -155,63 +150,41 @@ We overexpress YejM to upregulate the production of LPS, blocking recognition si
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
-    <div>
-        <span style="color:gray">Figure 7: Survival system</span>
-        <br><br>
-    </div>
 </div>
 
 
-### 3. Nickel Microparticle System
+**c) Anti-Free and Anti-UV**
 
-Our microparticle is composed of hydrogenases, the reduced nickel ions, and an outer carboxysome shell.
+The [Anti-Freeze](https://2023.igem.wiki/fudan/results/#anti-freeze-module) and [Anti-UV](https://2023.igem.wiki/fudan/results/#_1-survival-system) modules developed in [2023](https://2023.igem.wiki/fudan/results/) are both useful to increase bacteria's ability to survive in the wastewater environment, which could be employed if needed.
 
-Ni/Fe hydrogenase is a key component of our nickel microparticle. The hydrogenase reduces nickel ions to its neutral state through a coupled reversible catalytic reaction. However, the reduced nickel itself still possess a certain degree of toxicity, which may still threaten the growth of our *E. coli* and, in case of accidental leakage, other aquatic organisms [^21].
 
-We utilize **carboxysomes**, which are bacterial microcompartments (BMCs)[^22], to serve as a controlled and contained environment for the processing of nickel ions. Carboxysomes allow for:
+### 3. Nickel Microparticle Module
 
-- **Compartmentalization**: This isolates enzymes and substrates, enhancing their local concentrations and improving catalytic efficiency.
-- **Protection**: By isolating these reactions from the cytosol, we protect *E. coli* from high nickel concentrations and ensure the enzymatic activity of hydrogenase is     unaffected by other cellular processes.
-- **Containment**: In the event of accidental leakage, the carboxysome shell ensures that the nickel will do minimal harm to the environment.
+Our microparticle is composed of hydrogenases, a carboxysome shell, and reduced nickel around the shell, with a diameter around 50-80 nm. When a bacteria is overexpressing our microparticle module, e.g. [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067), its cytosol fills with carboxysome shell and reduced nickel, and a large microparticle formed, with a diameter over 500 nm.
+
+Ni/Fe hydrogenase (produced from [BBa_K5115020](https://parts.igem.org/Part:BBa_K5115020) *hox* and *hyp* operon) is the key component to generate our nickel microparticle. The hydrogenase reduces nickel ions to its neutral state through a coupled reversible catalytic reaction. However, the reduced nickel itself still possess a certain degree of toxicity, which may still threaten the growth of our *E. coli* and, in case of accidental leakage, other aquatic organisms [^21].
+
+We utilize **carboxysomes**, which are bacterial microcompartments[^22], to serve as a concentration hub for the processing of nickel ions. Carboxysomes concentrate enzymes, enhancing their local concentrations and improving catalytic efficiency, which may also isolate these enzymatic reactions from other cellular processes. We test our carboxysome targeting using [BBa_K5115057](https://parts.igem.org/Part:BBa_K5115057), and targeted either HoxF ([BBa_K5115058](https://parts.igem.org/Part:BBa_K5115058)) or HoxU ([BBa_K5115059](https://parts.igem.org/Part:BBa_K5115059)) to the carboxysome shell.
 
 <div style="text-align: center;" id="fig8">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
-    <div>
-        <span style="color:gray">Figure 8: Nickel microparticle system</span>
-        <br><br>
-    </div>
 </div>
 
 
- 
+### 4. Hydrogen Supply *via* cyanobacteria-*E. coli* interaction
 
+Hydrogen gas is essential for powering our nickel microparticle production. To ensure a continuous supply of hydrogen, we adopt a [symbiotic module](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system), developed in 2023. In this setup, cyanobacteria act as hydrogen donors, providing a stable source of hydrogen gas to support nickel microparticle generation.
 
-### 4. Hydrogen Supply System
-
-​	Hydrogen gas is essential for powering our nickel microparticle production. To ensure a continuous supply of hydrogen, we adopt a [symbiotic system](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system), following the strategy used by iGEM Fudan 2023. In this setup, cyanobacteria act as hydrogen donors, providing a stable source of hydrogen gas to support nickel microparticle generation.
+When we test our microparticle U module ([BBa_K5115066](https://parts.igem.org/Part:BBa_K5115066)) or F module ([BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067)), which contains all CDS for assembling carboxysome shell and targeted hydrogenase, we bubbled 5.6% H~2~ gas into the bacteria culture, rather using cyanobacteria coculture to ease the electron microscopy examination.
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
-    <div>
-        <span style="color:gray">Figure 9: Hydrogen Supply System</span>
-        <br><br>
-    </div>
 </div>
 
-## Summary of Systems
 
-In summary, our integrated approach combines efficient nickel bioaccumulation, enhanced *E. coli* survival, specialized nickel microparticle and a stable hydrogen supply system. Together, these innovations ensure sustainable nickel recovery from industrial wastewater while minimizing environmental impact.
+In summary, our integrated approach combines efficient nickel bioaccumulation, enhanced *E. coli* survival, specialized nickel microparticle and a stable hydrogen supply from symbiotic cyanobacteria. Together, MINERAL ensure sustainable nickel recovery from industrial wastewater while minimizing environmental impact. For more details on our project design, please visit our [Design][/fudan/design] page.
 
-For more details on our project design, please visit our [Design][/fudan/design] page.
-
-
-
-## Implementation
-
-As our project name suggests, the the quest of our nickel microparticles does not end here.
-
-Please visit our [implementation](/fudan/implementation/) page for more details on future applications.
-
+As our project name suggests, the the quest of our nickel microparticles does not end here. Please visit our [Implementation](/fudan/implementation/) page for our plans on future applications.
 
 
 ## References
