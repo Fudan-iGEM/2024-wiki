@@ -360,31 +360,128 @@
     
     <section class="page-7" id="ecoli">
       <div class="background-container">
-        <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/section4-background.png"
-            alt="Background"
-            class="background-image"
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-background.svg"
+          alt="Background7"
+          class="background-image"
         />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-plasmid-left.svg"
+          alt="Plasmid Left"
+          class="plasmid-left"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-plasmid-right.svg"
+          alt="Plasmid Right"
+          class="plasmid-right"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-word1.svg"
+          alt="Word1"
+          class="word1"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage7/page7-word2.svg"
+          alt="Word2"
+          class="word2"
+        />
+
       </div>
     </section>
 
     <section class="page-8" id="carbo-cl">
       <div class="background-container">
-        <img 
-            src="https://static.igem.wiki/teams/5115/homepage-page5/section5-6-background.png"
-            alt="Background"
-            class="background-image"
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-background-new.svg"
+          alt="Background New"
+          class="background-image"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-bacteria1.svg"
+          alt="Bacteria 1"
+          class="bacteria1"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-bacteria2.svg"
+          alt="Bacteria 2"
+          class="bacteria2"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-bacteria3.svg"
+          alt="Bacteria 3"
+          class="bacteria3"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel1.svg"
+          alt="Nickel 1"
+          class="nickel1"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel2.svg"
+          alt="Nickel 2"
+          class="nickel2"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel3.svg"
+          alt="Nickel 3"
+          class="nickel3"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel4.svg"
+          alt="Nickel 4"
+          class="nickel4"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-nickel5.svg"
+          alt="Nickel 5"
+          class="nickel5"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage8/page8-word.svg"
+          alt="Word"
+          class="word8"
         />
       </div>
     </section>
 
     <section class="page-9" id="time-cannel">
       <div class="background-container">
-        <img 
-            src="https://static.igem.wiki/teams/5115/homepage9/page9-background.svg"
-            alt="Background"
-            class="background-image"
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-background-new.svg"
+          alt="Background New"
+          class="background-image"
         />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-bacteria.svg"
+          alt="Bacteria"
+          class="bacteria"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-carbo3.svg"
+          alt="Carbo3"
+          class="carbo9-3"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-carbo2.svg"
+          alt="Carbo2"
+          class="carbo9-2"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-carbo1.svg"
+          alt="Carbo1"
+          class="carbo9-1"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-nickel.svg"
+          alt="Nickel"
+          class="nickel-son"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage9/page9-word.svg"
+          alt="Word"
+          class="word9"
+        />
+
       </div>
     </section>
 
@@ -461,6 +558,8 @@ export default {
               path: 'https://static.igem.wiki/teams/5115/homepage-tail/cold-play.json',
               autoplay:true,
           },
+      plasmidLeftPercent: { x: 15.52, y: 68.47 },
+      plasmidRightPercent: { x: 84.77, y: 68.47 },
     };
   },
   methods: {
@@ -471,6 +570,7 @@ export default {
         this.preserveAspectRatio = 'xMinYMin meet';
       }
     },
+    
     initPage1Animations(gsap) {
       if (window.innerWidth >= 900) {
         const page1Tl = gsap.timeline({
@@ -709,6 +809,42 @@ export default {
       );
     }
     },
+    setPlasmidPositions(gsap) {
+      const leftXPercent = (297.5 / 1920) * 100; // ≈15.5%
+      const rightXPercent = (1622.8 / 1920) * 100; // ≈84.5%
+      const yPercent = (653.4 / 953) * 100; // ≈68.5%
+      const sizePercent = (512 / 1920) * 100; // ≈26.666%
+
+      gsap.set('.plasmid-left', {
+        x: leftXPercent + '%',
+        y: yPercent + '%',
+        width: sizePercent + '%',
+        height: sizePercent + '%',
+        transformOrigin: '50% 50%',
+        position: 'absolute', 
+      });
+
+      gsap.set('.plasmid-right', {
+        x: rightXPercent + '%',
+        y: yPercent + '%',
+        width: sizePercent + '%',
+        height: sizePercent + '%',
+        transformOrigin: '50% 50%',
+        position: 'absolute',
+      });
+    },
+    initPlasmidRotation(gsap) {
+      gsap.to(['.plasmid-left', '.plasmid-right'], {
+        rotation: 360,
+        ease: 'none',
+        scrollTrigger: {
+          trigger: '.page-7',
+          start: 'top center',
+          end: 'bottom center',
+          scrub: true,
+        },
+      });
+    },
   },
   async mounted() {
     // Initial screen width check
@@ -733,6 +869,8 @@ export default {
     this.initPage3Animations(gsap);
     this.initPage4Animations(gsap);
     this.initPage5Animations(gsap);
+    this.setPlasmidPositions(gsap);
+    this.initPlasmidRotation(gsap);
 
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
@@ -942,7 +1080,20 @@ section {
 .color-text2,
 .noncolor-text2,
 .track-word,
-.tramcar {
+.tramcar,
+.bacteria1,
+.bacteria2,
+.bacteria3,
+.nickel1,
+.nickel2,
+.nickel3,
+.nickel4,
+.nickel5,
+.bacteria,
+.carbo9-1,
+.carbo9-2,
+.carbo9-3,
+.nickel-son {
   position: absolute;
   top: 0;
   width: 100%;
@@ -953,7 +1104,11 @@ section {
 .text3,
 .text4,
 .text5,
-.text6 {
+.text6,
+.word1,
+.word2,
+.word8,
+.word9 {
   position: absolute;
   top: 0;
   width: 100%;
@@ -961,6 +1116,32 @@ section {
   left: 0;
 }
 
+.plasmid-left,
+.plasmid-right {
+  position: absolute;
+/*   width: 26.67%; 
+  height: 26.67%; */
+  transform: translate(-50%, -50%); 
+}
+
+/* .plasmid-left {
+  left: 15.49%;
+  top: 68.45%;
+}
+
+.plasmid-right {
+  left: 84.54%;
+  top: 68.45%;
+} */
+.plasmid-left {
+  left: 16%;
+  top: 50%;
+}
+
+.plasmid-right {
+  left: 56%;
+  top: 50%;
+}
 /* Cloud positions */
 .left-cloud {
   left: 0;
@@ -1002,7 +1183,12 @@ section {
   display: flex;
   min-height: auto;
 }
-
+.page-7 .background-container {
+  position: relative;
+  width: 100%;
+  /* height: 100%; */
+  overflow: hidden;
+}
 /* Tear SVG */
 .tear-svg {
   position: absolute;
