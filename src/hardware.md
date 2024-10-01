@@ -13,7 +13,7 @@ headergif: https://static.igem.wiki/teams/5115/header/hardware-header.gif
 Wastewater treatment and energy recovery are becoming global concerns with the increase of human activities and substantial consumption of fossil fuels. Even in [Antarctica](#figa), the largest untouched wilderness on our planet, wastewater treatment are urgently needed with the presence of 44 permanently manned research stations[^1]. 
 
 <div style="text-align: center;" id="figa">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/antarctica.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/antarctica.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 1: Human activities in Antarctica </span>
       <br><br>
@@ -27,7 +27,7 @@ However, ordinary biological filtration devices are typically designed with **ri
 In today's wastewater treatment industry, various [**contemporary biofilm reactors**](#figb) have been created. However, they still have some limitations. The fluidized bed biofilm reactor (FBBR), for instance, consumes substantial energy due to the frequent collisions of its biofilm-coated particles. And the membrane biofilm reactor (MBfR) is more susceptible to contamination, which can shorten their lifespan[^3].  
 
 <div style="text-align: center;" id="figb">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/biofilm.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/biofilm.png" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 2: Different types of biofilm formation in a wastewater environment system (Maurya et al., 2023) </span>
       <br><br>
@@ -47,7 +47,7 @@ Compared to traditional biological filtration devices and modern biofilm reactor
 Our fiber **uses carbon nanotubes as a skeleton and agarose gel are wrapped around the nanotubes**. Subsequently, we assemble several carbon nanotubes into bundles through a spiral extrusion method, fixing the carbon nanotube-agarose gel (aCNT) composite fiber, which provides a growth platform for our engineered bacteria. We referenced the method for preparing graphene composite microwires by [Professor Hyung-Jun Koo](https://kooslab.seoultech.ac.kr/subList/20000000791) and the method for preparing high-performance fiber electrodes by [Professor Peng Huisheng's team of Fudan University](https://penglab.fudan.edu.cn), and made appropriate adjustments so that our composite fibers have good performance while carrying engineered bacteria[^5][^6].We actually used a 500mg/50ml agarose gel, and adjusted the ratio of the two components in the solution to **allow more agarose gel to encapsulate the carbon nanotubes, making it easier for the engineered bacteria to attach**. Additionally, we designed application forms for different scenarios, which are demonstrated in our "Multi-Application Scenarios" part. [The aCNT composite fiber](#fig1) functions as a carrier that allows the bacteria to perform normal life activities and engage in recovering nickel.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-1.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-1.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 3: Model of Agarose–carbon nanotube (aCNT) composite fiber</span>
       <br><br>
@@ -68,7 +68,7 @@ Our fiber **uses carbon nanotubes as a skeleton and agarose gel are wrapped arou
 4. Dry the hydrogel threads at room temperature for 12 hours to form aCNT composite fibers [^7].
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hradware-2.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hradware-2.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 4: Production of aCNT composite fiber in laboratory environment</span>
       <br><br>
@@ -81,7 +81,7 @@ Our fiber **uses carbon nanotubes as a skeleton and agarose gel are wrapped arou
 Use [the apparatus](#fig3) to conduct industrial preparation. The apparatus contains an agarose gel solution. Pass the multi-walled carbon nanotube through the apparatus while controlling the diameter of the inlets and outlets to control the diameter of the fibers. The size and shape are adjustable according to specific needs. Heat the carbon nanotube to approximately 100 degrees Celsius and cool it down quickly to solidify the agarose gel on the surface of the carbon nanotube.
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-3.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-3.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 5: Production of aCNT composite fiber in industrial environment</span>
       <br><br>
@@ -98,7 +98,7 @@ Use a spinning machine to spiral our composite fibers into bundles and weave the
 Soak the woven fiber material in bacterial solution. Stand for 30 minutes to facilitate the adsorption of engineered bacteria onto the surface of fiber. The agarose gel provides nutrients, ensuring the survival of bacteria on the fibers for a period of time. Therefore, we successfully constructed [our fiber-bacteria system](#fig4).
 
 <div style="text-align: center;" id="fig4">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-4.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-4.png" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 6: Assembly of the composite fiber-bacterial system</span>
       <br><br>
@@ -110,10 +110,10 @@ Soak the woven fiber material in bacterial solution. Stand for 30 minutes to fac
 
 ### Multi-Application Scenarios
 
-Our aCNT composite fibers can be used in multiple scenarios. **In industrial environments**, our complete composite fiber-engineered bacteria system can be placed inside [the wastewater treatment device](fig7). Engineered bacteria on the fiber absorb and reduce nickel ions as the wastewater flows through the fiber mesh. 
+Our aCNT composite fibers can be used in multiple scenarios. **In industrial environments**, our complete composite fiber-engineered bacteria system can be placed inside [the wastewater treatment device](#fig7). Engineered bacteria on the fiber absorb and reduce nickel ions as the wastewater flows through the fiber mesh. 
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/wastewater-treatment-devices.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/wastewater-treatment-devices.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 7: Wastewater treatment devices</span>
       <br><br>
@@ -122,7 +122,7 @@ Our aCNT composite fibers can be used in multiple scenarios. **In industrial env
 **In natural water bodies**, we can weave the fiber into nets similar to fishing nets. Once secured to the banks of rivers or wooden poles in the water, [the fiber nets can naturally hang into the water](#fig8) and achieve purification.
 
 <div style="text-align: center;" id="fig8">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/river-with-fiber.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/river-with-fiber.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 8: aCNT composite fiber in water bodies</span>
       <br><br>
@@ -141,7 +141,7 @@ Therefore, we decided to stir the mixture with an upgraded Magnetic Stirrer (LKT
 After reviewing related literature, we concluded that the suspension ratio required optimization. After conducting a series of concentration gradient experiments, we selected the ratio of 0.5g MWNT/50ml water. After heating for 5 minutes, add 500mg/50ml agarose in the solution and keep stirring for 30 minutes, during which it transforms into a paste-like consistency. Finally, we successfully created [some thin, long black fibers](#fig9).
 
 <div style="text-align: center;" id="fig9">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/result-a.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/result-a.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 9: Our primary product</span>
       <br><br>
@@ -151,7 +151,7 @@ After reviewing related literature, we concluded that the suspension ratio requi
 We then put several composite fibers into our bacterial suspension containing engineered bacteria, placed them in a 37°C incubator for overnight culture. This experiment aims to verify the bacteria's tropism and adhesion on the fibers.
 
 <div style="text-align: center;" id="fig10">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/result-b-pic.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/result-b-pic.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 10: Fibers in bacterial suspension</span>
       <br><br>
@@ -160,7 +160,7 @@ We then put several composite fibers into our bacterial suspension containing en
 After that, we retrieved the soaked composite fibers and immersed them in clean LB liquid medium for a minute to wash off any residual bacterial solution. Subsequently, the composite fibers were placed on a clean LB solid medium and incubated at 37°C for 15 hours. We observed [bacterial growth only in the area where the composite fibers were placed](#fig11), which confirmed that **our engineered bacteria could adhere to the fibers**. 
 
 <div style="text-align: center;" id="fig11">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/bacteria.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/bacteria.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 11: Bacteria adhesion experiment</span>
       <br><br>

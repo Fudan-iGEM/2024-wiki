@@ -83,7 +83,7 @@ Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers
 <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/sdgs/fiber-celegan-ni.png" style='width:50%'>
     <div>
-        <span style="color:gray">Besides recycling nickel from water, we also use <em>C. elegans</em> to test biosafety and make <em>E.coli</em> grow on fibers to prevent its spread.</span>
+        <span style="color:gray">Besides recycling nickel from water, we also use <em>C. elegans</em> to test biosafety and make <em>E. coli</em> grow on fibers to prevent its spread.</span>
         <br><br>
     </div>
 </div>
