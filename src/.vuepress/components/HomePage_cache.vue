@@ -64,6 +64,10 @@
           xlink:href="https://static.igem.wiki/teams/5115/homepage-section1/3-wave1.png"
         />
         <image
+          class="mineral"
+          xlink:href="https://static.igem.wiki/teams/5115/homepage/mineral.svg"
+        />
+        <image
           class="frame2"
           xlink:href="https://static.igem.wiki/teams/5115/homepage-section1/2.png"
         />
@@ -81,15 +85,25 @@
         />
   
         <g mask="url(#m)">
-          <rect fill="#CDE3EC" width="100%" height="100%" />
-          <text x="350" y="200" fill="#162a43" class="title">I saw three ships on sailing in.</text>
+          <rect fill="#CDE3EC" width="100%" height="100%" class="gan"/>
+            <image
+              class="mineral2"
+              xlink:href="https://static.igem.wiki/teams/5115/homepage/mineral.svg"
+            />
+            <a href="#startnow">
+              <polygon 
+                class="down-arrow"
+                points="960,910 940,880 980,880"
+                fill="#000" />
+            </a>
         </g>
+        
       </svg>
     </div>
   
     <!-- Scrollable main content area -->
     <main>
-      <div class="scrollDist"></div>
+      <div class="scrollDist" ></div>
       <!-- Page 1 -->
       <section class="page-1" id="sky">
         <!-- Background image -->
@@ -345,11 +359,47 @@
               alt="Non-Color Text"
               class="noncolor-text2"
           />
+          <img
+            src="https://static.igem.wiki/teams/5115/data2/data2-graph-xy-and-name.svg"
+            alt="Data2 Graph XY and Name"
+            class="data2-graph-xy-and-name"
+          />
+          <img
+            src="https://static.igem.wiki/teams/5115/data2/noncolor-data2-graph-1.svg"
+            alt="Noncolor Data2 Graph 1"
+            class="noncolor-data2-graph-1"
+          />
+          <img
+            src="https://static.igem.wiki/teams/5115/data2/noncolor-data2-graph-2.svg"
+            alt="Noncolor Data2 Graph 2"
+            class="noncolor-data2-graph-2"
+          />
+          <img
+            src="https://static.igem.wiki/teams/5115/data2/noncolor-data2-graph-3.svg"
+            alt="Noncolor Data2 Graph 3"
+            class="noncolor-data2-graph-3"
+          />
+          <img
+            src="https://static.igem.wiki/teams/5115/data2/data2-graph-1.svg"
+            alt="Data2 Graph 1"
+            class="data2-graph-1"
+          />
+          <img
+            src="https://static.igem.wiki/teams/5115/data2/data2-graph-2.svg"
+            alt="Data2 Graph 2"
+            class="data2-graph-2"
+          />
+          <img
+            src="https://static.igem.wiki/teams/5115/data2/data2-graph-3.svg"
+            alt="Data2 Graph 3"
+            class="data2-graph-3"
+          />
           <img 
               src="https://static.igem.wiki/teams/5115/homepage-page4/data2-new-color-text.svg"
               alt="Color Text"
               class="color-text2"
           />
+  
         </div>
       </section>
   
@@ -386,7 +436,7 @@
             class="word1"
           />
           <img
-            src="https://static.igem.wiki/teams/5115/homepage7/page7-word2.svg"
+            src="https://static.igem.wiki/teams/5115/text/new-page7-word2.svg"
             alt="Word2"
             class="word2"
           />
@@ -481,40 +531,118 @@
             class="nickel-son"
           />
           <img
-            src="https://static.igem.wiki/teams/5115/homepage9/page9-word.svg"
+            src="https://static.igem.wiki/teams/5115/text/new-page9-word.svg"
             alt="Word"
             class="word9"
           />
   
         </div>
       </section>
-      <section class="page-10" id="time tunnel">
+      <section class="page-10" id="time-tunnel">
         <div class="background-container">
           <img
             src="https://static.igem.wiki/teams/5115/homepage7/new1-page10-background.png"
             alt="background10"
             class="background-image"
           />
+          <svg
+            viewBox="0 0 1920 2500"
+            xmlns="http://www.w3.org/2000/svg"
+            class="time-svg"
+          >
+            <defs>
+              <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%" style="stop-color: pink; stop-opacity: 1" />
+                <stop offset="100%" style="stop-color: lightblue; stop-opacity: 1" />
+              </linearGradient>
+            </defs>
   
+            <rect x="1500" y="400" width="50" height="250" rx="30" ry="30" fill="url(#gradient)" class="rect-original-1" />
+            <rect x="1700" y="600" width="50" height="100" rx="30" ry="30" fill="url(#gradient)" class="rect-original-2" />
+            <rect x="150" y="500" width="50" height="250" rx="30" ry="30" fill="url(#gradient)" class="rect-original-3" />
+            <rect x="450" y="800" width="50" height="150" rx="30" ry="30" fill="url(#gradient)" class="rect-original-4" />
+            <rect x="50" y="1050" width="50" height="300" rx="30" ry="30" fill="url(#gradient)" class="rect-original-5" />
+  
+            <rect x="300" y="200" width="50" height="180" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-1" />
+            <rect x="700" y="250" width="50" height="220" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-2" />
+            <rect x="1200" y="350" width="50" height="170" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-3" />
+            <rect x="900" y="450" width="50" height="260" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-4" />
+            <rect x="1500" y="1250" width="50" height="140" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-5" />
+            <rect x="1600" y="750" width="50" height="190" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-6" />
+            <rect x="1350" y="900" width="50" height="220" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-7" />
+            <rect x="600" y="1150" width="50" height="150" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-8" />
+            <rect x="400" y="1300" width="50" height="180" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-9" />
+            <rect x="1100" y="1450" width="50" height="210" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-10" />
+            <rect x="750" y="1600" width="50" height="130" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-11" />
+            <rect x="500" y="1750" width="50" height="160" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-12" />
+            <rect x="1400" y="1900" width="50" height="200" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-13" />
+            <rect x="1800" y="2050" width="50" height="170" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-14" />
+            <rect x="100" y="2200" width="50" height="240" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-15" />
+          </svg>
+          <img
+            src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-cube.svg"
+            alt="Cube"
+            class="cube"
+          />
+          <img
+            src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-word1.svg"
+            alt="Word10"
+            class="word10"
+          />
+          <img
+            src="https://static.igem.wiki/teams/5115/homepage10/new2-page10-word2.svg"
+            alt="word11"
+            class="word11"
+          />
         </div>
       </section>
+  
+  <!--     <section class="page-12" id="lls-love-2">
+        <div class="background-container">
+          <img 
+              src="https://static.igem.wiki/teams/5115/data2/new-page11-background.png"
+              alt="Background"
+              class="background-image"
+          />
+          <img 
+              src="https://static.igem.wiki/teams/5115/homepage11/page11-nickel.svg"
+              alt="NickelNickel"
+              class="nick"
+          />
+          <img 
+              src="https://static.igem.wiki/teams/5115/homepage11/page11-word.svg"
+              alt="Word14"
+              class="word14"
+          />
+        </div>
+      </section> -->
+  
       <section class="page-11" id="gift">
         <div class="background-container">
-          <lottie :options="earthOptions"></lottie>
+          <lottie :options="earthOptions"  class="lottie-animation"></lottie>
+          <img 
+              src="https://static.igem.wiki/teams/5115/homepage11/new1-page11-cube.svg"
+              alt="NickelNickel"
+              class="nick"
+          />
+          <img 
+              src="https://static.igem.wiki/teams/5115/homepage11/new1-page11-word.svg"
+              alt="Word14"
+              class="word14"
+          />
+          <div class="waves">
+            <div class="wave" id="wave1"></div>
+            <div class="wave" id="wave2"></div>
+            <div class="wave" id="wave3"></div>
+            <div class="wave" id="wave4"></div>
+          </div>
         </div>
       </section>
       
       
       <!-- footer -->
       <footer>
-        <!-- Wave Section -->
-        <div class="waves">
-          <div class="wave" id="wave1"></div>
-          <div class="wave" id="wave2"></div>
-          <div class="wave" id="wave3"></div>
-          <div class="wave" id="wave4"></div>
-        </div>
-    
+        <!-- Wave Section -->  
         <div class="footer-wrapper" >
           <div class="logos">
             <a href="https://www.yfc.cn/" target="_blank">
@@ -591,7 +719,7 @@
             scrollTrigger: {
               trigger: '.page-1',
               start: 'top center',
-              end: 'bottom center',
+              end: '70% center',
               scrub: 1,
             },
           });
@@ -616,11 +744,17 @@
           });
   
           page1Tl.to('.track-word', {
-                  maskSize: '100% 100%',
-                  WebkitMaskSize: '100% 100%',
-                  duration: 1.5,
-                  ease: 'none',
-                }, 0);
+            duration: 4,
+            ease: 'none',
+            onUpdate: function() {
+              // Calculate progress from 0 to 1
+              const progress = this.progress();
+              // Update the mask-image property
+              const trackWordElement = document.querySelector('.track-word');
+              trackWordElement.style.maskImage = `linear-gradient(to bottom, rgba(0, 0, 0, ${progress}) 0%, rgba(0, 0, 0, 1) 100%)`;
+              trackWordElement.style.webkitMaskImage = `linear-gradient(to bottom, rgba(0, 0, 0, ${progress}) 0%, rgba(0, 0, 0, 1) 100%)`;
+            }
+          }, 0);
   
         } else {
           gsap.set('.left-cloud', { clearProps: 'all' });
@@ -734,9 +868,12 @@
           delay: 1,
         });
   
+  
         // Opacity animations
         gsap.to(
-          ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water'],
+          ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', 
+          '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water',
+          '.data2-graph-1','.data2-graph-2','.data2-graph-3'],
           {
             opacity: 0,
             ease: 'power1.inOut',
@@ -764,7 +901,7 @@
             '.color-pie-1',
             '.color-pie-2',
             '.color-pie-3',
-            '.color-text',
+            '.color-text','.data2-graph-1','.data2-graph-2','.data2-graph-3'
           ],
           { clearProps: 'all' }
         );
@@ -773,22 +910,32 @@
       initPage5Animations(gsap) {
       if (window.innerWidth >= 500) {
   
-  /*       const page5Tl = gsap.timeline({
+        const page5Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-5',
-            start: 'top 80%',
-            end: 'top 60%',
+            start: 'center bottom',
+            end: '70% bottom',
             scrub: 1,
           },
-        }); */
+        });
        
         gsap.set(['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', 
                   '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', 
-                  '.color-text2','.background-image-water'],
+                  '.color-text2','.background-image-water',
+                  '.data2-graph-1','.data2-graph-2','.data2-graph-3'],
                 { opacity: 0 });
+        gsap.set(['.data2-graph-1', '.noncolor-data2-graph-1'], { xPercent: -100, yPercent: 0 });
+        gsap.set(['.data2-graph-2', '.noncolor-data2-graph-2'], { xPercent: -100, yPercent: 0 });
+        gsap.set(['.data2-graph-3', '.noncolor-data2-graph-3'], { xPercent: -100, yPercent: 0 });
+  
+        page5Tl.to(['.data2-graph-1', '.noncolor-data2-graph-1'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0);
+        page5Tl.to(['.data2-graph-2', '.noncolor-data2-graph-2'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0.2);
+        page5Tl.to(['.data2-graph-3', '.noncolor-data2-graph-3'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0.4);
         // Opacity animations
         gsap.to(
-          ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water'],
+          ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', 
+           '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water',
+           '.data2-graph-1','.data2-graph-2','.data2-graph-3'],
           {
             opacity: 1,
             ease: 'power1.inOut',
@@ -817,7 +964,7 @@
             '.color-pie-2',
             '.color-pie-3',
             '.color-text',
-            '.color-text2',
+            '.color-text2','.data2-graph-1','.data2-graph-2','.data2-graph-3'
           ],
           { clearProps: 'all' }
         );
@@ -983,7 +1130,7 @@
             duration: 0.1, 
           }, '+=0.2');
           page9Tl.to('.carbo9-2', {
-            y: '10%',
+            y: '17%',
             yoyo: true,
             ease: 'power1.inOut',
             scrollTrigger: {
@@ -997,6 +1144,53 @@
   
         } else {
           gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
+        }
+      },
+      initPage10Animations(gsap) {
+        if (window.innerWidth >= 500) {
+          gsap.timeline({
+            scrollTrigger: {
+              trigger: ".page-10",
+              start: "75% bottom",
+              end: "95% bottom",
+              pin: ".cube",
+              pinSpacing: false,
+              scrub: true, 
+            }
+          });
+          gsap.timeline({
+            scrollTrigger: {
+              trigger: ".page-10",
+              start: "75% bottom",
+              end: "95% bottom",
+              pin: ".word10",
+              pinSpacing: false,
+              scrub: true, 
+            }
+          });
+          gsap.timeline({
+            scrollTrigger: {
+              trigger: ".page-10",
+              start: "75% bottom",
+              end: "95% bottom",
+              pin: ".word11",
+              pinSpacing: false,
+              scrub: true, 
+            }
+          });
+          gsap.to(".gan", {
+            attr: { fill: "#FEBC5B" },
+            scrollTrigger: {
+              trigger: ".page-10",
+              start: "75% bottom",
+              end: "75% bottom", 
+              scrub: false, 
+              onLeaveBack: () => gsap.to(".gan", { attr: { fill: "#CDE3EC" }, duration: 0 }) // Revert to original color
+            }
+          });
+        } else {
+          // Clear GSAP properties for mobile
+          gsap.set(['.cube', '.word10', '.word11'], { clearProps: 'all' });
         }
       },
     },
@@ -1029,9 +1223,19 @@
       this.initPage8Animations(gsap);
       this.initPageBAnimations(gsap);
       this.initPage9Animations(gsap);
-  
+      this.initPage10Animations(gsap);
+      gsap.to('.nick', {
+        y: '+=50', // Move 20px down
+        duration: 2, // Duration of the float down
+        repeat: -1, // Repeat indefinitely
+        yoyo: true, // Reverse the animation
+        ease: 'power1.inOut' // Smooth easing
+      });
       // Create floating animation timeline
       if (window.innerWidth >= 900) {
+        gsap.set(['.mineral','.down-arrow'], {
+            y: '20%',
+          });
         const floatingTl = gsap.timeline({ repeat: -1, yoyo: true });
         floatingTl.to('.carbo1', { y: -20, duration: 3.6, ease: 'power1.inOut' }, 0);
         floatingTl.to('.carbo2', { y: -30, duration: 1.2, ease: 'power1.inOut' }, 0.2);
@@ -1115,7 +1319,12 @@
           .fromTo('.carbo3', { y: 0 }, { y: -1000, duration: 5 }, 'afterScaling')
           .fromTo('.carbo4', { y: -30 }, { y: -250, duration: 5 }, 'afterScaling')
           .fromTo('.carbo5', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling')
-          .fromTo('.title', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling');
+          .fromTo('.title', { y: -50 }, { y: -600, duration: 5 }, 'afterScaling')
+          .fromTo('.mineral2',{ y: 200 },  { y: -350, duration: 5 }, 'afterScaling')
+          .fromTo('.down-arrow',{ y: 200 },  { y: -350, duration: 5 }, 'afterScaling')
+          .addLabel('afterframe')
+          .fromTo('.mineral2',{ y: -350 },  { y: -953, duration: 2 }, 'afterframe')
+          .fromTo('.down-arrow',{ y: -350 },  { y: -953, duration: 2 }, 'afterframe');
       }
     },
     beforeDestroy() {
@@ -1127,6 +1336,10 @@
   
   <style scoped>
   /* Common styles */
+  .title{
+    top: 0%;
+    z-index: 100;
+  }
   body,
   html {
     width: 100%;
@@ -1139,7 +1352,10 @@
     overflow-x: hidden; /* Prevent horizontal scrollbar */
     background-color: black !important;
   }
-  
+  footer{
+    margin: 0;
+    padding: 0;
+  }
   .animation-container {
     position: fixed;
     top: 0;
@@ -1150,7 +1366,7 @@
     pointer-events: none; /* Prevent the animation layer from blocking interactions */
     z-index: 1;
     overflow: hidden;
-    background-color: #CDE3EC;
+    background: linear-gradient(to bottom, #CDE3EC 90%, #FEBC5B 90%);
   }
   
   main {
@@ -1193,6 +1409,10 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
+  }
+  .down-arrow {
+    pointer-events: auto; 
+    cursor: pointer;      
   }
   
   .background-image {
@@ -1251,12 +1471,41 @@
   .carbo9-1,
   .carbo9-2,
   .carbo9-3,
-  .nickel-son {
+  .nickel-son,
+  .cube,
+  .time-svg,
+  .noncolor-data2-graph-1,
+  .noncolor-data2-graph-2,
+  .noncolor-data2-graph-3,
+  .data2-graph-1,
+  .data2-graph-2,
+  .data2-graph-3,
+  .data2-graph-xy-and-name,
+  .mineral {
     position: absolute;
     top: 0;
     width: 100%;
     height: auto;
     left: 0;
+  }
+  .nick{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    left: 0;
+  }
+  /* .mineral{
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    height: auto;
+    z-index: 999;
+  } */
+  .frame7,
+  .frame6,
+  .frame5{
+    z-index: 301;
   }
   .text2,
   .text3,
@@ -1267,9 +1516,19 @@
   .word1,
   .word2,
   .word8,
-  .word9 {
+  .word9,
+  .word11,
+  .word10{
     position: absolute;
     top: 0;
+    width: 100%;
+    height: auto;
+    left: 0;
+  }
+  
+  .word14 {
+    position: absolute;
+    top: 10%;
     width: 100%;
     height: auto;
     left: 0;
@@ -1336,7 +1595,9 @@
   .page-6,
   .page-7,
   .page-8,
-  .page-9 {
+  .page-9,
+  .page-10,
+  .page-11 {
     margin: 0;
     padding: 0;
     display: flex;
@@ -1349,7 +1610,8 @@
     overflow: hidden;
   }
   /* Tear SVG */
-  .tear-svg {
+  .tear-svg,
+  .time-svg {
     position: absolute;
     top: 0;
     left: 0;
@@ -1362,12 +1624,12 @@
   .track-word {
     opacity: 1; 
   
-    mask-image: linear-gradient(135deg, transparent 0%, rgba(0, 0, 0, 1) 100%);
-    -webkit-mask-image: linear-gradient(135deg, transparent 0%, rgba(0, 0, 0, 1) 100%);
-    mask-size: 0% 0%;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  /*   mask-size: 0% 0%;
     -webkit-mask-size: 0% 0%;
     mask-repeat: no-repeat;
-    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat; */
   }
   
   @media (min-width: 1025px){
@@ -1463,13 +1725,13 @@
   }
   .footer-wrapper {
       text-align: center;
-      padding: 2rem 1rem;
+  /*     padding: 2rem 1rem; */
       position: relative;
       background-color: #FEBC5B; 
     }
-    html[data-theme="dark"] .footer-wrapper{
+  /*   html[data-theme="dark"] .footer-wrapper{
       background-color: #df9226; 
-  }
+  } */
     .logos {
       margin-bottom: 2rem;
     }
@@ -1498,10 +1760,11 @@
     color: #2736c1;
   }
     /* Wave Animation Section */
-    /* .waves {
-      margin-top: 5vw;
+    .waves {
+  /*     margin-top: 5vw; */
       position: relative;
       width: 100%;
+      
     }
     
     .wave {
@@ -1514,7 +1777,7 @@
       background: url(https://static.igem.wiki/teams/5115/czh/footer-light.png);
       background-size: 600px 1rem;
     }
-    html[data-theme="dark"] .wave{
+  /*   html[data-theme="dark"] .wave{
       position: absolute;
       top: -0.99rem;
       left: 0;
@@ -1523,7 +1786,7 @@
       transition: 0.5s;
       background: url(https://static.igem.wiki/teams/5115/czh/footer-dark.png);
       background-size: 600px 1rem;
-  }
+  } */
     html[data-theme="dark"] .waves::after {
       content: "";
       clear: both;
@@ -1563,10 +1826,10 @@
       opacity: 0.1;
       bottom: 5rem;
       animation: animateWave_02 20s linear infinite;
-    } */
+    }
     
     /* Wave Animations */
-    /* @keyframes animateWave_02 {
+    @keyframes animateWave_02 {
       0% {
         background-position-x: 0px;
       }
@@ -1591,8 +1854,28 @@
       to {
         transform: rotate(360deg);
       }
-    } */
+    }
     .home-logo {
       animation: rotateLogo 0.27s steps(8) infinite;
     }
+  
+  
+    .nick,
+    .word14,
+    .waves {
+    position: absolute;
+    z-index: 200; /* 图片在上层 */
+  }
+    .lottie-animation {
+  /*   position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; */
+    z-index: 1; /* Lottie 在下层 */
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    }
+  
   </style>

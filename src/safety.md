@@ -30,11 +30,11 @@ It must be acknowledged that as a project committed to addresse environmental pr
 
 1. Its short life and reproduction cycles allow for the rapid collection of large amounts of data in environmental pollution assessments.
 2. As a model organism, it has well-established experimental protocols and animal behavior evaluation methods.
-3. It has demonstrated high sensitivity to a wide range of environmental pollutants, such as exhibiting significant reductions in growth, reproduction, and locomotion when exposed to heavy metals and organic compounds 缺文献.
+3. It has demonstrated high sensitivity to a wide range of environmental pollutants, such as exhibiting significant reductions in growth, reproduction, and locomotion when exposed to heavy metals and organic compounds[^2] .
 4. Its genetic structure and biochemical pathways are similar to those of higher organisms, making it valuable for evaluating the overall impact of pollutants to the ecosystem.
 5. Being an invertebrate, its usage avoids many ethical concerns associated with experimental testing.
 
-For these reasons, many official organizations have adopted *C. elegans* as the standard model organism for detecting shallow freshwater and soil pollutants. For example, [ASTM International’s E2172–01](https://www.astm.org/e2172-01r14.html) standard outlines the use of *C. elegans* in laboratory soil toxicity tests, and the International Organization for Standardization's [ISO10872 Standard](https://www.iso.org/obp/ui/en/#iso:std:iso:10872:ed-2:v1:en) provides detailed guidelines on using *C. elegans* to evaluate chronic toxicity in environmental media. Similarly, many researchers have already employed various methods for using worm in environmental assessments[^2]. More relevantly, the Organisation for Economic Co-operation and Development’s [ENV/JM/MONO(2015)16/PART7 Standard](https://one.oecd.org/document/ENV/JM/MONO(2015)16/PART7/en/pdf) specifies the use of *C. elegans* to measure the environmental impact of silver nanoparticles. These established methods provide a solid foundation for our measurements.
+For these reasons, many official organizations have adopted *C. elegans* as the standard model organism for detecting shallow freshwater and soil pollutants. For example, [ASTM International’s E2172–01](https://www.astm.org/e2172-01r14.html) standard outlines the use of *C. elegans* in laboratory soil toxicity tests, and the International Organization for Standardization's [ISO10872 Standard](https://www.iso.org/obp/ui/en/#iso:std:iso:10872:ed-2:v1:en) provides detailed guidelines on using *C. elegans* to evaluate chronic toxicity in environmental media. Similarly, many researchers have already employed various methods for using worm in environmental assessments[^3]. More relevantly, the Organisation for Economic Co-operation and Development’s [ENV/JM/MONO(2015)16/PART7 Standard](https://one.oecd.org/document/ENV/JM/MONO(2015)16/PART7/en/pdf) specifies the use of *C. elegans* to measure the environmental impact of silver nanoparticles. These established methods provide a solid foundation for our measurements.
 
 This year we utilized *Caenorhabditis elegans* in assessing the outcome of releasing our engineered bacteria and bioaccumulated nickel microparticles into the environment. We believe our method could serve as a universal approach for biotoxicity testing, offering a valuable reference for other teams.
 
@@ -43,26 +43,29 @@ This year we utilized *Caenorhabditis elegans* in assessing the outcome of relea
     <img src="https://static.igem.wiki/teams/5115/txj/safety-f.gif" style="width:80%; height: auto;"><br>
     <img src="https://static.igem.wiki/teams/5115/txj/safety-u.gif" style="width:80%; height: auto;"><br>
     <div>
-        <span style="color: gray">Figure 1-3: Representative images of <em>Caenorhabditis elegans</em> swimming, fed with <em>E. coli</em> strain OP50, <em>E. coli</em> expressing [module F](https://parts.igem.org/Part:BBa_K5115067), and <em>E. coli</em> expressing [module U](https://parts.igem.org/Part:BBa_K5115068).<br>
-         <small>For the later two, bacteria has been cultured at 37°C for 30 hours in 100 mg/L NiCl~2~ solution with bubbled hydrogen gas, assuming massive nickel microparticles formed inside bacteria. After 30-hour culture, bacteria were collected by 3000 rpm 10-min centrifugation, briefly washed with 2x YT media, plated directly onto the plate, briefly dried before seeding worm. Dark brown balls in the fields are bacteria aggregates. These videos were captured using a household [DSLR](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera) camera, and are displayed at 6x the real speed.</small>
+        <span style="color: gray">Figure 1-3: Representative images of <em>Caenorhabditis elegans</em> swimming, fed with <em>E. coli</em> strain OP50, <em>E. coli</em> expressing <a href='https://parts.igem.org/Part:BBa_K5115067'>module F</a>, and <em>E. coli</em> expressing <a href='https://parts.igem.org/Part:BBa_K5115068'>module U</a>.<br>
+         <small>For the later two, bacteria has been cultured at 37°C for 30 hours in 100 mg/L NiCl~2~ solution with bubbled hydrogen gas, assuming massive nickel microparticles formed inside bacteria. After 30-hour culture, bacteria were collected by 3000 rpm 10-min centrifugation, briefly washed with 2x YT media, plated directly onto the plate, briefly dried before seeding worm. Dark brown balls in the fields are bacteria aggregates. These videos were captured using a household <a href='https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera'>DSLR</a> camera, and are displayed at 6x the real speed.</small>
          </span>
       <br><br>
     </div>
 </div>
 
 
+
 <div style="display: flex; justify-content: space-between; align-items: center;">       
    <div style="flex: 1; text-align: center;">           
-      <img src="https://static.igem.wiki/teams/5115/txj/mm.jpg" style="width:95%; height: auto;">           
+      <img src="https://static.igem.wiki/teams/5115/txj/c-elegans2.jpg" style="width:95%; height: auto;">           
    </div>       
    <div style="flex: 1; text-align: center;">           
-      <img src="https://static.igem.wiki/teams/5115/txj/.png" style="width:95%; height: auto;">           
+      <img src="https://static.igem.wiki/teams/5115/txj/c-elegans1.png" style="width:95%; height: auto;">           
    </div>   
 </div>
 <div style="text-align: center; margin-top: 10px;">
    <span style="color: gray">Figure 4 & 5: Comparison of the average distance moved per minute and the average turning angle per turn of <em>Caenorhabditis elegans</em>, 18 hours after seeding.<br>
-      <small>The nematodes were fed with <em>E. coli</em> strain OP50, <em>E. coli</em> expressing [module F](https://parts.igem.org/Part:BBa_K5115067), and <em>E. coli</em> expressing [module U](https://parts.igem.org/Part:BBa_K5115068). For the later two, bacteria has been cultured at 37°C for 30 hours in 100 mg/L NiCl~2~ solution with bubbled hydrogen gas, assuming massive nickel microparticles formed inside bacteria. After 30-hour culture, bacteria were collected by 3000 rpm 10-min centrifugation, briefly washed with 2x YT media, plated directly onto the plate, briefly dried before seeding worm. Five L2-stage nematodes were picked for each plate and cultured at 20°C for 18 hours. For each dataset, images from at least three nematode were collected, and at least 1-minute worm movement was recorded at 1080p 30fps, yielding at least 1900 data points, analyzed by ImageJ Plugins Animal Tracker, and graphed in GraphPad Prism.</small></span>
+      <small>The nematodes were fed with <em>E. coli</em> strain OP50, <em>E. coli</em> expressing <a href='https://parts.igem.org/Part:BBa_K5115067'>module F</a>, and <em>E. coli</em> expressing <a href='https://parts.igem.org/Part:BBa_K5115068'>module U</a>. For the later two, bacteria has been cultured at 37°C for 30 hours in 100 mg/L NiCl~2~ solution with bubbled hydrogen gas, assuming massive nickel microparticles formed inside bacteria. After 30-hour culture, bacteria were collected by 3000 rpm 10-min centrifugation, briefly washed with 2x YT media, plated directly onto the plate, briefly dried before seeding worm. Five L2-stage nematodes were picked for each plate and cultured at 20°C for 18 hours. For each dataset, images from at least three nematode were collected, and at least 1-minute worm movement was recorded at 1080p 30fps, yielding at least 1900 data points, analyzed by ImageJ Plugins Animal Tracker, and graphed in GraphPad Prism.</small></span>
 </div>
+
+
 
 By feeding nematodes with engineered bacteria [containing nickel microparticles](/fudan/results/#), and comparing their locomotion behavior, we found no significant difference in worm motion between the control group and the experimental group. This indicates that our product is harmless to nematodes, likely to be environmentally and biologically friendly.
 
@@ -89,8 +92,8 @@ In the laboratory setting, our engineered bacteria exhibit a growth disadvantage
 
 Through the measures and considerations mentioned above, we have fully adhered to the spirit of [iGEM's Biosafety and Biosecurity](https://responsibility.igem.org/guidance/working-safely) guidelines. We summarize our practices as following:
 
-| Aspects     | Our Answer        
-| ----------- | -------------
+| Aspects                                                      | Our Answers                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Did the team make a contribution to biosafety and/or biosecurity? | Yes. Building upon traditional biosafety measures, we have developed innovative approaches that ensure the safety of the project itself and effectively assess and manage potential risks to personnel, the laboratory, and the environment in the event of accidental release. |
 | Is their contribution well-characterized and/or well-validated? | Yes. The effectiveness of all the methods we employed has been thoroughly evaluated through experimentation, and their principles and procedures have been meticulously documented for future teams to reference. These methods are sufficiently simple and reproducible. |
 | Did the team build upon existing knowledge, understanding, tools or approaches? | Yes. The safety measures we implemented are based on well-established practices that have been validated by previous research and/or are supported by widely accepted industry or standardized protocols, ensuring that the relevant knowledge and tools are highly accessible. |
@@ -101,5 +104,6 @@ Through the measures and considerations mentioned above, we have fully adhered t
 ## Reference
 
 [^1]:Miao, C., Jia, P., Luo, C., Pang, J., Xiao, L., Zhang, T., Duan, J., Li, Y., & Sun, Z. (2024). The size-dependent in vivo toxicity of amorphous silica nanoparticles: A systematic review. *Ecotoxicology and Environmental Safety*, *271*, 115910. https://doi.org/10.1016/j.ecoenv.2023.115910
-[^2]: Queirós, L., Pereira, J. L., Gonçalves, F. J. M., Pacheco, M., Aschner, M., & Pereira, P. (2019). *Caenorhabditis elegans* as a tool for environmental risk assessment: Emerging and promising applications for a “nobelized worm”. *Critical Reviews in Toxicology*, *49*(5), 411–429. https://doi.org/10.1080/10408444.2019.1626801
+[^2]:Leung, M. C. K., Williams, P. L., Benedetto, A., Au, C., Helmcke, K. J., Aschner, M., & Meyer, J. N. (2008). Caenorhabditis elegans: An Emerging Model in Biomedical and Environmental Toxicology. *Toxicological Sciences*, *106*(1), 5–28. https://doi.org/10.1093/toxsci/kfn121
+[^3]: Queirós, L., Pereira, J. L., Gonçalves, F. J. M., Pacheco, M., Aschner, M., & Pereira, P. (2019). *Caenorhabditis elegans* as a tool for environmental risk assessment: Emerging and promising applications for a “nobelized worm”. *Critical Reviews in Toxicology*, *49*(5), 411–429. https://doi.org/10.1080/10408444.2019.1626801
 
