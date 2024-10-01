@@ -346,37 +346,37 @@
             class="noncolor-text2"
         />
         <img
-          src="https://tools.igem.org/uploads/teams/5115/data2/data2-graph-xy-and-name.svg"
+          src="https://static.igem.wiki/teams/5115/data2/data2-graph-xy-and-name.svg"
           alt="Data2 Graph XY and Name"
           class="data2-graph-xy-and-name"
         />
         <img
-          src="https://tools.igem.org/uploads/teams/5115/data2/noncolor-data2-graph-1.svg"
+          src="https://static.igem.wiki/teams/5115/data2/noncolor-data2-graph-1.svg"
           alt="Noncolor Data2 Graph 1"
           class="noncolor-data2-graph-1"
         />
         <img
-          src="https://tools.igem.org/uploads/teams/5115/data2/noncolor-data2-graph-2.svg"
+          src="https://static.igem.wiki/teams/5115/data2/noncolor-data2-graph-2.svg"
           alt="Noncolor Data2 Graph 2"
           class="noncolor-data2-graph-2"
         />
         <img
-          src="https://tools.igem.org/uploads/teams/5115/data2/noncolor-data2-graph-3.svg"
+          src="https://static.igem.wiki/teams/5115/data2/noncolor-data2-graph-3.svg"
           alt="Noncolor Data2 Graph 3"
           class="noncolor-data2-graph-3"
         />
         <img
-          src="https://tools.igem.org/uploads/teams/5115/data2/data2-graph-1.svg"
+          src="https://static.igem.wiki/teams/5115/data2/data2-graph-1.svg"
           alt="Data2 Graph 1"
           class="data2-graph-1"
         />
         <img
-          src="https://tools.igem.org/uploads/teams/5115/data2/data2-graph-2.svg"
+          src="https://static.igem.wiki/teams/5115/data2/data2-graph-2.svg"
           alt="Data2 Graph 2"
           class="data2-graph-2"
         />
         <img
-          src="https://tools.igem.org/uploads/teams/5115/data2/data2-graph-3.svg"
+          src="https://static.igem.wiki/teams/5115/data2/data2-graph-3.svg"
           alt="Data2 Graph 3"
           class="data2-graph-3"
         />
@@ -543,7 +543,6 @@
             </linearGradient>
           </defs>
 
-
           <rect x="1500" y="400" width="50" height="250" rx="30" ry="30" fill="url(#gradient)" class="rect-original-1" />
           <rect x="1700" y="600" width="50" height="100" rx="30" ry="30" fill="url(#gradient)" class="rect-original-2" />
           <rect x="150" y="500" width="50" height="250" rx="30" ry="30" fill="url(#gradient)" class="rect-original-3" />
@@ -554,7 +553,7 @@
           <rect x="700" y="250" width="50" height="220" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-2" />
           <rect x="1200" y="350" width="50" height="170" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-3" />
           <rect x="900" y="450" width="50" height="260" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-4" />
-          <rect x="200" y="650" width="50" height="140" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-5" />
+          <rect x="1500" y="1250" width="50" height="140" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-5" />
           <rect x="1600" y="750" width="50" height="190" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-6" />
           <rect x="1350" y="900" width="50" height="220" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-7" />
           <rect x="600" y="1150" width="50" height="150" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-8" />
@@ -587,7 +586,7 @@
     <section class="page-12" id="lls-love-2">
       <div class="background-container">
         <img 
-            src="https://static.igem.wiki/teams/5115/homepage11/page11-background.svg"
+            src="https://static.igem.wiki/teams/5115/data2/new-page11-background.png"
             alt="Background"
             class="background-image"
         />
@@ -697,7 +696,7 @@ export default {
           scrollTrigger: {
             trigger: '.page-1',
             start: 'top center',
-            end: 'bottom center',
+            end: '70% center',
             scrub: 1,
           },
         });
@@ -722,11 +721,17 @@ export default {
         });
 
         page1Tl.to('.track-word', {
-                maskSize: '100% 100%',
-                WebkitMaskSize: '100% 100%',
-                duration: 1.5,
-                ease: 'none',
-              }, 0);
+          duration: 4,
+          ease: 'none',
+          onUpdate: function() {
+            // Calculate progress from 0 to 1
+            const progress = this.progress();
+            // Update the mask-image property
+            const trackWordElement = document.querySelector('.track-word');
+            trackWordElement.style.maskImage = `linear-gradient(to bottom, rgba(0, 0, 0, ${progress}) 0%, rgba(0, 0, 0, 1) 100%)`;
+            trackWordElement.style.webkitMaskImage = `linear-gradient(to bottom, rgba(0, 0, 0, ${progress}) 0%, rgba(0, 0, 0, 1) 100%)`;
+          }
+        }, 0);
 
       } else {
         gsap.set('.left-cloud', { clearProps: 'all' });
@@ -840,9 +845,12 @@ export default {
         delay: 1,
       });
 
+
       // Opacity animations
       gsap.to(
-        ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water'],
+        ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', 
+        '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water',
+        '.data2-graph-1','.data2-graph-2','.data2-graph-3'],
         {
           opacity: 0,
           ease: 'power1.inOut',
@@ -870,7 +878,7 @@ export default {
           '.color-pie-1',
           '.color-pie-2',
           '.color-pie-3',
-          '.color-text',
+          '.color-text','.data2-graph-1','.data2-graph-2','.data2-graph-3'
         ],
         { clearProps: 'all' }
       );
@@ -879,22 +887,32 @@ export default {
     initPage5Animations(gsap) {
     if (window.innerWidth >= 500) {
 
-/*       const page5Tl = gsap.timeline({
+      const page5Tl = gsap.timeline({
         scrollTrigger: {
           trigger: '.page-5',
-          start: 'top 80%',
-          end: 'top 60%',
+          start: 'center bottom',
+          end: '70% bottom',
           scrub: 1,
         },
-      }); */
+      });
      
       gsap.set(['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', 
                 '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', 
-                '.color-text2','.background-image-water'],
+                '.color-text2','.background-image-water',
+                '.data2-graph-1','.data2-graph-2','.data2-graph-3'],
               { opacity: 0 });
+      gsap.set(['.data2-graph-1', '.noncolor-data2-graph-1'], { xPercent: -100, yPercent: 0 });
+      gsap.set(['.data2-graph-2', '.noncolor-data2-graph-2'], { xPercent: -100, yPercent: 0 });
+      gsap.set(['.data2-graph-3', '.noncolor-data2-graph-3'], { xPercent: -100, yPercent: 0 });
+
+      page5Tl.to(['.data2-graph-1', '.noncolor-data2-graph-1'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0);
+      page5Tl.to(['.data2-graph-2', '.noncolor-data2-graph-2'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0.2);
+      page5Tl.to(['.data2-graph-3', '.noncolor-data2-graph-3'], { xPercent: 0, yPercent: 0, duration: 0.1, ease: 'power2.out' }, 0.4);
       // Opacity animations
       gsap.to(
-        ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water'],
+        ['.color-bubble-1', '.color-bubble-2', '.color-bubble-3', '.color-pie-1', 
+         '.color-pie-2', '.color-pie-3', '.color-text', '.color-text2','.background-image-water',
+         '.data2-graph-1','.data2-graph-2','.data2-graph-3'],
         {
           opacity: 1,
           ease: 'power1.inOut',
@@ -923,7 +941,7 @@ export default {
           '.color-pie-2',
           '.color-pie-3',
           '.color-text',
-          '.color-text2',
+          '.color-text2','.data2-graph-1','.data2-graph-2','.data2-graph-3'
         ],
         { clearProps: 'all' }
       );
@@ -1089,7 +1107,7 @@ export default {
           duration: 0.1, 
         }, '+=0.2');
         page9Tl.to('.carbo9-2', {
-          y: '10%',
+          y: '17%',
           yoyo: true,
           ease: 'power1.inOut',
           scrollTrigger: {
@@ -1110,7 +1128,7 @@ export default {
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "72% bottom",
+            start: "75% bottom",
             end: "95% bottom",
             pin: ".cube",
             pinSpacing: false,
@@ -1120,7 +1138,7 @@ export default {
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "72% bottom",
+            start: "75% bottom",
             end: "95% bottom",
             pin: ".word10",
             pinSpacing: false,
@@ -1130,7 +1148,7 @@ export default {
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "72% bottom",
+            start: "75% bottom",
             end: "95% bottom",
             pin: ".word11",
             pinSpacing: false,
@@ -1522,12 +1540,12 @@ section {
 .track-word {
   opacity: 1; 
 
-  mask-image: linear-gradient(135deg, transparent 0%, rgba(0, 0, 0, 1) 100%);
-  -webkit-mask-image: linear-gradient(135deg, transparent 0%, rgba(0, 0, 0, 1) 100%);
-  mask-size: 0% 0%;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 100%);
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 100%);
+/*   mask-size: 0% 0%;
   -webkit-mask-size: 0% 0%;
   mask-repeat: no-repeat;
-  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat; */
 }
 
 @media (min-width: 1025px){
