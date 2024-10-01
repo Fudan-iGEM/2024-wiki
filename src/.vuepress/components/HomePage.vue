@@ -443,7 +443,6 @@
         />
       </div>
     </section>
-
     <section class="page-9" id="time-cannel">
       <div class="background-container">
         <img
