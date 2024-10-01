@@ -264,7 +264,7 @@ After visiting CPS's factory, we found that their **medium-sized facility** is i
 
 <PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/agreement.pdf" page="1" width="100%" height="100vw"/>
 
-<div style="text-align: center; id="pdf1">
+<div style="text-align: center;" id="pdf1">
     	<span style="color: gray">Technical Cooperation Intention Agreement</span>
         <br><br>
     </div>
