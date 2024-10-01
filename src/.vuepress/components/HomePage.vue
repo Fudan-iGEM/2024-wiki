@@ -345,11 +345,47 @@
             alt="Non-Color Text"
             class="noncolor-text2"
         />
+        <img
+          src="https://tools.igem.org/uploads/teams/5115/data2/data2-graph-xy-and-name.svg"
+          alt="Data2 Graph XY and Name"
+          class="data2-graph-xy-and-name"
+        />
+        <img
+          src="https://tools.igem.org/uploads/teams/5115/data2/noncolor-data2-graph-1.svg"
+          alt="Noncolor Data2 Graph 1"
+          class="noncolor-data2-graph-1"
+        />
+        <img
+          src="https://tools.igem.org/uploads/teams/5115/data2/noncolor-data2-graph-2.svg"
+          alt="Noncolor Data2 Graph 2"
+          class="noncolor-data2-graph-2"
+        />
+        <img
+          src="https://tools.igem.org/uploads/teams/5115/data2/noncolor-data2-graph-3.svg"
+          alt="Noncolor Data2 Graph 3"
+          class="noncolor-data2-graph-3"
+        />
+        <img
+          src="https://tools.igem.org/uploads/teams/5115/data2/data2-graph-1.svg"
+          alt="Data2 Graph 1"
+          class="data2-graph-1"
+        />
+        <img
+          src="https://tools.igem.org/uploads/teams/5115/data2/data2-graph-2.svg"
+          alt="Data2 Graph 2"
+          class="data2-graph-2"
+        />
+        <img
+          src="https://tools.igem.org/uploads/teams/5115/data2/data2-graph-3.svg"
+          alt="Data2 Graph 3"
+          class="data2-graph-3"
+        />
         <img 
             src="https://static.igem.wiki/teams/5115/homepage-page4/data2-new-color-text.svg"
             alt="Color Text"
             class="color-text2"
         />
+
       </div>
     </section>
 
@@ -386,7 +422,7 @@
           class="word1"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage7/page7-word2.svg"
+          src="https://static.igem.wiki/teams/5115/text/new-page7-word2.svg"
           alt="Word2"
           class="word2"
         />
@@ -481,7 +517,7 @@
           class="nickel-son"
         />
         <img
-          src="https://static.igem.wiki/teams/5115/homepage9/page9-word.svg"
+          src="https://static.igem.wiki/teams/5115/text/new-page9-word.svg"
           alt="Word"
           class="word9"
         />
@@ -513,7 +549,6 @@
           <rect x="150" y="500" width="50" height="250" rx="30" ry="30" fill="url(#gradient)" class="rect-original-3" />
           <rect x="450" y="800" width="50" height="150" rx="30" ry="30" fill="url(#gradient)" class="rect-original-4" />
           <rect x="50" y="1050" width="50" height="300" rx="30" ry="30" fill="url(#gradient)" class="rect-original-5" />
-
 
           <rect x="300" y="200" width="50" height="180" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-1" />
           <rect x="700" y="250" width="50" height="220" rx="30" ry="30" fill="url(#gradient)" class="rect-extra-2" />
@@ -548,6 +583,27 @@
         />
       </div>
     </section>
+
+    <section class="page-12" id="lls-love-2">
+      <div class="background-container">
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage11/page11-background.svg"
+            alt="Background"
+            class="background-image"
+        />
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage11/page11-nickel.svg"
+            alt="NickelNickel"
+            class="nick"
+        />
+        <img 
+            src="https://static.igem.wiki/teams/5115/homepage11/page11-word.svg"
+            alt="Word14"
+            class="word14"
+        />
+      </div>
+    </section>
+
     <section class="page-11" id="gift">
       <div class="background-container">
         <lottie :options="earthOptions"></lottie>
@@ -1049,21 +1105,43 @@ export default {
         gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
       }
     },
-/*     initPage10Animations(gsap){
-      if (window.innerWidth >= 500) { 
-        const page9Tl = gsap.timeline({
+    initPage10Animations(gsap) {
+      if (window.innerWidth >= 500) {
+        gsap.timeline({
           scrollTrigger: {
-            trigger: '.page-9',
-            start: 'top 60%', 
-            end: 'top 30%',   
-            scrub: true,     
-          },
+            trigger: ".page-10",
+            start: "72% bottom",
+            end: "95% bottom",
+            pin: ".cube",
+            pinSpacing: false,
+            scrub: true, 
+          }
         });
-
+        gsap.timeline({
+          scrollTrigger: {
+            trigger: ".page-10",
+            start: "72% bottom",
+            end: "95% bottom",
+            pin: ".word10",
+            pinSpacing: false,
+            scrub: true, 
+          }
+        });
+        gsap.timeline({
+          scrollTrigger: {
+            trigger: ".page-10",
+            start: "72% bottom",
+            end: "95% bottom",
+            pin: ".word11",
+            pinSpacing: false,
+            scrub: true, 
+          }
+        });
       } else {
-        gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { clearProps: 'all' });
+        // Clear GSAP properties for mobile
+        gsap.set(['.cube', '.word10', '.word11'], { clearProps: 'all' });
       }
-    }, */
+    },
   },
   async mounted() {
     // Initial screen width check
@@ -1094,6 +1172,7 @@ export default {
     this.initPage8Animations(gsap);
     this.initPageBAnimations(gsap);
     this.initPage9Animations(gsap);
+    this.initPage10Animations(gsap);
 
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
@@ -1318,7 +1397,15 @@ section {
 .carbo9-3,
 .nickel-son,
 .cube,
-.time-svg {
+.time-svg,
+.nick,
+.noncolor-data2-graph-1,
+.noncolor-data2-graph-2,
+.noncolor-data2-graph-3,
+.data2-graph-1,
+.data2-graph-2,
+.data2-graph-3,
+.data2-graph-xy-and-name {
   position: absolute;
   top: 0;
   width: 100%;
@@ -1336,7 +1423,8 @@ section {
 .word8,
 .word9,
 .word11,
-.word10 {
+.word10,
+.word14 {
   position: absolute;
   top: 0;
   width: 100%;
@@ -1405,7 +1493,9 @@ section {
 .page-6,
 .page-7,
 .page-8,
-.page-9 {
+.page-9,
+.page-10,
+.page-11 {
   margin: 0;
   padding: 0;
   display: flex;
