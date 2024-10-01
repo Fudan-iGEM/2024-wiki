@@ -495,6 +495,21 @@
           alt="background10"
           class="background-image"
         />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/page10-cube.svg"
+          alt="Cube"
+          class="cube"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/page10-word1.svg"
+          alt="Word10"
+          class="word10"
+        />
+        <img
+          src="https://static.igem.wiki/teams/5115/homepage10/page10-word2.svg"
+          alt="word11"
+          class="word11"
+        />
 
       </div>
     </section>
@@ -1251,7 +1266,8 @@ section {
 .carbo9-1,
 .carbo9-2,
 .carbo9-3,
-.nickel-son {
+.nickel-son,
+.cube {
   position: absolute;
   top: 0;
   width: 100%;
@@ -1267,7 +1283,9 @@ section {
 .word1,
 .word2,
 .word8,
-.word9 {
+.word9,
+.word11,
+.word10 {
   position: absolute;
   top: 0;
   width: 100%;
