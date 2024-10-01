@@ -44,7 +44,7 @@ The 9th SDG aims to build resilient infrastructure, promote inclusive and sustai
 Please refer to [Entrepreneurship](/fudan/entrepreneurship/) for more information.
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/battery.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/sdgs/battery.jpg" style="width:100%">
     <div>
     	<span style="color: gray">Our team reached out to a battery company, introduced our project, and got feedbacks.</span>
         <br><br>
@@ -111,7 +111,7 @@ We focus on delivering biology education across the K-12 spectrum, actively gath
 We believe that education should embrace inclusivity, ensuring that no one is excluded from scientific learning due to barriers like physical conditions and imbalanced resources. We recognized that many autistic individuals possess the cognitive abilities to grasp scientific concepts but their potentials are constantly ignored because they usually don't give active feedback in ordinary lectures. Therefore, we developed specialized [STEAMed](/fudan/inclusivity/#STEAMed) programs tailored to them. We strive to create more engaging and interactive teaching approaches to meet their unique needs—an area currently underserved by existing educational resources. 
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/inclu-3.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/sdgs/inclu-3.jpg" style="width:100%">
     <div>
     	<span style="color: gray">Our team member, Kexin Zheng, is using interactive approaches to teach an autistic girl scientific concepts.</span>
         <br><br>

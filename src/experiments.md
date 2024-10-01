@@ -75,7 +75,7 @@ For each EP tube, shake well after adding reagents and set aside for 5 minutes. 
 #### IV. Results
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/experiments/standardcurve.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/experiments/standardcurve.png" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 1: Standard Curve of Abs~530~ and NiCl~2~ Concentration</span>
       <br><br>

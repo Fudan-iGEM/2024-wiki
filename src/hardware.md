@@ -12,7 +12,7 @@ headergif: https://static.igem.wiki/teams/5115/header/hardware-header.gif
 Wastewater treatment and energy recovery are becoming global concerns with the increase of human activities and substantial consumption of fossil fuels. Even in Antarctica, the biggest untouched wilderness on our planet, wastewater treatment are urgently needed with the presence of 44 permanently manned research stations ([Figure 1](#figa))[^1]. 
 
 <div style="text-align: center;" id="figa">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/antarctica.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/antarctica.jpg" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 1: Human activities in Antarctica </span>
       <br><br>
@@ -25,7 +25,7 @@ However, ordinary biological filtration devices are typically designed with rigi
 In today's wastewater treatment industry, different kinds of contemporary biofilm reactors have been created ([Figure 2](#figb)). However, they still have limitations. The fluidized bed biofilm reactor (FBBR), for instance, consumes substantial energy due to the frequent collisions of its biofilm-coated particles. And the membrane biofilm reactor (MBfR) is more susceptible to contamination, which can lead to a shortened lifespan[^3].  
 
 <div style="text-align: center;" id="figb">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/biofilm.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/biofilm.png" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 2: Different types of biofilm used for wastewater treatment (Maurya, 2023)[^3]</span>
       <br><br>
@@ -43,7 +43,7 @@ Compared to traditional filtration devices and biofilm reactors, our customized 
 Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around the nanotubes. Subsequently, we assemble several carbon nanotubes into bundles through a spiral extrusion method, generating the carbon nanotube-agarose gel (aCNT) composite fiber, which provides a growth platform for [our engineered bacteria](/fudan/part-collection). We referenced the method for preparing graphene composite microwires by [Professor Hyung-Jun Koo](https://kooslab.seoultech.ac.kr/subList/20000000791)[^5] and the method for preparing high-performance fiber electrodes by [Professor Peng Huisheng](https://penglab.fudan.edu.cn) in our university[^6], and made adjustments so that our composite fibers have good performance while carrying bacteria. We actually adjusted the ratio of the two components in the solution to optimize the way agarose gel to encapsulate the carbon nanotubes, making it easier for bacteria to attach. The aCNT composite fiber works as a carrier that allows the bacteria to perform normal life activities and engage in recovering nickel ([Figure 3](#fig1)).
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-1.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-1.jpg" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 3: Agarose–carbon nanotube (aCNT) composite fiber</span>
       <br><br>
@@ -61,7 +61,7 @@ Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around
 4. Dry the hydrogel threads at room temperature for 12 hours to form aCNT composite fibers ([Figure 4](#fig2)) [^7].
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hradware-2.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hradware-2.jpg" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 4: Produce aCNT composite fibers in laboratory</span>
       <br><br>
@@ -74,7 +74,7 @@ Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around
 Use the apparatus shown in [Figure 5](#fig3), which contains an agarose gel solution. Pass the multi-walled carbon nanotube through the apparatus, adjusting the diameter of the inlets and outlets to control the diameter of the fibers. Heat the carbon nanotube to approximately 100 degrees Celsius and cool it down quickly to solidify the agarose gel on the surface of the carbon nanotube.
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-3.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-3.jpg" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 5: Industry scale production of aCNT composite fibers</span>
       <br><br>
@@ -89,7 +89,7 @@ Use a spinning machine to spiral our composite fibers into bundles and weave the
 Soak the woven fiber material in bacterial solution. Stand for 30 minutes to facilitate the adsorption of bacteria onto the surface of fiber. The agarose gel provides certain nutrients, ensuring the survival of bacteria on the fibers for a period of time. Therefore, we successfully constructed our fiber-bacteria system ([Figure 6](#fig4)).
 
 <div style="text-align: center;" id="fig4">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-4.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-4.png" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 6: Load the composite fiber with bacteria</span>
       <br><br>
@@ -102,7 +102,7 @@ Soak the woven fiber material in bacterial solution. Stand for 30 minutes to fac
 Our aCNT composite fibers can be used in multiple scenarios. In industrial environments, our bacteria loaded composite fiber mesh can be placed inside the wastewater treatment device ([Figure 7](#fig7)). Engineered bacteria on the fiber [absorb](https://parts.igem.org/Part:BBa_K5115068) and [reduce](https://parts.igem.org/Part:BBa_K5115067) nickel ions as the wastewater flows through the fiber mesh. 
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/wastewater-treatment-devices.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/wastewater-treatment-devices.jpg" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 7: Wastewater treatment devices with aCNT composite fibers</span>
       <br><br>
@@ -112,7 +112,7 @@ Our aCNT composite fibers can be used in multiple scenarios. In industrial envir
 In natural water bodies, we can weave the fiber into nets similar to fishing nets. Once fixed to the banks of rivers or wooden poles in the water, the fiber nets can naturally hang into the water and achieve purification ([Figure 8](#fig8)).
 
 <div style="text-align: center;" id="fig8">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/river-with-fiber.jpg" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/river-with-fiber.jpg" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 8: aCNT composite fiber in water bodies</span>
       <br><br>
