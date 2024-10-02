@@ -3,7 +3,7 @@ title: Design
 author:
   name: Kevin Qi
   url: /fudan/team/#kevin-qi
-headergif: https://static.igem.wiki/teams/5115/header/design-header-new.gif
+headergif: https://static.igem.wiki/teams/5115/header/description-header.gif
 ---
 
 ## Concept Design
@@ -23,9 +23,17 @@ Nickel is just one of many heavy metals that harm the environment, so why priori
 
 For the removal of heavy metals, there are three main biological interactions to consider: bioaccumulation, biosorption, and bioprecipitation. Here’s why we chose bioaccumulation:
 
-- **Higher Metal Removal Efficiency:** Existing studies comparing nickel removal *via* engineered *E. coli* for bioaccumulation *versus* biosorption indicate that bioaccumulation offers greater efficiency for nickel uptake[^5] [^6]. This makes it a preferable approach for our goal of maximizing nickel recovery.
+- **Higher Metal Removal Efficiency:** Existing studies comparing nickel removal via engineered *E. coli* for bioaccumulation versus biosorption indicate that bioaccumulation offers greater efficiency for nickel uptake[^5] [^6]. This makes it a preferable approach for our goal of maximizing nickel recovery.
 - **Stability in Harsh Environments:** Industrial wastewater is a complex and harsh environment with variable concentrations of multiple pollutants. Bioaccumulation offers better control over intracellular conditions compared to biosorption, where external environmental factors can impact binding efficiency. In our design, accumulating nickel within *E. coli* provides a stable, manageable environment for downstream processing.
 - **Preventing Environmental Contamination:** Our final goal is to create nickel microparticles from bioaccumulated ions, and bioaccumulation helps ensure that these microparticles do not end up free in wastewater, where they could cause environmental harm. By keeping the nickel within the cells, we can better contain and recover it for subsequent use.
+
+<div style="text-align: center;" id="fig2">
+    <img src="https://static.igem.wiki/teams/5115/design/design-fig2.png" style="width:100%">
+    <div>
+        <span style="color:gray">Figure 2: Bioaccumulation, biosorption, and bioprecipitation<br>Bioaccumulation: Metal ions are imported and stored within the cell.<br>Biosorption: Metal ions adhere to the cell surface.<br>Bioprecipitation: Metal ions are converted to insoluble forms outside the cell</span>
+        <br><br>
+    </div>
+</div>
 
 
 #### 3. Why Microparticles?
@@ -48,7 +56,7 @@ Nickel uptake is the first crucial step in our [bioremediation](https://competit
 
 **NikABCDE Overexpression:** NikABCDE is a native nickel transporter in *E. coli*, making it an ideal candidate for overexpression to ensure compatibility and efficiency. By using the [pRAP](https://2022.igem.wiki/fudan/parts) system to overexpress this complex, we ensure balanced assembly of all subunits, enhancing nickel transport.
 
-**NixA Introduction:** To supplement native uptake, we introduced NixA, a nickel transporter from *Helicobacter pylori*. This increases overall capacity bying diversifying transport mechanisms, potentially improving uptake under various conditions. [Dimerizing](https://parts.igem.org/Part:BBa_K5115085) NixA through fusion proteins further enhances the transport efficiency by creating a more effective pathway for nickel entry.
+**NixA Introduction:** To supplement native uptake, we introduced NixA, a nickel transporter from *Helicobacter pylori*. This increases overall capacity by diversifying transport mechanisms, potentially improving uptake under various conditions. [Dimerizing](https://parts.igem.org/Part:BBa_K5115085) NixA through fusion proteins further enhances the transport efficiency by creating a more effective pathway for nickel entry.
 
 #### Decrease Efflux
 
@@ -70,14 +78,14 @@ To protect against widely existing environmental bacteriophage infections, we en
 
 Our ultimate goal is to produce safe, reusable nickel microparticles. Therefore, we designed parts to enhance the efficiency of microparticle formation while mitigating toxicity.
 
-By utilizing carboxysomes, we create a concentrated environment for NiFe-hydrogenase and nickel reduction. This compartmentalization enhances the local concentrations of enzymes, improving the catalytic efficiency of hydrogenase and the overall rate of microparticle formation.
+By utilizing carboxysomes, we create a concentrated environment for NiFe hydrogenase and nickel reduction. This compartmentalization enhances the local concentrations of enzymes, improving the catalytic efficiency of hydrogenase and the overall rate of microparticle formation.
 
 
 ### Hydrogen Supply
 
 #### Symbiotic System with Cyanobacteria
 
-Cyanobacteria are known to be clean and sustainable producers of hydrogen gas. They provide a continuous source of hydrogen gas through photosynthesis, which is then used by *E. coli* for nickel reduction. This strategy not only supplies hydrogen in a renewable manner but also integrates our project into a broader ecological cycle, aligning with the overall theme of sustainability and resource recovery. In 2023, we have successfully demonstrate the cyanobacteria-*E. coli* symbiotic interaction by measuring [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) growth curve, [fluoresence imaging](https://2023.igem.wiki/fudan/results/#_3-biofilm-formation-system), and [aggregation](https://2023.igem.wiki/fudan/results/#_3-biofilm-formation-system) assays.
+Cyanobacteria are known to be clean and sustainable producers of hydrogen gas. They provide a continuous source of hydrogen gas through photosynthesis, which is then used by *E. coli* for nickel reduction. This strategy not only supplies hydrogen in a renewable manner but also integrates our project into a broader ecological cycle, aligning with the overall theme of sustainability and resource recovery. In 2023, we have successfully demonstrated the cyanobacteria-*E. coli* symbiotic interaction by measuring [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) growth curve, [fluoresence imaging](https://2023.igem.wiki/fudan/results/#_3-biofilm-formation-system), and [aggregation](https://2023.igem.wiki/fudan/results/#_3-biofilm-formation-system) assays.
 
 
 ## Summary

@@ -8,7 +8,12 @@ headergif: https://static.igem.wiki/teams/5115/header/notebook-header-new.gif
 
 ## January
 
-From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage/) on synthetic biology and the iGEM competition. Goals included: 1) Sharing experiences from [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team) and 2023 members to prepare new members with essential skills and knowledge while allowing them to select their own focuses based on interest; 2) Ice-breaking among new members to build effective communication; 3) Brainstorming new ideas for 2024 through discussions and critiques; 4）Lab training of the [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) of cyanobacteria with *Escherichia coli*, and conducted experiments examing bacterial [anti-UV](https://2023.igem.wiki/fudan/results/#_1-survival-system) ability from last year.
+From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage/) on synthetic biology and the iGEM competition. Goals included: 
+
+1. Sharing experiences from [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team) and 2023 members to prepare new members with essential skills and knowledge while allowing them to select their own focuses based on interest; 
+2. Ice-breaking among new members to build effective communication; 
+3. Brainstorming new ideas for 2024 through discussions and critiques; 
+4. Lab training of the [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) of cyanobacteria with *Escherichia coli*, and conducted experiments examing bacterial [anti-UV](https://2023.igem.wiki/fudan/results/#_1-survival-system) ability from last year.
 
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/notebook/january.jpg" style="width:100%">
@@ -39,7 +44,7 @@ Meanwhile, some of us put efforts to autism education, include: revising a pictu
 
 ## April
 
-On April 5th, team members visited an [art exhibit](/fudan/inclusivity/#_2-2-did-stakeholders-support-steamed) in our university, showcasing artwork by autistic children. On April 18th, after two months of research and discussion, we finalized our project for [the competition](https://competition.igem.org/) "**MINERAL**: Microparticle Integration for Nickel Extraction and Reusable Applications".
+On April 5th, team members visited an [art exhibit](/fudan/inclusivity/#_2-2-did-stakeholders-support-steamed) in our university, showcasing artwork by autistic children. On April 18th, after two months of research and discussion, we finalized our project for [the competition](https://competition.igem.org/) "[**MINERAL**](/fudan/description/): Microparticle Integration for Nickel Extraction and Reusable Applications".
 
 <div style="text-align: center;" id="fig4">
     <img src="https://static.igem.wiki/teams/5115/notebook/april-1.png" style="width:100%">
@@ -48,7 +53,7 @@ On April 5th, team members visited an [art exhibit](/fudan/inclusivity/#_2-2-did
 
 ## May
 
-In a weekly meeting on May 2nd, everyone of us confirmed the roles, and we discussed various project aspects, such as nickel ion binding, transport, and coexistence with nitrifying bacteria. On May 4th, discussions with other universities revealed a similarity with [BIT](https://2024.igem.wiki/bit/), we quickly evaluated our project and emphasized our unique strength ([ribozyme parts from 2022](https://2022.igem.wiki/fudan/parts) and [survival modules from 2023](https://2023.igem.wiki/fudan/results/)). On May 10th, we discussed gas vesicles in *E. coli*, nickel ion conversion, and the potential for nitrification and denitrification. On May 19th, further discussions focused on [the symbiotic system from 2023](https://2023.igem.wiki/fudan/part-collection/#symbiotic-system), metal-binding proteins, and potential application directions, refining our project's educational outreach. On May 24th, we participated in the Stargazing Cultural and Art Festival 需要一个链接 and promoted our project during the event (as shown [below](#fig5)).
+In a weekly meeting on May 2nd, everyone of us confirmed the roles, and we discussed various project aspects, such as nickel ion binding, transport, and coexistence with nitrifying bacteria. On May 4th, discussions with other universities revealed a similarity with [BIT](https://2024.igem.wiki/bit/), we quickly evaluated our project and emphasized our unique strength ([ribozyme parts from 2022](https://2022.igem.wiki/fudan/parts) and [survival modules from 2023](https://2023.igem.wiki/fudan/results/)). On May 10th, we discussed gas vesicles in *E. coli*, nickel ion conversion, and the potential for nitrification and denitrification. On May 19th, further discussions focused on [the symbiotic system from 2023](https://2023.igem.wiki/fudan/part-collection/#symbiotic-system), metal-binding proteins, and potential application directions, refining our project's educational outreach. On May 24th, we participated in the [Stargazing Cultural and Art Festival](/fudan/education/#education-for-university-students) and promoted our project during the event (as shown [below](#fig5)).
 
 <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/notebook/may-1.jpg" style="width:100%">
@@ -78,7 +83,7 @@ We went to [Suzhou](https://en.wikipedia.org/wiki/Suzhou) and attended the 11th 
 
 After returning to [Shanghai](https://en.wikipedia.org/wiki/Shanghai), we interviewed [Professor Zhu](/fudan/human-practices/#c3-2-discuss-with-professor-zhu-xiuping) on nanoparticle safety.
 
-We continued our molecular cloning, and engaged with Professor Don W. Cleveland in a scientific discussions about [the future and responsibility](/fudan/human-practices/#section-7-future-and-responsibility) of our project (low left of [the image](#fig7)).
+We continued our molecular cloning, and engaged with Professor Don W. Cleveland in a scientific discussions about the future and responsibility of our project (low left of [the image](#fig7)).
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/notebook/july-1.jpg" style="width:100%">
@@ -96,7 +101,7 @@ We interviewed experts from [various fields](/fudan/human-practices/#c3-4-visit-
 
 ## September - October
 
-We interviewed experts from various fields [Integrated Human Practices](/fudan/human-practices/#c3-4-visit-to-the-laboratory-of-cnerc-cthmp) and actively engaged with students from different schools [Collaborations](/fudan/collaborations/#with-institutions-collages-and-companies). Meanwhile, our wet lab and dry lab experiments were both ongoing.
+We finalized the authorship for different web pages and divided the tasks to start writing the pages and summarizing previous work. Meanwhile, we began analyzing wet lab data and further refining the dry lab work until the final deadline.
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/notebook/september-1.jpg" style="width:100%">
