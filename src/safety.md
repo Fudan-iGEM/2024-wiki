@@ -65,7 +65,7 @@ This year we utilized *Caenorhabditis elegans* in assessing the outcome of relea
 </div>
 
 
-By feeding nematodes with engineered bacteria [containing nickel microparticles](/fudan/results/#), and comparing their locomotion behavior, we found no significant difference in worm motion between the control group and the experimental group. This indicates that our product is harmless to nematodes, likely to be environmentally and biologically friendly.
+By feeding nematodes with engineered bacteria [containing nickel microparticles](/fudan/results/#fig7), and comparing their locomotion behavior, we found no significant difference in worm motion between the control group and the experimental group. This indicates that our product is harmless to nematodes, likely to be environmentally and biologically friendly.
 
 
 ## Laboratory Safety

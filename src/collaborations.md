@@ -36,7 +36,7 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
     <img src="https://static.igem.wiki/teams/5115/collaborations-final/2.png" style="width:100%">
 </div>
 
-
+<br>
 
 ## With Clubs at Fudan
 

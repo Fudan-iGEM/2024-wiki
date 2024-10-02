@@ -204,7 +204,7 @@ In the discussion, we found that high school students' understanding of syntheti
 
 After thoroughly understanding the expectations and needs of high school students, we visited the [Genetically Modified Organism (GMO)](https://education.nationalgeographic.org/resource/genetically-modified-organisms/) Educational Base in Shanghai, China,  to offer another group of high school students a more comprehensive career experience.
 
-### Exploration on GMO with Students from AnTing 
+### Exploration on GMO with Students from AnTing
 
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
@@ -226,6 +226,7 @@ To stimulate their interest, we collaborated with the [Science Popularization Ed
     </div>
 </div>
 
+<br>
 
 ## Education for Junior Students and Pupils
 
@@ -274,8 +275,6 @@ However, during the on-site teaching, we realized that the proliferation of **th
 </p>  
 </div>
 
-
-
 <div style="text-align: center;" id="fig15">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/shangde.webp" style="width:100%">
     <div>
@@ -283,8 +282,6 @@ However, during the on-site teaching, we realized that the proliferation of **th
         <br><br>
     </div>
 </div>
-
-
 
 Building on our progressively refined education system, we further expanded our target audience to elementary school students. Thus, we visited **[Shanghai Shangde Experimental School](https://mp.weixin.qq.com/s/eyv0pq-ZjZrKf7wMELDfTA)** to deliver a series of science education courses. In the classroom, the children displayed a strong interest in and ability to learn about synthetic biology. This strongly validated the effectiveness of our educational strategies and provided valuable insights for future endeavors.
 
@@ -317,9 +314,10 @@ After the activity, we left the teaching materials in the story corner of Huihua
 
 ## Our Ground for Future‘s Building On
 
-Last year, we introduced a picture book titled [*What is Gene*](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf), which has now become the main teaching material for attracting pupils and kids in this year's education activities.
+Last year, we introduced a picture book titled [*What is Gene (2023)*](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf), which has now become the main teaching material for attracting pupils and kids in this year's education activities.
 
 Through multiple cycles of practice, reflection, and improvement, we've made enhancements to the picture book. This year's teaching materials include interesting  mini-games such as mazes, *find the difference*, and drawing self-portraits. Additionally, we've expanded the content to make it suitable for middle school students and [individuals with autism](/fudan/inclusivity). We discovered that implementing the educational plan as a [Standard Operating Procedure (SOP)](https://en.wikipedia.org/wiki/Standard_operating_procedure) greatly facilitates the rapid recruitment and training of volunteers, especially in situations where there is a lack of helpful staff, thus promoting the widespread and efficient execution of educational activities.
+
 
 ## Summary
 

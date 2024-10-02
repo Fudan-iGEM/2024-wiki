@@ -45,7 +45,7 @@ As illustrated in [Figure 1](#fig1), NixA-F1v demonstrates the highest efficienc
 
 ### Cycle 1 Learn
 
-NixA-F1v performs better than F1v-NixA, likely due to its fused F1v could reside better in the cytosol. We learn this by [using AlphaFold3](/fudan/results/#) to analyze its structure and identify factors contributing to its effective nickel uptake. However, NixA-F1v achieved 25% nickel absorption during the 5-hour culture, and we are not fully satisfied. We speculate this may be due to *E. coli* facing survival pressure in nickel-rich environments.
+NixA-F1v performs better than F1v-NixA, likely due to its fused F1v could reside better in the cytosol. We learn this by [using AlphaFold3](/fudan/results/#fig2) to analyze its structure and identify factors contributing to its effective nickel uptake. However, NixA-F1v achieved 25% nickel absorption during the 5-hour culture, and we are not fully satisfied. We speculate this may be due to *E. coli* facing survival pressure in nickel-rich environments.
 
 
 ## Cycle 2
