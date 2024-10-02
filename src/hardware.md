@@ -17,7 +17,6 @@ Wastewater treatment and energy recovery are becoming global concerns with the i
       <br><br>
     </div>
 </div>
-
 However, ordinary biological filtration devices are typically designed with rigid structures and sizes. This inflexibility leads to high costs and significant challenges in satisfying the vast and various demands of wastewater treatment in remote and off-grid areas, because of the lack of infrastructure, limited funding or difficulty in implementing and maintaining facilities. For example, transferring devices to Antarctica is not easy due to the constraints of remoteness, isolation, harsh weather and other local conditions. Therefore, most countries have chosen processes that use biofilms[^2]. 
 
 In today's wastewater treatment industry, various [contemporary biofilm reactors](#figb) have been created. However, they still have some limitations. The fluidized bed biofilm reactor (FBBR), for instance, consumes substantial energy due to the frequent collisions of its biofilm-coated particles. And the membrane biofilm reactor (MBfR) is more susceptible to contamination, which can shorten their lifespan[^3].  
@@ -29,7 +28,6 @@ In today's wastewater treatment industry, various [contemporary biofilm reactors
       <br><br>
     </div>
 </div>
-
 We analyze all these limitations and come up with our own solution using carbon nanotubes (CNTs). CNTs possess unique physicochemical and morphological characteristics, excellent adsorption capabilities, and permeability, showing significant potential in various areas[^4]. We have designed an innovative fiber structure based on carbon nanotubes, which can not only carry and nourish our engineered bacteria but also be woven into any required shape and size according to actual needs. In practical application scenarios, we load the engineered bacteria onto our designed fibers and weave them into a form that perfectly matches the target device. With this fiber structure, implated with our engineered bacteria expressing [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067) and [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068), deployed in the wastewater treatment device, we can effectively achieve the recovery of nickel.
 
 Compared to traditional filtration devices and biofilm reactors, our customized fiber boasts advantages. The reversibility of our fiber weaving process allows for recycling and reuse, effectively extending the product's lifespan and release the environmental burden. Futhermore, the fiber's construction is characterized by low energy consumption. Our customized fiber serves as a platform that bridges [our engineered bacteria](/fudan/part-collection) to practical applications and offers an efficient, environmentally friendly new strategy for wastewater treatment.
@@ -47,7 +45,6 @@ Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around
       <br><br>
     </div>
 </div>
-
 <br>
 
 ## Build
@@ -68,7 +65,6 @@ Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around
       <br><br>
     </div>
 </div>
-
 <br>
 
 #### Industrial Preparation
@@ -82,7 +78,6 @@ Use [the apparatus](#fig3) to conduct industrial preparation. The apparatus cont
       <br><br>
     </div>
 </div>
-
 <br>
 
 ### Assembling the Fiber-Bacteria Mesh
@@ -99,6 +94,7 @@ Soak the woven fiber material in bacterial solution. Stand for 30 minutes to fac
     </div>
 </div>
 
+
 <br>
 
 ### Multi-Application Scenarios
@@ -114,7 +110,6 @@ In natural water bodies, we can weave the fiber into nets similar to fishing net
       <br><br>
     </div>
 </div>
-
 <br>
 
 ## Primary Test
@@ -126,27 +121,29 @@ Therefore, we decided to stir the mixture with a upgraded Magnetic Stirrer (LKTC
 After literature review, we optimized the suspension ratio as suggested. After conducting a series of concentration gradient experiments, we selected the ratio of 0.5 g MWNT per 50 mL water. After heating for 5 minutes, add 500 mg agarose per 50 mL in the solution and keep stirring for 30 minutes, during which it transforms into a paste-like consistency. Finally, we successfully created some [thin, long black fibers](#fig9).
 
 <div style="text-align: center;" id="fig9">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/result-a.jpg" style="height:480px">
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/result-a1.jpg" style="height:480px">
     <div>
     	  <span style="color: gray">Figure 8: Our primary aCNT fibers</span>
       <br><br>
     </div>
 </div>
 
+
 We then [put several composite fibers into our bacteria liquid culture](#fig10), placed them in a 37°C incubator for overnight culture. This experiment aims to verify the bacteria's tropism and adhesion to the fibers.
 
 <div style="text-align: center;" id="fig10">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/result-b-pic.jpg" style="height:480px">
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/resultb.jpg" style="height:480px">
     <div>
     	  <span style="color: gray">Figure 9: aCNT fibers soaked with bacteria liquid culture</span>
       <br><br>
     </div>
 </div>
 
+
 After that, we retrieved the soaked composite fibers. Wash them twice with LB medium thoroughly for a minute (to wash off any residual bacterial liquid). Subsequently, the composite fibers were placed on a clean LB plate and incubated at 37°C for 15 hours. We observed [bacterial growth around the area where the composite fibers were placed](#fig11), suggesting that bacteria could adhere to the fibers.
 
 <div style="text-align: center;" id="fig11">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/bacteria.jpg" style="height:480px">
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/bacteria1.jpg" style="height:480px">
     <div>
     	  <span style="color: gray">Figure 10: Bacteria adhere to aCNT fibers<br><small>The spread of bacteria around the smily mouth is likely due to movement of the fiber end when placing it onto the plate</small>
           </span>
@@ -171,7 +168,11 @@ Our dialogue with [Suzhou Yisibei](https://www.cps88.cn/) has been instrumental 
 Our hardware design serves as a carrier for synthetic biology applications. Carbon nanotube-agarose gel composite fibers hold promise for wastewater treatment technology. Traditional biological filtration devices often have fixed structures and single shapes, making it difficult to adapt to the diverse needs of wastewater treatment. In response to this disadvantage, we have designed aCNT composite fibers and test it in laboratory. Composite fibers that can be woven according to actual needs and can carry engineered bacteria, making biological recycling available. The device not only recovers nickel, but can also be easily applied to the recovery of other heavy metals and wastewater purification. Our aCNT composite fibers provide an efficient, environmentally friendly approach for wastewater treatment, as well as innovative solutions for the [sustainable](/fudan/sustainable) development of future bioenergy and green chemical industries.
 
 
-## Reference
+
+
+
+
+
 
 [^1]: Yang, Z., Haizhen, Y., Minghong, C., Feng, W. (2009) Wastewater Treatment Control and Management in the Antarctica. *Technology of Water Treatment*. *35*(3), 1-44. [https://doi.org/10.16796/j.cnki.1000-3770.2009.03.001](https://doi.org/10.16796/j.cnki.1000-3770.2009.03.001)
 [^2]: Connor, M. A. (2008). Wastewater treatment in Antarctica. *Polar Record*, *44*(2), 165–171. [https://doi.org/10.1017/S003224740700719X](https://doi.org/10.1017/S003224740700719X)
