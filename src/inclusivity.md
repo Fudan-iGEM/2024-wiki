@@ -529,7 +529,8 @@ The students demonstrated a thorough understanding of artificial intelligence in
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
     <strong><small>📅 Topic:</small></strong> <small>Oral Health and Dental Care</small><br>  
-    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>  
+    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>
+</p>      
 </div>
 
 #### ① Purpose and Content
