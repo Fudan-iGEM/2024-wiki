@@ -1,7 +1,6 @@
 ---
 title: Engineering
 headergif: https://static.igem.wiki/teams/5115/header/engineering-header.gif
-
 author:
 - name: Ruiwen Ma
   url: /fudan/team/#ruiwen-ma
@@ -38,7 +37,6 @@ To evaluate how well our *E. coli* absorbs nickel, we measured the nickel concen
         <br><br>
     </div>
 </div>
-
 
 <br>
 

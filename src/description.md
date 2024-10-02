@@ -19,7 +19,7 @@ Humans often realize their mistakes only when the damage is irreparable, a lesso
     </div>
 </div>
 
-
+<vr>
 
 ## Use and Misuse of Nickel
 
@@ -39,8 +39,7 @@ Meanwhile, the demand for nickel is growing at an unsustainable rate, out-pacing
     </div>
 </div>
 
-
-
+<br>
 
 ## Current Nickel Recycling Methods
 
@@ -55,8 +54,6 @@ Despite the environmental damage caused by mining, it remains the more cost-effe
         <br><br>
     </div>
 </div>
-
-
 
 Unlike traditional recycling methods, biological approaches offer a more energy-efficient, environmentally friendly, and element-specific way for nickel recovery.
 
@@ -77,8 +74,7 @@ Our project, **Microparticle Integration for Nickel Extraction and Reusable Appl
     </div>
 </div>
 
-
-
+<br>
 
 ## Our Problems
 
@@ -120,7 +116,7 @@ We present four interrelated modules to tackle the problems identified in the pr
     </div>
 </div>
 
-
+<br>
 
 ### 1. Nickel Enrichment Module
 
@@ -144,7 +140,7 @@ To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR a
     </div>
 </div>
 
-
+<br>
 
 ### 2. Survival Module
 
@@ -156,7 +152,6 @@ Inspired by *Helicobacter pylori*’s natural defense against high cytosolic nic
 - **Metallothioneins**: Cystine-rich cytoplasmic proteins that bind to various heavy metals. Compared to Hpn, they bind to a wider range of heavy metals. We use the metallothionein from *Pisum sativum* (MTA) as it shows a higher affinity for nickel[^18].
 
 Although both proteins serve to increase bacteria tolerance to cytosolic nickel levels, their difference in amino acid composition help to reduce the overall burden on *E. coli*.
-
 
 #### b) Phage Resistance
 
@@ -172,13 +167,11 @@ We overexpress YejM to upregulate the production of LPS, blocking recognition si
     </div>
 </div>
 
-
-
+<br>
 
 #### c) Anti-Freeze and Anti-UV
 
 The [Anti-Freeze](https://2023.igem.wiki/fudan/results/#anti-freeze-module) and [Anti-UV](https://2023.igem.wiki/fudan/results/#_1-survival-system) modules developed in [2023](https://2023.igem.wiki/fudan/results/) are both useful to increase bacteria's ability to survive in the wastewater environment, which could be employed if needed.
-
 
 ### 3. Nickel Microparticle Module
 
@@ -196,8 +189,7 @@ We utilize **carboxysomes**, which are bacterial microcompartments[^22], to serv
     </div>
 </div>
 
-
-
+<br>
 
 ### 4. Hydrogen Supply via Cyanobacteria-*E. coli* Interaction
 

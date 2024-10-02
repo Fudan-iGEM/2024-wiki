@@ -4,9 +4,7 @@ headergif: https://static.igem.wiki/teams/5115/header/contribution-header.gif
 author:
   name: All Members
   url: /fudan/team/#meet-our-members
-
 ---
-
 
 ## Medal Criteria
 

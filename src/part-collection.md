@@ -1,7 +1,6 @@
 ---
 title: Part Collection
 headergif: https://static.igem.wiki/teams/5115/header/parts-header.gif
-
 author:
 - name: Yi Shi
   url: /fudan/team/#yi-shi
@@ -39,6 +38,7 @@ Our Nickel Absorption module allows *E. coli* to achieve a high influx of nickel
 </div>
 </div>
 
+<br>
 
 <div style="text-align: center;">
    <p>Table 1: Parts for Nickel Absorption</p>
@@ -63,6 +63,8 @@ Our Nickel Absorption module allows *E. coli* to achieve a high influx of nickel
 | [BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086) | Composite | NixA-F1v                                                    |
 | [BBa_K5115087](https://parts.igem.org/Part:BBa_K5115087) | Composite | F1v-NixA                                                    |
 
+<br>
+
 ### Nickel Tolerance
 
 To enhance nickel tolerance of our engineered *E. coli*, we integrate Hpn ([BBa_K1151001](https://parts.igem.org/Part:BBa_K1151001)) and MTA ([BBa_K5115050](https://parts.igem.org/Part:BBa_K5115050)) with NixA-F1v leveraging their unique properties to mitigate nickel toxicity while optimizing absorption.
@@ -84,6 +86,7 @@ Together, the synergistic action of ribozyme-connected Hpn ([BBa_K5115036](https
 </div>
 </div>
 
+<br>
 
 <div style="text-align: center;">
    <p>Table 2: Parts for Nickel Tolerance</p>
@@ -94,6 +97,7 @@ Together, the synergistic action of ribozyme-connected Hpn ([BBa_K5115036](https
 | [BBa_K5115036](https://parts.igem.org/Part:BBa_K5115050) | Composite | Ribozyme + RBS + Hpn + stem-loop – histidine-rich protein that sequesters nickel ions, protecting cells from nickel toxicity. |
 | [BBa_K5115050](https://parts.igem.org/Part:BBa_K5115050) | Coding  | MTA, metallothionein from *Pisum sativum* for heavy metal binding, protecting cells from nickel toxicity. |
 
+<br>
 
 ## Survival Modules
 
@@ -106,11 +110,13 @@ To validate the anti-phage effect of YejM, we expressed YejM in *E. coli* TG1 st
 <div style="text-align: center;" id="fig-2">
 <img src="https://static.igem.wiki/teams/5115/part-collection/parts-anti-phage.png" style="width:70%">
 <div>
-   <span style="color:gray">Figure 3: Overview of Anti-phage Mechanisms.<br><small>
+   <span style="color:gray">Figure 3: Overview of Anti-Phage Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of the YejM in preventing phage from infecting <em>E. coli</em></small>
    </span><br><br>
 </div>
 </div>
+
+<br>
 
 <div style="text-align: center;">
    <p>Table 3: Parts for Survival</p>
@@ -122,6 +128,8 @@ To validate the anti-phage effect of YejM, we expressed YejM in *E. coli* TG1 st
 | [BBa_K4765015](https://parts.igem.org/Part:BBa_K4765015) | Coding | AnAFP, from [Fudan 2023](https://2023.igem.wiki/fudan/part-collection/#survival-system) |
 | [BBa_K4765016](https://parts.igem.org/Part:BBa_K4765016) | Coding | *H. ex* mtSSB, from [Fudan 2023](https://2023.igem.wiki/fudan/part-collection/#survival-system) |
 | [BBa_K4765126](https://parts.igem.org/Part:BBa_K4765126) | Composite | ribozyme connected: *H. ex* mtSSB + SAHS 33020 + AnAFP, from [Fudan 2023](https://2023.igem.wiki/fudan/part-collection/#survival-system) |
+
+<br>
 
 ### Anti-freeze & Anti-Desiccation
 
@@ -150,6 +158,8 @@ This integrated module provides a reliable framework for effective reduction of 
 | [BBa_K5115066](https://parts.igem.org/Part:BBa_K5115066) | Composite | mineral, U module |
 | [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067) | Composite | mineral, F module |
 
+<br>
+
 ### Hydrogenase-Mediated Nickel Ion Reduction
 
 The hox and hyp operon ([BBa_K5115020](https://parts.igem.org/Part:BBa_K5115020)) components play crucial roles in the bioconversion of nickel ions into nickel microparticles.
@@ -163,11 +173,13 @@ Through the synergistic integration of the hox and hyp operon, our module effect
 <div style="text-align: center;" id="fig-2">
 <img src="https://static.igem.wiki/teams/5115/part-collection/parts-hydrogenase-mediated-nickel-ion-reduction.png" style="width:70%">
 <div>
-   <span style="color:gray">Figure 4: Overview of Nickel-reduction Mechanisms.<br><small>
+   <span style="color:gray">Figure 4: Overview of Nickel-Reduction Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of hox and hyp operon in mediating nickel reduction in <em>E. coli</em></small>
    </span><br><br>
 </div>
 </div>
+
+<br>
 
 <div style="text-align: center;">
    <p>Table 5: Parts for Hydrogenase-Mediated Nickel Ion Reduction</p>
@@ -204,7 +216,9 @@ Through the synergistic integration of the hox and hyp operon, our module effect
 | [BBa_K5115052](https://parts.igem.org/Part:BBa_K5115052) | Composite | ribozyme connected hox and hyp, without hoxF |
 | [BBa_K5115053](https://parts.igem.org/Part:BBa_K5115053) | Composite | ribozyme connected hox and hyp, without hoxU |
 
-### &alpha;-carboxysomes Compartmentalization
+<br>
+
+### &alpha;-Carboxysome Compartmentalization
 
 We incorporate a carboxysome module to enhance the efficiency of nickel fixation and support nickel ion reduction processes. The carboxysome-related parts are essential for the formation of this specialized compartments.
 
@@ -217,7 +231,7 @@ In our design, we omitted the *csoS3* ([BBa_K5115027](https://parts.igem.org/Par
 The components of the carboxysome module are derived from [a plasmid reported in the literature](https://addgene.org/140856), which contains the genetic sequences necessary for the assembly and function of carboxysomes in *E. coli*. We removed the csoS3 and wrapped its sequence with pRAP[^2].
 
 <div style="text-align: center;">
-   <p>Table 6: Parts for α-carboxysomes Compartmentalization</p>
+   <p>Table 6: Parts for &alpha;-Carboxysome Compartmentalization</p>
 </div>
 
 | Part Name        | Type   | Description    |
@@ -239,6 +253,8 @@ The components of the carboxysome module are derived from [a plasmid reported in
 | [BBa_K5115055](https://parts.igem.org/Part:BBa_K5115055) | Coding | csoS4A             |
 | [BBa_K5115065](https://parts.igem.org/Part:BBa_K5115065) | DNA    | cso, without csoS3 |
 
+<br>
+
 ### Peptide Encapsulation
 
 The Peptide Encapsulation (EP) module is designed to facilitate the effective encapsulation of enzymes to the carboxysome structure, enhancing the efficiency of biochemical reactions. EP ([BBa_K5115002](https://parts.igem.org/Part:BBa_K5115002))  serves as a linker that connects the target enzymes to the carboxysome, ensuring proper localization. We test its targeting efficienty with stayGold fused with EP ([BBa_K5115057](https://parts.igem.org/Part:BBa_K5115057)).
@@ -250,11 +266,13 @@ Additionally, the parts hox and hyp with EP targeted hoxF ([BBa_K5115063](https:
 <div style="text-align: center;" id="fig-2">
 <img src="https://static.igem.wiki/teams/5115/part-collection/parts-carboxysomes-ep.png" style="width:70%">
 <div>
-   <span style="color:gray">Figure 5: Overview of  &alpha;-carboxysomes Compartmentalization Mechanisms.<br><small>
+   <span style="color:gray">Figure 5: Overview of  &alpha;-Carboxysome Compartmentalization Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of Cso operon and Ep in warpping Hydrogenase in <em>E. coli</em></small>
    </span><br><br>
 </div>
 </div>
+
+<br>
 
 <div style="text-align: center;">
    <p>Table 7: Parts for Peptide Encapsulation</p>
@@ -270,6 +288,8 @@ Additionally, the parts hox and hyp with EP targeted hoxF ([BBa_K5115063](https:
 | [BBa_K5115062](https://parts.igem.org/Part:BBa_K5115062) | Composite | ribozyme+RBS+hoxU-GS-EP+stem-loop  |
 | [BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063) | Composite | hox and hyp, with EP targeted hoxF |
 | [BBa_K5115064](https://parts.igem.org/Part:BBa_K5115064) | Composite | hox and hyp, with EP targeted hoxU |
+
+<br>
 
 In summary, the microparticle module harnesses the collaborative power of hydrogenase enzymes, carboxysome compartments, and encapsulation peptides to drive an innovative approach for nickel reduction in *E. coli*. This integrated module not only advances the biotechnological potential of engineered microorganisms but also addresses environmental concerns related to nickel contamination by converting harmful ions into less toxic particles.
 

@@ -19,6 +19,7 @@ From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/
     <img src="https://static.igem.wiki/teams/5115/notebook/january.jpg" style="width:100%">
 </div>
 
+<br>
 
 ## February
 
@@ -28,6 +29,7 @@ During the Chinese New Year, our team researched previous iGEM projects and summ
     <img src="https://static.igem.wiki/teams/5115/notebook/feburary.jpg" style="width:100%">
 </div>
 
+<br>
 
 ## March
 
@@ -41,6 +43,7 @@ Meanwhile, some of us put efforts to autism education, include: revising a pictu
     <img src="https://static.igem.wiki/teams/5115/notebook/march.jpg" style="width:100%">
 </div>
 
+<br>
 
 ## April
 
@@ -50,6 +53,7 @@ On April 5th, team members visited an [art exhibit](/fudan/inclusivity/#_2-2-did
     <img src="https://static.igem.wiki/teams/5115/notebook/april-1.png" style="width:100%">
 </div>
 
+<br>
 
 ## May
 
@@ -63,6 +67,7 @@ In a weekly meeting on May 2nd, everyone of us confirmed the roles, and we discu
     </div>
 </div>
 
+<br>
 
 ## June
 
@@ -72,6 +77,7 @@ We started our experiments, and continued to improve our design.
     <img src="https://static.igem.wiki/teams/5115/notebook/june-1.jpg" style="width:100%">
 </div>
 
+<br>
 
 ## July
 
@@ -89,6 +95,7 @@ We continued our molecular cloning, and engaged with Professor Don W. Cleveland 
     <img src="https://static.igem.wiki/teams/5115/notebook/july-1.jpg" style="width:100%">
 </div>
 
+<br>
 
 ## August
 
@@ -98,6 +105,7 @@ We interviewed experts from [various fields](/fudan/human-practices/#c3-4-visit-
     <img src="https://static.igem.wiki/teams/5115/notebook/august.jpg" style="width:100%">
 </div>
 
+<br>
 
 ## September - October
 

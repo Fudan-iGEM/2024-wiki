@@ -32,7 +32,6 @@ In today's wastewater treatment industry, various [contemporary biofilm reactors
     </div>
 </div>
 
-
 <br>
 
 We analyze all these limitations and come up with our own solution using carbon nanotubes (CNTs). CNTs possess unique physicochemical and morphological characteristics, excellent adsorption capabilities, and permeability, showing significant potential in various areas[^4]. We have designed an innovative fiber structure based on carbon nanotubes, which can not only carry and nourish our engineered bacteria but also be woven into any required shape and size according to actual needs. In practical application scenarios, we load the engineered bacteria onto our designed fibers and weave them into a form that perfectly matches the target device. With this fiber structure, implated with our engineered bacteria expressing [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067) and [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068), deployed in the wastewater treatment device, we can effectively achieve the recovery of nickel.
@@ -52,6 +51,7 @@ Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around
       <br><br>
     </div>
 </div>
+
 <br>
 
 ## Build
@@ -86,6 +86,7 @@ Use [the apparatus](#fig3) to conduct industrial preparation. The apparatus cont
       <br><br>
     </div>
 </div>
+
 <br>
 
 ### Assembling the Fiber-Bacteria Mesh
@@ -101,8 +102,6 @@ Soak the woven fiber material in bacterial solution. Stand for 30 minutes to fac
       <br><br>
     </div>
 </div>
-
-
 
 <br>
 
@@ -137,6 +136,7 @@ After literature review, we optimized the suspension ratio as suggested. After c
       <br><br>
     </div>
 </div>
+
 <br>
 
 We then [put several composite fibers into our bacteria liquid culture](#fig10), placed them in a 37°C incubator for overnight culture. This experiment aims to verify the bacteria's tropism and adhesion to the fibers.
@@ -148,6 +148,7 @@ We then [put several composite fibers into our bacteria liquid culture](#fig10),
       <br><br>
     </div>
 </div>
+
 <br>
 
 After that, we retrieved the soaked composite fibers. Wash them twice with LB medium thoroughly for a minute (to wash off any residual bacterial liquid). Subsequently, the composite fibers were placed on a clean LB plate and incubated at 37°C for 15 hours. We observed [bacterial growth around the area where the composite fibers were placed](#fig11), suggesting that bacteria could adhere to the fibers.

@@ -47,6 +47,7 @@ This method offers several advantages:
 
 To be specific, our measurement process is designed with rigorous internal controls, ensuring consistency across all experimental conditions. We use the same starting culture for each plate, plotting it onto different plates with varying conditions, including negative controls without induction and positive controls with well-characterized plasmids to validate the accuracy of our results. This approach allows for direct comparison of growth patterns under distinct environmental influences while maintaining a controlled baseline. These controls ensure precise calibration, reliable interpretation, and reproducibility of our findings. By utilizing Spot Assays, we can systematically assess the metabolic burden imposed by different plasmid combinations on *E. coli*, ensuring that the introduced plasmids do not compromise overall cellular performance under varying conditions.
 
+
 ## Spot Assay Protocol
 
 ### Step 1: Start a bacterial culture
@@ -123,10 +124,10 @@ To generate data for our [Software](/fudan/software/), we utilized a structured 
 | #20  | BBa_K4765111 | Twister P1 + T7_RBS + AnAFP + stem-loop               | Kan |
 | #21  | BBa_K4765112 | Twister P1 + T7_RBS + SAHS 33020 +  stem-loop         | Kan |
 | #22  | BBa_K4765113 | Twister P1 + T7_RBS + H. ex mtSSB +  stem-loop        | Amp |
-| #23  | BBa_K4765117 | ribozyme connected: H. ex mtSSB + SAHS  33020         | Kan |
-| #24  | BBa_K4765126 | ribozyme connected: H. ex mtSSB + SAHS  33020 + AnAFP | Amp |
+| #23  | BBa_K4765117 | ribozyme connected: H. ex mtSSB + SAHS 33020         | Kan |
+| #24  | BBa_K4765126 | ribozyme connected: H. ex mtSSB + SAHS 33020 + AnAFP | Amp |
 | #25  | BBa_K4765022 | mScarlet; <em>an intended duplicated of #19</em> | Kan |
-| #26  | BBa_K5115037 | TDP+AnAFP | Kan |
+| #26  | BBa_K5115037 | TDP + AnAFP | Kan |
 
 After [bacteria transformation](/fudan/experiments/#other-experimental-methods), we grow liquid culture and made series dilutions in 96-well plates. Next, we spot the same dilution onto two plates, one only contains antibotics, the other contains antibotics, 0.2% L-arabinose and 1 mM IPTG.
 

@@ -18,7 +18,7 @@ headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
     </div>
 </div>
 
-
+<br>
 
 ## Sustainable Development by Nickel Recycling
 
@@ -40,7 +40,6 @@ The 7th SDG emphasizes the need for reliable and sustainable energy solutions.
     </div>
 </div>
 
-
 Please refer to [Implementation](/fudan/implementation/) for more information.
 
 ### SDG 9: Industry, Innovation and Infrastructure
@@ -59,6 +58,8 @@ Please refer to [Entrepreneurship](/fudan/entrepreneurship/) for more informatio
     </div>
 </div>
 
+<br>
+
 ### SDG 12: Responsible Consumption and Production
 
 The 12th SDG calls for sustainable patterns in how we use resources and manage waste, aiming to minimize the environmental impact of production and consumption.
@@ -73,9 +74,7 @@ The 12th SDG calls for sustainable patterns in how we use resources and manage w
     </div>
 </div>
 
-
-
-
+<br>
 
 ## Sustainable Development by Stopping Nickel Pollution
 
@@ -91,7 +90,7 @@ The 6th SDG emphasizes the availability and sustainable management of water and 
 
 The 14th SDG targets at conserving and sustainably using the oceans, seas, and marine resources. 
 
-Mining and industrial processes release nickel into rivers, lakes, and oceans, leading to severe pollution that harms aquatic life and disrupts marine food chains. MINERAL helps mitigate the toxic effects of nickel in oceans and protect marine biodiversity, maintaining the health of our oceans. 
+Mining and industrial processes release nickel into rivers, lakes, and oceans, leading to severe pollution that harms aquatic life and disrupts marine food chains. [MINERAL](/fudan/description/) helps mitigate the toxic effects of nickel in oceans and protect marine biodiversity, maintaining the health of our oceans. 
 
 We also recognized that releasing *E. coli* into the water body could harm aquatic life. We prioritize safety by studying the behavior of *C. elegans*; they show no significant abnormalities when consuming our microparticles and microbes (*E. coli* + hydrogenase) but are affected in nickel-rich growth media. Please refer to [Safety](/fudan/safety/) for more information.
 
@@ -105,7 +104,7 @@ Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers
     </div>
 </div>
 
-
+<br>
 
 ## Sustainable Development by Inclusive Education
 
@@ -133,7 +132,6 @@ We believe that education should embrace inclusivity, ensuring that no one is ex
         <br><br>
     </div>
 </div>
-
 
 Furthermore, we strongly emphasize modular teaching tools and digital transformation, enabling our educational methods to reach a bigger audience with greater ease. Please refer to [Inclusivity](/fudan/inclusivity/) for more information.
 
@@ -166,4 +164,4 @@ We have forged valuable partnerships with industry leaders, academic experts, an
 
 ----
 
-All in all, our project, MINERAL, contributes to the achievement of many of the UN Sustainable Development Goals, in many ways. We focus on nickel recycling, promoting clean energy, responsible consumption, and biosafety below water. Besides, we foster inclusive education and reach out to partnerships, ultimately supporting a greener and more sustainable future.
+All in all, our project, [MINERAL](/fudan/description/), contributes to the achievement of many of the UN Sustainable Development Goals, in many ways. We focus on nickel recycling, promoting clean energy, responsible consumption, and biosafety below water. Besides, we foster inclusive education and reach out to partnerships, ultimately supporting a greener and more sustainable future.

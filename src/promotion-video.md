@@ -25,7 +25,7 @@ Extracted from deep within the Earth, nickel drives the advancement of human wor
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/pv/1.png" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 2: Consumption of Nickel </span>
+    	  <span style="color: gray">Figure 2: Consumption of nickel </span>
       <br><br>
     </div>
 </div>
@@ -33,7 +33,7 @@ Extracted from deep within the Earth, nickel drives the advancement of human wor
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/pv/2.png" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 3: We will soon run out of Nickel </span>
+    	  <span style="color: gray">Figure 3: We will soon run out of nickel </span>
       <br><br>
     </div>
 </div>
@@ -52,7 +52,7 @@ Therefore, Fudan iGEM is committed to using synthetic biology to recover nickel 
 
 <br>
 
-We use *Escherichia coli* as our chassis and introduce three modules to realize our ambition. For Nickel Uptake. We have introduced the Nickel transporter protein [NixA and Nik](#fig5) into *E. coli*  to ensure the nickel absorption specificity. Next, we introduced two metallothioneins, [MTA and Hpn](#fig5) to ensure our Ecoli can survive in harsh environments of heavy metal ions. 
+We use *Escherichia coli* as our chassis and introduce three modules to realize our ambition. For nickel uptake. We have introduced the nickel transporter protein [NixA and Nik](#fig5) into *E. coli*  to ensure the nickel absorption specificity. Next, we introduced two metallothioneins, [MTA and Hpn](#fig5) to ensure our Ecoli can survive in harsh environments of heavy metal ions. 
 
 <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/pv/4.png" style="width: 100%">
@@ -61,8 +61,6 @@ We use *Escherichia coli* as our chassis and introduce three modules to realize 
       <br><br>
     </div>
 </div>
-
-## PV
 
 Finally, our centerpiece: the Nickel Microfactory. By targeting oxygen-tolerant hydrogenase to carboxysomes, our Nickel Microfactory reduces nickel ions to microparticles in the presence of hydrogen. We have also established a symbiotic *E. coli*-cyanobacteria system for hydrogen production *via* photosynthesis. 
 
@@ -76,6 +74,8 @@ Finally, our centerpiece: the Nickel Microfactory. By targeting oxygen-tolerant 
 
 <br>
 
+## PV
+
 [MINERAL](#fig4) demonstrates extraordinary creativity, and the same principles can be applied to other heavy metals, building a bridge between nature and human society through synthetic biology. 
 
-Link to our promotion video [https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3](https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3)
+View our promotion video at [https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3](https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3)

@@ -8,7 +8,7 @@ headergif: https://static.igem.wiki/teams/5115/header/software-header.gif
 
 <br><br>
 
-:::tip
+::: tip
 
 Try PartHub 3.0 [here](http://47.97.85.37:5000/) or follow the [installation tutorial](#tutorial) to deploy our software on your own device!
 
@@ -89,6 +89,8 @@ We have also uploaded our source code on [Gitlab](https://gitlab.igem.org/2024/s
 
 ### 1. Installation
 
+
+
 ::: details How to install?
 
 You can directly visit our **live demo** at http://47.97.85.37:5000/.
@@ -162,6 +164,8 @@ pack.bat
 Once the deployment is complete, PartHub 3.0 will be running at [http://localhost:5000](http://localhost:5000/).
 
 :::
+
+
 
 ### 2. Burden Predictor
 
@@ -504,6 +508,8 @@ style='width:80%'>
 </small></p>
 </div>
 </div>
+
+<br>
 
 #### Benchmarking of Promoter Calculator and RBS Calculator
 

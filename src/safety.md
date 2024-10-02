@@ -6,7 +6,6 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/safety-header.gif
 ---
 
-
 <br><br>
 
 The growing severity of heavy metal pollution and the inevitable depletion of mineral resources in the foreseeable future underscore the importance and urgency of resource recovery. Among the various solutions, [bioremediation](https://competition.igem.org/participation/villages#h-list-of-villages) holds great promise, though it has not yet been fully explored. **MINERAL** demonstrates strong potential in addressing this issue, and we aim to utilize *Escherichia coli* to convert heavy metal ions in water into usable micro-metal particles.
@@ -50,6 +49,7 @@ This year we utilized *Caenorhabditis elegans* in assessing the outcome of relea
     </div>
 </div>
 
+<br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;" id="fig45">       
    <div style="flex: 1; text-align: center;">           
@@ -63,7 +63,6 @@ This year we utilized *Caenorhabditis elegans* in assessing the outcome of relea
    <span style="color: gray">Figure 4 & 5: Comparison of the average distance moved per minute and the average turning angle per turn of <em>Caenorhabditis elegans</em>, 18 hours after seeding.<br>
       <small>The nematodes were fed with <em>E. coli</em> strain OP50, <em>E. coli</em> expressing <a href='https://parts.igem.org/Part:BBa_K5115067'>module F</a>, and <em>E. coli</em> expressing <a href='https://parts.igem.org/Part:BBa_K5115068'>module U</a>. For the later two, bacteria has been cultured at 37°C for 30 hours in 100 mg/L NiCl~2~ solution with bubbled hydrogen gas, assuming massive nickel microparticles formed inside bacteria. After 30-hour culture, bacteria were collected by 3000 rpm 10-min centrifugation, briefly washed with 2x YT media, plated directly onto the NGM plate, briefly dried before seeding worm. Five L2-stage nematodes were picked for each plate and cultured at 20°C for 18 hours. For each dataset, images from at least three nematode were collected, and at least 1-minute worm movement was recorded at 1080p 30fps, yielding at least 1900 data points, analyzed by ImageJ Plugins Animal Tracker, and graphed in GraphPad Prism.</small></span>
 </div>
-
 
 By feeding nematodes with engineered bacteria [containing nickel microparticles](/fudan/results/#fig7), and comparing their locomotion behavior, we found no significant difference in worm motion between the control group and the experimental group. This indicates that our product is harmless to nematodes, likely to be environmentally and biologically friendly.
 

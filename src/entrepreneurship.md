@@ -118,8 +118,7 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
     </div>
 </div>
 
-
-
+<br>
 
 ### Scalability of Our Operation Strategy
 
@@ -139,7 +138,7 @@ After purchasing our basic product, customers will receive free equipment instal
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig6.webp" style="width:100%">
 </div>
 
-
+<br>
 
 #### 2. Exit Strategy
 
@@ -160,7 +159,6 @@ On this basis, we provide comprehensive maintenance services for our Gile Carbon
 First, during the membership service period, we will offer a two-week supply of phage-resistant *E. coli* strains free of charge to ensure the stability of product function.
 
 Second, throughout the membership duration, customers can enjoy free maintenance and testing services for the Gile Carbon Fiber, similar to insurance. [See our capabilities](/fudan/safety/#project-risk-control). This minimizes the risk of production efficiency decline due to product aging, ensuring that customers' factories operate at peak performance at all times.
-
 
 
 ## Product Development Plans with Milestones, Timelines, Resources, and Risks
@@ -235,7 +233,6 @@ GEM adheres to the development philosophy of *limited resources, unlimited recyc
     </div>
 </div>
 
-
 GEM expressed strong interest in our project and invited us to their key mineral resource recovery research institute in Jingmen, Hubei Province, China, for a tour and discussions on technical collaboration.
 
 <div style="text-align: center;" id="fig14">
@@ -245,7 +242,6 @@ GEM expressed strong interest in our project and invited us to their key mineral
         <br><br>
     </div>
 </div>
-
 
 After assessing the actual conditions of GEM's production line, we quickly identified the most suitable processing phase for our [MINERAL](/fudan/description/) product. Consequently, we successfully reached a technical cooperation agreement and later received the relevant wastewater samples from GEM. After we got [results](/fudan/results/) and shared it with GEM, they conveyed even stronger willingness to carry out further cooperation with us.
 
@@ -279,7 +275,7 @@ Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicat
     </div>
 </div>
 
-
+<br>
 
 <div style="text-align: center;" id="fig18">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps2new.webp" style="width:100%">
@@ -288,7 +284,6 @@ Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicat
         <br><br>
     </div>
 </div>
-
 
 After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL product. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As on the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the contract with CPS.
 
@@ -402,8 +397,7 @@ Furthermore, our product has strong competitiveness. See [Swot Analysis](#fig21)
 
 ### [Reliable Team](/fudan/team/)
 
-Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
-
+Our team consists of 14 members from Fudan University's iGEM team, a diverse group of people from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
 
 ### Stakeholders
 
@@ -426,6 +420,7 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
     </div>
 </div>
 
+----
 
 [^1]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
 [^2]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)

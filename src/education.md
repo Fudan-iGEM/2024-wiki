@@ -1,7 +1,6 @@
 ---
 title: Education
 headergif: https://static.igem.wiki/teams/5115/header/education-header.gif
-
 author:
 - name: Yuhan Wang
   url: /fudan/team/#yuhan-wang
@@ -28,6 +27,7 @@ So, our goal is **to inspire students across all educational stages in China**, 
     </div>
 </div>
 
+<br>
 
 ## Education for University Students
 
@@ -41,8 +41,6 @@ So, our goal is **to inspire students across all educational stages in China**, 
 </p>  
 </div>
 
-
-
 Our team hosted two booths at the **[Academic Culture Festival](https://mp.weixin.qq.com/s/d18fl0Bhf2tGK7M7HiVJYw)** at our university to showcase synthetic biology and our project. During this event, we enthusiastically introduced synthetic biology concepts and information about iGEM to **undergraduate and graduate students**. We also gained insights into effective educational approaches and the appropriate complexity of popular science for higher education students, laying a solid foundation for future educational initiatives. [This experience](https://mp.weixin.qq.com/s/ZAvP470rsg1TDX8qlwq5sw) also helped our team members refine their presentation skills and abilities.
 
 <div style="text-align: center;" id="fig2">
@@ -53,6 +51,8 @@ Our team hosted two booths at the **[Academic Culture Festival](https://mp.weixi
     </div>
 </div>
 
+<br>
+
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/starrybooth21.webp" style="width:100%">
     <div>
@@ -60,7 +60,6 @@ Our team hosted two booths at the **[Academic Culture Festival](https://mp.weixi
         <br><br>
     </div>
 </div>
-
 
 However, during the activities, we realized that our team members' proficiency in synthetic biology knowledge was not enough to effectively carry out our educational initiatives. Therefore, we decided to participate in Education Forum and conduct internal training to **learn some education skills**.
 
@@ -73,8 +72,6 @@ However, during the activities, we realized that our team members' proficiency i
     <strong><small>🖇️ Respondent Profile: </small></strong> <small>Groups Specialized in Education</small>  
 </p>  
 </div>
-
-
 
 Our team representative participated in the **Expedition Education Forum**, an event aimed at providing better educational services to disadvantaged groups in society. Xueting Chen spoke, sharing our goals and vision—to provide accessible synthetic biology knowledge to people across all educational stages. We also objectively highlighted the challenges we face in engaging students and the complexity of the material, which garnered enthusiastic **support and guidance** from the attending professional education teams. 
 
@@ -95,7 +92,7 @@ During discussions in 4 sub-forums, we learned an important educational principl
     </div>
 </div>
 
-
+<br>
 
 <div style="text-align: center;" id="fig6">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/forumrepresentive2.webp" style="width:100%">
@@ -114,8 +111,6 @@ During discussions in 4 sub-forums, we learned an important educational principl
     <strong><small>🖇️ Respondent Profile: </small></strong> <small>Exchange students in Fudan University</small>  
 </p>  
 </div>
-
-
 
 To build a collaborative method of education, international exchange and understanding among global youth are crucial. 
 
@@ -143,8 +138,6 @@ After this event, we were pleased to see a significant improvement in our team m
 </p>  
 </div>
 
-
-
 We hosted this communication event, inviting [Dr. Don W. Cleveland](https://en.wikipedia.org/wiki/Don_W._Cleveland) to discuss our project. He expressed strong support fot our project, and explored how it could contribute to heavy metal wastewater treatment in China, helping to protect natural water bodies. 
 
 <div style="text-align: center;" id="fig8">
@@ -154,6 +147,7 @@ We hosted this communication event, inviting [Dr. Don W. Cleveland](https://en.w
         <br><br>
     </div>
 </div>
+
 Additionally, we invited other undergraduates from Fudan University's School of Life Sciences who are interested in biology and organized an academic exchange event that aligns with cutting-edge research and promotes interdisciplinary integration.
 
 Through interactions with experts, we facilitated academic discussions and cultural exchange, collectively exploring a future where synthetic biology is widely applied.
@@ -165,7 +159,6 @@ Through interactions with experts, we facilitated academic discussions and cultu
         <br><br>
     </div>
 </div>
-
 
 With the progress above, we moved forward to promote synthetic biology knowledge to high school students in China.
 
@@ -180,8 +173,6 @@ With the progress above, we moved forward to promote synthetic biology knowledge
     <strong><small>🖇️ Respondent Profile: </small></strong> <small>High school students from all over China</small>  
 </p>  
 </div>
-
-
 
 By collaborating with the State Key Laboratory of Genetics Engineering, we [invited high school students](https://mp.weixin.qq.com/s/PkEyOO0QkiYaLgErkqDIbw) from across China to participate in a summer camp at Fudan University focused on learning about biological sciences. During the camp, we guided the students on a tour of the campus and biology labs, culminating in a roundtable discussion where we aimed to learn about their perceptions of synthetic biology and provide educational outreach.
 
@@ -216,8 +207,6 @@ After thoroughly understanding the expectations and needs of high school student
 </p>  
 </div>
 
-
-
 To stimulate their interest, we collaborated with the [Science Popularization Education Base](https://life.sjtu.edu.cn/En/Data/View/6178) at Shanghai Jiaotong University to plan a career experience event for high school students from [AnTing High School](https://mp.weixin.qq.com/s/mhQprzN8XQIkw8zzIxXXyg). The activities included a GMO lecture, a tour of genetically modified rice fields, and a sharing session on synthetic biology, planting the seeds of synthetic biology in their minds.
 
 <div style="text-align: center;" id="fig12">
@@ -244,8 +233,6 @@ After conducting educational practices for high school students, we decided to e
 </p>  
 </div>
 
-
-
 First, we visited Shizuishan Experimental Junior Middle School in Ningxia, a region known for its ethnic diversity and fixed perceptions of being underdeveloped. Before preparing this course, we conducted thorough research to express our specialized knowledge in as simple a manner as possible. In addition to bringing [picture books](#our-ground-for-future's-building-on), we prepared **dynamic teaching materials and origami games**.
 
 <div style="text-align: center;" id="fig13">
@@ -255,7 +242,6 @@ First, we visited Shizuishan Experimental Junior Middle School in Ningxia, a reg
         <br><br>
     </div>
 </div>
-
 
 However, during the on-site teaching, we realized that the proliferation of **the internet** has improved information exchange in what we once thought were isolated areas. The children are no longer constrained by local economic conditions and educational resources; they can now share the same perspectives as those from more developed regions. This prompted us to rethink the meaning of education. If these children can now easily see the outside world, perhaps the true purpose of education lies in teaching them how to explore the outside world and synthetic biology knowledge on their own.
 
@@ -267,6 +253,7 @@ However, during the on-site teaching, we realized that the proliferation of **th
     </div>
 </div>
 
+<br>
 
 ### Introducing Synbio to Shanghai Shangde Students
 
@@ -299,7 +286,6 @@ Building on our progressively refined education system, we further expanded our 
 </div>
 
 
-
 Finally, as an innovative attempt to explore the boundaries of education, we reached out to **[Shijiazhuang Huihua University Affiliated Kindergarten](https://mp.weixin.qq.com/s/IeVzSPkYSJiv6bnb1WOMXA)** and prepared a set of engaging science education courses for the young children. 
 
 Yuhan Wang introduced the concept of genes to children by comparing the differences between red Fuji apples, red delicious apples, and green apples, while recounting Mendel's journey of discovering genes through pea plants. This sparked many questions from the children, such as, *"Am I different from other kids just like the apples are different?"* and *"Was the first human in the world different from us?"*  Yuhan patiently answered these questions, concluding that what makes each of us special is the many different yet beautiful colors in our genes. We should cherish this beauty, love ourselves, and respect others—this is the true magic!
@@ -314,6 +300,7 @@ Yuhan Wang introduced the concept of genes to children by comparing the differen
 
 
 After the activity, we left the teaching materials in the story corner of Huihua Kindergarten and observed the children's interest in the books. To our delight, the children showed a high level of engagement, independently reading the books during free time.
+
 
 ## Our Ground for Future‘s Building On
 
@@ -339,4 +326,3 @@ We identified different focal points for each group. We continuously engage in s
         <br><br>
     </div>
 </div>
-

@@ -1,7 +1,6 @@
 ---
 title: Results
 headergif: https://static.igem.wiki/teams/5115/header/results-header.gif
-
 author:
 - name: Xujie Tan
   url: /fudan/team/#xujie-tan
@@ -10,7 +9,6 @@ author:
 - name: Yi Shi
   url: /fudan/team/#yi-shi
 ---
-
 
 <br><br>
 
@@ -45,7 +43,6 @@ As shown in [Figure 1](#fig1), NixA generally outperforms nikABCDE. The ribozyme
         <br><br>
     </div>
 </div>
-
 
 To investigate the difference between F1v-NixA and NixA-F1v, we used AlphaFold 3[^1] to predict their structures. According to the computated models ([Figure 2](#fig2)), the N-terminus of NixA is in the periplasm, while the C-terminus lies within the cytoplasm. Plasma membrane location marked based on an existing study[^2]. F1v is on the periplasmic side when fused to the N-terminus of NixA and on the cytoplasmic side when fused to the C-terminus. The nickel uptake capability is higher when F1v is fused to the C-terminus (on the cytoplasmic side), possibly indicating a better dimerization effect, or the N-terminal F1v disturbs NixA's normal function.
 
@@ -107,6 +104,7 @@ Our primary goal in expressing Hpn is to alleviate the survival pressure on *E. 
         <br><br>
     </div>
 </div>
+
 As shown in [Figure 5](#fig5), the nickel absorption ability of the Hpn + NixA-F1v bacteria was significantly higher than that of NixA-F1v alone, achieving 43% nickel uptake. This indicates that Hpn effectively relieves the survival pressure on *E. coli* and enhances its nickel uptake capacity.
 
 ### Anti-phage by YejM
@@ -151,8 +149,6 @@ To create an efficient reduction reaction vessel, we linked hydrogenase with the
     </div>
 </div>
 
-
-
 In [Figure 7](#fig7), in (A)-(C), we can observe that due to the lack of carboxysome expression, Staygold-EP is evenly distributed throughout the cell. However, in (D), Staygold-EP is directed into the carboxysome. This confirms the feasibility of our approach to assemble hydrogenase into the carboxysome.
 
 ### Nickel Reduction by F Module
@@ -172,7 +168,6 @@ To visualize nickel microparticles in F module expressing bacteria, osmium tetro
 </div>
 
 As shown in [Figure 8](#fig8), the F module converts nickel ion into particles inside bacteria.
-
 
 ### Nickel Uptake: F module *vs.* U module
 
