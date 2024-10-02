@@ -57,7 +57,7 @@ Inoculate a single colony of *E. coli* BL21(AI) containing the plasmid of intere
 
 After growth, measure the optical density (OD<sub>600</sub>) of all samples using a spectrophotometer. Normalize the cultures to an OD<sub>600</sub> of 0.6 by diluting with antibiotic containing fresh LB broth.
 
-Do not put the culture into 4 degree. Do not over grow. Ideally, collecting all samples before OD<sub>600</sub> of 0.8.
+Do not put the culture into 4 degree. Do not over-grow. Ideally, collecting all samples before OD<sub>600</sub> of 0.8.
 
 ### Step 3: Series Dilution
 
@@ -133,7 +133,7 @@ After [bacteria transformation](/fudan/experiments/#other-experimental-methods),
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/measurement-sy/spot-assay-figure.png" style="width:80%; height: auto;">
     <div>
-        <span style="color: gray">Figure 2: Images of spots from one experiment, the control on the left and the dual-induced on the right.<br>
+        <span style="color: gray">Figure 2: Images of Spots from One Experiment, the Control on the Left and the Dual-Induced on the Right.<br>
           <small>These figure illustrates the growth patterns of bacteria spots, following serial dilutions. From left to right, the columns correspond to the initial culture, dilutions of 1:10, 1:100, 1:10<sup>3</sup>, 1:10<sup>4</sup>, and 1:10<sup>5</sup>. #16 and #16-2 were grew from two colonies on the same plate. We transformed plasmid number #19 on another day generating a second plate labeled as #25. Both #16 #16-2 and #19 #25 are biological replicates with slight difference. The edges of the plates can serve as a reference for image quality.</small>
          </span>
       <br><br>
@@ -147,7 +147,7 @@ Subsequently, after measuring the gray value of each group of colonies using [Im
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/measurement-sy/bacteria-growth.png" style="width:80%; height: auto;">
     <div>
-      <span style="color: gray">Figure 3: Quantification of the spots shown in <a href='#fig3'>Figure 2</a>.<br>
+      <span style="color: gray">Figure 3: Quantification of the Spots Shown in <a href='#fig2'>Figure 2</a>.<br>
          <small>This bar graph compares the growth rates of bacterial strains expressing various plasmids. The Relative <em>E. coli</em> growth was calculated by comparing the experimental group (dual-induced) to the control group and the average values of stayGold (plasmid number #1) and mScarlet (plasmid number #19) fluorescence proteins as a baseline, represented by different colors in the graph. Plasmid number #25 is the same plasmid as #19, but did another bacteria transformation on another day generating a second plate labeled as #25. We also picked two colonies from the same plate (number #16), and labeled the second as #16-2.</small>
          </span>
       <br><br>
@@ -156,6 +156,17 @@ Subsequently, after measuring the gray value of each group of colonies using [Im
 
 <br>
 
+<div style="text-align: center;" id="fig4">
+    <img src="https://static.igem.wiki/teams/5115/measurement-sy/standard-curve.png" style="width:66.7%; height: auto;">
+    <div>
+      <span style="color: gray">Figure 4: Calibration and Assessment.<br>
+         <small>With this approach, assuming the series dilution was performed correctly, gray value of the spots (Y axis) could be plotted with the dilution (X axis, log scale) to assess the spotting quality, and to optimze growth condition. Using #1 spots on the left in <a href='#fig2'>Figure 2</a> as an example: an R^2 value of 0.86 provides a strong indication of the experiment's reliability. Although it is suggested to measure spots from only one dilution, obtaining consistent results from two adjacent, non-overgrown dilutions would enhance the user's confidence in the measurement.</small>
+         </span>
+      <br><br>
+    </div>
+</div>
+
+<br>
 
 ## Previous Inspiring Methodologies in iGEM
 
