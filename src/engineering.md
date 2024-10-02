@@ -9,13 +9,13 @@ author:
   url: /fudan/team/#kevin-qi
 ---
 
-<br><br>Throughout our project, we encountered problems in [Parts](/fudan/parts/), [Measurement](/fudan/measurement/#previous-inspiring-methodologies-in-igem), [Software](/fudan/software/#dbtl-cycle-of-our-software-tool), [Hardware](/fudan/hardware/#fiber-design), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/#the-preliminary-attempt-of-steamed) and [Entrepreneurship](/fudan/entrepreneurship/#our-first-try-on-commercialization), we solved them following iterations of the DBTL cycle (Design, Build, Test, Learn). Below are the steps we went through to develop our nickel module - part number [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
+<br><br>Throughout our project, we encountered problems in [Parts](/fudan/parts/), [Measurement](/fudan/measurement/), [Software](/fudan/software/), [Hardware](/fudan/hardware/), [Human Practices](/fudan/human-practices/), [Inclusivity,](/fudan/inclusivity/) and [Entrepreneurship](/fudan/entrepreneurship/), we solved them following iterations of the DBTL cycle (Design, Build, Test, Learn). Below are the steps we went through to develop our nickel module - part number [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
 
 ## Cycle 1
 
 ### Cycle 1 Design
 
-To make our *Escherichia coli* efficiently absorb nickel ions, we need active [nickel uptake](/fudan/description/#_1-nickel-enrichment-module), which includes a nickel transport protein called nikABCDE[^1]. Because nikA is the rate-limiting step, according to [our previous observations](https://parts.igem.org/Part:BBa_K4765129), we put it as the last one when we connect these CDS with the Ribozyme-Assisted Polycistronic expression system (pRAP)[^2].
+To make our *Escherichia coli* efficiently absorb nickel ions, we need active [nickel uptake](/fudan/description/#_1-nickel-enrichment-module), which includes a nickel transport protein called nikABCDE[^1]. Because nikA is the rate-limiting enzyme, according to [our previous observations](https://parts.igem.org/Part:BBa_K4765129), we put it as the last one when we connect these CDS with the Ribozyme-Assisted Polycistronic expression system (pRAP)[^2].
 
 As for the other nickel transport protein NixA ([BBa_K5115071](https://parts.igem.org/Part:BBa_K5115071))[^3], we also made dimerizable versions ([BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086), [BBa_K5115087](https://parts.igem.org/Part:BBa_K5115087)), using a well-studied rapamycin-induced protein dimerization system [^5].
 
@@ -31,13 +31,17 @@ To evaluate how well our *E. coli* absorbs nickel, we measured the nickel concen
     <img src="https://static.igem.wiki/teams/5115/ni-results/30-mg-l-single-plasmid1.png" style='width:70%'>
     <div>
     	<span style="color: gray">Figure 1: Comparison of Ni²⁺ Uptake Efficiency by Different <em>E. coli</em><br>
-            <small>The graph shows the percentage of Ni²⁺ absorbed by<em>E. coli</em> expressing different constructs after 5 hours of growth in a medium containing 30 mg/L Ni²⁺ (<em>E. coli</em> strain: BL21 DE3, induced with 1 mM IPTG). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 30 mg/L. The optical density (OD₆₀₀) of the initial bacterial suspension was adjusted to 0.5. Culture for 5 hours, at 37°C with a rotating speed at 220 rpm. Regarding <a href="https://parts.igem.org/Part:BBa_K5115086">NixA-F1v</a> and <a href="https://parts.igem.org/Part:BBa_K5115087">F1v-NixA</a>, AP20187 is a synthetic dimerizer that can be used to induce homodimerization of F1v domain. Three biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. ANOVA test shows that all constructs increase Ni²⁺ uptake significantly compared to the control. Bacteria expressing NixA-F1v exhibit the highest Ni²⁺ uptake efficiency (p = 0.0052, Dunnett’s post-test).</small>
+            <small>The graph shows the percentage of Ni²⁺ absorbed by <em>E. coli</em> expressing different constructs after 5 hours of growth in a medium containing 30 mg/L Ni²⁺ (<em>E. coli</em> strain: BL21 DE3, induced with 1 mM IPTG). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 30 mg/L. The optical density (OD₆₀₀) of the initial bacterial suspension was adjusted to 0.5. Culture for 5 hours, at 37°C with a rotating speed at 220 rpm. Regarding <a href="https://parts.igem.org/Part:BBa_K5115086">NixA-F1v</a> and <a href="https://parts.igem.org/Part:BBa_K5115087">F1v-NixA</a>, AP20187 is a synthetic dimerizer that can be used to induce homodimerization of F1v domain. Three biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. ANOVA test shows that all constructs increase Ni²⁺ uptake significantly compared to the control. Bacteria expressing NixA-F1v exhibit the highest Ni²⁺ uptake efficiency (p = 0.0052, Dunnett’s post-test).</small>
 </span>
         <br><br>
     </div>
 </div>
 
-As illustrated in [Figure 1](#fig1), NixA-F1v demonstrates the highest efficiencies for nickel uptake among these parts. We also conducted nickel absorption tests with various starting Ni²⁺ concentrations (20 mg/L and 50 mg/L), leading to the same conclusion.
+
+
+
+
+As illustrated in [Figure 1](#fig1), NixA-F1v demonstrates the highest efficiencies for nickel uptake among these parts. We also conducted nickel absorption tests with various starting Ni²⁺ concentrations (20 mg/L and 50 mg/L), leading to the same results.
 
 ### Cycle 1 Learn
 
@@ -62,13 +66,13 @@ We evaluated the nickel uptake efficiency of these *E. coli* in a medium with an
     <img src="https://static.igem.wiki/teams/5115/ni-results/double-plasmids-hpn-af1.png" style="height:480px">
     <div>
     	<span style="color: gray">Figure 2: Comparison of Ni²⁺ Uptake Efficiency, with and without Hpn<br>
-<small>The graph shows the percentage of Ni²⁺ absorbed by<em>E. coli</em> expressing different constructs after 5 hours of growth in a medium containing 50 mg/L Ni²⁺ (<em>E. coli</em> strain: BL21 DE3, induced with 1 mM IPTG). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 50 mg/L. The optical density (OD₆₀₀) of the initial bacterial suspension was adjusted to 0.5. Culture for 5 hours, at 37°C with a rotating speed at 220 rpm. Three biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. The results indicate that <em>E. coli</em> expressing Hpn demonstrated higher Ni²⁺ uptake efficiency compared to <em>E. coli</em> without Hpn expression.</small>
+<small>The graph shows the percentage of Ni²⁺ absorbed by <em>E. coli</em> expressing different constructs after 5 hours of growth in a medium containing 50 mg/L Ni²⁺ (<em>E. coli</em> strain: BL21 DE3, induced with 1 mM IPTG). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 50 mg/L. The optical density (OD₆₀₀) of the initial bacterial suspension was adjusted to 0.5. Culture for 5 hours, at 37°C with a rotating speed at 220 rpm. Three biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. The results indicate that <em>E. coli</em> expressing Hpn demonstrated higher Ni²⁺ uptake efficiency compared to <em>E. coli</em> without Hpn expression.</small>
 </span>
         <br><br>
     </div>
 </div>
 
-<br>
+
 
 
 ### Cycle 2 Learn
@@ -94,13 +98,13 @@ After making the constructs, we measured the efficiency of nickel uptake by bact
     <img src="https://static.igem.wiki/teams/5115/ni-results/double-plasmids-rcnr-nik-nix1.png" style="width:70%">
     <div>
     	<span style="color: gray">Figure 3: Comparison of Ni²⁺ Uptake Efficiency, with and without RcnR<sup>C35L</sup><br>
-<small>The graph shows the percentage of Ni²⁺ absorbed by<em>E. coli</em> expressing different constructs after 5 hours of growth in a medium containing 20 mg/L Ni²⁺ (<em>E. coli</em> strain: BL21 DE3, induced with 1 mM IPTG). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 20 mg/L. The optical density (OD₆₀₀) of the initial bacterial suspension was adjusted to 0.5. Culture for 5 hours, at 37°C with a rotating speed at 220 rpm. Three biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. RcnR<sup>C35L</sup> refers to a mutation in which cysteine (C) at position 35 in the RcnR protein was substituted with leucine (L). The results indicate that <em>E. coli</em> expressing RcnR<sup>C35L</sup> consistently has higher Ni²⁺ uptake efficiency compared to <em>E. coli</em> without RcnR<sup>C35L</sup> expression.</small>
+<small>The graph shows the percentage of Ni²⁺ absorbed by <em>E. coli</em> expressing different constructs after 5 hours of growth in a medium containing 20 mg/L Ni²⁺ (<em>E. coli</em> strain: BL21 DE3, induced with 1 mM IPTG). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 20 mg/L. The optical density (OD₆₀₀) of the initial bacterial suspension was adjusted to 0.5. Culture for 5 hours, at 37°C with a rotating speed at 220 rpm. Three biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. RcnR<sup>C35L</sup> refers to a mutation in which cysteine (C) at position 35 in the RcnR protein was substituted with leucine (L). The results indicate that <em>E. coli</em> expressing RcnR<sup>C35L</sup> consistently has higher Ni²⁺ uptake efficiency compared to <em>E. coli</em> without RcnR<sup>C35L</sup> expression.</small>
 </span>
         <br><br>
     </div>
 </div>
 
-<br>
+
 
 
 ### Cycle 3 Learn
@@ -115,7 +119,7 @@ Next, we integrate these parts and create our nickel module ([BBa_K5115068](http
 
 ## Summary
 
-These DBTL cycles are just one example of our project engineering processes. Other examples are available at our [Measurement](/fudan/measurement/#previous-inspiring-methodologies-in-igem), [Software](/fudan/software/#dbtl-cycle-of-our-software-tool), [Hardware](/fudan/hardware/#fiber-design), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/#the-preliminary-attempt-of-steamed) and [Entrepreneurship](/fudan/entrepreneurship/#our-first-try-on-commercialization) pages.
+These DBTL cycles are just one example of our project engineering processes. Other examples are available on our [Measurement](/fudan/measurement/), [Software](/fudan/software/), [Hardware](/fudan/hardware/), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/) and [Entrepreneurship](/fudan/entrepreneurship/) pages.
 
 
 ## References
