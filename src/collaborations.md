@@ -3,7 +3,7 @@ title: Collaborations
 author:
   name: Wanqi Li
   url: /fudan/team/#wanqi-li
-headergif: https://static.igem.wiki/teams/5115/header/icollaboration-header-new.gif
+headergif: https://static.igem.wiki/teams/5115/header/collaboration-header-new.gif
 ---
 
 <br><br>
