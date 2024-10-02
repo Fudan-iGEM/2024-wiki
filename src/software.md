@@ -167,7 +167,7 @@ style="width:100%">
 Then, you can select the basic parts from the basic parts library, then click "Add basic part", as shown in [Figure 3](#figure-3).
 
 <div style="text-align: center;" id="figure-3">
-<img src="https://static.igem.wiki/teams/5115/software/tutorial-2.png"
+<img src="https://static.igem.wiki/teams/5115/software/tutorial-22.png"
 style="width:100%">
 <br>
 <div>
@@ -179,7 +179,7 @@ style="width:100%">
 If the part you are interested is not in the library, you can manually input its sequence or upload its sequence file, or click "Search in PartHub" to discover it in PartHub, which is mentioned [below](#_3-similar-parts-searching).
 
 <div style="text-align: center;" id="figure-4">
-<img src="https://static.igem.wiki/teams/5115/software/tutorial-3.png"
+<img src="https://static.igem.wiki/teams/5115/software/tutorial-33.png"
 style="width:100%">
 <br>
 <div>
@@ -187,6 +187,7 @@ style="width:100%">
 </small></p>
 </div>
 </div>
+
 After selecting the parts, you can view them under the "Current parts" line. Next, set the copy number of the plasmid where the parts will be located. When you hover over the copy number input box, a tooltip listing common plasmid copy numbers will appear. This feature helps you accurately specify the copy number, ensuring optimal expression of the selected parts.
 
 On the right side of the copy number input box, there is a switch that allows you to indicate whether the composite part should be considered as part of the pRAP system. If your part is polycistronic, please turn this switch on to ensure accurate prediction. 
@@ -202,13 +203,11 @@ style="width:100%">
 </small></p>
 </div>
 </div>
-
-
 **Warning: ** Do not include Non-ASCII characters in the sequence file, or it may cause error!
 
 ### 3. Similar Parts Searching
 
-To enter the similar parts searching page, please click "PartHub" at the top of the screen. Once there, you can input your search content in the input bar at the top and select the search type, which will navigate you to the "Search Results" page. Alternatively, you can choose the type of parts you want to query from the options below and upload a sequence file, which will directly take you to the detailed information page for the part.
+To enter the similar parts searching page, please click "PartHub" at the top of the screen. Once there, you can input your search content in the input bar at the top and select the search type, which will navigate you to the "Search Results" page. Alternatively, you can choose the type of parts you want to query from the options below, and input the sequence or upload a sequence file, which will directly take you to the detailed information page for the part.
 
 <div style="text-align: center;" id="figure-6">
 <img src="https://static.igem.wiki/teams/5115/software/tutorial-5.png"
@@ -233,10 +232,11 @@ style="width:100%">
 </small></p>
 </div>
 </div>
+When you enter the detailed information page, the software automatically begins the process of finding similar parts to the queried part in PartHub. This process may take about one minute. Once the similarity calculation is complete, the interface will update as shown in [Figure 8](https://yanglab.westlake.edu.cn/chat/1840319670490497024#figure-8).
 
-On the left side of the detailed information page, a treemap displays the queried part along with parts that have reference, twin, or similarity relationships with it. In the treemap, purple nodes represent basic parts, and blue nodes represent composite parts. You can scroll in or out to adjust the size of the treemap, or drag to change its position.
+On the left side of the page, a tree map displays the queried part along with parts that have reference, twin, or similarity relationships with it. In the tree map, purple nodes represent basic parts, and blue nodes represent composite parts. You can use the scroll function to adjust the size of the tree map or drag it to change its position for better visibility.
 
-On the right side of the detailed information page, a list showcases the parts most similar to the queried part, including three types of similarity scores, which are detailed [below](#implementation-1). Due to performance considerations, we only display the top 100 similar parts, and in the treemap, we show the top 30 most similar parts.
+On the right side of the detailed information page, a list showcases the parts most similar to the queried part, including three types of similarity scores, which are detailed [below](#implementation-1). Due to performance considerations, we only display the top 100 similar parts, and in the tree map, we show the top 30 most similar parts.
 
 <div style="text-align: center;" id="figure-8">
 <img src="https://static.igem.wiki/teams/5115/software/tutorial-8.png"
@@ -248,7 +248,7 @@ style="width:100%">
 </div>
 </div>
 
-To view specific information about a part or relationship, click the "Part/Relationship info" tab in the top-right corner. You can also click on nodes or edges in the treemap to view detailed information about the parts or relationships. For example, in [Figure 9](#figure-9), the similarity information of the two parts is displayed after clicking on the edge indicated by the red arrow.
+To view specific information about a part or relationship, click the "Part/Relationship info" tab in the top-right corner. You can also click on nodes or edges in the tree map to view detailed information about the parts or relationships. For example, in [Figure 9](#figure-9), the similarity information of the two parts is displayed after clicking on the edge indicated by the red arrow.
 
 <div style="text-align: center;" id="figure-9">
 <img src="https://static.igem.wiki/teams/5115/software/tutorial-9.png"
@@ -266,13 +266,15 @@ style="width:100%">
 
 As synthetic biology continues to advance, the parts being introduced into cells are becoming increasingly complex. However, introducing complex parts into cells can increase the metabolic burden, thereby slowing down the growth rate of the cells. Excessive burden can lead to significant selective pressure, causing engineered bacteria to mutate back to their wild-type forms more quickly, which can result in the engineered cells being out-competed by their less functional or non-functional mutants[^1]. Therefore, it is crucial to investigate why some parts impose a greater burden than others.
 
-When cells express heterologous genes, they must utilize their own resources, such as ribosomes, tRNAs, and ATP. The limited availability of these resources is one of the primary and most predictable sources of cellular burden. A recent study measured the burden of 301 parts from iGEM registry and found that the depletion of gene expression resources was the main cause of the observed burden[^2]. However, there are currently no methods available to predict the burden of a part based on its sequence and structure.
+One of the primary reasons for this metabolic burden is the depletion of cellular resources such as ribosomes, tRNAs, and ATP, which are essential for gene expression. A recent study quantified the burden of 301 BioBrick plasmids and found that the depletion of gene expression resources was the main cause of the observed burden[^2]. Despite this understanding, there are currently no methods available to predict the burden of a genetic part based on its sequence and structure.
 
 To address these issues, we have developed **Burden Predictor**, a tool that can predict the burden caused by gene expression of a certain part. It takes into account the allocation of gene expression resources within the cell, using only the sequence and structure of the part as input.
 
 #### The pRAP system
 
-The pRAP system has been used by our team for a couple of years. It addresses the issue of lower expression of downstream genes in polycistronic vectors by using a ribozyme RNA sequence that conducts self-cleaving[^5]. This converts the polycistronic mRNA transcript into individual monocistrons post-transcriptionally, ensuring that each gene is translated with comparable efficiency. Initially designed for monocistronic parts, our software has been extended to incorporate the prediction of the burden of parts using the pRAP system, enhancing its usability and applicability in a broader range of genetic constructs.
+Our team has been utilizing the pRAP (polycistronic Ribozyme-Activated) system for several years. This system addresses the issue of lower expression of downstream genes in polycistronic vectors by incorporating a ribozyme RNA sequence that conducts self-cleaving[^5]. This process converts the polycistronic mRNA transcript into individual monocistrons post-transcriptionally, ensuring that each gene is translated with comparable efficiency.
+
+Initially designed for monocistronic parts, Burden Predictor has been extended to incorporate the prediction of the burden of parts using the pRAP system, thereby enhancing its usability and applicability in a broader range of genetic constructs.
 
 ### Implementation
 
@@ -310,7 +312,7 @@ Didn't find the parts you are interested in our library? You can easily add them
 
 This flexible approach ensures you can incorporate any part you need for your research.
 
-For detailed instructions on how to use these features, please refer to our [tutorial](https://yanglab.westlake.edu.cn/chat/1839852143880699904#_2-burden-predictor).
+For detailed instructions on how to use these features, please refer to our [tutorial](https://2024.igem.wiki/fudan/software/#_2-burden-predictor).
 
 For basic parts not included in our library, we employ the [Promoter Calculator](https://github.com/barricklab/promoter-calculator) and [RBS Calculator](https://github.com/hsalis/Ribosome-Binding-Site-Calculator-v1.0) to estimate the promoter strength and RBS strength based on their sequences, respectively[^6][^7]. These tools use advanced algorithms to predict the functional properties of sequences, ensuring that users can accurately assess the performance of new parts.
 
