@@ -1,6 +1,9 @@
 ---
 title: Heritage
 headergif: https://static.igem.wiki/teams/5115/header/heritage-header.gif
+author:
+  name: All Members
+  url: /fudan/team/#meet-our-members
 ---
 
 <br><br>
