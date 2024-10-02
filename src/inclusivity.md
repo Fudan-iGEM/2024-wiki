@@ -6,7 +6,7 @@ author:
 - name: Xueting Chen
   url: /fudan/team/#xueting-chen
 - name: Ziming Suo
-  url: /fudan/team/#ziming-su
+  url: /fudan/team/#ziming-suo
 ---
 
 <br><br>

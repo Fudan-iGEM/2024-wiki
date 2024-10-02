@@ -102,7 +102,7 @@ To generate data for our [Software](/fudan/software/), we utilized a structured 
 
 | No.  | Parts    | Part Name     | Resistance |
 | ---- | :------- | ------------- |----------- |
-| #0   | BBa_K4162001 | StayGold                                              | Amp        |
+| #0   | BBa_K4162001 | StayGold, #0 and #1 in two differnt plasmid backbones | Amp        |
 | #1   | BBa_K4162001 | StayGold = (n2)oxStayGold(c4)v2.0                     | Kan        |
 | #2   | BBa_K4162009 | ribozyme + B0_RBS + crtE                              | Kan        |
 | #3   | BBa_K4162010 | ribozyme + T7_RBS + crtE                              | Kan        |
@@ -118,24 +118,24 @@ To generate data for our [Software](/fudan/software/), we utilized a structured 
 | #13  | BBa_K4162103 | ribozyme+RBS+CDS module: crtBE                        | Kan        |
 | #14  | BBa_K4162106 | ribozyme+RBS+CDS module: crtIB                        | Kan        |
 | #15  | BBa_K4162107 | ribozyme+RBS+CDS module: crtEY                        | Kan        |
-| #16  | BBa_K4162108 | ribozyme+RBS+CDS module: crtEBI                       | Kan        |
+| #16  | BBa_K4162108 | ribozyme+RBS+CDS module: crtEBI    | Kan        |
 | #17  | BBa_K4162112 | ribozyme+RBS+CDS module: crtIYB                       | Kan        |
-| #18  | BBa_K4162021 | ribozyme+RBS+CDS module: crtIYEB                      | Kan        |
-| #19  | BBa_K4765022 | mScarlet                                              | Amp        |
+| #18  | BBa_K4162021 | ribozyme+RBS+CDS module: crtIYEB                      | Amp        |
+| #19  | BBa_K4765022 | mScarlet                                              | Kan        |
 | #20  | BBa_K4765111 | Twister P1 + T7_RBS + AnAFP + stem-loop               | Kan        |
 | #21  | BBa_K4765112 | Twister P1 + T7_RBS + SAHS 33020 +  stem-loop         | Kan        |
 | #22  | BBa_K4765113 | Twister P1 + T7_RBS + H. ex mtSSB +  stem-loop        | Amp        |
 | #23  | BBa_K4765117 | ribozyme connected: H. ex mtSSB + SAHS  33020         | Kan        |
 | #24  | BBa_K4765126 | ribozyme connected: H. ex mtSSB + SAHS  33020 + AnAFP | Amp        |
-| #25  | BBa_K4765022 | mScarlet                                              | Kan        |
-| #26 | BBa_K5115037 | TDP+AnAFP | Amp |
+| #25  | BBa_K4765022 | mScarlet; an intended duplicated of #19 | Kan        |
+| #26  | BBa_K5115037 | TDP+AnAFP | Kan |
 
 After [bacteria transformation](/fudan/experiments/#other-experimental-methods), we grow liquid culture and made series dilutions in 96-well plates. Next, we spot the same dilution onto two plates, one only contains antibotics, the other contains antibotics, 0.2% L-arabinose and 1 mM IPTG.
 
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/measurement-sy/spot-assay-figure.png" style="width:80%; height: auto;"><br>
     <div>
-        <span style="color: gray">Figure 2 & 3: Representative images of spots from control and experimental groups.<br>
+        <span style="color: gray">Figure 2 & 3: Images of spots from one experiment, control on the left and induced on the right.<br>
           <small>These figure illustrates the growth patterns of bacteria spots, in both the control(left) and experimental groups(right) following serial dilutions. From left to right, the columns correspond to the initial culture, dilutions of 1:10, 1:100, 1:10<sup>3</sup>, 1:10<sup>4</sup>, and 1:10<sup>5</sup>.</small>
          </span>
       <br><br>
@@ -150,7 +150,7 @@ Subsequently, after measuring the gray value of each group of colonies using [Im
     <img src="https://static.igem.wiki/teams/5115/measurement-sy/bacteria-growth.png" style="width:80%; height: auto;"><br>
     <div>
       <span style="color: gray">Figure 4: Quantification of the spots shown in <a href = '/#fig1'>Figure 2 & 3</a>.<br>
-         <small>This bar graph compares the growth rates of bacterial strains expressing various plasmids. The Relative <em>E. coli</em> growth was calculated by comparing the experimental group to the control group and the average values of StayGold(plasmid number#1) and mScarlet (plasmid number#19) fluorescence proteins as a baseline, represented by different colors in the graph. The bars indicate the percentage decline in growth rate for each strain, with experimental measurements juxtaposed against computational predictions, offering insights into plasmid performance.</small>
+         <small>This bar graph compares the growth rates of bacterial strains expressing various plasmids. The Relative <em>E. coli</em> growth was calculated by comparing the experimental group to the control group and the average values of StayGold(plasmid number #1) and mScarlet (plasmid number #19) fluorescence proteins as a baseline, represented by different colors in the graph. Plasmid number #25 is the same plasmid as #19, but did another bacteria transformation on another day generating a second plate labeled with #25. We also picked two colonies from the same plate (number #16), and labeled the second as #16-2.</small>
          </span>
       <br><br>
     </div>

@@ -39,7 +39,7 @@ Therefore, we are excited to introduce **PartHub 3.0** this year, which addresse
 |2.0|Enhanced Search Functionality|Users can quickly find the parts they are interested in thanks to advanced search and recommendation algorithm.|
 |3.0|Burden Prediction and Similarity Estimation|Apart from the features above, researchers can also understand the burden of different parts and find parts similar to the target part.|
 
-As illustrated in Figure 1, PartHub 3.0 consists of two main components: the [Burden Predictor](https://2024.igem.wiki/fudan/software/#burden-predictor) and the [Similarity Estimator](https://2024.igem.wiki/fudan/software/#similarity-estimator). The Burden Predictor can predict the metabolic burden of a composite part, which can be either a monocistron or a [pRAP system](https://2024.igem.wiki/fudan/software/#introduction)-based polycistron. The Similarity Estimator allows users to search for specific parts within PartHub and identify similar parts.
+As illustrated in Figure 1, PartHub 3.0 consists of two main components: the [Burden Predictor](/fudan/software/#burden-predictor) and the [Similarity Estimator](/fudan/software/#similarity-estimator). The Burden Predictor can predict the metabolic burden of a composite part, which can be either a monocistron or a [pRAP system](/fudan/software/#introduction)-based polycistron. The Similarity Estimator allows users to search for specific parts within PartHub and identify similar parts.
 
 <div style="text-align: center;" id="figure-1">
 <img src="https://static.igem.wiki/teams/5115/software/schematic2.png" style="width:100%">
@@ -202,7 +202,7 @@ style="width:100%">
 </small></p>
 </div>
 </div>
-**Warning: ** Do not include Non-ASCII characters in the sequence file, or it may cause error!
+Warning: Do not include Non-ASCII characters in the sequence file, or it may cause error!
 
 ### 3. Similar Parts Searching
 
@@ -231,7 +231,8 @@ style="width:100%">
 </small></p>
 </div>
 </div>
-When you enter the detailed information page, the software automatically begins the process of finding similar parts to the queried part in PartHub. This process may take about one minute. Once the similarity calculation is complete, the interface will update as shown in [Figure 8](https://yanglab.westlake.edu.cn/chat/1840319670490497024#figure-8).
+
+When you enter the detailed information page, the software automatically begins the process of finding similar parts to the queried part in PartHub. This process may take about one minute. Once the similarity calculation is complete, the interface will update as shown in [Figure 8](#figure-8).
 
 On the left side of the page, a tree map displays the queried part along with parts that have reference, twin, or similarity relationships with it. In the tree map, purple nodes represent basic parts, and blue nodes represent composite parts. You can use the scroll function to adjust the size of the tree map or drag it to change its position for better visibility.
 
@@ -311,7 +312,7 @@ Didn't find the parts you are interested in our library? You can easily add them
 
 This flexible approach ensures you can incorporate any part you need for your research.
 
-For detailed instructions on how to use these features, please refer to our [tutorial](https://2024.igem.wiki/fudan/software/#_2-burden-predictor).
+For detailed instructions on how to use these features, please refer to our [tutorial](/fudan/software/#_2-burden-predictor).
 
 For basic parts not included in our library, we employ the [Promoter Calculator](https://github.com/barricklab/promoter-calculator) and [RBS Calculator](https://github.com/hsalis/Ribosome-Binding-Site-Calculator-v1.0) to estimate the promoter strength and RBS strength based on their sequences, respectively[^6][^7]. These tools use advanced algorithms to predict the functional properties of sequences, ensuring that users can accurately assess the performance of new parts.
 
@@ -469,8 +470,8 @@ The parameters of our model are listed in [Table 3](#table3).
 | $K_{\gamma}$ | 7 |[3]|
 | $K_t, K_m$ | 1000 |[3]|
 | $d_m$ | 0.1 |[3]|
-| $\beta_{prom}$ | 69.49 | [fitting](https://2024.igem.wiki/fudan/software/#parameter-fitting) |
-| $\beta_{RBS}$ | 50.31 | [fitting](https://2024.igem.wiki/fudan/software/#parameter-fitting) |
+| $\beta_{prom}$ | 69.49 | [fitting](/fudan/software/#parameter-fitting) |
+| $\beta_{RBS}$ | 50.31 | [fitting](/fudan/software/#parameter-fitting) |
 | $\beta_{n}$ | 200 | Set manually |
 
 ### Results
@@ -549,7 +550,7 @@ style='width:80%'>
 </div>
 </div>
 
-We also investigated the burden of a series of parts in our [measurement](https://2024.igem.wiki/fudan/measurement). All of these parts are expressed using the pRAP system.
+We also investigated the burden of a series of parts in our [Measurement](/fudan/measurement/). All of these parts are expressed using the pRAP system.
 
 <div style="text-align: center;" id="figure-15">
 <img src="https://static.igem.wiki/teams/5115/software/burden-against-ours.png"
