@@ -1383,10 +1383,10 @@ export default {
         .fromTo('.down-arrow',{ y: -350 },  { y: -953, duration: 2 }, 'afterframe');
     }
   },
-/*   beforeDestroy() {
+  beforeDestroy() {
     // Remove event listener
     window.removeEventListener('resize', this.updatePreserveAspectRatio);
-  }, */
+  },
 };
 </script>
 
