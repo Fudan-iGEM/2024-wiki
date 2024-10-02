@@ -93,11 +93,7 @@ Heavy metal ions are cytotoxic, so while we aim for *E. coli* to absorb nickel i
         <br><br>
     </div>
 </div>
-
-
 To evaluate the growth of our modified *E. coli* in a nickel-rich environment, we generated growth curves by measuring OD<sub>600</sub>. As shown in [Figure 4](#fig4), *E. coli* expressing Hpn consistently outperformed the controls in a medium with a nickel concentration of 50 mg/L. This demonstrates that Hpn effectively protects *E. coli* in high nickel environments. We also repeated the experiments at 20 mg/L and 100 mg/L nickel concentrations and obtained similar results. 
-
-
 
 Our primary goal in expressing Hpn is to alleviate the survival pressure on *E. coli* in high nickel environments, allowing it to absorb nickel more efficiently. To assess this, we measured nickel uptake in *E. coli* with and without Hpn, enabling us to compare the differences in nickel absorption.
 
@@ -110,11 +106,7 @@ Our primary goal in expressing Hpn is to alleviate the survival pressure on *E. 
         <br><br>
     </div>
 </div>
-
-
 As shown in [Figure 5](#fig5), the nickel absorption ability of the Hpn + NixA-F1v bacteria was significantly higher than that of NixA-F1v alone, achieving 43% nickel uptake. This indicates that Hpn effectively relieves the survival pressure on *E. coli* and enhances its nickel uptake capacity.
-
-
 
 ### Anti-phage by YejM
 
@@ -143,6 +135,23 @@ The F module includes [BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063) (
 
 The U module functions similarly to the F module, with the main difference being that, in the U module, the EP is fused with hoxU instead of hoxF. The hoxF subunit is essential for electron transport, while hoxU subunit conducts electrons between hoxH and hoxF. This design allows us to compare the effectiveness of different EP subunit fusions.
 
+### Carboxysome linkage: EP sequence
+
+To create an efficient reduction reaction vessel, we linked hydrogenase with the carboxysome-targeting sequence to build a more focused and effective reaction space. To test the feasibility of this approach, we first fused Staygold with the EP ([BBa_K5115002](https://parts.igem.org/Part:BBa_K5115002)) sequence to validate the concept.
+
+<div style="text-align: center;" id="fig7">
+    <img src="https://static.igem.wiki/teams/5115/registry/staygold-fused-with-ep-without-or-with-cso-s3.png" style='width:100%'>
+    <div>
+        <span style="color: gray">Figure 7: Fluorescence images of <em>E. coli</em> expressing stayGold fused with EP, without or with cso-S3</em><br>
+        <small>Images were captured using spinning disk confocal with a 150x objective lens, as described on our Experiments page. Bacteria in A-C only express stayGold fused with EP <a href="https://parts.igem.org/Part:BBa_K5115057">BBa_K5115057</a>, while bacteria in D simultaneously express BBa_K5115057 and <a href="https://parts.igem.org/Part:BBa_K5115065">BBa_K5115065</a>. 1 mM IPTG was added to A,B only. Images without scale bar are 5x5 µm square, unless specifically indicated below.<br>(A) The entire image field is shown (41.27x41.27 µm square), with brightfield image on the left, and green fluorescence image on the right.<br> (B) Four regions in (A) are enlarged, showing uniform distribution of green fluorescence.<br>(C) Although no IPTG was added, leaky expression from the promoter is sufficient to fill bacteria with green.<br>(D) With all carboxysome components expressed, stayGold fused with EP concentrated to the carboxysome. Leaky expression from the promoter is sufficient to drive 1 or 2 carboxysome formed within each bacteria.
+</small>
+</span>
+        <br><br>
+    </div>
+</div>
+
+In [Figure 7](#fig7), in (A)-(C), we can observe that due to the lack of carboxysome expression, Staygold-EP is evenly distributed throughout the cell. However, in (D), Staygold-EP is directed into the carboxysome. This confirms the feasibility of our approach to assemble hydrogenase into the carboxysome.
+
 ### Nickel Reduction by F Module
 
 The F module ([BBa K5115067](https://parts.igem.org/Part:BBa_K5115067)), composed of hydrogenase and carboxysome, reduces nickel ions into nickel microparticles using hydrogen as an electron donor. We cultured the F module *E. coli* in LB medium containing 100 mg/L nickel ions, inside a seal bottle, after bubbling with 10x volumes of 5.6% hydrogen gas.
@@ -152,14 +161,14 @@ To visualize nickel microparticles in F module expressing bacteria, osmium tetro
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/txj/transmission-electron-microscopy.png" style='width:100%'>
     <div>
-    	<span style="color: gray">Figure 7. TEM images of negative stained *E. coli* expressing the F module<br>
+    	<span style="color: gray">Figure 8. TEM images of negative stained *E. coli* expressing the F module<br>
         <small>Osmium tetroxide and uranyl acetate were used for the staining A-E. Scale bar shown on the image. (A) Overview of <em>E. coli</em> cells. (B) Sections of bacteria, filled with carboxysome-sized regions (CSR) surrounded by electron dense dots. In one cell, all visual CSR are circled by yellow dash lines. (C) The size of CSR are various, with two examples circled. (D,E) For cells with less electron dense dots, CSR are clear, with the cell in C fully packed with CSR and the cell in D sparsely packed. (F) No uranyl acetate staining. The image confirms that the electron dense dots throughout A-E are not salt crystals but actual metallic particles, which we believe are Ni particles. Three 80-nm square regions are enlarged, showing polyhedral outline of CSR, with Ni particles surrounded.</small>
         </span>
         <br><br>
     </div>
 </div>
 
-As shown in [Figure 7](#fig7), the F module converts nickel ion into particles inside bacteria.
+As shown in [Figure 8](#fig8), the F module converts nickel ion into particles inside bacteria.
 
 
 ### Nickel Uptake: F module *vs.* U module
@@ -169,13 +178,13 @@ If the intracellular nickel ion is successfully reduced, would bacteria absorb m
 <div style="text-align: center;" id="fig8">
     <img src="https://static.igem.wiki/teams/5115/ni-results/u-f-modules.png" style='width:70%'>
     <div>
-        <span style="color: gray">Figure 8: Comparison of Ni²⁺ Uptake Efficiency by Different <em>E. coli</em><br>
-            <small>The graph shows the percentage of Ni²⁺ absorbed by <em>E. coli</em> expressing indicated modules (<em>E. coli</em> strain: BL21 DE3). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 100 mg/L. The single bacteria colony was picked and grown overnight to reach optical density (OD₆₀₀) > 1. Prepare a sealed 25-mL LB culture in a 250-mL bottle, with: 100 µL overnight bacteria liquid culture, 25 µg/mL Kan, 1 mM methyl viologen dichloride, 100 mg/L NiCl<sub>2</sub>, bubbled with ~250 mL 5.6% hydrogen gas (slowly, with hand-shaking, about 5 minutes). Culture for 30 hours, at 37°C with a rotating speed at 220 rpm. Four biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. Plain BL21 DE3 was used as control. None of the four bacteria with U module was able to grow during overnight culture if induced with 1 mM IPTG, only 1 F module grow, which was further examined by [TEM](#fig7). Additional 1 mM IPTG was added into the 25-mL culture of "F induced". ANOVA test shows that all constructs increase Ni²⁺ uptake significantly compared to the control (U module, p = 0.0045; F module, p &lt; 0.0001). P value was calculated using Dunnett’s post-test.</small></span>
+        <span style="color: gray">Figure 9: Comparison of Ni²⁺ Uptake Efficiency by Different <em>E. coli</em><br>
+            <small>The graph shows the percentage of Ni²⁺ absorbed by <em>E. coli</em> expressing indicated modules (<em>E. coli</em> strain: BL21 DE3). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 100 mg/L. The single bacteria colony was picked and grown overnight to reach optical density (OD₆₀₀) > 1. Prepare a sealed 25-mL LB culture in a 250-mL bottle, with: 100 µL overnight bacteria liquid culture, 25 µg/mL Kan, 1 mM methyl viologen dichloride, 100 mg/L NiCl<sub>2</sub>, bubbled with ~250 mL 5.6% hydrogen gas (slowly, with hand-shaking, about 5 minutes). Culture for 30 hours, at 37°C with a rotating speed at 220 rpm. Four biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. Plain BL21 DE3 was used as control. None of the four bacteria with U module was able to grow during overnight culture if induced with 1 mM IPTG, only 1 F module grow, which was further examined by <a href="#fig8">TEM</a>. Additional 1 mM IPTG was added into the 25-mL culture of "F induced". ANOVA test shows that all constructs increase Ni²⁺ uptake significantly compared to the control (U module, p = 0.0045; F module, p &lt; 0.0001). P value was calculated using Dunnett’s post-test.</small></span>
         <br><br>
     </div>
 </div>
 
-According to [Figure 7](#fig7), we conclude that the nickel absorption capacity of the F module is superior to that of the U module, especially after induction. Despite not having an engineered [nickel uptaker](#fig1) (nik or NixA), the F module still achieves about 10% nickel absorption. This indicates that a significant amount of Ni<sup>2+</sup> in the cells is reduced by hydrogenase, resulting in a relatively low intracellular Ni<sup>2+</sup> concentration, which activates *E. coli* to actively absorb nickel from the environment.
+According to [Figure 9](#fig9), we conclude that the nickel absorption capacity of the F module is superior to that of the U module, especially after induction. Despite not having an engineered [nickel uptaker](#fig1) (nik or NixA), the F module still achieves about 10% nickel absorption. This indicates that a significant amount of Ni<sup>2+</sup> in the cells is reduced by hydrogenase, resulting in a relatively low intracellular Ni<sup>2+</sup> concentration, which activates *E. coli* to actively absorb nickel from the environment.
 
 
 ## Testing hydrogen supply module
@@ -186,16 +195,18 @@ Given that the production of hydrogen gas by cyanobacteria is well-established i
 
 In February 2024, under the guidance of the [Fudan 2023](https://2023.igem.wiki/fudan/results/) team members, we repeated last year's *E. coli* / *S. elongatus* [Aggregation Assay](https://2023.igem.wiki/fudan/experiments/#cyanobacteria-e-coli-aggregation-assay) to ensure that *E. coli* could adhere to *S. elongatus*. For more details, please see [BBa_K4765110](https://parts.igem.org/Part:BBa_K4765110).
 
-To examine the adhesion between *E. coli* and cyanobacteria, the optical density (OD~600~ for bacteria and OD~685~ for cyanobacteria) of the supernatant was measured at 0, 2, 6, and 24 hours after mixing the two organisms. A decrease in OD over time indicates that cells have aggregated and settled out of the suspension, reflecting the adhesion efficiency between the two species; only the 6-hour data is shown in [Figure 9](#fig9).
+To examine the adhesion between *E. coli* and cyanobacteria, the optical density (OD~600~ for *E. coli* and OD~685~ for *S. elongatus*) of the supernatant was measured at 0, 2, 6, and 24 hours after mixing the two organisms. A decrease in OD over time indicates that cells have aggregated and settled out of the suspension, reflecting the adhesion efficiency between the two species; only the 6-hour data is shown in [Figure 10](#fig10).
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/txj/s.png" style='width:360px'>
     <div>
-        <span style="color: gray">Figure 9: The percentage of bacteria remaining in the supernatant after 6 hours between aTc-induced (+) and uninduced (-) samples<br>
-            <small>After aTc induction, <em>E. coli</em> bacteria express intimin-LCA, which specifically binds with <em>Synechococcus elongatus</em>. The aTc-induced sample show a significant reduction in the bacteria remaining in the supernatant compared to the uninduced sample, indicating enhanced aggregation. (** indicates statistical significance less than 0.01).</small></span>
+        <span style="color: gray">Figure 10: The percentage of bacteria remaining in the supernatant after 6 hours between aTc-induced (+) and uninduced (-) samples<br>
+            <small>After aTc induction, <em>E. coli</em> bacteria express intimin-LCA, which specifically binds with <em>Synechococcus elongatus</em>. We used OD<sub>685</sub> to plot the ratio of the remaining <em>S. elongatus</em> in the supernatant to the initial concentration after 6 hours of cultivation. The aTc-induced sample show a significant reduction in the bacteria remaining in the supernatant compared to the uninduced sample, indicating enhanced aggregation between <em>E. coli</em> and <em>S. elongatus</em>. "**" indicates statistical significance less than 0.01. </small></span>
         <br><br>
     </div>
 </div>
+
+[Figure 10](fig10) shows a significant reduction in the remaining *S. elongatus* in the supernatant of samples where *E. coli* was induced to express intimin-LCA, demonstrating the adsorption and co-precipitation of *E. coli* and cyanobacteria. This allows *E. coli* to utilize the hydrogen produced by cyanobacteria in close proximity.
 
 <br>
 
