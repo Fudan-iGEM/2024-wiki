@@ -9,7 +9,7 @@ author:
   url: /fudan/team/#kevin-qi
 ---
 
-<br><br>Throughout our project, we encountered problems in [Parts](/fudan/parts/), [Measurement](/fudan/measurement/), [Software](/fudan/software/), [Hardware](/fudan/hardware/), [Human Practices](/fudan/human-practices/), [Inclusivity,](/fudan/inclusivity/) and [Entrepreneurship](/fudan/entrepreneurship/), we solved them following iterations of the DBTL cycle (Design, Build, Test, Learn). Below are the steps we went through to develop our nickel module - part number [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
+<br><br>Throughout our project, we encountered problems in [Parts](/fudan/parts/), [Measurement](/fudan/measurement/), [Software](/fudan/software/), [Hardware](/fudan/hardware/), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/) and [Entrepreneurship](/fudan/entrepreneurship/), we solved them following iterations of the DBTL cycle (Design, Build, Test, Learn). Below are the steps we went through to develop our nickel module - part number [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
 
 ## Cycle 1
 

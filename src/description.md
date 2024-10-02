@@ -159,7 +159,7 @@ We overexpress YejM to upregulate the production of LPS, blocking recognition si
 
 <br>
 
-#### c) Anti-Free and Anti-UV
+#### c) Anti-Freeze and Anti-UV
 
 The [Anti-Freeze](https://2023.igem.wiki/fudan/results/#anti-freeze-module) and [Anti-UV](https://2023.igem.wiki/fudan/results/#_1-survival-system) modules developed in [2023](https://2023.igem.wiki/fudan/results/) are both useful to increase bacteria's ability to survive in the wastewater environment, which could be employed if needed.
 

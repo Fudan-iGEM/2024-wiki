@@ -37,7 +37,7 @@
 | |  | [BBa_K5115034](https://parts.igem.org/Part:BBa_K5115034) | csoS operon | DNA | Liyue Chen | Length:  6695 bp | RFC10 | BBa_K5115026 BBa_K5115044 BBa_K5115027 BBa_K5115055 BBa_K5115028 BBa_K5115045 BBa_K5115029 BBa_K5115046 BBa_K5115030 BBa_K5115047 BBa_K5115031 BBa_K5115048 BBa_K5115032 BBa_K5115049 |
 | |  | [BBa_K5115035](https://parts.igem.org/Part:BBa_K5115035) | ribozyme+RBS+MTA+stem-loop | Composite | Liyue Chen | Length:  331 bp | RFC10 | BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 |
 | |  | [BBa_K5115036](https://parts.igem.org/Part:BBa_K5115036) | ribozyme+RBS+Hpn+stem-loop | Composite | Liyue Chen | Length:  285 bp | RFC10 | BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 |
-| X |  | [BBa_K5115037](https://parts.igem.org/Part:BBa_K5115037) | delete037 | DNA | Liyue Chen | Length:  346 bp | RFC10 | BBa_K4765020 BBa_K4162006 BBa_K5115028 BBa_K4765021 |
+| |  | [BBa_K5115037](https://parts.igem.org/Part:BBa_K5115037) | TDP+AnAFP | DNA | Liyue Chen | Length:  1208 bp | RFC10 | BBa_K4765112 BBa_K4765020 BBa_K4162006 BBa_K2306003 BBa_K4765021 BBa_K4765015 |
 | |  | [BBa_K5115038](https://parts.igem.org/Part:BBa_K5115038) | ribozyme connected: MTA, Hpn, RcnR_C35L | Composite | Liyue Chen | Length:  1008 bp | RFC10 | BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 |
 | |  | [BBa_K5115039](https://parts.igem.org/Part:BBa_K5115039) | ribozyme connected: Hpn, MTA, RcnR_C35L | Composite | Liyue Chen | Length:  1008 bp | RFC10 | BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 |
 | |  | [BBa_K5115040](https://parts.igem.org/Part:BBa_K5115040) | ribozyme connected: RcnR_C35L, MTA, Hpn | Composite | Liyue Chen | Length:  1008 bp | RFC10 | BBa_K5115033 BBa_K4765020 BBa_K4162006 BBa_K5115000 BBa_K4765021 BBa_K5115035 BBa_K4765020 BBa_K4162006 BBa_K5115050 BBa_K4765021 BBa_K5115036 BBa_K4765020 BBa_K4162006 BBa_K1151001 BBa_K4765021 |
@@ -89,52 +89,4 @@
 | | U | [BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086) | NixA-F1v | Composite | Yi Shi | Length:  1288 bp | RFC10 | BBa_K5115071 BBa_J18920 BBa_K5115085 BBa_K5115088 |
 | |  | [BBa_K5115087](https://parts.igem.org/Part:BBa_K5115087) | F1v-NixA | Composite | Yi Shi | Length:  1288 bp | RFC10 | BBa_K5115085 BBa_J18920 BBa_K5115071 BBa_K5115088 |
 | |  | [BBa_K5115088](https://parts.igem.org/Part:BBa_K5115088) | stop codon | DNA | Yi Shi | Length:  3 bp | RFC10 | basic |
-| X |  | [BBa_K5115089](https://parts.igem.org/Part:BBa_K5115089) | CmR | Coding | Yi Shi | Length:  660 bp | RFC10 | basic |
-
-
-| | | Old Part | Description | Type | Not 2024 | Length | Compatible | |
-|----|----|----|----|----|----|----|----|----|
-| |  | [BBa_B0030](https://parts.igem.org/Part:BBa_B0030) | RBS.1 (strong) -- modified from R. Weiss | RBS | Vinay S Mahajan, Voichita D. Marinescu, Brian Chow, Alexander D Wissner-Gross and Peter Carr IAP, 2003. | Length:  15 bp | RFC10 | basic |
-| |  | [BBa_I742151](https://parts.igem.org/Part:BBa_I742151) | crtE (geranylgeranyl pyrophosphate synthase) coding sequence. | Coding | Chris French | Length:  912 bp | RFC10 | basic |
-| |  | [BBa_J18920](https://parts.igem.org/Part:BBa_J18920) | 2aa GS linker | Protein_Domain | Raik Gruenberg | Length:  6 bp | RFC10 | basic |
-| |  | [BBa_J61100](https://parts.igem.org/Part:BBa_J61100) | Ribosome Binding Site Family Member | RBS | John Anderson | Length:  12 bp | RFC10 | basic |
-| |  | [BBa_K1151001](https://parts.igem.org/Part:BBa_K1151001) | Histidine-rich metal-binding protein | Coding | Davide Magrì | Length:  182 bp | RFC10 | basic |
-| | U | [BBa_K118002](https://parts.igem.org/Part:BBa_K118002) | crtB coding sequence encoding phytoene synthase | Coding | Andrew Hall | Length:  933 bp | RFC10 | basic |
-| | U | [BBa_K118003](https://parts.igem.org/Part:BBa_K118003) | crtI coding sequence encoding phytoene dehydrogenase | Coding | Andrew Hall | Length:  1482 bp | RFC10 | basic |
-| | U | [BBa_K118008](https://parts.igem.org/Part:BBa_K118008) | crtY coding sequence encoding lycopene B-cyclase | Coding | Andrew Hall | Length:  1152 bp | RFC10 | basic |
-| |  | [BBa_K2150031](https://parts.igem.org/Part:BBa_K2150031) | T7 promoter without RBS | Regulatory | Jianyi Huang | Length:  20 bp | RFC10 | basic |
-| |  | [BBa_K2306003](https://parts.igem.org/Part:BBa_K2306003) | Secretory-abundant heat soluble protein 33020 (SAHS 33020) | Coding | Guillermo Serena Ruiz | Length:  509 bp | RFC10 | basic |
-| |  | [BBa_K3457006](https://parts.igem.org/Part:BBa_K3457006) | lac operator | Regulatory | Yixian Yang | Length:  25 bp | RFC10 | basic |
-| |  | [BBa_K3648010](https://parts.igem.org/Part:BBa_K3648010) | T7 terminator | Terminator | Yuan Zhi, Li | Length:  48 bp | RFC10 | basic |
-| |  | [BBa_K4162001](https://parts.igem.org/Part:BBa_K4162001) | StayGold = (n2)oxStayGold(c4)v2.0 | Coding | Weiwen Chen | Length:  711 bp | RFC10 | basic |
-| |  | [BBa_K4162003](https://parts.igem.org/Part:BBa_K4162003) | ybbO coding for retinol dehydrogenase, codon optimized for E. coli | Coding | Yujian Song | Length:  810 bp | RFC10 | basic |
-| |  | [BBa_K4162004](https://parts.igem.org/Part:BBa_K4162004) | Gene coding for BCMO from uncultured marine bacteria | Coding | Weiwen Chen | Length:  828 bp | RFC10 | basic |
-| | U | [BBa_K4162005](https://parts.igem.org/Part:BBa_K4162005) | Hammerhead ribozyme | RNA | Weiwen Chen | Length:  57 bp | RFC10 | basic |
-| |  | [BBa_K4162006](https://parts.igem.org/Part:BBa_K4162006) | T7_RBS | RBS | Weiwen Chen | Length:  17 bp | RFC10 | basic |
-| |  | [BBa_K4162009](https://parts.igem.org/Part:BBa_K4162009) | ribozyme + B0_RBS + crtE | DNA | Weiwen Chen | Length:  991 bp | RFC10 | BBa_K4162005 BBa_B0030 BBa_I742151 |
-| |  | [BBa_K4162010](https://parts.igem.org/Part:BBa_K4162010) | ribozyme + T7_RBS + crtE | DNA | Weiwen Chen | Length:  993 bp | RFC10 | BBa_K4162005 BBa_K4162006 BBa_I742151 |
-| |  | [BBa_K4162011](https://parts.igem.org/Part:BBa_K4162011) | ribozyme + J6_RBS + crtE | DNA | Weiwen Chen | Length:  981 bp | RFC10 | BBa_K4162005 BBa_J61100 BBa_I742151 |
-| |  | [BBa_K4162012](https://parts.igem.org/Part:BBa_K4162012) | ribozyme + B0_RBS + crtB | DNA | Weiwen Chen | Length:  1012 bp | RFC10 | BBa_K4162005 BBa_B0030 BBa_K118002 |
-| |  | [BBa_K4162013](https://parts.igem.org/Part:BBa_K4162013) | ribozyme + T7_RBS + crtB | DNA | Weiwen Chen | Length:  1014 bp | RFC10 | BBa_K4162005 BBa_K4162006 BBa_K118002 |
-| |  | [BBa_K4162014](https://parts.igem.org/Part:BBa_K4162014) | ribozyme + J6_RBS + crtB | DNA | Weiwen Chen | Length:  1002 bp | RFC10 | BBa_K4162005 BBa_J61100 BBa_K118002 |
-| |  | [BBa_K4162016](https://parts.igem.org/Part:BBa_K4162016) | ribozyme + T7_RBS + crtI | DNA | Weiwen Chen | Length:  1563 bp | RFC10 | BBa_K4162005 BBa_K4162006 BBa_K118003 |
-| |  | [BBa_K4162019](https://parts.igem.org/Part:BBa_K4162019) | ribozyme + T7_RBS + crtY | DNA | Weiwen Chen | Length:  1233 bp | RFC10 | BBa_K4162005 BBa_K4162006 BBa_K118008 |
-| |  | [BBa_K4162021](https://parts.igem.org/Part:BBa_K4162021) | ribozyme+RBS+CDS module: crtIYEB | DNA | Weiwen Chen | Length:  4896 bp | RFC10 | BBa_K2150031 BBa_K3457006 BBa_K4162016 BBa_K4162005 BBa_K4162006 BBa_K118003 BBa_K4162019 BBa_K4162005 BBa_K4162006 BBa_K118008 BBa_K4162010 BBa_K4162005 BBa_K4162006 BBa_I742151 BBa_K4162013 BBa_K4162005 BBa_K4162006 BBa_K118002 BBa_K3648010 |
-| |  | [BBa_K4162022](https://parts.igem.org/Part:BBa_K4162022) | ribozyme + T7_RBS + BCMO | DNA | Weiwen Chen | Length:  909 bp | RFC10 | BBa_K4162005 BBa_K4162006 BBa_K4162004 |
-| |  | [BBa_K4162023](https://parts.igem.org/Part:BBa_K4162023) | ribozyme + T7_RBS + ybbO | DNA | Weiwen Chen | Length:  891 bp | RFC10 | BBa_K4162005 BBa_K4162006 BBa_K4162003 |
-| |  | [BBa_K4162101](https://parts.igem.org/Part:BBa_K4162101) | ribozyme+RBS+CDS module: crtIY | Coding | Weiwen Chen | Length:  2796 bp | RFC10 | BBa_K4162016 BBa_K4162005 BBa_K4162006 BBa_K118003 BBa_K4162019 BBa_K4162005 BBa_K4162006 BBa_K118008 |
-| |  | [BBa_K4162103](https://parts.igem.org/Part:BBa_K4162103) | ribozyme+RBS+CDS module: crtBE | Coding | Weiwen Chen | Length:  2007 bp | RFC10 | BBa_K4162013 BBa_K4162005 BBa_K4162006 BBa_K118002 BBa_K4162010 BBa_K4162005 BBa_K4162006 BBa_I742151 |
-| |  | [BBa_K4162106](https://parts.igem.org/Part:BBa_K4162106) | ribozyme+RBS+CDS module: crtIB | Coding | Weiwen Chen | Length:  2577 bp | RFC10 | BBa_K4162016 BBa_K4162005 BBa_K4162006 BBa_K118003 BBa_K4162013 BBa_K4162005 BBa_K4162006 BBa_K118002 |
-| |  | [BBa_K4162107](https://parts.igem.org/Part:BBa_K4162107) | ribozyme+RBS+CDS module: crtEY | Coding | Weiwen Chen | Length:  2226 bp | RFC10 | BBa_K4162010 BBa_K4162005 BBa_K4162006 BBa_I742151 BBa_K4162019 BBa_K4162005 BBa_K4162006 BBa_K118008 |
-| |  | [BBa_K4162108](https://parts.igem.org/Part:BBa_K4162108) | ribozyme+RBS+CDS module: crtEBI | Coding | Weiwen Chen | Length:  3570 bp | RFC10 | BBa_K4162010 BBa_K4162005 BBa_K4162006 BBa_I742151 BBa_K4162013 BBa_K4162005 BBa_K4162006 BBa_K118002 BBa_K4162016 BBa_K4162005 BBa_K4162006 BBa_K118003 |
-| |  | [BBa_K4162112](https://parts.igem.org/Part:BBa_K4162112) | ribozyme+RBS+CDS module: crtIYB | Coding | Weiwen Chen | Length:  3810 bp | RFC10 | BBa_K4162016 BBa_K4162005 BBa_K4162006 BBa_K118003 BBa_K4162019 BBa_K4162005 BBa_K4162006 BBa_K118008 BBa_K4162013 BBa_K4162005 BBa_K4162006 BBa_K118002 |
-| |  | [BBa_K4765015](https://parts.igem.org/Part:BBa_K4765015) | AnAFP | Coding | Siliang Zhan | Length:  612 bp | RFC10 | basic |
-| |  | [BBa_K4765016](https://parts.igem.org/Part:BBa_K4765016) | Hypsibius exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) | Coding | Siliang Zhan | Length:  621 bp | RFC10 | basic |
-| |  | [BBa_K4765020](https://parts.igem.org/Part:BBa_K4765020) | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 | RNA | Siliang Zhan | Length:  44 bp | RFC10 | basic |
-| |  | [BBa_K4765021](https://parts.igem.org/Part:BBa_K4765021) | stem-loop 1, from 10.1021/acssynbio.2c00416 | RNA | Siliang Zhan | Length:  20 bp | RFC10 | basic |
-| |  | [BBa_K4765022](https://parts.igem.org/Part:BBa_K4765022) | mScarlet | Coding | Siliang Zhan | Length:  699 bp | RFC10 | basic |
-| |  | [BBa_K4765111](https://parts.igem.org/Part:BBa_K4765111) | Twister P1  + T7_RBS + AnAFP + stem-loop | DNA | Siliang Zhan | Length:  693 bp | RFC10 | BBa_K4765020 BBa_K4162006 BBa_K4765015 BBa_K4765021 |
-| |  | [BBa_K4765112](https://parts.igem.org/Part:BBa_K4765112) | Twister P1 + T7_RBS + SAHS 33020 + stem-loop | DNA | Siliang Zhan | Length:  590 bp | RFC10 | BBa_K4765020 BBa_K4162006 BBa_K2306003 BBa_K4765021 |
-| |  | [BBa_K4765113](https://parts.igem.org/Part:BBa_K4765113) | Twister P1 + T7_RBS + H. ex mtSSB + stem-loop | DNA | Siliang Zhan | Length:  702 bp | RFC10 | BBa_K4765020 BBa_K4162006 BBa_K4765016 BBa_K4765021 |
-| |  | [BBa_K4765117](https://parts.igem.org/Part:BBa_K4765117) | ribozyme connected: H. ex mtSSB + SAHS 33020 | DNA | Siliang Zhan | Length:  1292 bp | RFC10 | BBa_K4765113 BBa_K4765020 BBa_K4162006 BBa_K4765016 BBa_K4765021 BBa_K4765112 BBa_K4765020 BBa_K4162006 BBa_K2306003 BBa_K4765021 |
-| |  | [BBa_K4765126](https://parts.igem.org/Part:BBa_K4765126) | ribozyme connected: H. ex mtSSB + SAHS 33020 + AnAFP | DNA | Siliang Zhan | Length:  1985 bp | RFC10 | BBa_K4765113 BBa_K4765020 BBa_K4162006 BBa_K4765016 BBa_K4765021 BBa_K4765112 BBa_K4765020 BBa_K4162006 BBa_K2306003 BBa_K4765021 BBa_K4765111 BBa_K4765020 BBa_K4162006 BBa_K4765015 BBa_K4765021 |
+| X |  | [BBa_K5115089](https://parts.igem.org/Part:BBa_K5115089) | deleted089 | Coding | Yi Shi | Length:  660 bp | RFC10 | basic |
