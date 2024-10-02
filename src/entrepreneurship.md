@@ -72,6 +72,7 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
         <br><br>
     </div>
 </div>
+
 ### Competitive Analysis
 
 We conducted competitive analysis with the most popular ways[^3].
