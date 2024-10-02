@@ -95,13 +95,32 @@ NixA is a Ni²⁺-specific transporter protein found in *Helicobacter pylori*. H
 
 
 
-
+<div style="display: flex; flex-direction: column; align-items: center;">  
+    <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px; margin: 0 auto;">  
+        <div style="flex: 0 0 calc(50% - 10px); text-align: center; margin: 5px;">  
+            <img src="https://static.igem.wiki/teams/5115/model/model-2.svg" style="width: 100%; height: auto;">  
+            <div style="margin-top: 5px;">   
+            </div>  
+        </div>  
+        <div style="flex: 0 0 calc(50% - 10px); text-align: center; margin: 5px;">  
+            <img src="https://static.igem.wiki/teams/5115/model/model-3.svg" style="width: 100%; height: auto;">  
+            <div style="margin-top: 5px;">  
+            </div>  
+        </div>  
+    </div>  
+    <div style="width: 100%; text-align: center; margin-top: 20px;">  
+        <!-- 图片的共同图注 -->  
+        <span style="color: gray; font-size: 14px;">These are two images with a shared caption</span>  
+    </div>  
+</div>
 
 <div style="width: 100%; text-align: center; margin-top: 20px;">  
         <!-- 居中注释：七张自然风光组成的字母竖版照片 -->  
         <span style="color: gray;">MINERAL (Generated from CAMP LANDSAT)</span>  
     </div>  
+In our project, we introduced the NixA protein into *Escherichia coli* for nickel enrichment. However, NixA is originally a nickel transporter protein from *Helicobacter pylori*, and due to the lack of high-resolution structural data for NixA, we first used [NetSurfP-2.0](https://services.healthtech.dtu.dk/services/NetSurfP-2.0/) and NetSurfP-3.0 to predict its secondary structure. As shown in the figure, we predicted the presence of eight α-helices in the NixA structure. 
 
+Subsequently, we employed [AlphaFold3](https://alphafoldserver.com/) to predict its three-dimensional structure and used [CHARMM-GUI](https://charmm-gui.org/) to model its transmembrane conformation. By comparing the lipid compositions of *H. pylori* and *E. coli* cell membranes, we observed differences in membrane thickness based on energy balance. Although the NixA protein was able to maintain solvent exclusion in both membrane systems, the tilt angle of the protein in the *E. coli* membrane was greater than that in *H. pylori*. Therefore, we hypothesize that this difference may partly explain the reduced nickel transport efficiency observed in *E. coli*.
 
 
 

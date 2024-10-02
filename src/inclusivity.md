@@ -111,17 +111,15 @@ Finally, our education program got its name “STEAMed Education — for Childre
       <br><br>
     </div>
 </div>
-
-
 ## The Preliminary Attempt of STEAMed
 
-After having a rough idea, we plan to carry out small-scale pilot teaching to achieve a **"breakthrough from zero to one."**
+We have decided to adopt STEAMed as our education conception and plan to adapt last year's picture book to teach genetics. Now, we plan to carry out **small-scale pilot** teaching to achieve **"a breakthrough from zero to one."**T hen we would receive feedback and further advance our project.
 
 ### Pilot Objects
 
 Facing the challenge of large individual differences within the ASD group, we decided to adopt one-on-one and stratified teaching methods. As the spectrum suggests, ASD includes various degrees of severity, with differences in intelligence, learning ability, and language expression ability. The needs of different subgroups also vary. For those with relatively low functioning, it is necessary to further simplify the course content and reduce the difficulty of the course, paying attention to strengthening and repetition in teaching. For those with higher functioning, the connection between course content and vocational skills can be more emphasized.
 
-Subsequently, we began to select appropriate pilot objects. Compared with rehabilitation institutions, special schools have higher requirements for the formality and systematicness of courses and are not suitable as early pilot objects. After adequate communication with various rehabilitation institutions, we finally chose **INDIGO and Light of Rainbow**. They can arrange a fixed class time for us every weekend. INDIGO is the **first in Shanghai** non-profit organization to provide body, intelligence, and vocational development training projects for **older** individuals with mental disabilities. **INDIGO Angels** have relatively strong comprehension, social, and expressive abilities and have shown a greater interest in science. At the same time, INDIGO Angels are mostly in the vocational stage, such as baristas, chefs, etc. Light of Rainbow mainly provides physical and mental intelligence rehabilitation training for ASD **children**, representing another type of ASD group.
+Subsequently, we began to select appropriate pilot objects. Compared with rehabilitation institutions, special schools have higher requirements for the formality and systematicness of courses and are not suitable as early pilot objects. After adequate communication with various rehabilitation institutions, we finally chose **INDIGO** and **Light of Rainbow**, both of which could arrange a fixed class time for us every weekend. INDIGO is the **first in Shanghai** non-profit organization to provide body, intelligence, and vocational development training projects for **older** individuals with mental disabilities. INDIGO Angels have relatively strong comprehension, social, and expressive abilities and have shown a greater interest in science. At the same time, INDIGO Angels are mostly in the vocational stage, such as baristas, chefs, etc. Light of Rainbow mainly provides physical and mental intelligence rehabilitation training for ASD **children**, representing another type of ASD group.
 
 <div style="text-align: center;" id="fig8">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/zhanyi-zhanlan.jpg" style='width:100%'>
@@ -132,7 +130,7 @@ Subsequently, we began to select appropriate pilot objects. Compared with rehabi
 </div>
 ### Curriculum Refinement and Implementation
 
-We further revised the picture book based on the teachers' suggestions, designed a preliminary course effectiveness evaluation system, and designed other supporting activities. For details on the teaching content, please see "STEAMed Practice" below. Our differentiation in course difficulty is mainly reflected in the following aspects.
+We further revised the picture book based on the teachers' suggestions, designed a preliminary course effectiveness evaluation system, and designed other supporting activities. For details on the teaching content, please see ["STEAMed Practice"](https://2024.igem.wiki/fudan/inclusivity/#steamed-practice) below. Our differentiation in course difficulty is mainly reflected in the following aspects.
 
 - **Teaching capacity:** In Light of Rainbow, we will omit parts that are difficult to understand, such as the double helix structure of genes, the relationship between cells and genes, etc.
 - **Number of teaching sessions:** At INDIGO, we conducted only 1 teaching session. At Light of Rainbow, we conducted 2 repeated teachings for the same group of students. The difficulty of the second teaching session is slightly higher than the first.
@@ -627,6 +625,8 @@ After completing several rounds of teaching, we conducted interviews with expert
 
 ### Highlights
 
+关注到了这些人群
+
 We invited two associate professors from Fudan University’s **School of Social Development and Public Policy** for in-person discussions. Both are dedicated to public welfare projects. **[Associate Professor Fu Fang]** has overseen several projects focusing on children with autism, while Associate Professor **Yu Zhiyuan** specializes in charitable work and social organizations. They highly praised the initial concept of STEAMed: **“Your team is dynamic, interdisciplinary, creative, and action-oriented. We believe you will inject fresh energy into the field of autism public welfare!”** (This quote is fabricated; perhaps we could rephrase it.)
 
 <div style="text-align: center;">
@@ -707,6 +707,10 @@ We have successfully secured funding intentions from the **U.S. Consulate Genera
 ### Teaching Targets
 
 In the future, we will focus on a broader range of ASD populations and individuals with intellectual disabilities.  We will experiment with pilot teaching on a larger scale. For relatively low functioning groups, teaching effectiveness will be tested after more repetition and reinforcement, while paying more attention to the significance of accompanying oneself in teaching. Beyond rehabilitation institutions, we have also reached out to several **special education schools** for ASD in Shanghai. They are all eager to apply our refined curriculum to help break down the barriers between their students and science. Throughout the project, we have also engaged with **other groups with intellectual disabilities**, who face similar challenges as the ASD community. We aim to inspire scientific interest in more of these related groups and tap into their scientific potential. This is also the true essence of neurodiversity and inclusivity.
+
+### 教学内容
+
+可以把各种edu方法
 
 ### Partners
 
