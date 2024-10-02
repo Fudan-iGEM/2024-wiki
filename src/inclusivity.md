@@ -34,13 +34,6 @@ In fact, studies have shown that individuals with ASD **display [unique talents]
 
 Unfortunately, **real barriers still exist**. Through literature reviews, interviews, [surveys](https://static.igem.wiki/teams/5115/inclusivity/asd-steam-survey.pdf), and field observations, **we have conducted in-depth research into the barriers** that ASD individuals face in engaging with science. You can click [here](https://static.igem.wiki/teams/5115/inclusivity/research-on-the-barriers-bilingual.pdf) to view detailed research results and analysis. The following are the key findings. 
 
-<div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/barrier-solution-new.png" style='width:100%'>
-    <div>
-          <span style="color: gray">The barriers and the solutions.</span>
-      <br><br>
-    </div>
-</div>
 
 1. **Lack of specialized professionals**: There are few educators focusing on the ASD population, and even fewer of them have the ability to conduct STEM education. 
 2. **The teaching content is** **monotonous, abstract, and detached from real-life situations**: Instead of comprehensiveness and systematicity, most lessons focusing only on single course, such as mathematics. The content is often abstract and requires high cognitive ability from students. 
@@ -48,6 +41,16 @@ Unfortunately, **real barriers still exist**. Through literature reviews, interv
 4. **Economical Burden on ASD families:** Families find it difficult to bear the financial burden of education.
 
 Our interviewees, including parents of ASD individuals, experts in special education and public welfare, as well as staff from rehabilitation centers and special schools, have all expressed **a shared desire to** **remove these barriers**. This is exactly the vision we have gathered here for.
+
+The following figure shows our overall strategy for addressing barriers.
+
+<div style="text-align: center;" id="fig2">
+    <img src="https://static.igem.wiki/teams/5115/inclusivity/barrier-solution-new.png" style='width:100%'>
+    <div>
+          <span style="color: gray">The barriers and the solutions.</span>
+      <br><br>
+    </div>
+</div>
 
 ## The Conception of STEAMed
 
