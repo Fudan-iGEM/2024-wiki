@@ -1,6 +1,8 @@
 ---
 title: Team
 headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
+author:
+  name: All Members
 ---
 
 Welcome to our Fudan iGEM 2024 Team page, where you meet the exceptional individuals propelling our project forward. As a diverse and dedicated team of 14 aspiring members, guided by 5 experienced instructors and advisors, we are united by our shared passion for synthetic biology. 
@@ -103,7 +105,7 @@ Qi Lin, a Biological Sciences major, brought his wild imagination to this yearâ€
 
 
 
-Liyue Chen, majoring in Clinical Medicine, takes on Parts, and Design responsibilities. Music and working out are her favorites, which give her both patience and an energetic attitude during our igem work.
+Liyue Chen, majoring in Clinical Medicine, takes on Model, Parts, and Design responsibilities. Music and working out are her favorites, which give her both patience and an energetic attitude during our igem work.
 
 ### Kexin Huang
 
@@ -205,7 +207,7 @@ Liang Cai, our respectful and mysterious instructor, is an embodiment of wisdom 
 
 
 
-Zhiyue, having been an iGEM team member in the previous year, he is not just a team member but also a mentor. Majoring in Clinical Medicine, Zhiyue's professional knowledge fuels our innovations.
+Zhiyue was an iGEM team member in the previous years. With his exceptional programming skills and patient teaching, he has fully supported our team in areas like wiki management, software development, and engineering.
 
 ### Zhe Dong
 
@@ -217,17 +219,15 @@ Zhiyue, having been an iGEM team member in the previous year, he is not just a t
 
 
 
-Balancing between impactful discussions and strategic design, his love for Biological Sciences, chess, and restful sleep drives his energetic and talkative approach.
+Dong Zhe took on various tasks in Fudan iGEM 2023, focusing on both education and wet lab work. His experiences and helpful nature provided him with valuable insights on iHP, education, design, and more this year.
 
 ### Yijun Wang
 
-#### The Meticulous Leader
+#### The Meticulous Advisor
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/yijun-wang.jpg" style="width:50%">
 </div>
 
-
-
-Majoring in Biological Sciences, she is a meticulous perfectionist. She used to be more energetic, but now she finds solace in sleeping after the deadlines.
+Yijun Wang is the leader of Fudan iGEM 2023 and has been dedicated to establishing the Fudan iGEM 2024 team since the end of last year. She has provided thoughtful guidance and advice throughout our journey, for which we are very grateful.
 

@@ -50,7 +50,6 @@ As illustrated in Figure 1, PartHub 3.0 consists of two main components: the [Bu
 </div>
 </div>
 
-
 ## Features
 
 PartHub 3.0 is designed with a strong emphasis on user-friendliness, ensuring that researchers without computer science background can also easily navigate and utilize its advanced features. The frontend of our software is built using [Vue.js 3.4](https://vuejs.org/) and [Ant Design Vue 4.2.3](https://antdv.com/components/overview) to enhance the visual appeal and usability of the application. On the backend, we employ [Flask](https://flask.palletsprojects.com/en/3.0.x/) for efficient and scalable development. For data storage, we use [Neo4j 5.11](https://neo4j.com/), a powerful graph database that excels in managing large datasets with complex relationships. This combination of technologies ensures that PartHub 3.0 is not only robust but also intuitive and accessible.
@@ -66,6 +65,20 @@ Our software is compatible with the following browsers:
 To facilitate integration with other tools and platforms, we have also created comprehensive and easy-to-use RESTful APIs for our software. The API documentation provides detailed information on all available endpoints, including request and response formats and example usage.
 
 <PDF url="https://static.igem.wiki/teams/5115/software/software-apis1.pdf" page="1" width="100%" height='75vh' />
+
+#### Integration with Snapgene
+
+Our software supports the commonly used synthetic biology standards, including GenBank and FASTA formats. It can directly use sequence files derived from [Snapgene](https://www.snapgene.com/) as input, thereby integrating seamlessly with the SnapGene pipeline.
+
+<div style="text-align: center;" id="figure-2">
+<img src="https://static.igem.wiki/teams/5115/software/snapgene.gif"
+style="width:100%">
+<br>
+<div>
+<p><small style="color: gray">Figure 2. Schematic figure of PartHub 3.0.
+</small></p>
+</div>
+</div>
 
 #### Code availability
 
@@ -151,26 +164,26 @@ Once the deployment is complete, PartHub 3.0 will be running at [http://localhos
 
 ### 2. Burden Predictor
 
-After opening the brower, you can see the home page of our software like in [Figure 2](https://static.igem.wiki/teams/5115/software/tutorial-1.png). You can click "Burden Predictor" at the top of the screen.
+After opening the brower, you can see the home page of our software like in [Figure 3](#figure-3). You can click "Burden Predictor" at the top of the screen.
 
-<div style="text-align: center;" id="figure-2">
+<div style="text-align: center;" id="figure-3">
 <img src="https://static.igem.wiki/teams/5115/software/tutorial-1.png"
 style="width:100%">
 <br>
 <div>
-<p><small style="color: gray">Figure 2. Home page of PartHub 3.0.
+<p><small style="color: gray">Figure 3. Home page of PartHub 3.0.
 </small></p>
 </div>
 </div>
 
-Then, you can select the basic parts from the basic parts library, then click "Add basic part", as shown in [Figure 3](#figure-3).
+Then, you can select the basic parts from the basic parts library, then click "Add basic part", as shown in [Figure 4](#figure-4).
 
-<div style="text-align: center;" id="figure-3">
+<div style="text-align: center;" id="figure-4">
 <img src="https://static.igem.wiki/teams/5115/software/tutorial-22.png"
 style="width:100%">
 <br>
 <div>
-<p><small style="color: gray">Figure 3. Select basic parts.
+<p><small style="color: gray">Figure 4. Select basic parts.
 </small></p>
 </div>
 </div>
@@ -234,7 +247,7 @@ style="width:100%">
 
 When you enter the detailed information page, the software automatically begins the process of finding similar parts to the queried part in PartHub. This process may take about one minute. Once the similarity calculation is complete, the interface will update as shown in [Figure 8](#figure-8).
 
-On the left side of the page, a tree map displays the queried part along with parts that have reference, twin, or similarity relationships with it. In the tree map, purple nodes represent basic parts, and blue nodes represent composite parts. You can use the scroll function to adjust the size of the tree map or drag it to change its position for better visibility.
+On the left side of the page, a tree map displays the queried part along with parts that have reference, twin, or similarity relationships with it. In the tree map, purple nodes represent basic parts, and blue nodes represent composite parts. You can scroll in or out to adjust the size of the tree map or drag it to change its position for better visibility.
 
 On the right side of the detailed information page, a list showcases the parts most similar to the queried part, including three types of similarity scores, which are detailed [below](#implementation-1). Due to performance considerations, we only display the top 100 similar parts, and in the tree map, we show the top 30 most similar parts.
 
@@ -597,7 +610,7 @@ To be specific, our software calculates the number of shared categories and assi
 
 The category similarity score, denoted as $\text{CatScore}$, is calculated using the following formula:
 
-$$\text{CatScore} = \sum\limits_{i} B^{d_{i}} \tag{22}$$
+$$\text{CatScore} = \sum\limits_{i} \sum\limits_{j=1}^{d_i} B^{j-1} \tag{22}$$
 
 where:
 
@@ -615,21 +628,21 @@ Let's consider two parts, Part A and Part B, with the following category labels 
   - `//function/biosynthesis/`
 - **Part B:**
   - `//cds/enzyme/DNApolymerase/`
-  - `//plasmid/expression/T7/`
+  - `//plasmid/expression/T3/`
   - `//function/isoamplification/`
 
 The shared categories between Part A and Part B are:
 
 - `//cds/enzyme/DNApolymerase/` (Level 3)
-- `//plasmid/expression/T7/` (Level 3)
+- `//plasmid/expression/` (Level 2)
 
-In this example, the hierarchical levels of the shared categories are both 3.
+In this example, the hierarchical levels of the shared categories are 3 and 2, respectively.
 
-Based on the information above, we have $B=1.5$ and $\{d_i\}=\{3,3\}$.
+Based on the information above, we have $B=1.5$ and $\{d_i\}=\{3,2\}$.
 
 Using formula (22), the category similarity score is:
 
-$$\text{CatScore} = B^3 + B^3 = 6.75$$
+$$\text{CatScore} = B^0 + B^1 + B^2 + B^0 + B^1 = 10.875$$
 
 #### Overall similarity
 
