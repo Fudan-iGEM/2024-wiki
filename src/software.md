@@ -43,7 +43,7 @@ In our software,
 
 <div style="text-align: center;" id="figure-1">
 <img src="https://static.igem.wiki/teams/5115/software/schematic2.png"
-style='width:100%'>
+style="width:100%">
 <br>
 <div>
 <p><small style="color: gray">Figure 1. Schematic figure of PartHub 3.0.

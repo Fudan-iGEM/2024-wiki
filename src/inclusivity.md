@@ -96,7 +96,7 @@ We served as volunteer explainers and visited the **"Colorful Starry Sky" Star C
 
 After the exhibition, we visited the director of the Human Science Museum and the person in charge of teaching at Angel's Voice Salon separately. We discussed our ideas for "Starry Wish Picture Book Library" and "STEAMed". Encouragingly, they both expressed their support and willingness to cooperate. In addition, Angel's Voice Salon focuses on the influence of music, which also inspired us to explore more artistic forms beyond painting.
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/2colorful-starry-sky-art-theme-exhibition.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We visited the exhibition as volunteers.</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/2colorful-starry-sky-art-theme-exhibition.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">We visited the exhibition as volunteers.</small></p>    </div></div>
 
 Now, our teaching program has a more comprehensive name “STEAMed Education — for Children from the Star.” 
 
@@ -136,13 +136,13 @@ We further revised the picture book based on the teachers' suggestions, designed
 - The concept of pairing: At Zhanlan, the pairing of bases. At Caihongyu, we will use the pairing of shapes and sizes as an analogy.
 - Examples of inheritance: At Zhanlan, we will list more examples. At Caihongyu, we mainly use the similarities between parents and Star Children as examples.
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/fencengshidian.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We were conducting a Starry Wish Picture Book Library activity in Rainbow Rain (left) and zhanlan (right).</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/fencengshidian.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">We were conducting a Starry Wish Picture Book Library activity in Rainbow Rain (left) and zhanlan (right).</small></p>    </div></div>
 
 ### Course Effectiveness
 
 After the course practice, to understand the evaluation and suggestions for the course, we conducted interviews with teaching volunteers and parents of students. We have compiled and uploaded the [bilingual transcript](.zip) and [audio file] of the Zhanlan interview, as well as the [bilingual transcript and video link](https://static.igem.wiki/teams/5115/inclusivity/interview-record-targeting-rainbow-rain-with-tencent-meeting-link.pdf) of the Caihongyu interview. Overall, the interviewees recognized our use of picture book teaching methods and suggested that we combine more hands-on practices and physical art forms. In terms of understanding the knowledge, the performance of the students from [Zhanlan](https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ) performed better than those from [Caihongyu](https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ). Students from Zhanlan for the most part could understand the theoretical explanations. Even if some students had a lower level of understanding, parents believed that we “planted a seed in their hearts”. Students from Caihongyu, however, appeared quite confused during both sessions, with volunteers noting “repeated many times and he still didn’t understand”, “many tasks were done by parents on behalf of the students”. Relatively speaking, the level of understanding after the second class was better than the first. Overall, these results demonstrate the possibility of STEAMed hierarchical teaching.
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/zhanlanfangtan.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">We were conducting one-on-one post class interviews with teaching volunteers.</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/zhanlanfangtan.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">We were conducting one-on-one post class interviews with teaching volunteers.</small></p>    </div></div>
 
 ### the Next Step
 
@@ -679,7 +679,7 @@ April 2, 2024, marks the 17th **“World Autism Awareness Day”**. Taking this 
 
 <div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/handanyimai.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">We were holding a charity sale.</small></p>    </div></div>
 
-<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/fenglinmingxinpian.jpg" style='width:100%'>    <br>    <div>        <p><small style="color: gray">The postcard carried the public's good wishes for the ASD community.</small></p>    </div></div>
+<div style="text-align: center;">    <img src="https://static.igem.wiki/teams/5115/inclusivity/fenglinmingxinpian.jpg" style="width:100%">    <br>    <div>        <p><small style="color: gray">The postcard carried the public's good wishes for the ASD community.</small></p>    </div></div>
 
 #### 6.1.3 Teaching Collaboration
 

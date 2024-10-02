@@ -43,17 +43,17 @@ As global awareness of environmental protection increases, the demand for sustai
     </div>
 </div>
 
-On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM 这是什么缩写@@@@ has pointed out that high-grade nickel ore with a content of over **1.7%** can only sustain consumption for **7 to 10 years**[^2]. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
+On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM 这是什么缩写@@@@ has pointed out that high-grade nickel ore with a content of over 1.7% can only sustain consumption for 7 to 10 years[^2]. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig2.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig2.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years.(data base from USGS)</span>
         <br><br>
     </div>
 </div>
 
-However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in a new nickel recycling system that meets the pursuit of innovation and efficiency. As a result, we have identified the potential customers for the MINERAL project as industrial manufacturers utilizing nickel, including battery manufacturers, stainless steel producers, industrial wastewater treatment companies, mining companies, and electroplating companies.
+However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in a new nickel recycling system that meets the pursuit of innovation and efficiency. As a result, we have identified the potential customers for the MINERAL product as industrial manufacturers utilizing nickel, including battery manufacturers, stainless steel producers, industrial wastewater treatment companies, mining companies, and electroplating companies.
 
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/nicon.webp" style="width:100%">
@@ -62,6 +62,8 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
         <br><br>
     </div>
 </div>
+
+<br>
 
 <div style="text-align: center;" id="fig4">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig4new.webp" style="width:100%">
@@ -78,7 +80,7 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
 We conducted competitive analysis with the most popular ways[^3].
 
 <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig5.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig5.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 5: Compare to Other Substitute Ways</span>
         <br><br>
@@ -104,7 +106,7 @@ In response to the identified unmet needs and the development progress of [MINER
 Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to efficiently recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The visible nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/newfig7.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/newfig7.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 7: Competitiveness of MINERAL</span>
         <br><br>
@@ -184,16 +186,16 @@ The professional innovation and entrepreneurship instructors from our university
     </div>
 </div>
 
-We received a small [award](https://mp.weixin.qq.com/s/tw9UTN5enW3R9KSMAoJnCg) in the competition, gaining not only recognition but also the confidence to accelerate our project. Thus, this summer, we reached out to the following business partners.
+We received the [Honourable Mention Award](https://mp.weixin.qq.com/s/tw9UTN5enW3R9KSMAoJnCg) in the competition, gaining not only recognition but also the confidence to accelerate our project. Thus, this summer, we reached out to the following business partners.
 
 ### Our Business Partners
 
 #### U Power Tech
 
-Located in Xuhui district, Shanghai, U Power is a startup company dedicated to integrating key power and control systems for electric vehicles into the chassis to facilitate car manufacturing. With a battery research and development team of up to 30 professionals, U Power possesses unique insights into the entire lifecycle of power batteries. After several interactions, U Power expressed significant interest in the MINERAL project.
+Located in Xuhui district, Shanghai, U Power 需要网址@@@@ is a startup company dedicated to integrating key power and control systems for electric vehicles into the chassis to facilitate car manufacturing. With a battery research and development team of up to 30 professionals, U Power possesses unique insights into the entire lifecycle of power batteries. After several interactions, U Power expressed significant interest in the MINERAL product.
 
 <div style="text-align: center;" id="fig10">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/upower.webp" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/upower.webp" style="width:50%">
     <div>
     	<span style="color: gray">Figure 10: U Power Tech, A Robust Startup</span>
         <br><br>
@@ -201,7 +203,7 @@ Located in Xuhui district, Shanghai, U Power is a startup company dedicated to i
 </div>
 
 
-U Power hosted an investment promotion meeting for our project, where Kexin Zheng presented our business prospects to the attending company representatives.
+U Power hosted an investment promotion meeting for our project, where [Kexin](/fudan/team/#kexin-zheng) presented our business prospects to the attending company representatives.
 
 <div style="text-align: center;" id="fig11">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/upre.gif" style="width:100%">
@@ -211,27 +213,25 @@ U Power hosted an investment promotion meeting for our project, where Kexin Zhen
     </div>
 </div>
 
-
 Participants not only highly praised our development potential and product design philosophy but also provided valuable suggestions for our marketing strategy: targeting electroplating and stainless steel manufacturing companies as our primary customer base, as these industries have a significant demand for nickel and the electroplating sector operates entirely in liquid environments, making their needs urgent and aligned with our product.
 
 Additionally, professionals from U Power's marketing department recommended positioning environmental protection and pollution control as our core concept and additional market focus, given that existing heavy metal pollution often spreads to water bodies with wide-ranging but low concentrations, and there are insufficient environmentally friendly and efficient methods to address this issue. Our low-cost, non-hazardous biological approach can fill these critical gaps.
 
 Furthermore, U Power recommended several closely related companies for potential collaboration:
 
-#### GEM
+#### GEM Victory
 
-On the recommendation of U Power, we visited GEM, a developed company focused on the recycling of waste metal resources.
+Upon the recommendation of U Power, we visited GEM Victory 需要网址@@@@, a developed company focused on the recycling of waste metal resources.
 
 <div style="text-align: center;" id="fig12">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/gem.webp" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/gem.webp" style="width:33%">
     <div>
     	<span style="color: gray">Figure 12: GEM, Recycling For Future!</span>
         <br><br>
     </div>
 </div>
 
-
-GEM adheres to the development philosophy of *limited resources, unlimited recycling*, committed to *eliminating pollution and regenerating resources.* They promote a circular industrial culture aimed at achieving a harmonious integration of economic value, environmental value, and social responsibility, which aligns closely with our ideas and missions.
+GEM adheres to the development philosophy of *limited resources, unlimited recycling*, committed to *eliminating pollution and regenerating resources*. They promote a circular industrial culture aimed at achieving a harmonious integration of economic value, environmental value, and social responsibility, which aligns closely with our ideas and missions.
 
 <div style="text-align: center;" id="fig13">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/productionline.webp" style="width:100%">
@@ -251,7 +251,7 @@ GEM expressed strong interest in our project and invited us to their key mineral
     </div>
 </div>
 
- After assessing the actual conditions of GEM's production line, we quickly identified the most suitable processing phase for the MINERAL project. Consequently, we successfully reached a technical cooperation agreement and later received the relevant wastewater samples from GEM. After we got [result](#https://2024.igem.wiki/fudan/result) and shared it with GEM, they conveyed even stronger willingness to carry out further cooperation with us.
+ After assessing the actual conditions of GEM's production line, we quickly identified the most suitable processing phase for our [MINERAL](/fudan/description/) product. Consequently, we successfully reached a technical cooperation agreement and later received the relevant wastewater samples from GEM. After we got [results](/fudan/results/) and shared it with GEM, they conveyed even stronger willingness to carry out further cooperation with us.
 
 <div style="text-align: center;" id="fig15">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/wastewater.webp" style="width:100%">
@@ -263,25 +263,24 @@ GEM expressed strong interest in our project and invited us to their key mineral
 
 <br>
 
-#### CPS
+#### Suzhou CPS
 
-With the technical cooperation agreement with GEM as proof of our project's commercial capabilities, we further expanded our potential customers and partners by reaching out to Suzhou In Times of Chemical Environmental Protection Equipment Technology Co., Ltd\. (hereafter referred to as CPS).
+With the technical cooperation agreement with GEM as proof of our project's commercial capabilities, we further expanded our potential customers and partners by reaching out to Suzhou In Times of Chemical Environmental Protection Equipment Technology 需要网址@@@@ (hereafter referred to as CPS).
 
 <div style="text-align: center;" id="fig16">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps.webp" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps.webp" style="width:50%">
     <div>
     	<span style="color: gray">Figure 16: CPS, a Wastewater Treatment Company</span>
         <br><br>
     </div>
 </div>
 
-
 Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicated to providing one-stop solutions for industrial wastewater treatment. With 38 years of experience in the European environmental protection industry, their wastewater treatment equipment and projects are widely applied in sectors such as chemicals, dyeing, papermaking, metal surface treatment, and machining.
 
 <div style="text-align: center;" id="fig17">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps1.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 17: CPS is sharing technical details.</span>
+    	<span style="color: gray">Figure 17: CPS is sharing technical details</span>
         <br><br>
     </div>
 </div>
@@ -294,14 +293,14 @@ Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicat
     </div>
 </div>
 
-After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL project. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As of the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the contract with CPS.
+After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL product. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As on the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the contract with CPS.
 
-<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/agreement.pdf" page="1" width="100%" height="100vw"/>
+<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/agreement.pdf" page="1" width="100%" height="800px"/>
 
 <div style="text-align: center;" id="pdf1">
     	<span style="color: gray">Technical Cooperation Intention Agreement</span>
-        <br><br>
-    </div>
+    <br><br>
+</div>
 
 <br>
 
@@ -344,7 +343,7 @@ Therefore, in the sales scenario of our microbial heavy metal ion cleaner, the c
 
 - Moreover, existing nickel ion separation methods are relatively crude and inexpensive, leaving companies with little motivation to switch to biological recovery methods.
 
-  #### We need to address these difficulties with the support  of everyone in iGEM.
+#### We need to address these difficulties with the support  of everyone in iGEM.
 
 ## Our Skills, Capabilities and Stakeholders
 
@@ -356,14 +355,10 @@ To ensure the success of the project, we need to master key skills, including te
 
 Our team needs excellent communication and collaboration skills to ensure smooth information flow and teamwork. Presentation skills are crucial for conveying the project's vision and attracting support. Strong analytical and decision-making abilities are essential for solving complex problems and seizing opportunities. A responsible attitude and good reputation are vital for gaining the trust and support of stakeholders and ensuring the project's smooth progression. These core capabilities will collectively drive the success and sustainable development of the project.
 
-Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
+Furthermore, our product has strong competitiveness. See [Swot Analysis](#fig21) below.
 
 <div style="text-align: center;" id="fig21">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig3.webp" style="width:100%">
-    <div>
-    	<span style="color: gray">Figure 21: SWOT Analysis</span>
-        <br><br>
-    </div>
 </div>
 
 <br>
@@ -387,19 +382,17 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
 ## Long-term Impacts
 
 <div style="text-align: center;" id="fig23">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig23.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig23.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 23: Our Possible Long-term Impacts</span>
         <br><br>
     </div>
 </div>
 
+----
 
-
-## References
-
-[^1 ]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
-[^2 ]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)
+[^1]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
+[^2]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)
 [^3]: Kazeminezhad, I., & Mosivand, S. (2017). Elimination of copper and nickel from wastewater by electrooxidation method. *Journal of Magnetism and Magnetic Materials*, 422, 84-92. [https://doi.org/10.1016/j.jmmm.2016.08.049](https://doi.org/10.1016/j.jmmm.2016.08.049)]
-[^4 ]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. Separation and Purification Technology, 348, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](https://doi.org/10.1016/j.seppur.2024.127771)
+[^4]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. Separation and Purification Technology, 348, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](https://doi.org/10.1016/j.seppur.2024.127771)
 
