@@ -210,11 +210,13 @@ To estimate the adhesion between *E. coli* and cyanobacteria, the optical densit
       <img src="https://static.igem.wiki/teams/5115/txj/s.png" style="width:80%; height: auto;">           
    </div>   
 </div>
+
 <div style="text-align: center; margin-top: 10px;">
-    <span style="color: gray">Figure 9 & 10: Comparison of the percentage of bacteria remaining in the supernatant after 6 hours between aTc-induced (+) and uninduced (-) samples.</span><br>
-       <small>
-           The left panel shows the results for <em>E. coli</em> expressing intimin-LCA, while the right panel displays the results for <em>Synechococcus elongatus</em> with intimin-LCA. In both cases, the aTc-induced samples show a significant reduction in the bacteria remaining in the supernatant compared to the uninduced samples, indicating enhanced aggregation. (** indicates statistical significance less than 0.01).</small></span>
+    <span style="color: gray;">Figure 9 & 10: Comparison of the percentage of bacteria remaining in the supernatant after 6 hours between aTc-induced (+) and uninduced (-) samples.</span><br>
+    <small>The left panel shows the results for <em>E. coli</em> expressing intimin-LCA, while the right panel displays the results for <em>Synechococcus elongatus</em> with intimin-LCA. In both cases, the aTc-induced samples show a significant reduction in the bacteria remaining in the supernatant compared to the uninduced samples, indicating enhanced aggregation. (** indicates statistical significance less than 0.01).</small>
 </div>
+
+
 ## Summary
 
 In our Nickel Enrichment Module, we discovered that:
