@@ -65,7 +65,7 @@
       />
       <image
         class="mineral"
-        xlink:href="https://static.igem.wiki/teams/5115/homepage/mineral.svg"
+        xlink:href="https://static.igem.wiki/teams/5115/homepage/new-mineral.svg"
       />
       <image
         class="frame2"
@@ -88,7 +88,7 @@
         <rect fill="#CDE3EC" width="100%" height="100%" class="gan"/>
           <image
             class="mineral2"
-            xlink:href="https://static.igem.wiki/teams/5115/homepage/mineral.svg"
+            xlink:href="https://static.igem.wiki/teams/5115/homepage/new-mineral.svg"
           />
           <g id="scroll-arrow">
             <polygon class="down-arrow" points="960,910 940,880 980,880" fill="#000" />
@@ -713,7 +713,7 @@ export default {
   },
   methods: {
     updatePreserveAspectRatio() {
-      if (window.innerWidth >= 1024) {
+      if (window.innerWidth >= 1025) {
         this.preserveAspectRatio = 'xMidYMid slice';
       } else {
         this.preserveAspectRatio = 'xMinYMin meet';
@@ -721,7 +721,7 @@ export default {
     },
     
     initPage1Animations(gsap) {
-      if (window.innerWidth >= 500) {
+      if (window.innerWidth >= 300) {
         const page1Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-1',
@@ -769,7 +769,7 @@ export default {
       }
     },
     initPage2Animations(gsap) {
-      if (window.innerWidth >= 500) {
+      if (window.innerWidth >= 300) {
         const page2Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-2',
@@ -797,7 +797,7 @@ export default {
       }
     },
     initPage3Animations(gsap) {
-      if (window.innerWidth >= 500) {
+      if (window.innerWidth >= 300) {
         const page3Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-3',
@@ -828,7 +828,7 @@ export default {
       }
     },
     initPage4Animations(gsap) {
-    if (window.innerWidth >= 500) {
+    if (window.innerWidth >= 300) {
       // Set initial positions for fly-in elements
       gsap.set(['.color-pie-1', '.noncolor-pie-1'], { xPercent: -100, yPercent: -100 });
       gsap.set(['.color-pie-2', '.noncolor-pie-2'], { xPercent: -100, yPercent: 100 });
@@ -915,7 +915,7 @@ export default {
     }
     },
     initPage5Animations(gsap) {
-    if (window.innerWidth >= 500) {
+    if (window.innerWidth >= 300) {
 
       const page5Tl = gsap.timeline({
         scrollTrigger: {
@@ -1001,7 +1001,7 @@ export default {
       });
     },
     initPage7Animations(gsap) {
-      if (window.innerWidth >= 500) { 
+      if (window.innerWidth >= 300) { 
         const nickels = [
           { class: '.nickel1', duration: 10, delay: 2 },
           { class: '.nickel2', duration: 20, delay: 0 },
@@ -1039,7 +1039,7 @@ export default {
       }
     },
     initPage8Animations(gsap) {
-      if (window.innerWidth >= 500) { 
+      if (window.innerWidth >= 300) { 
         gsap.set('.bacteria1', { y: '0', opacity: 0});
         gsap.set('.bacteria2', { y: '-32.06%', opacity: 0});
         gsap.set('.bacteria3', { y: '-32.06%', opacity: 0});
@@ -1076,7 +1076,7 @@ export default {
       }
     },
     initPageBAnimations(gsap) {
-      if (window.innerWidth >= 500) { 
+      if (window.innerWidth >= 300) { 
         gsap.set('.bacteria', { y: '0', opacity: 0});
         gsap.set(['.carbo9-1', '.carbo9-2', '.carbo9-3'], { y: '0', opacity: 0});
         const pageBTl = gsap.timeline({
@@ -1098,7 +1098,7 @@ export default {
       }
     },
     initPage9Animations(gsap) {
-      if (window.innerWidth >= 500) { 
+      if (window.innerWidth >= 300) { 
         const page9Tl = gsap.timeline({
           scrollTrigger: {
             trigger: '.page-9',
@@ -1143,7 +1143,7 @@ export default {
           scrollTrigger: {
             trigger: '.page-9',
             start: 'top top',
-            end: '40% top',
+            end: '20% top',
             scrub: true,
           },
           duration: 0.1, 
@@ -1154,7 +1154,7 @@ export default {
       }
     },
     initPage10Animations(gsap) {
-      if (window.innerWidth >= 500) {
+      if (window.innerWidth >= 300) {
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
@@ -1334,10 +1334,10 @@ export default {
         .fromTo('.down-arrow',{ y: -350 },  { y: -953, duration: 2 }, 'afterframe');
     }
   },
-  beforeDestroy() {
+/*   beforeDestroy() {
     // Remove event listener
     window.removeEventListener('resize', this.updatePreserveAspectRatio);
-  },
+  }, */
 };
 </script>
 
@@ -1639,7 +1639,7 @@ section {
   -webkit-mask-repeat: no-repeat; */
 }
 
-@media (min-width: 1025px){
+@media (min-width: 1023px){
   .scrollDist {
     width: 100%;
     height: 300vh;
@@ -1714,7 +1714,7 @@ section {
   }
   .scrollDist {
     width: 100%;
-    height: 18vh;
+    height: 22vh;
   }
 }
 
