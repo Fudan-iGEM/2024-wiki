@@ -77,7 +77,7 @@ For each EP tube, shake well after adding reagents and set aside for 5 minutes. 
 #### IV. Results
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/experiments/standardcurve.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/experiments/standardcurve.png" style="width:100%">
     <div>
     	  <span style="color: gray">Figure 1: Standard Curve of Abs~530~ and NiCl~2~ Concentration</span>
       <br><br>
@@ -88,7 +88,7 @@ For each EP tube, shake well after adding reagents and set aside for 5 minutes. 
 
 <br>
 
-### Measurement of samples
+### Measurement of Samples
 
 1. Pellet the bacteria by 8000 rpm centrifugation for 5 minutes. Use the supernatants for measurements. Prepare the following components in EP tubes (2 mL volumes, add from left to right):
 
@@ -112,7 +112,7 @@ For each EP tube, shake well after adding reagents and set aside for 5 minutes. 
 4. Take 150 µL of the bacteria/phage mixture and spread it onto the plate.
 5. Incubate overnight at 37°C.
 
-The phage carries Kan resistance. If the bacteria was infected by phage, colonies form on the Kan plate.
+The phage carries Kan resistance. If the bacteria was infected by the phage, colonies form on a Kan plate.
 
 <br>
 
@@ -127,25 +127,23 @@ The phage carries Kan resistance. If the bacteria was infected by phage, colonie
 
 - M9 Buffer Preparation: Add 3 g KH~2~PO~4~, 6 g Na~2~HPO~4~, 5 g NaCl, 1 mL of 1 mol/L MgSO~4~, dissolve in 1 L ddH~2~O. 
 
-- Caenorhabditis elegans Lysis Solution (Prepare before use): Add 1 mL of 5 mol/L NaOH, 1 mL of 10% NaClO, dissolve in 7 mL ddH~2~O.
-
-<br>
+- Nematode Lysis Solution (prepare before use): Add 1 mL of 5 mol/L NaOH, 1 mL of 10% NaCl, dissolve in 7 mL ddH~2~O.
 
 ### Experimental Procedures
 
 #### Synchronization of Nematodes:
 
-1. Rinse the nematodes on the medium with 2 mL ddH~2~O, transfer them to a centrifuge tube, and centrifuge at 3000 rpm for one minute.
+1. Rinse the nematodes with 2 mL ddH~2~O, transfer them to a centrifuge tube, and centrifuge at 3000 rpm for one minute.
 2. Discard the supernatant carefully. Add 1 mL of nematode lysis solution, vortex thoroughly for 10 minutes.
 3. Centrifuge at 5000 rpm for one minute, discard the supernatant.
-4. Add 1 mL of M9 buffer, vortex thoroughly, centrifuge at 3000 rpm for one minute. Discard the supernatant. Repeat this entire process three times, leaving approximately 100 µL of M9 remains in the centrifuge tube after the final round.
-5. Dispense the solution on NGM medium coated with OP50 and culture at 20°C. Collect L2-stage nematodes after approximately 20 hours.
+4. Add 1 mL of M9 buffer, vortex thoroughly, centrifuge at 3000 rpm for one minute. Discard the supernatant. Repeat 2-3-4 process three times, leaving approximately 100 µL of M9 remains in the centrifuge tube after the final round.
+5. Dispense the solution on NGM medium (coated with E. coli OP50 lawm) and culture at 20°C. Collect L2-stage nematodes after approximately 20 hours.
 
 #### Locomotion Measurement:
 
 1. Collect the L2-stage nematodes and deposit them on the medium.
-2. Incubate at 20°C for 18 hours and capture their locomotion using a microscope.
-3. Analyze the recorded movement trajectories utilizing the ImageJ Plugins Animal Tracker.
+2. Incubate at 20°C for 18 hours and capture their locomotion using a steroscope.
+3. Analyze the recorded movement trajectories utilizing ImageJ Plugins Animal Tracker.
 
 <br>
 

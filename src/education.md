@@ -27,6 +27,8 @@ So, our goal is **to inspire students across all educational stages in China**, 
     </div>
 </div>
 
+<br>
+
 ## Education for University Students
 
 ###Academic Culture Festival
@@ -54,7 +56,7 @@ Our team hosted two booths at the **[Academic Culture Festival](https://mp.weixi
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/starrybooth2.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 3: Team member Ruiwen Ma is playing synthetic biology games with students.</span>
+    	<span style="color: gray">Figure 3: Team member Ruiwen Ma is playing synthetic biology games with university students.</span>
         <br><br>
     </div>
 </div>
@@ -92,6 +94,18 @@ During discussions in 4 sub-forums, we learned an important educational principl
     </div>
 </div>
 
+<br>
+
+### Further Explosion for Higher Education Students
+
+<p><small style="color: gray">📅 Date: Nov.20, 2023<br>🗣️ Organizers: Yuhan Wang, Kexin Zheng, Xujie Tan, Xueting Chen<br>👥 Audience: Exchange students in Fudan University</small></p>
+
+To building a collaborative world, international exchange and understanding among global youth are important.
+
+After we graduated from the Education Forum, we carried out our second round education practice with international students on our campus, aiming to enhance the universality and readability of educational tools. Exchange students from countries and regions including Indonesia, Germany, Slovakia, Morocco, Norway, Macau, Singapore, and Nipple participated in this event, greatly contributing to our understanding of education. This experience laid the groundwork for adapting our upcoming illustrated educational tools into multiple languages.
+
+=======
+>>>>>>> 47bb4464890b2240d495712160056ac7390855e3
 <div style="text-align: center;" id="fig6">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/forumrepresentive2.webp" style="width:100%">
     <div>
@@ -199,7 +213,7 @@ In the discussion, we found that high school students' understanding of syntheti
 
 After thoroughly understanding the expectations and needs of high school students, we visited the [Genetically Modified Organism (GMO)](https://education.nationalgeographic.org/resource/genetically-modified-organisms/) Educational Base in Shanghai, China,  to offer another group of high school students a more comprehensive career experience.
 
-### Exploration on GMO with Students from AnTing 
+### Exploration on GMO with Students from AnTing
 
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
@@ -221,6 +235,7 @@ To stimulate their interest, we collaborated with the [Science Popularization Ed
     </div>
 </div>
 
+<br>
 
 ## Education for Junior Students and Pupils
 
@@ -308,15 +323,13 @@ After the activity, we left the teaching materials in the story corner of Huihua
 
 ## Our Ground for Future‘s Building On
 
-Last year, we introduced a picture book titled [*What is Gene*](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf), which has now become the main teaching material for attracting pupils and kids in this year's education activities.
+Last year, we introduced a picture book titled [*What is Gene (2023)*](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf), which has now become the main teaching material for attracting pupils and kids in this year's education activities.
 
 Through multiple cycles of practice, reflection, and improvement, we've made enhancements to the picture book. This year's teaching materials include interesting  mini-games such as mazes, *find the difference*, and drawing self-portraits. Additionally, we've expanded the content to make it suitable for middle school students and [individuals with autism](/fudan/inclusivity). We discovered that implementing the educational plan as a [Standard Operating Procedure (SOP)](https://en.wikipedia.org/wiki/Standard_operating_procedure) greatly facilitates the rapid recruitment and training of volunteers, especially in situations where there is a lack of helpful staff, thus promoting the widespread and efficient execution of educational activities.
 
-<PDF url="https://static.igem.wiki/teams/5115/education-zkx/picture-book-what-is-gene-final.pdf" page="1" width="100%" />
+The book includes story-driven content, maze activities, "find the difference" games, origami templates, and visual experiment diagrams to enhance the appeal of the picture books. Additionally, this toolkit can be easily adapted for similar courses in our future endeavors, allowing for flexible modifications. The vividly illustrated English picture books successfully fulfilled their mission in classes for middle school, elementary school, and kindergarten students!
 
-<PDF url="https://static.igem.wiki/teams/5115/education-zkx/picture-book-gene-editing.pdf" page="1" width="100%" />
-
-## Summary
+----
 
 Overall, our education strategy, inspired by the philosophies of [Mencius and Bandura](#concept-of-education), has equipped our team members with great teaching skills, firmly advancing the strategy of tailored educational programs for our target audience.
 
@@ -333,4 +346,3 @@ We identified different focal points for each group. We continuously engage in s
         <br><br>
     </div>
 </div>
-
