@@ -12,9 +12,11 @@ author:
   url: /fudan/team/#yi-shi
 ---
 
-## TBA
 
-<span>The graph shows the percentage of Ni²⁺ absorbed by<em>E. coli</em> expressing indicated modules (<em>E. coli</em><br><small>strain: BL21 DE3). Ni²⁺ uptake was calculated based on the difference between initial and final concentrations in the supernatant, divided by 100 mg/L. The single bacteria colony was picked and grow over night to reach optical density (OD₆₀₀) > 1. Prepare a sealed 25-mL LB culture in a 250-mL bottle, with: 100 µL overnight bacteria liquid culture, 25 µg/mL Kan, 1 mM methyl viologen dichloride, 100 mg/L NiCl<sub>2</sub>, bubbled with ~250 mL 5.6% hydrogen gas (slowly, with hand shaking, about 5 minutes). Culture for 30 hours, at 37°C with rotating speed 220 rpm. Four biological replicates were performed for each condition, and error bars represent the standard errors of the means (SEM) of these replicates. Plain BL21 DE3 was used as control. None of the four bacteria with U module was able to grow during overnight culture if induced with 1 mM IPTG, only 1 F module grow. Additional 1 mM IPTG was added into the 25-mL culture of "F induced". ANOVA test shows that all constructs increase Ni²⁺ uptake significantly compared to the control. P value was calculated using Dunnett’s post test.</small></span>
+
+## Overview
+
+The Nickel Enrichment Module of our project focuses on maximizing nickel bioaccumulation in *E. coli* through two main strategies: enhancing nickel uptake and improving retention. In the Survival Module, Hpn provided protection against nickel toxicity, while YejM offered resistance to phage infection. Our Nickel Microparticle Module demonstrated conversion to microparticles by F module ([BBa K5115067](https://parts.igem.org/Part:BBa_K5115067)), and we confirmed effective hydrogen delivery through *E. coli*-cyanobacteria adhesion in Hydrogen Supplement Module.
 
 
 
@@ -153,7 +155,7 @@ The F module includes [BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063) (
 
 The U module functions similarly to the F module, with the main difference being that, in the U module, the EP is combined with hoxU instead of hoxF. The hoxF subunit is essential for electron transport, while hoxU conducts electrons between hoxH and hoxF. This design allows us to compare the effectiveness of different EP subunit combinations.
 
-### Nickel Uptake Ability: U module vs. F module
+### Nickel Uptake: F module vs. U module
 
 To determine which module better absorbs nickel and facilitates the reduction of nickel to produce microparticles, we measured the nickel absorption efficiency of the U module and F module.
 
@@ -196,7 +198,7 @@ As shown in [Figure 7](fig7), the F Module exhibits strong nickel absorption cap
 
 Given that the production of hydrogen gas by cyanobacteria is well-established in the literature[^3], we did not consider it necessary to test hydrogen production in our study. Instead, we focused on examining the adhesion between E. coli and cyanobacteria to ensure a consistent and sufficient supply of hydrogen.
 
-### Hydrogen Supplement: *E. coli*-cyanobacteria Adhesion
+### *E. coli*-cyanobacteria Adhesion
 
 In February, under the guidance of the Fudan iGEM 2023 team members, we repeated last year's *E. coli* / *S. elongatus* co-culture experiment to ensure that *E. coli* could successfully utilize the hydrogen produced by *S. elongatus*. For more details, see BBa_K4765110.
 
@@ -210,11 +212,11 @@ To estimate the adhesion between *E. coli* and cyanobacteria, the optical densit
       <img src="https://static.igem.wiki/teams/5115/txj/s.png" style="width:80%; height: auto;">           
    </div>   
 </div>
-
-<div style="text-align: center; margin-top: 10px;">
+<div style="text-align: center; margin-top: 10px;" id = 'fig9_10'>
     <span style="color: gray;">Figure 9 & 10: Comparison of the percentage of bacteria remaining in the supernatant after 6 hours between aTc-induced (+) and uninduced (-) samples.</span><br>
     <small>The left panel shows the results for <em>E. coli</em> expressing intimin-LCA, while the right panel displays the results for <em>Synechococcus elongatus</em> with intimin-LCA. In both cases, the aTc-induced samples show a significant reduction in the bacteria remaining in the supernatant compared to the uninduced samples, indicating enhanced aggregation. (** indicates statistical significance less than 0.01).</small>
 </div>
+
 
 
 ## Summary
@@ -236,7 +238,7 @@ In our Nickel Microparticle Module, we proved that:
 
 In our Hydrogen Supply Module, we made sure that:
 
-1. The hydrogen supplement and adhesion between *E. coli* and cyanobacteria is possible.
+1. The hydrogen supplement and adhesion between *E. coli* and cyanobacteria is possible. ([Figure 9&10](fig9_10))
 
 These results are just examples of our wet lab achievements. Other accomplishments are available on our [Measurement](/fudan/measurement/), [Software](/fudan/software/), [Hardware](/fudan/hardware/), and [Safety](/fudan/safety/) pages.
 
