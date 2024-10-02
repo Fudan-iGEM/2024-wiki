@@ -13,10 +13,11 @@ Wastewater treatment and energy recovery are becoming global concerns with the i
 <div style="text-align: center;" id="figa">
     <img src="https://static.igem.wiki/teams/5115/hardware-hkx/antarctica.jpg" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 1: Human activities in Antarctica </span>
+    	  <span style="color: gray">Figure 1: Human activities in Antarctica<br><small>(Image from https://pixabay.com/photos/ship-cruise-ice-expedition-7773072/)</small></span>
       <br><br>
     </div>
 </div>
+
 <br>
 
 However, ordinary biological filtration devices are typically designed with rigid structures and sizes. This inflexibility leads to high costs and significant challenges in satisfying the vast and various demands of wastewater treatment in remote and off-grid areas, because of the lack of infrastructure, limited funding or difficulty in implementing and maintaining facilities. For example, transferring devices to Antarctica is not easy due to the constraints of remoteness, isolation, harsh weather and other local conditions. Therefore, most countries have chosen processes that use biofilms[^2]. 
@@ -26,10 +27,11 @@ In today's wastewater treatment industry, various [contemporary biofilm reactors
 <div style="text-align: center;" id="figb">
     <img src="https://static.igem.wiki/teams/5115/hardware-hkx/heavy-metal-tolerance.png" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 2: Types of biofilm in a wastewater environment system (Maurya et al., 2023) </span>
+    	  <span style="color: gray">Figure 2: Types of biofilm in a wastewater environment system</span>
       <br><br>
     </div>
 </div>
+
 
 <br>
 
@@ -95,10 +97,11 @@ Soak the woven fiber material in bacterial solution. Stand for 30 minutes to fac
 <div style="text-align: center;" id="fig4">
     <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-4.png" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 6: Assembly of the composite fiber-bacterial mesh</span>
+    	  <span style="color: gray">Figure 6: Assembly of the composite fiber-bacterial mesh<br><small>(Image from www.figdraw.com)</small></span>
       <br><br>
     </div>
 </div>
+
 
 
 <br>
@@ -112,10 +115,11 @@ In natural water bodies, we can weave the fiber into nets similar to fishing net
 <div style="text-align: center;" id="fig8">
     <img src="https://static.igem.wiki/teams/5115/hardware-hkx/river-with-fiber.jpg" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 7: aCNT composite fiber net in water bodies</span>
+    	  <span style="color: gray">Figure 7: aCNT composite fiber net in water bodies<br><small>(Image from https://pixabay.com/photos/torrent-river-forest-water-6583626/)</small></span>
       <br><br>
     </div>
 </div>
+
 <br>
 
 ## Primary Test

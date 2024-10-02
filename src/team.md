@@ -1,6 +1,6 @@
 ---
 title: Team
-headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/members-header-new.gif
 author:
   name: All Members
 ---
