@@ -72,9 +72,11 @@ h2 .header-anchor:hover {
 }
 
 h3 {
-  font-family: 'Sofia Sans',sans-serif;
   color: #1D7491;
-  font-weight: 1000;
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 754 !important;
+  font-style: normal;
 }
 
 
@@ -389,7 +391,7 @@ $theme-color-dark: #F18B59 !important;
 @font-face {
   font-family: 'Sofia Sans';
   src: url('https://static.igem.wiki/teams/5115/fonts/sofiasans-variablefont-wght.ttf') format('truetype');
-  font-weight: normal; 
+  font-weight: 100 900; 
   font-style: normal;
 }
 

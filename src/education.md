@@ -247,12 +247,13 @@ After conducting educational practices for high school students, we decided to e
 First, we visited Shizuishan Experimental Junior Middle School in Ningxia, a region known for its ethnic diversity and fixed perceptions of being underdeveloped. Before preparing this course, we conducted thorough research to express our specialized knowledge in as simple a manner as possible. In addition to bringing [picture books](#our-ground-for-future's-building-on), we prepared **dynamic teaching materials and origami games**.
 
 <div style="text-align: center;" id="fig13">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/shizuishan1.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/shizuishan111.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 13: Junior middle school students are carefully listening to Xujie Tan‘s stories. </span>
         <br><br>
     </div>
 </div>
+
 
 However, during the on-site teaching, we realized that the proliferation of **the internet** has improved information exchange in what we once thought were isolated areas. The children are no longer constrained by local economic conditions and educational resources; they can now share the same perspectives as those from more developed regions. This prompted us to rethink the meaning of education. If these children can now easily see the outside world, perhaps the true purpose of education lies in teaching them how to explore the outside world and synthetic biology knowledge on their own.
 

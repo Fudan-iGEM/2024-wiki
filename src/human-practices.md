@@ -353,7 +353,7 @@ We visited Suzhou CPS's electroplating wastewater equipment production workshop,
 
 <br>
 
-## 4. Design＆Refinement
+## Design＆Refinement
 
 Based on detailed literature and online research, we began designing our project. In the initial phase, [MINERAL](/fudan/description/) project consisted of three functional modules: 
 
@@ -429,11 +429,11 @@ At the 11th CCiC, experts from the School of Pharmaceutical Sciences at [Xi'an J
 </div>
 
 
-In response to the potential toxicity of nickel microparticles and the efficiency issues in bacteria, we reached out to Professor Guoping Zhao for advice on the next steps. Professor Zhao from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, analyzed several key directions our project needs to focus on from the perspectives of principle-driven, bottom-up development, and AI assistance. He suggested that we should focus on the project’s needs and set clear benchmarks.
+In response to the potential toxicity of nickel microparticles and the efficiency issues in bacteria, we reached out to [Professor Guoping Zhao](https://life.fudan.edu.cn/94/06/c28221a300038/page.htm) for advice on the next steps. Professor Zhao from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, analyzed several key directions our project needs to focus on from the perspectives of principle-driven, bottom-up development, and AI assistance. He suggested that we should focus on the project’s needs and set clear benchmarks.
 
 <br>
 
-Inspired by Professor Guoping Zhao, we first focused on the efficiency of bacterial performance. After analysis and discussion, we concluded that the absorption efficiency of nickel by the nikABCDE and NixA membrane proteins is a major influencing factor. Therefore, we reached out to Professor Jinbiao Ma for advice on the technical approach.
+Inspired by Professor Guoping Zhao, we first focused on the efficiency of bacterial performance. After analysis and discussion, we concluded that the absorption efficiency of nickel by the nikABCDE and NixA membrane proteins is a major influencing factor. Therefore, we reached out to [Professor Jinbiao Ma](https://life.fudan.edu.cn/66/0f/c31281a353807/page.htm) for advice on the technical approach.
 
 ###  4.4 Discuss with Prof. Ma
 
@@ -460,7 +460,7 @@ Subsequently, following Professor Ma's suggestion, we delved into the principles
 
 <br>
 
-Another issue is the catalytic mechanism of [hydrogenase](https://parts.igem.org/Part:BBa_K5115067). We aimed to fully understand hydrogenase to demonstrate its feasibility as a fundamental component to aid in experimental validation. Therefore, we reached out to Professor Xiaoling Xu from Zhejiang Normal University, who has extensive experience and a unique understanding of the electron transport chain.
+Another issue is the catalytic mechanism of [hydrogenase](https://parts.igem.org/Part:BBa_K5115067). We aimed to fully understand hydrogenase to demonstrate its feasibility as a fundamental component to aid in experimental validation. Therefore, we reached out to [Professor Xiaoling Xu](https://bms.hznu.edu.cn/xuxllab/ktzfzr/) from Hangzhou Normal University, who has extensive experience and a unique understanding of the electron transport chain.
 
 ### 4.5 Email with Prof. Xiaoling Xu
 
@@ -496,7 +496,7 @@ Prof. Xu Xiaoling also provided us with the contact information of other experts
 <br>
 
 
-## 5. Nickel testing
+## Nickel Testing
 
 After completing the basic framework of the project and conducting comprehensive literature research, the initial idea for nickel testing was to detect changes in nickel ion concentration and observe the formation of nickel microparticles. However, we encountered significant challenges with these methods. The iHP work helped us overcome these difficulties and led to the development of improved nickel testing techniques.
 
@@ -506,7 +506,7 @@ Due to limitations in laboratory conditions, the testing of changes in nickel io
 
 <br>
 
-However, these methods are not enough. To find the testing methods we are looking for, we visited Professor Xiuping Zhu from the Department of Environmental Science and Engineering at our University on July 16. 
+However, these methods are not enough. To find the testing methods we are looking for, we visited Professor [Xiuping Zhu](https://environment.fudan.edu.cn/4c/0d/c26241a412685/page.htm) from the Department of Environmental Science and Engineering at our University on July 16. 
 
 ### 5.1 Discuss with Professor Zhu
 
@@ -535,7 +535,7 @@ Recognizing our insufficient environmental science-related experimental equipmen
 
 <br>
 
-After our discussion with Professor Zhu, we also visit prof Feng from the Department of Chemistry at our University on August 2.
+After our discussion with Professor Zhu, we also visit [Prof. Feng](https://faculty.fudan.edu.cn/fengwei1/zh_CN/index.htm) from the Department of Chemistry at our University on August 2.
 
 ### 5.2 Discuss with Professor Wei Feng
 
@@ -555,8 +555,6 @@ After our discussion with Professor Zhu, we also visit prof Feng from the Depart
 </div>
 
 
-
-
 Professor Feng firstly denied our plan to measure the content of nickel microparticles by [UV spectrophotometry](/fudan/experiments/#ni2-concentration-measurement), because the absorption peak of organic compounds is much higher than that of nickel microparticles, which makes it very difficult or even inaccurate to measure the content of nickel particles. He pointed out that this method cannot effectively capture the characteristic absorption peaks of microparticles due to the complex system, and suggested that we use a control group to confirm whether there is interference from the absorption signal of nickel particles. In addition, Professor Feng also mentioned that although nickel microparticles are theoretically magnetic, their magnetic properties are very weak, making nickel testing methods using magnetic separation impractical.
 
 Following his further suggestion, we discussed the possibility of using an electron microscope to observe microparticles. Electron microscopy can more directly and effectively observe the presence and morphology of nickel microparticles, which is more intuitive than ultraviolet spectrophotometry and avoids the interference of complex environments on testing results. Professor Feng also emphasized that special attention should be paid to the oxidation state of nickel microparticles, and reminded us to critically analyze the definition and practical application of "zero-valent nickel" mentioned in the literature. These suggestions prompted us to re-examine the testing methods of nickel microparticles and choose more reliable techniques for further experiments.
@@ -568,7 +566,7 @@ Following his further suggestion, we discussed the possibility of using an elect
 <div style="text-align: center;" id="fig27">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-linzhang-lab.png" style='width:100%'>
     <div>
-          <span style="color: gray">Figure 5.3.2 The Lab of CNERC-CTHMP</span>
+          <span style="color: gray">Figure 5.3 The Lab of CNERC-CTHMP</span>
       <br><br>
     </div>
 </div>
@@ -582,7 +580,8 @@ Following his further suggestion, we discussed the possibility of using an elect
 
 
 
-On August 16, during our visit to the National Engineering Technology Research Center for Heavy Metal Pollution, we entered the scanning electron microscopy room and the transmission electron microscopy room. Doctoral and master's students from Professor Lin's research group, including Fangyuan Du, introduced us to several experimental techniques related to heavy metal wastewater treatment.
+
+On August 16, during our visit to [the National Engineering Technology Research Center for Heavy Metal Pollution](https://zjsgczx.csu.edu.cn/ywz/Home.htm), we entered the scanning electron microscopy room and the transmission electron microscopy room. Doctoral and master's students from Professor Lin's research group, including Fangyuan Du, introduced us to several experimental techniques related to heavy metal wastewater treatment.
 
 
 In CNERC-CTHMP, we observed specialized X-ray-based instruments capable of determining the oxidation states of elements. This inspired us to consider detection methods for metal oxidation states.
@@ -593,7 +592,7 @@ In CNERC-CTHMP, we observed specialized X-ray-based instruments capable of deter
 
 <br>
 
-## 6 Hardware
+## Hardware
 
 In the initial conception of the [MINERAL](/fudan/description/), we designed a membrane-based hardware system, hoping it would address all issues. However, after discussions and exchanges with experts from laboratories and companies, we abandoned the original idea. Through detailed discussions and evaluations, we incorporated the experts' suggestions and designed [a new hardware module](/fudan/hardware/).
 
@@ -639,7 +638,8 @@ We explained our membrane-based hardware concept to Professor Cai, who pointed o
 
 
 
-On August 16, Professor Lin from Central South University emphasized the importance of considering the specificity and key issues of different application environments. He pointed out that our bacterial density is extremely low compared to large natural water bodies. Two problems need to be addressed: 
+
+On August 16, [Professor Lin](https://faculty.csu.edu.cn/linzhang/zh_CN/index.htm) from Central South University emphasized the importance of considering the specificity and key issues of different application environments. He pointed out that our bacterial density is extremely low compared to large natural water bodies. Two problems need to be addressed: 
 
 1. Increase the contact area between [MINERAL](/fudan/description/) project and the ions in the water; 
 2. Enhance the flux of water passing through [MINERAL](/fudan/description/) project per unit time.
@@ -663,10 +663,11 @@ After further research and discussions, we created hardware designs for natural 
 <div style="text-align: center;" id="fig31">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-2.jpg" style='width:100%'>
     <div>
-          <span style="color: gray">Figure 6.3.1 Visit CPS Victory 2</span>
+          <span style="color: gray">Figure 6.3.1 Visit the Victory of CPS</span>
       <br><br>
     </div>
 </div>
+
 
 
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
@@ -680,26 +681,27 @@ After further research and discussions, we created hardware designs for natural 
 Inspired by Professor Zhang Lin, we aimed to enhance the hardware design for treating industrial nickel wastewater from an industrial perspective. 
 
 
-On September 10, during our visit to the Suzhou Yisibei pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing [MINERAL](/fudan/description/) project hardware suitable for industrial environments. 
+On September 10, during our visit to the Suzhou CPS pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing [MINERAL](/fudan/description/) project hardware suitable for industrial environments. 
 
 <div style="text-align: center;" id="fig32">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-victory-4.jpg" style='width:100%'>
     <div>
-          <span style="color: gray">Figure 6.3.2 Visit GEM Victory 4</span>
+          <span style="color: gray">Figure 6.3.2 Pollution Monitoring Center</span>
       <br><br>
     </div>
 </div>
+
 
 We also considered MINERAL project's placement after preliminary alkaline treatment of nickel-polluted wastewater, as it could achieve treatment precision that alkaline methods cannot, while effectively recovering nickel ions.
 
 <br>
 
-### 6.4 Feedback from CPS experts
+### 6.4 Feedback from CPS experts (The Second Meeting)
 
 <div style="text-align: center;" id="fig33">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-30-online-discuss-with-cps.png" style='width:100%'>
     <div>
-          <span style="color: gray">Figure 6.4 Online Meeting with CPS</span>
+          <span style="color: gray">Figure 6.4 The Second Online Meeting with CPS</span>
       <br><br>
     </div>
 </div>
@@ -711,7 +713,8 @@ We also considered MINERAL project's placement after preliminary alkaline treatm
 </div>
 
 
-After we conducted detailed theoretical validation and generated samples of Hardware polymer fibers through experiments, we had another online discussion with Suzhou Yisibei. We spoke with Dr. Hui Han, who expressed that our materials have credible potential and praised our design and experimental data. She also considered the lifespan and cost of Hardware fibers as consumables for industrial applications and hoped that we could further reduce production costs to facilitate industrial use.
+
+After we conducted detailed theoretical validation and generated samples of Hardware polymer fibers through experiments, we had another online discussion with Suzhou CPS. We spoke with Dr. Hui Han, who expressed that our materials have credible potential and praised our design and experimental data. She also considered the lifespan and cost of Hardware fibers as consumables for industrial applications and hoped that we could further reduce production costs to facilitate industrial use.
 
 Following this feedback, our team believes that our product indeed has market potential. Dr. Hui Han indicated that companies would be willing to invest in our new technology. However, we also realize that our product will face cost pressures in the initial stages, and we must ensure the reliability and efficiency of the bacterial cells to truly make a groundbreaking contribution.
 
@@ -721,7 +724,7 @@ Following this feedback, our team believes that our product indeed has market po
 
 <br>
 
-## 7. Dry Lab
+## Dry Lab
 
 "[MINERAL](/fudan/description/) project" is expected to play a role in industrial settings or polluted natural water bodies. To achieve this, we conducted extensive Dry Lab work. Our iHP efforts facilitated research and discussions with various institutions.
 
@@ -732,7 +735,7 @@ Following this feedback, our team believes that our product indeed has market po
 <div style="text-align: center;" id="fig34">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-9-contact-sepb.jpg" style='width:100%'>
     <div>
-          <span style="color: gray">Figure 7.1 Contacting the Shanghai Environmental Protection Bureau</span>
+          <span style="color: gray">Figure 7 Contacting the Shanghai Environmental Protection Bureau</span>
       <br><br>
     </div>
 </div>
@@ -744,7 +747,8 @@ Following this feedback, our team believes that our product indeed has market po
 </div>
 
 
-In our Dry Lab design, inspired by fluid dynamics, we aim to focus on local issues and develop a model to simulate pollution diffusion. During the design process, we reached out to the Shanghai Municipal Ecology and Environment Bureau for data support and suggestions. We received a positive response from the bureau, which further motivated our Model development.
+
+In our Dry Lab design, inspired by fluid dynamics, we aim to focus on local issues and develop a model to simulate pollution diffusion. During the design process, we reached out to [the Shanghai Municipal Ecology and Environment Bureau](https://sthj.sh.gov.cn/) for data support and suggestions. We received a positive response from the bureau, which further motivated our Model development.
 
 Under the transfer of Shanghai Ecological Environmental Protection Bureau, Shanghai Water Affairs Bureau held a telephone conference with us and answered some questions we were concerned about, which helped us carry out the experiment.
 
@@ -754,7 +758,7 @@ Attachment: [Interview Record Shanghai Water Authority](https://static.igem.wiki
 
 
 
-## 8. Future and Responsibility
+## Responsibility and Future
 
 ### 8.1 Discuss with Prof. Yin
 
@@ -766,8 +770,6 @@ Attachment: [Interview Record Shanghai Water Authority](https://static.igem.wiki
     </div>
 </div>
 
-
-
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
     <strong><small>📅 Date:</small></strong> <small>Aug. 5th, 2024</small><br>  
@@ -777,7 +779,7 @@ Attachment: [Interview Record Shanghai Water Authority](https://static.igem.wiki
 </div>
 
 
-Professor Yin initially approached our discussion from the perspective of industrial applications, suggesting that we could set up a buffer pool to absorb nickel, facilitating its deposition or collection, which is suitable for industrial wastewater treatment. He also raised concerns about potential [biosafety issues](/fudan/safety/#project-risk-control) that our project might entail. He proposed that for the treatment of lake and river pollution, ecological principles could be employed to manage *E. coli* through the food chain (plankton), but noted that biosafety is difficult to ensure. Additionally, controlling the quantity of *E. coli* is challenging; on one hand, we must avoid having too few bacteria, which would be ineffective, and on the other hand, we should prevent having too many bacteria that could lead to unknown effects. Lastly, Professor Yin highlighted the difficulties of biosafety assessments and emphasized the need to handle biosafety issues related to genetically modified *E. coli* with caution.
+[Professor Yin](https://life.fudan.edu.cn/b3/2c/c28175a308012/page.htm) initially approached our discussion from the perspective of industrial applications, suggesting that we could set up a buffer pool to absorb nickel, facilitating its deposition or collection, which is suitable for industrial wastewater treatment. He also raised concerns about potential [biosafety issues](/fudan/safety/#project-risk-control) that our project might entail. He proposed that for the treatment of lake and river pollution, ecological principles could be employed to manage *E. coli* through the food chain (plankton), but noted that biosafety is difficult to ensure. Additionally, controlling the quantity of *E. coli* is challenging; on one hand, we must avoid having too few bacteria, which would be ineffective, and on the other hand, we should prevent having too many bacteria that could lead to unknown effects. Lastly, Professor Yin highlighted the difficulties of biosafety assessments and emphasized the need to handle biosafety issues related to genetically modified *E. coli* with caution.
 
 <br>
 
@@ -799,7 +801,7 @@ Professor Yin initially approached our discussion from the perspective of indust
 </div>
 
 
-We had a discussion about our project with Chuyue Zhang, the leader of the Fudan iGEM 2019 team. Chuyue is a PhD student at Yale University, specializing in molecular biology. Based on her iGEM competition experience, she shared a lot of valuable insights with us. We presented our project to Chuyue Zhang, and she thinks that our project is unique and innovative, encouraging us to think boldly and explore the future of synthetic biology and our project.
+We had a discussion about our project with [Chuyue Zhang, the leader of the Fudan iGEM 2019 team](https://old.igem.org/Team.cgi). Chuyue is a PhD student at Yale University, specializing in molecular biology. Based on her iGEM competition experience, she shared a lot of valuable insights with us. We presented our project to Chuyue Zhang, and she thinks that our project is unique and innovative, encouraging us to think boldly and explore the future of synthetic biology and our project.
 
 <br>
 
@@ -821,30 +823,30 @@ We had a discussion about our project with Chuyue Zhang, the leader of the Fudan
 </p>  
 </div>
 
-On August 5, we discussed the future of our project with Professor Philip Beachy and Professor Katrin Andreasson. They believed that our project could be applied to more metals, and similar principles could yield broader social benefits.
+On August 5, we discussed the future of our project with [Professor Philip Beachy](https://www.med.stanford.edu/profiles/philip-beachy) and [Professor Katrin Andreasson](https://www.med.stanford.edu/profiles/katrin-andreasson). They believed that our project could be applied to more metals, and similar principles could yield broader social benefits.
 
 <br>
 
 
 
-## 9. Communicate with Peers: Improving the Project Through Meeting
+## Communicate with Peers
 
 The Fudan iGEM 2024 team organized two and participated in three cross-school exchange activities. Interacting with other teams provided valuable insights for reviewing our own project. We observed that teams from different backgrounds focus on various aspects of the project. Additionally, within the shared context of iGEM, we could avoid straying from synthetic biology principles, effectively identifying solutions to our challenges.
 
 <br>
 
-| Event                                                     | Date      | Improvement                                                  |
-| --------------------------------------------------------- | --------- | ------------------------------------------------------------ |
-| Shanghai Meeting of Fudan-BIT-Tongji-ShanghaiTech iGEMers | 2024.5.4  | Through our exchange with BIT, we learned that both teams were focusing on different aspects of the same issue. This deepened our understanding of battery recycling and ultimately influenced both our project background and theme. |
-| The 11th CCiC                                             | 2024.7.11 | The expert’s questions highlighted flaws in our technical approach and significantly influenced the design of our components. For detailed information, please refer to section [C2.2 The 10th CCiC](/human-practices/#c2-2-the-10th-ccic). |
-| The 6th Northwestern China iGEM Meetup                    | 2024.8.5  | We discussed the HP working method and shared our project details during the conversation. |
-| Changsha Meeting of Fudan-CSU-HNU-NUDT iGEMers            | 2024.8.15 | We raised technical questions with each other and identified potential flaws in the project. |
-| Online Meeting of CUG-Fudan-BIT iGEMers                   | 2024.8.20 | CUG, Fudan, and BIT-China share similar project backgrounds, all focusing on heavy metal recovery or pollution. Through an online conference, we reviewed each other's project designs from different perspectives, gaining a deeper understanding of the topics and background from various technical angles. |
-| Michigan iGEM Environment Symposium                       | 2024.8.22 | We shared our project and engaged in thorough discussions with other teams across cultural contexts, critically analyzing and validating the significance of our project. |
+| Event                                                        | Date      | Improvement                                                  |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| Shanghai Meeting of Fudan-BIT-Tongji-ShanghaiTech iGEMers    | 2024.5.4  | Through our exchange with BIT, we learned that both teams were focusing on different aspects of the same issue. This deepened our understanding of battery recycling and ultimately influenced both our project background and theme. |
+| The 11th CCiC                                                | 2024.7.11 | The expert’s questions highlighted flaws in our technical approach and significantly influenced the design of our components. For detailed information, please refer to section 4.2 The 11th CCiC. |
+| [The 6th Northwestern China iGEM Meetup](https://mp.weixin.qq.com/s/_jbI8uVtmTqemjQcoTS4ew) | 2024.8.5  | We discussed the HP working method and shared our project details during the conversation. |
+| Changsha Meeting of Fudan-CSU-HNU-NUDT iGEMers               | 2024.8.15 | We raised technical questions with each other and identified potential flaws in the project. |
+| Online Meeting of CUG-Fudan-BIT iGEMers                      | 2024.8.20 | CUG, Fudan, and BIT-China share similar project backgrounds, all focusing on heavy metal recovery or pollution. Through an online conference, we reviewed each other's project designs from different perspectives, gaining a deeper understanding of the topics and background from various technical angles. |
+| Michigan iGEM Environment Symposium                          | 2024.8.22 | We shared our project and engaged in thorough discussions with other teams across cultural contexts, critically analyzing and validating the significance of our project. |
 
 <br>
 
-## 10. How the iHP work paradigm enhances education and inclusivity
+## How the iHP work enhances Edu ＆ INC
 
 Although Education and Inclusivity are not strictly part of iHP, we still utilized the DBTL-based iHP approach to engage with education experts, sociologists, and social workers. Our Education and Inclusivity activities benefited significantly from these interactions.
 
