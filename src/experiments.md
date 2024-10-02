@@ -1,12 +1,12 @@
 ---
 title: Experiments
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
-
 author:
-- name: Kexin Huang
+  name: Kexin Huang
   url: /fudan/team/#kexin-huang
+headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
+<br>
 
 ## Abbreviation List
 
@@ -19,11 +19,13 @@ Table 1: Abbreviation List
 | ddH~2~O      | Double-Distilled Water           |
 | *E. coli*    | *Escherichia coli*               |
 | MOIs         | multiplicity of infections       |
+| NGM          | Nematode Growth Medium           |
 | LB           | Luria-Bertani                    |
 | OD           | Optical Density                  |
 | PBS          | Phosphate Buffered Saline        |
 | SDS          | Sodium Dodecyl Sulfate           |
 
+<br>
 
 ## Ni^2+^ Concentration Measurement
 
@@ -75,7 +77,7 @@ For each EP tube, shake well after adding reagents and set aside for 5 minutes. 
 #### IV. Results
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/experiments/standardcurve.png" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/experiments/standardcurve.png" style='width:100%'>
     <div>
     	  <span style="color: gray">Figure 1: Standard Curve of Abs~530~ and NiCl~2~ Concentration</span>
       <br><br>
@@ -84,6 +86,7 @@ For each EP tube, shake well after adding reagents and set aside for 5 minutes. 
 
     Formual 1:  Abs = 0.04343*C + 0.7438 [R Square = 0.9984]
 
+<br>
 
 ### Measurement of samples
 
@@ -99,6 +102,7 @@ For each EP tube, shake well after adding reagents and set aside for 5 minutes. 
 
 For each EP tube, shake well after adding reagents and set aside for 5 minutes. Shake before measuring each tube and rinse the cuvette. Then measure its absorbance at wavelength 530 nm. Use the color-developing solution without NiCl~2~ as a blank control.
 
+<br>
 
 ## Phage Resistance Assay
 
@@ -110,6 +114,40 @@ For each EP tube, shake well after adding reagents and set aside for 5 minutes. 
 
 The phage carries Kan resistance. If the bacteria was infected by phage, colonies form on the Kan plate.
 
+<br>
+
+## Ecotoxicity Testing
+
+### Reagents
+
+- NGM Preparation
+  1. Add 2.5 g peptone, 3 g NaCl, 20 g agar, 25 mL of 1 mol/L phosphate buffer (108.3 g KH~2~PO~4~, 35.6 g K~2~HPO~4~, pH 6.0, made up to 1 L), 1 mL of 1 mol/L CaCl~2~ solution, 1 mL of 1 mol/L MgSO~4~ solution, dissolve in 1 L ddH~2~O. 
+  2. Sterilize at 121°C under high pressure for 20 minutes.
+  3. Cool down to approximately 55°C at room temperature, then add 1 mL of a 5 mg/mL cholesterol solution (prepared in anhydrous ethanol).
+
+- M9 Buffer Preparation: Add 3 g KH~2~PO~4~, 6 g Na~2~HPO~4~, 5 g NaCl, 1 mL of 1 mol/L MgSO~4~, dissolve in 1 L ddH~2~O. 
+
+- Caenorhabditis elegans Lysis Solution (Prepare before use): Add 1 mL of 5 mol/L NaOH, 1 mL of 10% NaClO, dissolve in 7 mL ddH~2~O.
+
+<br>
+
+### Experimental Procedures
+
+#### Synchronization of Nematodes:
+
+1. Rinse the nematodes on the medium with 2 mL ddH~2~O, transfer them to a centrifuge tube, and centrifuge at 3000 rpm for one minute.
+2. Discard the supernatant carefully. Add 1 mL of nematode lysis solution, vortex thoroughly for 10 minutes.
+3. Centrifuge at 5000 rpm for one minute, discard the supernatant.
+4. Add 1 mL of M9 buffer, vortex thoroughly, centrifuge at 3000 rpm for one minute. Discard the supernatant. Repeat this entire process three times, leaving approximately 100 µL of M9 remains in the centrifuge tube after the final round.
+5. Dispense the solution on NGM medium coated with OP50 and culture at 20°C. Collect L2-stage nematodes after approximately 20 hours.
+
+#### Locomotion Measurement:
+
+1. Collect the L2-stage nematodes and deposit them on the medium.
+2. Incubate at 20°C for 18 hours and capture their locomotion using a microscope.
+3. Analyze the recorded movement trajectories utilizing the ImageJ Plugins Animal Tracker.
+
+<br>
 
 ## Other experimental methods
 
@@ -125,5 +163,4 @@ The phage carries Kan resistance. If the bacteria was infected by phage, colonie
 * Inserts and vectors were ligated using [ClonExpress reaction](https://2021.igem.org/Team:Fudan/Experiments#clonexpress-ligation-reaction).
 * [Bacteria transformation](https://2023.igem.wiki/fudan/experiments/#plasmid-transformation) and [plating](https://2023.igem.wiki/fudan/experiments/#plating) were conducted as described previously.
 * [Bacteria colony PCR](https://2022.igem.wiki/fudan/experiments#colony-pcr) with [the listed primers](/fudan/parts/) was used to screen plasmids before sending to Sanger sequencing.
-* [Bacteria Spot Assay](/fudan/measurement/#key-characteristics-and-functionality) is detailed on our [Measurement](/fudan/measurement) page.
 * Bacteria [cryopreservation](https://2022.igem.wiki/fudan/experiments#cell-cryopreservation) and [recovery](https://2022.igem.wiki/fudan/experiments#cell-recovery) were performed as described previously.
