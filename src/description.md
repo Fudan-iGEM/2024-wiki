@@ -130,7 +130,7 @@ To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR a
 </div>
 
 
-### 2. Survival Module
+### 2. Survival Modules
 
 #### a) Heavy Metal Tolerance
 

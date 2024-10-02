@@ -267,7 +267,7 @@ Greenme's experts provided several technical expectations for our project:
 
 1. **High osmotic pressure tolerance**: MEME must withstand high sodium and sulfate ions common in industrial wastewater to be effective.
 2. **Specificity**: MEME's specificity should target a particular stage in industrial battery recycling, ideally paired with a systematic hardware design.
-3. **Nickel nanoparticle production**: The engineers are highly interested in the production of nickel nanoparticles, which could revolutionize the inefficient process of nickel extraction from laterite ores and enable a closed-loop industry.
+3. **Nickel nanoparticle production**: The engineers are highly interested in the production of nickel particles, which could revolutionize the inefficient process of nickel extraction from laterite ores and enable a closed-loop industry.
 
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-3.jpg" style="width: 100%">
@@ -445,7 +445,7 @@ We consulted Professor Ma about whether the oligomerization of channel proteins 
 </p>  
 </div>
 
-In the construction of the technical route for the transformation of nickel ions into nickel nanoparticles, we paid attention to hydrogenase and sent an email to Professor Xu Xiaoling, an expert in the field of electron transfer chain. We have focused on three issues:
+In the construction of the technical route for the transformation of nickel ions into nickel particles, we paid attention to hydrogenase and sent an email to Professor Xu Xiaoling, an expert in the field of electron transfer chain. We have focused on three issues:
 
 1. What specific conditions are required for the reduction of nickel ions to their elemental form, and where are the key steps?
 2. How is the key component carboxyl matrix constructed and expressed?
@@ -454,7 +454,7 @@ Can cyanobacteria produce hydrogen and participate in the construction of our sy
 
 Teacher Xu Xiaoling answered our questions in detail. She pointed out that the reduction of nickel ions to elemental form is a process that requires specific conditions, such as a suitable redox environment and heating. She suggested that we conduct an experiment to verify whether the hydrogen produced by the hydrogenase expressed in E. coli has the ability to reduce nickel ions in solution/wastewater. Although Mr. Xu said that he was not familiar with the carboxyl group, he affirmed our idea of producing hydrogen from cyanobacteria and suggested that the symbiotic system of Escherichia coli and cyanobacteria had no obvious advantage over expressing hydrogenase in Escherichia coli alone in terms of hydrogen production.
 
-Ms. Xu Xiaoling also provided us with the contact information of other experts in the field, which was instrumental in helping us successfully construct the carboxyl matrix and produce nickel nanoparticles.
+Ms. Xu Xiaoling also provided us with the contact information of other experts in the field, which was instrumental in helping us successfully construct the carboxyl matrix and produce nickel particles.
 
 <br>
 
@@ -465,13 +465,13 @@ Ms. Xu Xiaoling also provided us with the contact information of other experts i
 
 ## 5. Measurement
 
-After completing the basic framework of the project and conducting comprehensive literature research, the initial idea for **Measurement** was to detect changes in nickel ion concentration and observe the formation of nickel nanoparticles. However, we encountered significant challenges with these methods. The iHP work helped us overcome these difficulties and led to the development of improved **Measurement** techniques.
+After completing the basic framework of the project and conducting comprehensive literature research, the initial idea for **Measurement** was to detect changes in nickel ion concentration and observe the formation of nickel particles. However, we encountered significant challenges with these methods. The iHP work helped us overcome these difficulties and led to the development of improved **Measurement** techniques.
 
 Between April and May, we discussed the laboratory instruments and conditions with Professor Cai Liang, the lab's PI, and based on this, we designed two **Measurement** technical approaches.
 
 Due to limitations in laboratory conditions, the measurement of changes in nickel ion concentration will be based on a standard colorimetric method.
 
-For the formation of nickel nanoparticles, we plan to use the magnetic properties of the nanoparticles for sorting and identification, while simultaneously utilizing UV-Vis spectrophotometry to determine the absorption peaks.
+For the formation of nickel particles, we plan to use the magnetic properties of the nanoparticles for sorting and identification, while simultaneously utilizing UV-Vis spectrophotometry to determine the absorption peaks.
 
 <br>
 
@@ -495,7 +495,7 @@ However, these methods are not enough. To find the testing methods we are lookin
 </div>
 
 
-Professor Zhu has long been engaged in metal wastewater treatment. She guided us through the laboratory, explaining the uses and basic operating procedures of various instruments. She suggested that when analyzing the generated "nickel nanoparticles" using multi-element experimental wastewater, we should include elemental analysis to determine the composition of the metal nanoparticles, as it can be challenging to identify their elements based solely on their appearance.
+Professor Zhu has long been engaged in metal wastewater treatment. She guided us through the laboratory, explaining the uses and basic operating procedures of various instruments. She suggested that when analyzing the generated "nickel particles" using multi-element experimental wastewater, we should include elemental analysis to determine the composition of the metal nanoparticles, as it can be challenging to identify their elements based solely on their appearance.
 
 
 Recognizing our insufficient environmental science-related experimental equipment, Professor Zhu Xiuping recommended a shared instrument platform, which would facilitate our experimental work.
@@ -521,9 +521,9 @@ After our discussion with Professor Zhu, we also visit Professor Feng from the D
 </p>  
 </div>
 
-Professor Feng firstly denied our plan to measure the content of nickel nanoparticles by UV spectrophotometry, because the absorption peak of organic compounds is much higher than that of nickel nanoparticles, which makes it very difficult or even inaccurate to measure the content of nickel particles. He pointed out that this method cannot effectively capture the characteristic absorption peaks of nanoparticles due to the complex system, and suggested that we use a control group to confirm whether there is interference from the absorption signal of nickel particles. In addition, Professor Feng also mentioned that although nickel nanoparticles are theoretically magnetic, their magnetic properties are very weak, making measurement methods using magnetic separation impractical.
+Professor Feng firstly denied our plan to measure the content of nickel particles by UV spectrophotometry, because the absorption peak of organic compounds is much higher than that of nickel particles, which makes it very difficult or even inaccurate to measure the content of nickel particles. He pointed out that this method cannot effectively capture the characteristic absorption peaks of nanoparticles due to the complex system, and suggested that we use a control group to confirm whether there is interference from the absorption signal of nickel particles. In addition, Professor Feng also mentioned that although nickel particles are theoretically magnetic, their magnetic properties are very weak, making measurement methods using magnetic separation impractical.
 
-Following his further suggestion, we discussed the possibility of using an electron microscope to observe nanoparticles. Electron microscopy can more directly and effectively observe the presence and morphology of nickel nanoparticles, which is more intuitive than ultraviolet spectrophotometry and avoids the interference of complex environments on measurement results. Professor Feng also emphasized that special attention should be paid to the oxidation state of nickel nanoparticles, and reminded us to critically analyze the definition and practical application of "zero-valent nickel" mentioned in the literature. These suggestions prompted us to re-examine the measurement methods of nickel nanoparticles and choose more reliable techniques for further experiments.
+Following his further suggestion, we discussed the possibility of using an electron microscope to observe nanoparticles. Electron microscopy can more directly and effectively observe the presence and morphology of nickel particles, which is more intuitive than ultraviolet spectrophotometry and avoids the interference of complex environments on measurement results. Professor Feng also emphasized that special attention should be paid to the oxidation state of nickel particles, and reminded us to critically analyze the definition and practical application of "zero-valent nickel" mentioned in the literature. These suggestions prompted us to re-examine the measurement methods of nickel particles and choose more reliable techniques for further experiments.
 
 <br>
 

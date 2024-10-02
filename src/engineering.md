@@ -15,7 +15,7 @@ author:
 
 ### Cycle 1 Design
 
-To make our *Escherichia coli* efficiently absorb nickel ions, we need active [nickel uptake](/fudan/description/#_1-nickel-enrichment-module), which includes a nickel transport protein called nikABCDE[^1]. Because nikA is the rate-limiting enzyme, according to [our previous observations](https://parts.igem.org/Part:BBa_K4765129), we put it as the last one when we connect these CDS with the Ribozyme-Assisted Polycistronic expression system (pRAP)[^2].
+To make our *Escherichia coli* efficiently absorb nickel ions, we need active [nickel uptake](/fudan/description/#_1-nickel-enrichment-module), which includes a nickel transport protein called nikABCDE[^1]. Because nikA is the rate-limiting step, according to [our previous observations](https://parts.igem.org/Part:BBa_K4765129), we put it as the last one when we connect these CDS with the Ribozyme-Assisted Polycistronic expression system (pRAP)[^2].
 
 As for the other nickel transport protein NixA ([BBa_K5115071](https://parts.igem.org/Part:BBa_K5115071))[^3], we also made dimerizable versions ([BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086), [BBa_K5115087](https://parts.igem.org/Part:BBa_K5115087)), using a well-studied rapamycin-induced protein dimerization system [^5].
 
