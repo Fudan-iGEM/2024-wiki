@@ -13,7 +13,7 @@ author:
 
 <br>
 
-“Human Practices” refers to iGEM teams’ proactive efforts to assess how their work interacts with the world and the broader impacts it creates. MINERAL project addressed the industrial issue of nickel wastewater pollution, aiming to contribute to a better planet and future for humanity. This vision also evolved through the project's lifecycle. Our HP efforts helped us navigate challenges, fostering connections with esteemed scientists, wastewater treatment enterprises, government bodies, and like-minded teams, all of which played pivotal roles in key decisions throughout the project.
+“Human Practices” refers to iGEM teams’ proactive efforts to assess how their work interacts with the world and the broader impacts it creates. [MINERAL](/fudan/description/) project addressed the industrial issue of nickel wastewater pollution, aiming to contribute to a better planet and future for humanity. This vision also evolved through the project's lifecycle. Our HP efforts helped us navigate challenges, fostering connections with esteemed scientists, wastewater treatment enterprises, government bodies, and like-minded teams, all of which played pivotal roles in key decisions throughout the project.
 
 Next, join us as we embark on an exciting HP journey together!
 
@@ -66,7 +66,7 @@ Next, join us as we embark on an exciting HP journey together!
 
 ### 1.1 From Wild Imagination to Nickel
 
-During the brainstorming phase, Fudan iGEMers showcased their boundless creativity. Through discussions and idea exchanges, the team decided to focus on a technology for treating nickel ion solutions, naming it MINERAL project now. This decision was based on several factors, with the importance, scarcity, and specificity of nickel resources being the most fundamental considerations.
+During the brainstorming phase, Fudan iGEMers showcased their boundless creativity. Through discussions and idea exchanges, the team decided to focus on a technology for treating nickel ion solutions, naming it [MINERAL](/fudan/description/) project now. This decision was based on several factors, with the importance, scarcity, and specificity of nickel resources being the most fundamental considerations.
 
 <br>
 
@@ -104,7 +104,7 @@ With this, we gathered all the essential background information we needed, offic
 
 The Maturity Model is a management concept. When establishing a team, an enterprise, or running any system, it is essential to understand our performance and know how it compares to the best possible outcomes. This is the significance of the Maturity Model.
 
-The iGEM Human Practices Maturity Model evaluates the maturity of iHP work from six aspects: Reflecting on design decisions**, **Exploring and reflecting on context beyond the lab**, **Incorporating diverse perspectives**, **Anticipating positive and negative impacts**, **Responding to human practices work, and Approaching limitations with integrity. Additionally, it encourages Creativity and Originality.
+[The iGEM Human Practices Maturity Model](https://responsibility.igem.org/human-practices/maturity-model) evaluates the maturity of iHP work from six aspects: Reflecting on design decisions**, **Exploring and reflecting on context beyond the lab**, **Incorporating diverse perspectives**, **Anticipating positive and negative impacts**, **Responding to human practices work, and Approaching limitations with integrity. Additionally, it encourages Creativity and Originality.
 
 From our perspective, these considerations can be summarized into several key terms: comprehensive lifecycle**, **thoughtfulness**, **breadth**, **effectiveness**, **integrity, and innovation.
 
@@ -120,7 +120,7 @@ Our iHP work strictly adheres to the principle of integrity and covers the entir
 
 ## Topic Refine & Background
 
-The foundation of the project was built upon comprehensive literature and online research, giving rise to the creation of MINERAL project.
+The foundation of the project was built upon comprehensive literature and online research, giving rise to the creation of [MINERAL](/fudan/description/) project.
 
 However, after identifying and reflecting on this scientific issue, based on simple synthetic biology components, needed further engagement and updates through communication with frontline stakeholders. 
 
@@ -158,7 +158,7 @@ He praised our project’s nickel specificity and suggested focusing on wastewat
 
 Mr. Xiong also suggested that we visit battery recycling plants or other relevant factories for further field research to gain hands-on experience and understand industry needs. 
 
-Following his advice, we explored additional sources of nickel pollution, leading us to focus on addressing nickel contamination in wastewater from electric vehicle battery recycling. At this point, our project was named "MINERAL", symbolizing our goal of recycling nickel from wastewater.
+Following his advice, we explored additional sources of nickel pollution, leading us to focus on addressing nickel contamination in wastewater from electric vehicle battery recycling. At this point, our project was named "[MINERAL](/fudan/description/)", symbolizing our goal of recycling nickel from wastewater.
 
 <br>
 
@@ -183,7 +183,7 @@ Following his advice, we explored additional sources of nickel pollution, leadin
 
 
 
-On May 4th, we hosted a project design exchange at our University with BIT-China, ShanghaiTech-China, and Tongji-China. To our surprise, [BIT-China](https://2024.igem.wiki/bit-china/) also focused on battery issues, though they approached electric vehicle battery recycling with entirely different strategies. While their work was not centered on pollution, through in-depth discussions, we gained new insights from an engineering perspective and realized that nickel, though significant in our project, is not the primary industrial concern in battery production and recycling.
+On May 4th, we hosted a project design exchange at our University with [BIT-China](https://2024.igem.wiki/bit-china/) , [ShanghaiTech-China](https://2024.igem.wiki/shanghaitech-china/), and [Tongji-China](https://2024.igem.wiki/tongji-china/). To our surprise, BIT-China also focused on battery issues, though they approached electric vehicle battery recycling with entirely different strategies. While their work was not centered on pollution, through in-depth discussions, we gained new insights from an engineering perspective and realized that nickel, though significant in our project, is not the primary industrial concern in battery production and recycling.
 
 <br>
 
@@ -220,7 +220,7 @@ However, in the lab, wastewater from processes like cleaning, acid washing, and 
 
 <br>
 
-Since we still needed to find answers within the electric vehicle battery recycling industry, on August 9, we presented our "MINERAL" project during a discussion with U Power Technology.
+Since we still needed to find answers within the electric vehicle battery recycling industry, on August 9, we presented our "[MINERAL](/fudan/description/)" project during a discussion with [U Power Technology](https://upower.com/about-us/).
 
 ### 3.4 Meeting with U Power
 
@@ -241,13 +241,13 @@ Since we still needed to find answers within the electric vehicle battery recycl
 
 
 
-The investment experts at U Power Technologies expressed strong interest in the MINERAL project but pointed out that the experimental validation is still in its early stages, making it difficult to assess its readiness for commercial application. They suggested visiting industrial battery recycling plants to bridge the gap between theory and engineering.
+The investment experts at U Power Technologies expressed strong interest in the [MINERAL](/fudan/description/) project but pointed out that the experimental validation is still in its early stages, making it difficult to assess its readiness for commercial application. They suggested visiting industrial battery recycling plants to bridge the gap between theory and engineering.
 
 Moreover,  U Power believes the market for new energy applications is relatively small and recommended shifting the focus toward broader issues, such as nickel-heavy metal wastewater pollution.
 
 <br>
 
-With this question in mind, and inspired by Mr. Xiong and the investment experts from U Power Technology, we visited Jingmen GEM Co., Ltd. in Jingmen, China, on August 15, thanks to U Power Technology's introduction. GME is dedicated to the recycling of electric vehicle batteries and has extensive recycling experience.
+With this question in mind, and inspired by Mr. Xiong and the investment experts from U Power Technology, we visited [Jingmen GEM Co., Ltd. in Jingmen, China](https://www.gem.com.cn/gb/index.html), on August 15, thanks to U Power Technology's introduction. GME is dedicated to the recycling of electric vehicle batteries and has extensive recycling experience.
 
 ### 3.5 Visit GEM victory in Jingmen
 
@@ -302,7 +302,7 @@ GEM's experts also suggested that our perspective should be broader, focusing on
 
 <br>
 
-To gain a comprehensive understanding of these industrial nickel wastewater issues, we held an online meeting with Suzhou in times of chemical environmental protection equipment technology CO., LTD on August 27. 
+To gain a comprehensive understanding of these industrial nickel wastewater issues, we held an online meeting with [Suzhou in times of chemical environmental protection equipment technology CO., LTD](https://www.cps88.cn/) on August 27. 
 
 ### 3.6 Visit CPS Victory
 
@@ -355,19 +355,19 @@ We visited Suzhou CPS's electroplating wastewater equipment production workshop,
 
 ## 4. Design＆Refinement
 
-Based on detailed literature and online research, we began designing our project. In the initial phase, MINERAL project consisted of three functional modules: 
+Based on detailed literature and online research, we began designing our project. In the initial phase, [MINERAL](/fudan/description/) project consisted of three functional modules: 
 
-1. The nikABCDE membrane protein module, which facilitates the absorption of nickel ions into the cytoplasm; 
+1. [The nikABCDE membrane protein module](https://parts.igem.org/Part:BBa_K4765129), which facilitates the absorption of nickel ions into the cytoplasm; 
 2. The MntS protein module, which prevents the efflux of metal ions; 
-3. The MTA protein module, which binds metal ions intracellularly.
+3. [The MTA protein module](https://parts.igem.org/Part:BBa_K5115050), which binds metal ions intracellularly.
 
 <br>
 
-At the beginning of the project, we had a full discussion with PI Professor Daru Lu and Instructor Professor Liang Cai to consider the direction of our project. Under the advice of our teachers, we contacted Professor Jiang Zhong and Professor Boxun Lu to further discuss our project.
+At the beginning of the project, we had a full discussion with PI Professor [Daru Lu](https://life.fudan.edu.cn/e7/3c/c28175a386876/page.htm) and Instructor Professor [Liang Cai](https://life.fudan.edu.cn/b3/05/c28175a307973/page.htm) to consider the direction of our project. Under the advice of our teachers, we contacted Professor [Jiang Zhong](https://life.fudan.edu.cn/65/f8/c31282a353784/page.htm) and Professor [Boxun Lu](https://life.fudan.edu.cn/91/5b/c28176a299355/page.htm) to further discuss our project.
 
 ### 4.1 Discuss with Professor Jiang Zhong and Professor Boxun Lu
 
-<div style="display: flex; justify-content: space-between; align-items: center;">       <div style="flex: 1; text-align: center;" id='fig19'>           <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-zhong.jpg" style="width: 80%; height: auto;">           <div style="margin-top: 10px;">               <span style="color: gray">Figure 4.1.1 Prof. Zhong (Left)</span>           </div>       </div>       <div style="flex: 1; text-align: center;" id='fig20'>           <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-ru.jpg" style="width: 80%; height: auto;">           <div style="margin-top: 10px;">               <span style="color: gray">Figure 4.1.2 Prof. Ru (Right)</span>           </div>       </div>   </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">       <div style="flex: 1; text-align: center;" id='fig19'>           <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-zhong.jpg" style="width: 80%; height: auto;">           <div style="margin-top: 10px;">               <span style="color: gray">Figure 4.1.1 Prof. Zhong (Left)</span>           </div>       </div>       <div style="flex: 1; text-align: center;" id='fig20'>           <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-ru.jpg" style="width: 83%; height: auto;">           <div style="margin-top: 10px;">               <span style="color: gray">Figure 4.1.2 Prof. Ru (Right)</span>           </div>       </div>   </div>
 
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
@@ -377,11 +377,11 @@ At the beginning of the project, we had a full discussion with PI Professor Daru
 </p>  
 </div>
 
-Two professors discussed with us the rationale and feasibility of the three-module design. They questioned the role of the MntS protein in the system and suggested that we focus on the nickel-related protein system in *Helicobacter pylori*. After detailed discussions and literature review, we eliminated incorrect ideas and redesigned the modules. We identified the *H. pylori* NixA nickel absorption membrane protein and Hpn nickel-binding protein, and based on these, we refined the nickel absorption system and the intracellular nickel conversion system.
+Two professors discussed with us the rationale and feasibility of the three-module design. They questioned the role of the MntS protein in the system and suggested that we focus on the nickel-related protein system in *Helicobacter pylori*. After detailed discussions and literature review, we eliminated incorrect ideas and redesigned the modules. We identified the *H. pylori* [NixA nickel absorption membrane protein](https://parts.igem.org/Part:BBa_K5115071) and [Hpn nickel-binding protein](https://parts.igem.org/Part:BBa_K5115036), and based on these, we refined the nickel absorption system and the intracellular nickel conversion system.
 
 <br>
 
-<strong><font size="4rem">In the following months, after multiple rounds of feedback and iteration, we noticed the special properties of hydrogenase, which can catalyze the conversion of nickel ions into nickel microparticles in a hydrogen-supplied environment. With this, we developed an intracellular downstream mechanism involving hydrogenase catalysis to form microparticles.</font></strong>
+<strong><font size="4rem">In the following months, after multiple rounds of feedback and iteration, we noticed the special properties of hydrogenase, which can catalyze the conversion of nickel ions into [nickel microparticles](/fudan/description/#_3-nickel-microparticle-module) in [a hydrogen-supplied environment](/fudan/description/#_4-hydrogen-supply-via-cyanobacteria-e-coli-interaction). With this, we developed an intracellular downstream mechanism involving hydrogenase catalysis to form microparticles.</font></strong>
 
 <br>
 
@@ -403,7 +403,7 @@ Two professors discussed with us the rationale and feasibility of the three-modu
 </div>
 
 
-At the 11th CCiC, experts from the School of Pharmaceutical Sciences at Xi'an Jiaotong-Liverpool University discussed with us the potential issues related to the production of nickel microparticles, including how to supply hydrogen and whether nickel microparticles are toxic to bacteria. After careful research and discussions, we confirmed through reliable literature that nickel microparticles of a certain size have toxic effects on bacteria. Inspired by our symbiotic system from last year, we constructed a "cyanobacteria-*E. coli*" symbiotic system and began wet lab experiments for validation.
+At the 11th CCiC, experts from the School of Pharmaceutical Sciences at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/zh) discussed with us the potential issues related to the production of nickel microparticles, including how to supply hydrogen and whether nickel microparticles are toxic to bacteria. After careful research and discussions, we confirmed through reliable literature that nickel microparticles of a certain size have toxic effects on bacteria. Inspired by our symbiotic system from last year, we constructed a "cyanobacteria-*E. coli*" symbiotic system and began wet lab experiments for validation.
 
 <br>
 
@@ -454,13 +454,13 @@ Inspired by Professor Guoping Zhao, we first focused on the efficiency of bacter
 
 
 
-We consulted Professor Ma about whether the oligomerization of channel proteins can enhance transport efficiency. Professor Ma indicated that this was an experimental question and he couldn't provide a definitive answer. However, he pointed us in the direction of using the FKBP method to achieve protein oligomerization, which helped us construct oligomeric proteins.
+We consulted Professor Ma about whether the oligomerization of channel proteins can enhance transport efficiency. Professor Ma indicated that this was an experimental question and he couldn't provide a definitive answer. However, he pointed us in the direction of using the [FKBP](https://parts.igem.org/Part:BBa_K5115085) method to achieve protein oligomerization, which helped us construct oligomeric proteins.
 
 Subsequently, following Professor Ma's suggestion, we delved into the principles and feasibility of how FKBP promotes the polymerization of the NixA protein. After gaining a deeper understanding of the principles, we decided to incorporate FKBP into our design, which would facilitate the formation of dimeric NixA proteins and enhance the speed and efficiency of nickel ion absorption into the bacterial cells.
 
 <br>
 
-Another issue is the catalytic mechanism of hydrogenase. We aimed to fully understand hydrogenase to demonstrate its feasibility as a fundamental component to aid in experimental validation. Therefore, we reached out to Professor Xiaoling Xu from Zhejiang Normal University, who has extensive experience and a unique understanding of the electron transport chain.
+Another issue is the catalytic mechanism of [hydrogenase](https://parts.igem.org/Part:BBa_K5115067). We aimed to fully understand hydrogenase to demonstrate its feasibility as a fundamental component to aid in experimental validation. Therefore, we reached out to Professor Xiaoling Xu from Zhejiang Normal University, who has extensive experience and a unique understanding of the electron transport chain.
 
 ### 4.5 Email with Prof. Xiaoling Xu
 
@@ -496,13 +496,13 @@ Prof. Xu Xiaoling also provided us with the contact information of other experts
 <br>
 
 
-## 5. Measurement
+## 5. Nickel testing
 
-After completing the basic framework of the project and conducting comprehensive literature research, the initial idea for **Measurement** was to detect changes in nickel ion concentration and observe the formation of nickel microparticles. However, we encountered significant challenges with these methods. The iHP work helped us overcome these difficulties and led to the development of improved **Measurement** techniques.
+After completing the basic framework of the project and conducting comprehensive literature research, the initial idea for nickel testing was to detect changes in nickel ion concentration and observe the formation of nickel microparticles. However, we encountered significant challenges with these methods. The iHP work helped us overcome these difficulties and led to the development of improved nickel testing techniques.
 
-Between April and May, we discussed the laboratory instruments and conditions with Professor Cai, our Instructor, and based on this, we designed two **Measurement** technical approaches.
+Between April and May, we discussed the laboratory instruments and conditions with Professor Cai, our Instructor, and based on this, we designed two nickel testing technical approaches.
 
-Due to limitations in laboratory conditions, the measurement of changes in nickel ion concentration will be based on a standard spectrophotometric method.
+Due to limitations in laboratory conditions, the testing of changes in nickel ion concentration will be based on a standard spectrophotometric method.
 
 <br>
 
@@ -557,9 +557,9 @@ After our discussion with Professor Zhu, we also visit prof Feng from the Depart
 
 
 
-Professor Feng firstly denied our plan to measure the content of nickel microparticles by UV spectrophotometry, because the absorption peak of organic compounds is much higher than that of nickel microparticles, which makes it very difficult or even inaccurate to measure the content of nickel particles. He pointed out that this method cannot effectively capture the characteristic absorption peaks of microparticles due to the complex system, and suggested that we use a control group to confirm whether there is interference from the absorption signal of nickel particles. In addition, Professor Feng also mentioned that although nickel microparticles are theoretically magnetic, their magnetic properties are very weak, making measurement methods using magnetic separation impractical.
+Professor Feng firstly denied our plan to measure the content of nickel microparticles by [UV spectrophotometry](/fudan/experiments/#ni2-concentration-measurement), because the absorption peak of organic compounds is much higher than that of nickel microparticles, which makes it very difficult or even inaccurate to measure the content of nickel particles. He pointed out that this method cannot effectively capture the characteristic absorption peaks of microparticles due to the complex system, and suggested that we use a control group to confirm whether there is interference from the absorption signal of nickel particles. In addition, Professor Feng also mentioned that although nickel microparticles are theoretically magnetic, their magnetic properties are very weak, making nickel testing methods using magnetic separation impractical.
 
-Following his further suggestion, we discussed the possibility of using an electron microscope to observe microparticles. Electron microscopy can more directly and effectively observe the presence and morphology of nickel microparticles, which is more intuitive than ultraviolet spectrophotometry and avoids the interference of complex environments on measurement results. Professor Feng also emphasized that special attention should be paid to the oxidation state of nickel microparticles, and reminded us to critically analyze the definition and practical application of "zero-valent nickel" mentioned in the literature. These suggestions prompted us to re-examine the measurement methods of nickel microparticles and choose more reliable techniques for further experiments.
+Following his further suggestion, we discussed the possibility of using an electron microscope to observe microparticles. Electron microscopy can more directly and effectively observe the presence and morphology of nickel microparticles, which is more intuitive than ultraviolet spectrophotometry and avoids the interference of complex environments on testing results. Professor Feng also emphasized that special attention should be paid to the oxidation state of nickel microparticles, and reminded us to critically analyze the definition and practical application of "zero-valent nickel" mentioned in the literature. These suggestions prompted us to re-examine the testing methods of nickel microparticles and choose more reliable techniques for further experiments.
 
 <br>
 
@@ -589,13 +589,13 @@ In CNERC-CTHMP, we observed specialized X-ray-based instruments capable of deter
 
 <br>
 
-<strong><font size="4">The three iHP efforts guided us in developing a comprehensive detection method and techniques. This allowed us to establish a Measurement approach focused primarily on two core technologies: standard colorimetric methods and electron microscopy observation.</font></strong>
+<strong><font size="4">The three iHP efforts guided us in developing a comprehensive detection method and techniques. This allowed us to establish a nickel testing approach focused primarily on two core technologies: standard colorimetric methods and electron microscopy observation.</font></strong>
 
 <br>
 
 ## 6 Hardware
 
-In the initial conception of the MINERAL, we designed a membrane-based hardware system, hoping it would address all issues. However, after discussions and exchanges with experts from laboratories and companies, we abandoned the original idea. Through detailed discussions and evaluations, we incorporated the experts' suggestions and designed [a new hardware module](/fudan/hardware/).
+In the initial conception of the [MINERAL](/fudan/description/), we designed a membrane-based hardware system, hoping it would address all issues. However, after discussions and exchanges with experts from laboratories and companies, we abandoned the original idea. Through detailed discussions and evaluations, we incorporated the experts' suggestions and designed [a new hardware module](/fudan/hardware/).
 
 <br>
 
@@ -641,8 +641,8 @@ We explained our membrane-based hardware concept to Professor Cai, who pointed o
 
 On August 16, Professor Lin from Central South University emphasized the importance of considering the specificity and key issues of different application environments. He pointed out that our bacterial density is extremely low compared to large natural water bodies. Two problems need to be addressed: 
 
-1. Increase the contact area between MINERAL project and the ions in the water; 
-2. Enhance the flux of water passing through MINERAL project per unit time.
+1. Increase the contact area between [MINERAL](/fudan/description/) project and the ions in the water; 
+2. Enhance the flux of water passing through [MINERAL](/fudan/description/) project per unit time.
 
 <div style="text-align: center;" id="fig30">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-prof-lin.jpg" style='width:100%'>
@@ -680,7 +680,7 @@ After further research and discussions, we created hardware designs for natural 
 Inspired by Professor Zhang Lin, we aimed to enhance the hardware design for treating industrial nickel wastewater from an industrial perspective. 
 
 
-On September 10, during our visit to the Suzhou Yisibei pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing MINERAL project hardware suitable for industrial environments. 
+On September 10, during our visit to the Suzhou Yisibei pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing [MINERAL](/fudan/description/) project hardware suitable for industrial environments. 
 
 <div style="text-align: center;" id="fig32">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-victory-4.jpg" style='width:100%'>
@@ -723,7 +723,7 @@ Following this feedback, our team believes that our product indeed has market po
 
 ## 7. Dry Lab
 
-"MINERAL project" is expected to play a role in industrial settings or polluted natural water bodies. To achieve this, we conducted extensive Dry Lab work. Our iHP efforts facilitated research and discussions with various institutions.
+"[MINERAL](/fudan/description/) project" is expected to play a role in industrial settings or polluted natural water bodies. To achieve this, we conducted extensive Dry Lab work. Our iHP efforts facilitated research and discussions with various institutions.
 
 <br>
 
@@ -777,7 +777,7 @@ Attachment: [Interview Record Shanghai Water Authority](https://static.igem.wiki
 </div>
 
 
-Professor Yin initially approached our discussion from the perspective of industrial applications, suggesting that we could set up a buffer pool to absorb nickel, facilitating its deposition or collection, which is suitable for industrial wastewater treatment. He also raised concerns about potential biosafety issues that our project might entail. He proposed that for the treatment of lake and river pollution, ecological principles could be employed to manage *E. coli* through the food chain (plankton), but noted that biosafety is difficult to ensure. Additionally, controlling the quantity of *E. coli* is challenging; on one hand, we must avoid having too few bacteria, which would be ineffective, and on the other hand, we should prevent having too many bacteria that could lead to unknown effects. Lastly, Professor Yin highlighted the difficulties of biosafety assessments and emphasized the need to handle biosafety issues related to genetically modified *E. coli* with caution.
+Professor Yin initially approached our discussion from the perspective of industrial applications, suggesting that we could set up a buffer pool to absorb nickel, facilitating its deposition or collection, which is suitable for industrial wastewater treatment. He also raised concerns about potential [biosafety issues](/fudan/safety/#project-risk-control) that our project might entail. He proposed that for the treatment of lake and river pollution, ecological principles could be employed to manage *E. coli* through the food chain (plankton), but noted that biosafety is difficult to ensure. Additionally, controlling the quantity of *E. coli* is challenging; on one hand, we must avoid having too few bacteria, which would be ineffective, and on the other hand, we should prevent having too many bacteria that could lead to unknown effects. Lastly, Professor Yin highlighted the difficulties of biosafety assessments and emphasized the need to handle biosafety issues related to genetically modified *E. coli* with caution.
 
 <br>
 
@@ -850,8 +850,10 @@ Although Education and Inclusivity are not strictly part of iHP, we still utiliz
 
 For a detailed account of this section, please refer to the [Education](/fudan/education/)  and [Inclusivity](/fudan/inclusivity) sections.
 
-----
+<br>
+
+## References
 
 [^1]: Shanghai Metallurgy Equipment Group. Global Mineral Resources Report 2023. [Global Mineral Resources Report 2023 (smegcn.com)](https://www.smegcn.com/news/global-mineral-resources-report-2023)
-[^2]:[Recycling and Environment – International Nickel Study Group (insg.org)](https://insg.org/index.php/about-nickel/recycling-and-environment/)
+[^2]: [Recycling and Environment – International Nickel Study Group (insg.org)](https://insg.org/index.php/about-nickel/recycling-and-environment/)
 [^3]: IEA (2024), Global electric car stock, 2013-2023, IEA, Paris. [Global electric car stock, 2013-2023 – Charts – Data & Statistics - IEA](https://www.iea.org/data-and-statistics/charts/global-electric-car-stock-2013-2023), Licence: CC BY 4.0
