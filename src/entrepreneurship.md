@@ -38,24 +38,22 @@ As global awareness of environmental protection increases, the demand for sustai
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1new.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 1: Nickel has a significant market demand.</span>
+    	<span style="color: gray">Figure 1: Nickel has a significant market demand.(data base from Wind, Baocheng Futures Financial Research Institute)</span>
         <br><br>
     </div>
 </div>
 
-The Earth urgently needs effective methods to mitigate the pollution caused by the nickel mining industry.
-
-On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM 这是什么缩写@@@@ has pointed out that high-grade nickel ore with a content of over 1.7% can only sustain consumption for 7 to 10 years[^2]. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the coming future.
+On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM 这是什么缩写@@@@ has pointed out that high-grade nickel ore with a content of over **1.7%** can only sustain consumption for **7 to 10 years**[^2]. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig2new.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig2.webp" style='width:100%'>
     <div>
-    	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years.</span>
+    	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years.(data base from USGS)</span>
         <br><br>
     </div>
 </div>
 
-However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in novel nickel recycling systems that meet the pursuit of innovation and efficiency. As a result, we have identified the potential customers for our MINERAL project as industrial manufacturers utilizing nickel, including battery manufacturers, stainless steel producers, industrial wastewater treatment companies, mining companies, and electroplating companies.
+However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in a new nickel recycling system that meets the pursuit of innovation and efficiency. As a result, we have identified the potential customers for the MINERAL project as industrial manufacturers utilizing nickel, including battery manufacturers, stainless steel producers, industrial wastewater treatment companies, mining companies, and electroplating companies.
 
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/nicon.webp" style="width:100%">
@@ -80,10 +78,14 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
 We conducted competitive analysis with the most popular ways[^3].
 
 <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig9.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig5.webp" style='width:100%'>
+    <div>
+    	<span style="color: gray">Figure 5: Compare to Other Substitute Ways</span>
+        <br><br>
+    </div>
 </div>
 
-<br><br>
+<br>
 
 ## Our Possible, Scalable and Inventive Solution
 
@@ -102,7 +104,7 @@ In response to the identified unmet needs and the development progress of [MINER
 Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to efficiently recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The visible nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig7new.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/newfig7.webp" style='width:100%'>
     <div>
     	<span style="color: gray">Figure 7: Competitiveness of MINERAL</span>
         <br><br>
@@ -385,7 +387,7 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
 ## Long-term Impacts
 
 <div style="text-align: center;" id="fig23">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/longterm.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig23.webp" style='width:100%'>
     <div>
     	<span style="color: gray">Figure 23: Our Possible Long-term Impacts</span>
         <br><br>
@@ -393,10 +395,11 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
 </div>
 
 
+
 ## References
 
-[^1]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
-[^2]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)
-[^3]: Kazeminezhad, I., & Mosivand, S. (2017). Elimination of copper and nickel from wastewater by electrooxidation method. *Journal of Magnetism and Magnetic Materials*, 422, 84-92. [https://doi.org/10.1016/j.jmmm.2016.08.049](https://doi.org/10.1016/j.jmmm.2016.08.049)
-[^4]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. Separation and Purification Technology, 348, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](https://doi.org/10.1016/j.seppur.2024.127771)
+[^1 ]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
+[^2 ]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)
+[^3]: Kazeminezhad, I., & Mosivand, S. (2017). Elimination of copper and nickel from wastewater by electrooxidation method. *Journal of Magnetism and Magnetic Materials*, 422, 84-92. [https://doi.org/10.1016/j.jmmm.2016.08.049](https://doi.org/10.1016/j.jmmm.2016.08.049)]
+[^4 ]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. Separation and Purification Technology, 348, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](https://doi.org/10.1016/j.seppur.2024.127771)
 

@@ -84,6 +84,8 @@
         xlink:href="https://static.igem.wiki/teams/5115/homepage/title.svg"
       />
 
+
+
       <g mask="url(#m)">
         <rect fill="#CDE3EC" width="100%" height="100%" class="gan"/>
           <image
@@ -614,7 +616,7 @@
       </div>
     </section> -->
 
-    <section class="page-11" id="gift">
+    <div class="page-11" id="gift">
       <div class="background-container">
         <lottie :options="earthOptions"  class="lottie-animation"></lottie>
         <img 
@@ -626,16 +628,22 @@
             src="https://static.igem.wiki/teams/5115/homepage11/new1-page11-word.svg"
             alt="Word14"
             class="word14"
-        />
+        /> 
         <div class="waves">
           <div class="wave" id="wave1"></div>
           <div class="wave" id="wave2"></div>
           <div class="wave" id="wave3"></div>
           <div class="wave" id="wave4"></div>
         </div>
+        <a href="https://www.yfc.cn/" target="_blank">  
+          <img 
+              src="https://static.igem.wiki/teams/5115/homepage11/click.svg"
+              alt="DescriptionLink"
+              class="click-des"
+          />
+        </a> 
       </div>
-    </section>
-    
+    </div>
     
     <!-- footer -->
     <footer>
@@ -683,6 +691,7 @@
 </template>
 
 <script>
+
 /* import PageFooter from '@theme-hope/components/PageFooter'; */
 import Lottie from '../components/Lottie.vue';
 export default {
@@ -712,6 +721,7 @@ export default {
     });
   },
   methods: {
+
     updatePreserveAspectRatio() {
       if (window.innerWidth >= 1025) {
         this.preserveAspectRatio = 'xMidYMid slice';
@@ -719,7 +729,10 @@ export default {
         this.preserveAspectRatio = 'xMinYMin meet';
       }
     },
-    
+    redirectToDescription() {
+      window.open('/fudan/description/', '_blank'); 
+      console.log("Element clicked!");
+    },
     initPage1Animations(gsap) {
       if (window.innerWidth >= 300) {
         const page1Tl = gsap.timeline({
@@ -1155,10 +1168,23 @@ export default {
     },
     initPage10Animations(gsap) {
       if (window.innerWidth >= 300) {
+        gsap.set(['.cube', '.word11','.word10'], { yPercent: -10 });
+
+        gsap.set(['.time-svg'], { yPercent: 10 });
+        gsap.to(".time-svg",{
+          yPercent: 0,
+          scrollTrigger: {
+            trigger: ".page-10",
+            start: "top 10%",
+            end: "95% bottom",
+            duration: 15,
+            scrub: true, 
+          }
+        });
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "75% bottom",
+            start: "55% bottom",
             end: "95% bottom",
             pin: ".cube",
             pinSpacing: false,
@@ -1168,7 +1194,7 @@ export default {
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "75% bottom",
+            start: "55% bottom",
             end: "95% bottom",
             pin: ".word10",
             pinSpacing: false,
@@ -1178,7 +1204,7 @@ export default {
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "75% bottom",
+            start: "55% bottom",
             end: "95% bottom",
             pin: ".word11",
             pinSpacing: false,
@@ -1200,13 +1226,33 @@ export default {
         gsap.set(['.cube', '.word10', '.word11'], { clearProps: 'all' });
       }
     },
+    
+    initPage11Animations(gsap) {
+      if (window.innerWidth >= 300) {
+        gsap.set(['.click-des'], { opacity: 0 });
+
+        gsap.to(".click-des",{
+          opacity: 1,
+          scrollTrigger: {
+            trigger: ".page-11",
+            start: "top 20%",
+            end: "center 50%",
+            duration: 7,
+            scrub: true, 
+          }
+        });
+      } else {
+        // Clear GSAP properties for mobile
+        gsap.set(['.cube', '.word10', '.word11'], { clearProps: 'all' });
+      }
+    },
   },
   async mounted() {
     // Initial screen width check
     this.updatePreserveAspectRatio();
     // Listen for window resize events
     window.addEventListener('resize', this.updatePreserveAspectRatio);
-
+    
     // Dynamically import GSAP and plugins
     const gsapModule = await import('gsap');
     const ScrollTriggerModule = await import('gsap/ScrollTrigger');
@@ -1231,7 +1277,8 @@ export default {
     this.initPageBAnimations(gsap);
     this.initPage9Animations(gsap);
     this.initPage10Animations(gsap);
-    gsap.to('.nick', {
+    this.initPage11Animations(gsap);
+    gsap.to(['.nick','.click-des'], {
       y: '+=50', // Move 20px down
       duration: 2, // Duration of the float down
       repeat: -1, // Repeat indefinitely
@@ -1241,7 +1288,7 @@ export default {
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
       gsap.set(['.mineral','.down-arrow'], {
-          y: '20%',
+          y: '5%',
         });
       const floatingTl = gsap.timeline({ repeat: -1, yoyo: true });
       floatingTl.to('.carbo1', { y: -20, duration: 3.6, ease: 'power1.inOut' }, 0);
@@ -1488,12 +1535,20 @@ section {
 .data2-graph-2,
 .data2-graph-3,
 .data2-graph-xy-and-name,
-.mineral {
+.mineral{
   position: absolute;
   top: 0;
   width: 100%;
   height: auto;
   left: 0;
+}
+.click-des{
+  position: absolute;
+  top: 30%;
+  left: 6%;
+  width: 100%;
+  height: auto;
+  scale: 0.3;
 }
 .nick{
   position: absolute;
@@ -1593,6 +1648,9 @@ section {
   font-size: 1.5rem;
 }
 
+/* .click-des {
+  pointer-events: auto; 
+} */
 /* Remove gaps between pages */
 .page-1,
 .page-2,
