@@ -3,7 +3,7 @@ title: Experiments
 author:
   name: Kexin Huang
   url: /fudan/team/#kexin-huang
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/experiment-header-new.gif
 ---
 
 <br>
