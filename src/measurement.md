@@ -25,8 +25,6 @@ Rather than relying solely on bacteria growth curves from OD~600~ measurement, w
     </div>
    <br><br>
 </div>
-
-
 To achieve well controlled expression and minimize leakage that could hinder bacteria growth, we chose *E. coli* strain BL21AI, which is an *E. coli* B/r strain and does not contain the *lon* protease. It is also deficient in the outer membrane protease, OmpT. The lacking both reduces degradation of heterologous proteins expressed in this strain, suitable for testing plasmid burden. The strain BL21AI carries a chromosomal insertion of a cassette containing the T7 RNA polymerase[^4] gene in the *araB* locus[^5], allowing expression of T7 RNAP to be regulated by the araBAD promoter. To test a plasmid's burden, we induced with both 0.2% L-arabinose and 1 mM IPTG. This induction strategy allows for optimal conditions for expressing our target proteins, thus testing plasmid burden. However, some plasmids still leaks in BL21AI, causing visible growth defect without induction (Figure 1).
 
 
@@ -64,7 +62,7 @@ Do not put the culture into 4 degree. Do not over grow. Ideally, collecting all 
 
 1. Transfer 20 µL of the normalized culture to row A of a 96-well plate
 2. Fill the wells in rows A-E with 180 µL of LB broth using a multichannel pipette
-3. Conduct a 1:10 serial dilution by transferring 20 µL of culture from each well in row A to the corresponding well in row B. Mix well and repeat this process down to row E, results a series dilution to 1:10^4^
+3. Conduct a 1:10 serial dilution by transferring 20 µL of culture from each well in row A to the corresponding well in row B. Mix well and repeat this process down to row E, results a series dilution to 1:10<sup>5</sup>.
 
 ### Step 4: Spotting and Incubation
 
@@ -75,7 +73,7 @@ Do not put the culture into 4 degree. Do not over grow. Ideally, collecting all 
 ### Step 5: Imaging and Analysis
 
 1. Capture high-quality images of the plates post-incubation with consistent lighting and focus. The plates could be put back to 37°C for extended incubation followed with imaging, if needed.
-2. By observing the spot growth of an appropriate dilution (typically 1:10^4^), clear growth difference indicates that plasmid burden on bacteria is quite different.
+2. By observing the spot growth of an appropriate dilution (typically 1:10<sup>3</sup>), clear growth difference indicates that plasmid burden on bacteria is quite different.
 3. For quantification, open the gray images in [ImageJ](https://imagej.net/ij/) and use the circular selection tool to outline the smallest spot, not colony within the spotted area, in the chosen dilution, excluding the background. Do not use a dilution most spots are fully covered by bacteria. It would be very helpful to store the selection into ImageJ's [ROI Manager](https://imagej.net/ij/docs/menus/analyze.html) window.
 4. Measure the gray value in five different plate locations (corners and center) using the circular selection, then click “Analyze” and “Measure” to obtain the mean values, using their mean as the background value.
 5. Using the same circular selection, measure the gray value of each spot in the chosen dilution and record these values in an Excel spreadsheet.
@@ -127,18 +125,20 @@ To generate data for our [Software](/fudan/software/), we utilized a structured 
 | #23  | BBa_K4765117 | ribozyme connected: H. ex mtSSB + SAHS  33020         | Kan        |
 | #24  | BBa_K4765126 | ribozyme connected: H. ex mtSSB + SAHS  33020 + AnAFP | Amp        |
 | #25  | BBa_K4765022 | mScarlet                                              | Kan        |
+| #26 | / | TDP+AnAFP | Amp |
 
 After [bacteria transformation](/fudan/experiments/#other-experimental-methods), we grow liquid culture and made series dilutions in 96-well plates. Next, we spot the same dilution onto two plates, one only contains antibotics, the other contains antibotics, 0.2% L-arabinose and 1 mM IPTG.
 
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/measurement-sy/2024-09-27-01-02-14.png" style="width:80%; height: auto;"><br>
     <div>
-        <span style="color: gray">Figure 2 & 3: Representative images of @@@@.<br>
-         <small>These figure illustrates the growth patterns of bacteria spots, in both the control and experimental groups following serial dilutions. From left to right, the columns correspond to the initial culture(A), dilutions of 1:10(B), 1:100(C), 1:10^3^(D), and 1:10^4^(E).</small>
+        <span style="color: gray">Figure 2 & 3: Representative images of spots from control and experimental groups.<br>
+          <small>These figure illustrates the growth patterns of bacteria spots, in both the control(top) and experimental groups(bottom) following serial dilutions. From left to right, the columns correspond to the initial culture, dilutions of 1:10, 1:100, 1:10<sup>3</sup>, 1:10<sup>4</sup>, and 1:10<sup>5</sup>.</small>
          </span>
       <br><br>
     </div>
 </div>
+
 
 As the dilutions progress, a noticeable decrease in bacteria density is visiable, with the experimental group displaying different growth characteristics compared to the control group, indicating the impact of plasmid expression on bacterial proliferation (plasmid burden for short).
 
@@ -148,11 +148,12 @@ Subsequently, after measuring the gray value of each group of colonies using [Im
     <img src="https://static.igem.wiki/teams/5115/measurement-sy/2024-09-27-01-02-14.png" style="width:80%; height: auto;"><br>
     <div>
         <span style="color: gray">Figure 4: Quantification of the spots shown in [Figure 2 & 3](#fig1).<br>
-         <small>This bar graph compares the growth rates of bacterial strains expressing various plasmids. For the baseline values, the growth is normalized to @@@@. The bars indicate the percentage decline in growth rate for each strain, with experimental measurements juxtaposed against computational predictions, offering insights into plasmid performance.</small>
+         <small>This bar graph compares the growth rates of bacterial strains expressing various plasmids. The Relative <em>E. coli</em> growth was calculated by comparing the experimental group to the control group and the average values of StayGold(plasmid number#1) and mScarlet (plasmid number#19) fluorescence proteins as a baseline, represented by different colors in the graph. The bars indicate the percentage decline in growth rate for each strain, with experimental measurements juxtaposed against computational predictions, offering insights into plasmid performance.</small>
          </span>
       <br><br>
     </div>
 </div>
+
 
 ## Previous Inspiring Methodologies in iGEM
 
@@ -162,7 +163,7 @@ In previous iGEM projects, several methods have provided valuable insights that 
 
 [Tartu TUIT 2019](https://2019.igem.org/Team:Tartu_TUIT/Results) team examined the effect of glucanase expression on cell wall integrity by testing cultures under hypo-osmotic stress and in the presence of DMSO. However, their method lacked precision, as the absence of [a metal spotter](https://biokimicroki.com/replica-plating-in-microbiology-animal-biotechnology/) led to uneven colony distributions, making it difficult to achieve consistent areas for analysis. This limitation resulted in qualitative rather than quantitative comparisons.
 
-[ETH Zurich 2019] provided a [spot-plaque assay protocol](https://static.igem.org/mediawiki/2019/8/8d/T--ETH_Zurich--spot-plaque-assay-protocol.pdf), which outlines a systematic approach for assessing bacteriophage activity against bacterial cultures. While the protocol includes basic steps, it could benefit from detailed documentation to facilitate reproducibility. Furthermore, our experience suggests to ensure a standardized initial OD<sub>600</sub> is essential for reliable comparisons, which was missing in their protocol.
+[ETH Zurich 2019](https://static.igem.org/mediawiki/2019/8/8d/T--ETH_Zurich--spot-plaque-assay-protocol.pdf) provided a [spot-plaque assay protocol](https://static.igem.org/mediawiki/2019/8/8d/T--ETH_Zurich--spot-plaque-assay-protocol.pdf), which outlines a systematic approach for assessing bacteriophage activity against bacterial cultures. While the protocol includes basic steps, it could benefit from detailed documentation to facilitate reproducibility. Furthermore, our experience suggests to ensure a standardized initial OD<sub>600</sub> is essential for reliable comparisons, which was missing in their protocol.
 
 These prior studies have guided our improvements in methodology, particularly in quantification.
 
