@@ -27,6 +27,7 @@ So, our goal is to inspire students across all educational stages in China, plan
     </div>
 </div>
 
+<br>
 
 ## Education for University Students
 
@@ -81,6 +82,7 @@ During discussions in 4 sub-forums, we learned an important educational principl
     </div>
 </div>
 
+<br>
 
 ### Further Explosion for Higher Education Students
 
@@ -138,6 +140,8 @@ Building on [the roundtable discussion](#details-about-the-educaiton-forum), we 
         <br><br>
     </div>
 </div>
+
+<br>
 
 ## Education for Junior Students and Pupils
 

@@ -38,7 +38,6 @@ To evaluate how well our *E. coli* absorbs nickel, we measured the nickel concen
 </div>
 
 
-
 As illustrated in [Figure 1](#fig1), NixA-F1v demonstrates the highest efficiencies for nickel uptake among these parts. We also conducted nickel absorption tests with various starting Ni²⁺ concentrations (20 mg/L and 50 mg/L). For details, please visit our [Results](/fudan/results/#) page.
 
 ### Cycle 1 Learn
@@ -70,6 +69,7 @@ We evaluated the nickel uptake efficiency of these *E. coli* in a medium with in
     </div>
 </div>
 
+<br>
 
 ### Cycle 2 Learn
 
@@ -100,6 +100,7 @@ After making the constructs, we measured the efficiency of nickel uptake by bact
     </div>
 </div>
 
+<br>
 
 ### Cycle 3 Learn
 

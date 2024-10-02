@@ -19,6 +19,7 @@ Humans often realize their mistakes only when the damage is irreparable, a lesso
     </div>
 </div>
 
+<br>
 
 ## Use and Misuse of Nickel
 
@@ -38,6 +39,7 @@ Meanwhile, the demand for nickel is growing at an unsustainable rate, outpacing 
     </div>
 </div>
 
+<br>
 
 ## Current Nickel Recycling Methods
 
@@ -69,6 +71,7 @@ Our project, **Microparticle Integration for Nickel Extraction and Reusable Appl
     </div>
 </div>
 
+<br>
 
 ## Our Problems
 
@@ -110,6 +113,7 @@ We present four interrelated modules to tackle the problems identified in the pr
     </div>
 </div>
 
+<br>
 
 ### 1. Nickel Enrichment Module
 
@@ -129,6 +133,7 @@ To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR a
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
 </div>
 
+<br>
 
 ### 2. Survival Modules
 
@@ -152,6 +157,7 @@ We overexpress YejM to upregulate the production of LPS, blocking recognition si
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
 </div>
 
+<br>
 
 #### c) Anti-Free and Anti-UV
 
@@ -170,6 +176,7 @@ We utilize **carboxysomes**, which are bacterial microcompartments[^22], to serv
     <img src="https://static.igem.wiki/teams/5115/test/yagi.jpg" style="width:100%">
 </div>
 
+<br>
 
 ### 4. Hydrogen Supply *via* cyanobacteria-*E. coli* interaction
 

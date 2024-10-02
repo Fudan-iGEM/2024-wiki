@@ -26,6 +26,7 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
     <img src="https://static.igem.wiki/teams/5115/collaborations/1.png" style="width:100%">
 </div>
 
+<br>
 
 ## With Nonprofit Organizations
 
@@ -38,6 +39,7 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
     <img src="https://static.igem.wiki/teams/5115/collaborations/2.png" style="width:100%">
 </div>
 
+<br>
 
 ## With Clubs at Fudan
 
@@ -49,6 +51,8 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/collaborations/3.png" style="width:100%">
 </div>
+
+<br>
 
 ----
 

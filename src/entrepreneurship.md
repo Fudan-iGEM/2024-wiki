@@ -72,6 +72,9 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
         <br><br>
     </div>
 </div>
+
+<br>
+
 ### Competitive Analysis
 
 We conducted competitive analysis with the most popular ways[^3].
@@ -83,6 +86,8 @@ We conducted competitive analysis with the most popular ways[^3].
         <br><br>
     </div>
 </div>
+
+<br>
 
 ## Our Possible, Scalable and Inventive Solution
 
@@ -97,6 +102,9 @@ In response to the identified unmet needs and based on the MINERAL project, we p
         <br><br>
     </div>
 </div>
+
+<br>
+
 ### Competitiveness of MINERAL
 
 Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to **efficiently** recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The **visible** nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
@@ -108,6 +116,9 @@ Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to
         <br><br>
     </div>
 </div>
+
+<br>
+
 ### Product Lifecycle
 
 Most importantly, our product simplifies the previously cumbersome industrial process using a highly innovative approach—no chemical reagents, no molecular membrane filtration. You simply need to add the Nickel Ion Wastewater Cleaner to wastewater with the corresponding concentration, and you will be able to observe the valuable nickel being separated.
@@ -119,6 +130,9 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
         <br><br>
     </div>
 </div>
+
+<br>
+
 ### Exit Strategy
 
 Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
@@ -248,6 +262,8 @@ GEM expressed strong interest in our project and invited us to their key mineral
     </div>
 </div>
 
+<br>
+
 #### CPS
 
 With the technical cooperation agreement with GEM as proof of our project's commercial capabilities, we further expanded our potential customers and partners by reaching out to **Suzhou In Times of Chemical Environmental Protection Equipment Technology Co., Ltd\.** (hereafter referred to as CPS).
@@ -287,6 +303,9 @@ After visiting CPS's factory, we found that their **medium-sized facility** is i
     	<span style="color: gray">Technical Cooperation Intention Agreement</span>
         <br><br>
     </div>
+
+<br>
+
 ### Development Timeline
 
 <div style="text-align: center;" id="fig19">
@@ -297,6 +316,7 @@ After visiting CPS's factory, we found that their **medium-sized facility** is i
     </div>
 </div>
 
+<br>
 
 ### Financial Analysis
 
@@ -307,6 +327,7 @@ After visiting CPS's factory, we found that their **medium-sized facility** is i
         <br><br>
     </div>
 </div>
+
 We first analyzed the profit model for **battery recycling companies** among potential customers. 
 
 Focusing on the most valuable materials in raw material recovery, **cobalt and nickel**, the existing hydrometallurgical and pyrometallurgical combined technology can recover 107.84 tons of nickel sulfate (current price: approximately \$4,500/ton) and 84.65 tons of cobalt sulfate (current price: approximately \$13,000/ton) from every 1,000 tons of used power batteries. With our microbial separation technology, production is estimated to increase by 10%-30%. Based on the current market price of industrial raw materials, the revenue from processing each ton of waste power batteries can directly amount to approximately $228,000.
@@ -332,7 +353,7 @@ Therefore, **in the sales scenario of our microbial heavy metal ion cleaner**, t
 
 To ensure the success of the project, we need to master key skills, including **technological innovation** to optimize product performance, **channel development** to expand the market, **marketing** to enhance brand influence, **financial management** to ensure proper use of funds, **factory operations** to guarantee production efficiency, **human resource management** to build an efficient team, **public relations** to maintain the company's image, and **data analysis** to guide strategic decisions. Together, these skills will drive the development of the project and strengthen its market competitiveness.
 
-### Capability 
+### Capability
 
 Our team needs excellent **communication and collaboration** skills to ensure smooth information flow and teamwork. **Presentation skills** are crucial for conveying the project's vision and attracting support. Strong **analytical and decision-making abilities** are essential for solving complex problems and seizing opportunities. A **responsible attitude** and **good reputation** are vital for gaining the trust and support of stakeholders and ensuring the project's smooth progression. These core capabilities will collectively drive the success and sustainable development of the project.
 
@@ -345,9 +366,13 @@ Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
         <br><br>
     </div>
 </div>
+
+<br>
+
 ### [Reliable Team](/fudan/team/)
 
 Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
+
 
 ### Stakeholders
 
