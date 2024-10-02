@@ -65,7 +65,7 @@ The 12th SDG calls for sustainable patterns in how we use resources and manage w
 [MINERAL](/fudan/description/) supports responsible consumption by making nickel recovery eco-friendly. It also contributes to sustainable production by providing a more reliable and less destructive alternative to traditional nickel production. This will foster a circular economy and promote more responsible practices in resource management.
 
 <div style="text-align: center;" id="fig4">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/description-fig4.png" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/sdgs/description-fig4.png" style="width:70%">
     <div>
         <span style="color:gray">Our project, MINERAL, has modified <em>E. coli</em> to enhance its ability to absorb Ni<sup>2+</sup> from water and convert them into microparticles, thereby achieving eco-friendly nickel recovery. </span>
         <br><br>
@@ -96,7 +96,7 @@ We also recognized that releasing *E. coli* into the water body could harm aquat
 Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers, preventing its spread in water, and effectively addressing metal issues while avoiding creating new problems. Please refer to [Hardware](/fudan/hardware/) for more information.
 
 <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/celegan-fibre-ni-pic.png" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/sdgs/celegan-fibre-ni-pic.png" style='width:70%'>
     <div>
         <span style="color:gray">Besides recycling nickel from water, we also use <em>C. elegans</em> to test biosafety and make <em>E. coli</em> grow on fibers to prevent its spread.</span>
         <br><br>

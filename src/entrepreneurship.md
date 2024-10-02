@@ -122,7 +122,7 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
 
 ### Scalability of Our Operation Strategy
 
-#### 1.Business Model and Core Product
+#### 1. Business Model and Core Product
 
 In response to the identified unmet needs and the development progress of [MINERAL](/fudan/description/), we propose our product — [Gile Carbon Fiber](/fudan/hardware/#fig1) — accompanied by our unique monthly subscription service. 
 
@@ -140,7 +140,7 @@ After purchasing our basic product, customers will receive free equipment instal
 
 
 
-#### 2.Exit Strategy
+#### 2. Exit Strategy
 
 Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
 
@@ -159,7 +159,6 @@ On this basis, we provide comprehensive maintenance services for our Gile Carbon
 First, during the membership service period, we will offer a two-week supply of phage-resistant *E. coli* strains free of charge to ensure the stability of product function.
 
 Second, throughout the membership duration, customers can enjoy free maintenance and testing services for the Gile Carbon Fiber, similar to insurance. [See our capabilities](/fudan/safety/#project-risk-control). This minimizes the risk of production efficiency decline due to product aging, ensuring that customers' factories operate at peak performance at all times.
-
 
 
 ## Product Development Plans with Milestones, Timelines, Resources, and Risks
@@ -276,7 +275,7 @@ Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicat
     </div>
 </div>
 
-
+<br>
 
 <div style="text-align: center;" id="fig18">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps2.webp" style="width:100%">

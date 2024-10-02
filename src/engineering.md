@@ -9,7 +9,9 @@ author:
   url: /fudan/team/#kevin-qi
 ---
 
-<br><br>Throughout our project, we encountered problems in [Parts](/fudan/parts/), [Measurement](/fudan/measurement/), [Software](/fudan/software/), [Hardware](/fudan/hardware/), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/) and [Entrepreneurship](/fudan/entrepreneurship/), we solved them following iterations of the DBTL cycle (Design, Build, Test, Learn). Below are the steps we went through to develop our nickel module - part number [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
+<br><br>
+
+Throughout our project, we encountered problems in [Parts](/fudan/parts/), [Measurement](/fudan/measurement/), [Software](/fudan/software/), [Hardware](/fudan/hardware/), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/) and [Entrepreneurship](/fudan/entrepreneurship/), we solved them following iterations of the DBTL cycle (Design, Build, Test, Learn). Below are the steps we went through to develop our nickel module - part number [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
 
 ## Cycle 1
 
@@ -38,7 +40,7 @@ To evaluate how well our *E. coli* absorbs nickel, we measured the nickel concen
 </div>
 
 
-
+<br>
 
 
 As illustrated in [Figure 1](#fig1), NixA-F1v demonstrates the highest efficiencies for nickel uptake among these parts. We also conducted nickel absorption tests with various starting Ni²⁺ concentrations (20 mg/L and 50 mg/L), leading to the same results.
@@ -72,8 +74,7 @@ We evaluated the nickel uptake efficiency of these *E. coli* in a medium with an
     </div>
 </div>
 
-
-
+<br>
 
 ### Cycle 2 Learn
 
@@ -104,8 +105,7 @@ After making the constructs, we measured the efficiency of nickel uptake by bact
     </div>
 </div>
 
-
-
+<br>
 
 ### Cycle 3 Learn
 
