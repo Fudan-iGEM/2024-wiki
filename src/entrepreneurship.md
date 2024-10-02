@@ -158,7 +158,7 @@ On this basis, we provide comprehensive maintenance services for our Gile Carbon
 
 First, during the membership service period, we will offer a two-week supply of phage-resistant *E. coli* strains free of charge to ensure the stability of product function.
 
-Second, throughout the membership duration, customers can enjoy free maintenance and testing services for the Gile Carbon Fiber, similar to insurance. This minimizes the risk of production efficiency decline due to product aging, ensuring that customers' factories operate at peak performance at all times.
+Second, throughout the membership duration, customers can enjoy free maintenance and testing services for the Gile Carbon Fiber, similar to insurance. [See our capabilities](/fudan/safety/#project-risk-control). This minimizes the risk of production efficiency decline due to product aging, ensuring that customers' factories operate at peak performance at all times.
 
 
 
