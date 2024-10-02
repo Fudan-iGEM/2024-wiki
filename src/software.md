@@ -695,8 +695,6 @@ style='width:80%'>
 </div>
 </div>
 
-
-
 #### Learn
 
 From the second round of testing, we learned that the BLAST algorithm significantly improved the accuracy of the similarity calculations. We also [integrated](https://gitlab.igem.org/2024/software-tools/fudan/-/commit/21353ed9fc3d4f9df1c612e61bcfe73a435eecb9) the similarity results into the search pipeline, which enhanced the overall functionality of the tool.
@@ -706,9 +704,7 @@ During the development of our software, we adhered to a structured Design-Build-
 ## Reference
 
 [^1]: Rugbjerg, P., Myling-Petersen, N., Porse, A., Sarup-Lytzen, K., & Sommer, M. O. A. (2018). Diverse genetic error modes constrain large-scale bio-based production. *Nature Communications*, *9*(1), 787. https://doi.org/10.1038/s41467-018-03232-w
-
 [^2]: Radde, N. (2024). Measuring the burden of hundreds of BioBricks defines an evolutionary limit on constructability in synthetic biology. *Nature Communications*. https://doi.org/10.1038/s41467-024-50639-9
-
 [^3]: Weiße, A. Y., Oyarzún, D. A., Danos, V., & Swain, P. S. (2015). Mechanistic links between cellular trade-offs, gene expression, and growth. *Proceedings of the National Academy of Sciences*, *112*(9), E1038–E1047. https://doi.org/10.1073/pnas.1416533112
 [^4]: Nikolados, E.-M., Weiße, A. Y., Ceroni, F., & Oyarzún, D. A. (2019). Growth Defects and Loss-of-Function in Synthetic Gene Circuits. *ACS Synthetic Biology*, *8*(6), 1231–1240. https://doi.org/10.1021/acssynbio.8b00531
 [^5]: Liu, Y., Wu, Z., Wu, D., Gao, N., & Lin, J. (2022). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synthetic Biology*, *12*(1), 136–143. https://doi.org/10.1021/acssynbio.2c00416

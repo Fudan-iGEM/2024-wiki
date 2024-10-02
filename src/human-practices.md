@@ -850,9 +850,7 @@ Although Education and Inclusivity are not strictly part of iHP, we still utiliz
 
 For a detailed account of this section, please refer to the [Education](/fudan/education/)  and [Inclusivity](/fudan/inclusivity) sections.
 
-<br>
-
-## References
+----
 
 [^1]: Shanghai Metallurgy Equipment Group. Global Mineral Resources Report 2023. [Global Mineral Resources Report 2023 (smegcn.com)](https://www.smegcn.com/news/global-mineral-resources-report-2023)
 [^2]:[Recycling and Environment – International Nickel Study Group (insg.org)](https://insg.org/index.php/about-nickel/recycling-and-environment/)

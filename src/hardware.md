@@ -169,12 +169,7 @@ Our dialogue with [Suzhou Yisibei](https://www.cps88.cn/) has been instrumental 
 
 Our hardware design serves as a carrier for synthetic biology applications. Carbon nanotube-agarose gel composite fibers hold promise for wastewater treatment technology. Traditional biological filtration devices often have fixed structures and single shapes, making it difficult to adapt to the diverse needs of wastewater treatment. In response to this disadvantage, we have designed aCNT composite fibers and test it in laboratory. Composite fibers that can be woven according to actual needs and can carry engineered bacteria, making biological recycling available. The device not only recovers nickel, but can also be easily applied to the recovery of other heavy metals and wastewater purification. Our aCNT composite fibers provide an efficient, environmentally friendly approach for wastewater treatment, as well as innovative solutions for the [sustainable](/fudan/sustainable) development of future bioenergy and green chemical industries.
 
-
-
-
-
-
-
+----
 
 [^1]: Yang, Z., Haizhen, Y., Minghong, C., Feng, W. (2009) Wastewater Treatment Control and Management in the Antarctica. *Technology of Water Treatment*. *35*(3), 1-44. [https://doi.org/10.16796/j.cnki.1000-3770.2009.03.001](https://doi.org/10.16796/j.cnki.1000-3770.2009.03.001)
 [^2]: Connor, M. A. (2008). Wastewater treatment in Antarctica. *Polar Record*, *44*(2), 165–171. [https://doi.org/10.1017/S003224740700719X](https://doi.org/10.1017/S003224740700719X)

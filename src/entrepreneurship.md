@@ -433,7 +433,6 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
 </div>
 
 
-
 ## Long-term Impacts
 
 <div style="text-align: center;" id="fig24">
@@ -444,7 +443,7 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
     </div>
 </div>
 
-
+----
 
 [^1]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
 [^2]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)

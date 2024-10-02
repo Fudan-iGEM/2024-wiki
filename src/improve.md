@@ -16,9 +16,9 @@ headergif: https://static.igem.wiki/teams/5115/header/parts-header.gif
 
 In this year's project, we focused on three major improvements:
 
-- Use EP-targeted protein subunits to express Ni/Fe hydrogenase in carboxysome microcompartment.
-- Engineer NixA by fusing it with FKBP F36V (F1v for short), and induce dimerization with the addition of AP20187 linker compound.
-- Use the ribozyme-assisted polycistronic co-expression (pRAP) system[^22] to assemble the [nickel module](https://parts.igem.org/Part:BBa_K5115068) and the [F module](https://parts.igem.org/Part:BBa_K5115067).
+- Use EP-targeted protein subunits to express Ni/Fe hydrogenase in carboxysome microcompartment
+- Engineer NixA by fusing it with FKBP F36V (F1v for short), and induce dimerization with the addition of AP20187 linker compound
+- Use the ribozyme-assisted polycistronic co-expression (pRAP) system[^22] to assemble the [nickel module](https://parts.igem.org/Part:BBa_K5115068) and the [F module](https://parts.igem.org/Part:BBa_K5115067)
 
 
 ## Improved Enzyme Reaction Environment
