@@ -1241,7 +1241,7 @@ export default {
     // Create floating animation timeline
     if (window.innerWidth >= 900) {
       gsap.set(['.mineral','.down-arrow'], {
-          y: '20%',
+          y: '5%',
         });
       const floatingTl = gsap.timeline({ repeat: -1, yoyo: true });
       floatingTl.to('.carbo1', { y: -20, duration: 3.6, ease: 'power1.inOut' }, 0);
