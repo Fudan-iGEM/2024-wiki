@@ -8,7 +8,7 @@ headergif: https://static.igem.wiki/teams/5115/header/hardware-header.gif
 
 <br><br>
 
-Wastewater treatment and energy recovery are becoming global concerns with the increase of human activities and substantial consumption of fossil fuels. Even in [Antarctica](#figa), the largest untouched wilderness on our planet, wastewater treatment are urgently needed with the presence of 44 permanently manned research stations[^1]. 
+Wastewater treatment and energy recovery are becoming global concerns with the increase of human activities and substantial consumption of fossil fuels. Even in [Antarctica](#figa), the largest untouched wilderness on our planet, wastewater treatment is urgently needed with the presence of 44 permanently manned research stations[^1]. 
 
 <div style="text-align: center;" id="figa">
     <img src="https://static.igem.wiki/teams/5115/hardware-hkx/antarctica.jpg" style="width: 100%">
@@ -28,6 +28,7 @@ In today's wastewater treatment industry, various [contemporary biofilm reactors
       <br><br>
     </div>
 </div>
+
 We analyze all these limitations and come up with our own solution using carbon nanotubes (CNTs). CNTs possess unique physicochemical and morphological characteristics, excellent adsorption capabilities, and permeability, showing significant potential in various areas[^4]. We have designed an innovative fiber structure based on carbon nanotubes, which can not only carry and nourish our engineered bacteria but also be woven into any required shape and size according to actual needs. In practical application scenarios, we load the engineered bacteria onto our designed fibers and weave them into a form that perfectly matches the target device. With this fiber structure, implated with our engineered bacteria expressing [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067) and [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068), deployed in the wastewater treatment device, we can effectively achieve the recovery of nickel.
 
 Compared to traditional filtration devices and biofilm reactors, our customized fiber boasts advantages. The reversibility of our fiber weaving process allows for recycling and reuse, effectively extending the product's lifespan and release the environmental burden. Futhermore, the fiber's construction is characterized by low energy consumption. Our customized fiber serves as a platform that bridges [our engineered bacteria](/fudan/part-collection) to practical applications and offers an efficient, environmentally friendly new strategy for wastewater treatment.
