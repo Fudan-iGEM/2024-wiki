@@ -11,12 +11,13 @@ headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
 [MINERAL](/fudan/description/) tones in with multiple [Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals) across a wide spectrum, contributing to a more sustainable and equitable future.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/9sdg.png" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/sdgs/sdg-9-trans.png" style='width:50%'>
     <div>
         <span style="color:gray">Our project tones in with 9 of the 17 SDGs</span>
         <br><br>
     </div>
 </div>
+
 
 
 ## Sustainable Development by Nickel Recycling
@@ -31,7 +32,13 @@ The 7th SDG emphasizes the need for reliable and sustainable energy solutions.
 
 [MINERAL](/fudan/description/) transforms nickel into harmless microparticles, making it affordable and environmentally friendly for future use. By simplifying the utilization of nickel, our project reduces costs associated with traditional nickel extraction and promotes a sustainable approach to clean energy. 
 
-@@@@ 图片：fig2-description-镍微型工厂系统
+<div style="text-align: center;" id="fig2">
+    <img src="https://static.igem.wiki/teams/5115/sdgs/sdg-microfactory.png" style='width:100%'>
+    <div>
+        <span style="color:gray">We built a micro-factory by transforming nickel into harmless microparticles.</span>
+        <br><br>
+    </div>
+</div>
 
 Please refer to [Implementation](/fudan/implementation/) for more information.
 
@@ -57,7 +64,15 @@ The 12th SDG calls for sustainable patterns in how we use resources and manage w
 
 [MINERAL](/fudan/description/) supports responsible consumption by making nickel recovery eco-friendly. It also contributes to sustainable production by providing a more reliable and less destructive alternative to traditional nickel production. This will foster a circular economy and promote more responsible practices in resource management.
 
-@@@@ 图片：fig4-description-MINERAL概述
+<div style="text-align: center;" id="fig4">
+    <img src="https://static.igem.wiki/teams/5115/sdgs/description-fig4.png" style='width:50%'>
+    <div>
+        <span style="color:gray">Our project, MINERAL, has modified <em>E. coli</em> to enhance its ability to absorb Ni<sup>2+</sup> from water and convert them into microparticles, thereby achieving eco-friendly nickel recovery. </span>
+        <br><br>
+    </div>
+</div>
+
+
 
 
 ## Sustainable Development by Stopping Nickel Pollution
@@ -81,14 +96,12 @@ We also recognized that releasing *E. coli* into the water body could harm aquat
 Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers, preventing its spread in water, and effectively addressing metal issues while avoiding creating new problems. Please refer to [Hardware](/fudan/hardware/) for more information.
 
 <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/fiber-celegan-ni.png" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/sdgs/celegan-fibre-ni-pic.png" style='width:50%'>
     <div>
         <span style="color:gray">Besides recycling nickel from water, we also use <em>C. elegans</em> to test biosafety and make <em>E. coli</em> grow on fibers to prevent its spread.</span>
         <br><br>
     </div>
 </div>
-
-@@@@ 图片: Ni吸收+线虫+hardware纤维
 
 
 ## Sustainable Development by Inclusive Education
