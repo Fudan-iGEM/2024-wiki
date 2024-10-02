@@ -3,7 +3,7 @@ title: Promotion Video
 author:
   name: Kexin Huang
   url: /fudan/team/#kexin-huang
-headergif: https://static.igem.wiki/teams/5115/header/hardware-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/pv-header-new.gif
 ---
 
 <br><br>

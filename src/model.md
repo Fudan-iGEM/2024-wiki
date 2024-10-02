@@ -1,6 +1,6 @@
 ---
 title: Model, noop
-headergif: https://static.igem.wiki/teams/5115/header/model-header-new.gi
+headergif: https://static.igem.wiki/teams/5115/header/model-header-new.gif
 ---
 
 <br><br>

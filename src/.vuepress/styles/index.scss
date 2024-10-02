@@ -75,8 +75,9 @@ h3 {
   color: #1D7491;
   font-family: "Sofia Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 754 !important;
+  font-weight: 1000 !important;
   font-style: normal;
+  font-size: 1.5rem;
 }
 
 
@@ -98,29 +99,24 @@ th, td {
 /* 顶部和底部加粗的线 */
 table thead th,
 table tfoot td {
-  border-top: 2px solid #57a0fe; /* 顶部粗线 */
-  border-bottom: 2px solid #57a0fe; /* 底部粗线 */
+  border-top: 2px solid #1D7491; /* 顶部粗线 */
+  border-bottom: 2px solid #1D7491; /* 底部粗线 */
 }
-
 table tbody tr:first-child td {
-  border-top: 2px solid #57a0fe; /* 表头下方的粗线 */
+  border-top: 2px solid #1D7491; /* 表头下方的粗线 */
 }
-
 table tbody tr:last-child td {
-  border-bottom: 2px solid #57a0fe; /* 表格底部的粗线 */
+  border-bottom: 2px solid #1D7491; /* 表格底部的粗线 */
 }
-
 /* 表头字体加粗 */
 table thead th {
   font-weight: bold;
 }
-
 /* 移除所有纵向线条 */
 th, td {
   border-left: none;
   border-right: none;
 }
-
 /* 移除所有行的交替背景色 */
 table tr:nth-child(odd),
 table tr:nth-child(even) {
@@ -340,6 +336,32 @@ color: #4092B8;
           border-radius: 0;
           background: transparent;
       }
+    }
+    /* 顶部和底部加粗的线 */
+    table thead th,
+    table tfoot td {
+      border-top: 2px solid #df9226; /* 顶部粗线 */
+      border-bottom: 2px solid #df9226; /* 底部粗线 */
+    }
+    table tbody tr:first-child td {
+      border-top: 2px solid #df9226; /* 表头下方的粗线 */
+    }
+    table tbody tr:last-child td {
+      border-bottom: 2px solid #df9226; /* 表格底部的粗线 */
+    }
+    /* 表头字体加粗 */
+    table thead th {
+      font-weight: bold;
+    }
+    /* 移除所有纵向线条 */
+    th, td {
+      border-left: none;
+      border-right: none;
+    }
+    /* 移除所有行的交替背景色 */
+    table tr:nth-child(odd),
+    table tr:nth-child(even) {
+      background-color: transparent; /* 确保所有行背景透明 */
     }
 
 
