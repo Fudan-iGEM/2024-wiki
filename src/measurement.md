@@ -12,19 +12,22 @@ In our [MINERAL](/fudan/description/) project, we are working towards improving 
 
 These genetic modules would impose varying metabolic demands on the host bacteria, making it essential to evaluate their impact on *E. coli*'s overall fitness, if we want our engineered bacteria to work healthly.
 
-Rather than relying solely on bacteria growth curves from OD~600~ measurement, which can be time-consuming, we’ve adapted Spot Assay from yeast genetics studies. This method provides an efficient approach to assess bacterial growth over a large number of samples, giving us valuable insights into how different plasmids influence bacterial growth. [The data](#@@@@) generated from these spots also support the development of our [Software](/fudan/software/), which is designed to predict the metabolic pressure exerted by plasmids on *E. coli*, helping us optimizing our engineering efforts.
-
+Rather than relying solely on bacteria growth curves from OD<sub>600</sub> measurement, which can be time-consuming, we’ve adapted Spot Assay from yeast genetics studies. This method provides an efficient approach to assess bacterial growth over a large number of samples, giving us valuable insights into how different plasmids influence bacterial growth. [The data](https://static.igem.wiki/teams/5115/measurement-sy/spot-assay-data.csv) generated from these spots also support the development of our [Software](/fudan/software/), which is designed to predict the metabolic pressure exerted by plasmids on *E. coli*, helping us optimizing our engineering efforts.
 
 <div style="text-align: center;" id="fig-00">
     <img src="https://static.igem.wiki/teams/5115/measurement-sy/spot-essay.png" style='width:90%'>
     <div>
-        <span style="color:gray">Figure 1: Baseline Growth of <em>E. coli</em> in Spot Assay<br>
-          <small>BL21AI was transformed with 6 different plasmids, and colonies from the transformants were proceeded with Spot Assay. Leaky expression of plasmid #11 causing visible growth defect even without L-arabinose and IPTG induction.</small>
+        <span style="color:gray">Figure 1: Baseline Growth of <em>E. coli</em> in Spot Assay.
+<br>
+          <small>
+            Indicated plasmids (listed in Table 1) were used to transform bacteria BL21AI. Single colony was picked from the transformants, and grow in liquid LB with 25 μg/ml Kan, until OD<sub>600</sub> reach 0.6. Normalized liquid bacteria culture was used for Spot Assay, with a serial dilutions as indicated. Various growth condition suggests different plasmid burdens, likely due to the leaky expression.
+</small>
         </span>
         <br><br>
     </div>
    <br><br>
 </div>
+
 To achieve well controlled expression and minimize leakage that could hinder bacteria growth, we chose *E. coli* strain BL21AI, which is an *E. coli* B/r strain and does not contain the *lon* protease. It is also deficient in the outer membrane protease, OmpT. The lacking both reduces degradation of heterologous proteins expressed in this strain, suitable for testing plasmid burden. The strain BL21AI carries a chromosomal insertion of a cassette containing the T7 RNA polymerase[^4] gene in the *araB* locus[^5], allowing expression of T7 RNAP to be regulated by the araBAD promoter. To test a plasmid's burden, we induced with both 0.2% L-arabinose and 1 mM IPTG. This induction strategy allows for optimal conditions for expressing our target proteins, thus testing plasmid burden. However, some plasmids still leaks in BL21AI, causing visible growth defect without induction (Figure 1).
 
 
@@ -44,7 +47,7 @@ This method offers several advantages:
 * it is very sensitive, making it ideal for detecting subtle growth differences, enabling efficient assessment of plasmid-induced metabolic changes[^3]
 * it is internally control, as the same starting culture being plot onto different plates with different conditions
 
-By utilizing Spot Assays, we can systematically identify optimal plasmid combinations that enhance *E. coli*’s performance in nickel-rich environments while minimizing metabolic burdens.
+To be specific, our measurement process is designed with rigorous internal controls, ensuring consistency across all experimental conditions. We use the same starting culture for each plate, plotting it onto different plates with varying conditions, including negative controls without induction and positive controls with well-characterized plasmids to validate the accuracy of our results. This approach allows for direct comparison of growth patterns under distinct environmental influences while maintaining a controlled baseline. These controls ensure precise calibration, reliable interpretation, and reproducibility of our findings. By utilizing Spot Assays, we can systematically assess the metabolic burden imposed by different plasmid combinations on *E. coli*, ensuring that the introduced plasmids do not compromise overall cellular performance under varying conditions.
 
 ## Spot Assay Protocol
 
@@ -125,34 +128,35 @@ To generate data for our [Software](/fudan/software/), we utilized a structured 
 | #23  | BBa_K4765117 | ribozyme connected: H. ex mtSSB + SAHS  33020         | Kan        |
 | #24  | BBa_K4765126 | ribozyme connected: H. ex mtSSB + SAHS  33020 + AnAFP | Amp        |
 | #25  | BBa_K4765022 | mScarlet                                              | Kan        |
-| #26 | / | TDP+AnAFP | Amp |
+| #26 | BBa_K5115037 | TDP+AnAFP | Amp |
 
 After [bacteria transformation](/fudan/experiments/#other-experimental-methods), we grow liquid culture and made series dilutions in 96-well plates. Next, we spot the same dilution onto two plates, one only contains antibotics, the other contains antibotics, 0.2% L-arabinose and 1 mM IPTG.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/measurement-sy/2024-09-27-01-02-14.png" style="width:80%; height: auto;"><br>
+    <img src="https://static.igem.wiki/teams/5115/measurement-sy/spot-assay-figure.png" style="width:80%; height: auto;"><br>
     <div>
         <span style="color: gray">Figure 2 & 3: Representative images of spots from control and experimental groups.<br>
-          <small>These figure illustrates the growth patterns of bacteria spots, in both the control(top) and experimental groups(bottom) following serial dilutions. From left to right, the columns correspond to the initial culture, dilutions of 1:10, 1:100, 1:10<sup>3</sup>, 1:10<sup>4</sup>, and 1:10<sup>5</sup>.</small>
+          <small>These figure illustrates the growth patterns of bacteria spots, in both the control(left) and experimental groups(right) following serial dilutions. From left to right, the columns correspond to the initial culture, dilutions of 1:10, 1:100, 1:10<sup>3</sup>, 1:10<sup>4</sup>, and 1:10<sup>5</sup>.</small>
          </span>
       <br><br>
     </div>
 </div>
-
 
 As the dilutions progress, a noticeable decrease in bacteria density is visiable, with the experimental group displaying different growth characteristics compared to the control group, indicating the impact of plasmid expression on bacterial proliferation (plasmid burden for short).
 
 Subsequently, after measuring the gray value of each group of colonies using [ImageJ](https://imagej.nih.gov/ij/), we quantitatively compare the growth rates of different plasmid-expressing strains, normalized to the best-performing strain shown in [Figure 2](#fig-2).
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/measurement-sy/2024-09-27-01-02-14.png" style="width:80%; height: auto;"><br>
+    <img src="https://static.igem.wiki/teams/5115/measurement-sy/bacteria-growth.png" style="width:80%; height: auto;"><br>
     <div>
-        <span style="color: gray">Figure 4: Quantification of the spots shown in [Figure 2 & 3](#fig1).<br>
+      <span style="color: gray">Figure 4: Quantification of the spots shown in <a href = '/#fig1'>Figure 2 & 3</a>.<br>
          <small>This bar graph compares the growth rates of bacterial strains expressing various plasmids. The Relative <em>E. coli</em> growth was calculated by comparing the experimental group to the control group and the average values of StayGold(plasmid number#1) and mScarlet (plasmid number#19) fluorescence proteins as a baseline, represented by different colors in the graph. The bars indicate the percentage decline in growth rate for each strain, with experimental measurements juxtaposed against computational predictions, offering insights into plasmid performance.</small>
          </span>
       <br><br>
     </div>
 </div>
+
+
 
 
 ## Previous Inspiring Methodologies in iGEM
