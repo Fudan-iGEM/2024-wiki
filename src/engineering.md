@@ -58,7 +58,7 @@ We aim to reduce the survival pressure of *E. coli* by enhancing its tolerance, 
 
 ### Cycle 2 Build
 
-We created the part ribozyme connected Hpn ([BBa_K5115036](https://parts.igem.org/Part:BBa_K5115036)) and connected this part with NixA-F1v ([BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086)) in pRAP[^2].
+We created the part ribozyme connected Hpn ([BBa_K5115036](https://parts.igem.org/Part:BBa_K5115036)) and connected this part with NixA-F1v ([BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086)) in pRAP.
 
 ### Cycle 2 Test
 

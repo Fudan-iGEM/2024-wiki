@@ -75,7 +75,7 @@ Our software supports the commonly used synthetic biology standards, including G
 style="width:100%">
 <br>
 <div>
-<p><small style="color: gray">Figure 2. Schematic figure of PartHub 3.0.
+<p><small style="color: gray">Figure 2. Integration of PartHub 3.0 with the SnapGene Workflow.
 </small></p>
 </div>
 </div>
