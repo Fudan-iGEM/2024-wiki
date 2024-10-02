@@ -98,8 +98,7 @@ Through the measures and considerations mentioned above, we have fully adhered t
 | In addition to broader safety work, has the team managed any risks from their project appropriately? | Yes. We have carefully considered the potential safety issues arising from our project, including both those we have successfully addressed and those for which we have yet to find solutions. We have strengthened our ability to identify dual-use risks and have aligned our responses with relevant policies. Additionally, we engaged with stakeholders to identify any overlooked concerns. |
 | Has the team addressed the use of synthetic biology in the real world? | Yes. We have thoroughly discussed the current and potential future applications of our project and considered the issues that might arise from its use in the real world. |
 
-
-## Reference
+----
 
 [^1]:Miao, C., Jia, P., Luo, C., Pang, J., Xiao, L., Zhang, T., Duan, J., Li, Y., & Sun, Z. (2024). The size-dependent in vivo toxicity of amorphous silica nanoparticles: A systematic review. *Ecotoxicology and Environmental Safety*, *271*, 115910. https://doi.org/10.1016/j.ecoenv.2023.115910
 [^2]:Leung, M. C. K., Williams, P. L., Benedetto, A., Au, C., Helmcke, K. J., Aschner, M., & Meyer, J. N. (2008). Caenorhabditis elegans: An Emerging Model in Biomedical and Environmental Toxicology. *Toxicological Sciences*, *106*(1), 5–28. https://doi.org/10.1093/toxsci/kfn121

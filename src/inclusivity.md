@@ -742,7 +742,7 @@ Our STEAMed is an innovative and replicable concept. All of our course materials
 
 In summary, we have developed an innovative educational concept, **STEAMed**, based on the needs and characteristics of individuals with ASD, leveraging our team's expertise and interdisciplinary advantages. Using the iHP framework, we have thoughtfully practiced our ideas, creating replicable educational models and content. We applied commercial concepts to ensure the project's sustainability and promotion. Our project is not only about sparking interest, building knowledge, and offering career training for the ASD community but also aligns with [SDG 4: Quality Education] and represents an important step towards building a technologically advanced nation. We look forward to using diverse evaluation systems and teaching methods to move closer to science together through **mutual learning and teaching**. By enhancing inclusivity in the scientific community, we aim to amplify more voices in the field. We believe that **under the starry sky, we can all become scientists!**
 
-
+----
 
 [^1]: Wei, X., Yu, J. W., Shattuck, P., McCracken, M., & Blackorby, J. (2013). Science, technology, engineering, and mathematics (STEM) participation among college students with an autism spectrum disorder. *Journal of autism and developmental disorders*, *43*(7), 1539–1546. https://doi.org/10.1007/s10803-012-1700-z
 [^2]: Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. *Journal of child psychology and psychiatry, and allied disciplines*, *63*(4), 381–396. https://doi.org/10.1111/jcpp.13534

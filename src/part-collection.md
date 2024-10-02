@@ -253,5 +253,4 @@ Please note that when we test our microparticle U module ([BBa_K5115066](https:/
 ----
 For research articles inspired our parts design, please visit our [Description](/fudan/description/) page.
 
-### The pRAP reference
 [^2]: Liu, Y., Wu, Z., Wu, D., Gao, N., & Lin, J. (2023). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synthetic Biology*, *12*(1), 136–143.[https://doi.org/10.1021/acssynbio.2c00416](https://doi.org/10.1021/acssynbio.2c00416)

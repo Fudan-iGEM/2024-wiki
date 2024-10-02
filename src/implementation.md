@@ -28,19 +28,16 @@ The nickel microparticles will sediment at the bottom of the pool, accumulate th
     </div>
 </div>
 
-
+<br>
 
 ## Commercialize
 
 Environmental conditions of industries may vary across the globe. Some places might have temperatures too low for normal bacterial growth, some places might be exposed to more sunlight than others. To let our product adapt to a wider spectrum of environment, we plan to utilize the [Anti-Freeze](https://2023.igem.wiki/fudan/results/#anti-freeze-module) and [Anti-UV](https://2023.igem.wiki/fudan/results/#_1-survival-system) modules from [Fudan iGEM 2023](https://2023.igem.wiki/fudan/results/) and confirmed in our hands during [the winter training](/fudan/heritage/). We allow add-ons to be purchased to fit the needs of our customers. See more details in [Entrepreneurship](/fudan/entrepreneurship/).
 
 
-
-
 ## Safety Concern
 
 As the application of our product moves beyond the containment of laboratories, certain safety measures are to be made. Our [Hardware](/fudan/hardware/) prevents the leakage of *E. coli* into the environment, and our [Safety](/fudan/safety/) tests show that in the event of accidental release, the *E. coli* will not cause significant harm to the ecosystem.
-
 
 
 ## Prospect
