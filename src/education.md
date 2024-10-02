@@ -321,12 +321,6 @@ Last year, we introduced a picture book titled [*What is Gene*](https://static.i
 
 Through multiple cycles of practice, reflection, and improvement, we've made enhancements to the picture book. This year's teaching materials include interesting  mini-games such as mazes, *find the difference*, and drawing self-portraits. Additionally, we've expanded the content to make it suitable for middle school students and [individuals with autism](/fudan/inclusivity). We discovered that implementing the educational plan as a [Standard Operating Procedure (SOP)](https://en.wikipedia.org/wiki/Standard_operating_procedure) greatly facilitates the rapid recruitment and training of volunteers, especially in situations where there is a lack of helpful staff, thus promoting the widespread and efficient execution of educational activities.
 
-<PDF url="https://static.igem.wiki/teams/5115/education-zkx/picture-book-what-is-gene-final.pdf" page="1" width="100%" />
-
-<PDF url="https://static.igem.wiki/teams/5115/education-zkx/picture-book-gene-editing.pdf" page="1" width="100%" />
-
-The two PDFs are from [Fudan iGEM 2023](https://2023.igem.wiki/fudan/education/).
-
 ## Summary
 
 Overall, our education strategy, inspired by the philosophies of [Mencius and Bandura](#concept-of-education), has equipped our team members with great teaching skills, firmly advancing the strategy of tailored educational programs for our target audience.
