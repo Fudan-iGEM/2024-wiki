@@ -42,8 +42,7 @@ Therefore, we are excited to introduce **PartHub 3.0** this year, which addresse
 As illustrated in Figure 1, PartHub 3.0 consists of two main components: the [Burden Predictor](https://2024.igem.wiki/fudan/software/#burden-predictor) and the [Similarity Estimator](https://2024.igem.wiki/fudan/software/#similarity-estimator). The Burden Predictor can predict the metabolic burden of a composite part, which can be either a monocistron or a [pRAP system](https://2024.igem.wiki/fudan/software/#introduction)-based polycistron. The Similarity Estimator allows users to search for specific parts within PartHub and identify similar parts.
 
 <div style="text-align: center;" id="figure-1">
-<img src="https://static.igem.wiki/teams/5115/software/schematic2.png"
-style="width:100%">
+<img src="https://static.igem.wiki/teams/5115/software/schematic2.png" style="width:100%">
 <br>
 <div>
 <p><small style="color: gray">Figure 1. Schematic figure of PartHub 3.0.
@@ -703,11 +702,11 @@ During the development of our software, we adhered to a structured Design-Build-
 
 ## Reference
 
-[^1]: Rugbjerg, P., Myling-Petersen, N., Porse, A., Sarup-Lytzen, K., & Sommer, M. O. A. (2018). Diverse genetic error modes constrain large-scale bio-based production. *Nature Communications*, *9*(1), 787. https://doi.org/10.1038/s41467-018-03232-w
-[^2]: Radde, N. (2024). Measuring the burden of hundreds of BioBricks defines an evolutionary limit on constructability in synthetic biology. *Nature Communications*. https://doi.org/10.1038/s41467-024-50639-9
-[^3]: Weiße, A. Y., Oyarzún, D. A., Danos, V., & Swain, P. S. (2015). Mechanistic links between cellular trade-offs, gene expression, and growth. *Proceedings of the National Academy of Sciences*, *112*(9), E1038–E1047. https://doi.org/10.1073/pnas.1416533112
-[^4]: Nikolados, E.-M., Weiße, A. Y., Ceroni, F., & Oyarzún, D. A. (2019). Growth Defects and Loss-of-Function in Synthetic Gene Circuits. *ACS Synthetic Biology*, *8*(6), 1231–1240. https://doi.org/10.1021/acssynbio.8b00531
-[^5]: Liu, Y., Wu, Z., Wu, D., Gao, N., & Lin, J. (2022). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synthetic Biology*, *12*(1), 136–143. https://doi.org/10.1021/acssynbio.2c00416
-[^6]:  LaFleur, T. L., Hossain, A., & Salis, H. M. (2022). Automated model-predictive design of synthetic promoters to control transcriptional profiles in bacteria. *Nature Communications*, *13*(1), 5159. https://doi.org/10.1038/s41467-022-32829-5
-[^7]: Tian, T., & Salis, H. M. (2015). A predictive biophysical model of translational coupling to coordinate and control protein expression in bacterial operons. *Nucleic Acids Research*, *43*(14), 7137–7151. https://doi.org/10.1093/nar/gkv635
-[^8]: Bremer, H., & Dennis, P. P. (2008). Modulation of Chemical Composition and Other Parameters of the Cell at Different Exponential Growth Rates. *EcoSal Plus*, *3*(1). https://doi.org/10.1128/ecosal.5.2.3
+[^1]: Rugbjerg, P., Myling-Petersen, N., Porse, A., Sarup-Lytzen, K., & Sommer, M. O. A. (2018). Diverse genetic error modes constrain large-scale bio-based production. *Nature Communications*, *9*(1), 787. [https://doi.org/10.1038/s41467-018-03232-w](https://doi.org/10.1038/s41467-018-03232-w)
+[^2]: Radde, N. (2024). Measuring the burden of hundreds of BioBricks defines an evolutionary limit on constructability in synthetic biology. *Nature Communications*. [https://doi.org/10.1038/s41467-024-50639-9](https://doi.org/10.1038/s41467-024-50639-9)
+[^3]: Weiße, A. Y., Oyarzún, D. A., Danos, V., & Swain, P. S. (2015). Mechanistic links between cellular trade-offs, gene expression, and growth. *Proceedings of the National Academy of Sciences*, *112*(9), E1038–E1047. [https://doi.org/10.1073/pnas.1416533112](https://doi.org/10.1073/pnas.1416533112)
+[^4]: Nikolados, E.-M., Weiße, A. Y., Ceroni, F., & Oyarzún, D. A. (2019). Growth Defects and Loss-of-Function in Synthetic Gene Circuits. *ACS Synthetic Biology*, *8*(6), 1231–1240. [https://doi.org/10.1021/acssynbio.8b00531](https://doi.org/10.1021/acssynbio.8b00531)
+[^5]: Liu, Y., Wu, Z., Wu, D., Gao, N., & Lin, J. (2022). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synthetic Biology*, *12*(1), 136–143. [https://doi.org/10.1021/acssynbio.2c00416](https://doi.org/10.1021/acssynbio.2c00416)
+[^6]:  LaFleur, T. L., Hossain, A., & Salis, H. M. (2022). Automated model-predictive design of synthetic promoters to control transcriptional profiles in bacteria. *Nature Communications*, *13*(1), 5159. [https://doi.org/10.1038/s41467-022-32829-5](https://doi.org/10.1038/s41467-022-32829-5)
+[^7]: Tian, T., & Salis, H. M. (2015). A predictive biophysical model of translational coupling to coordinate and control protein expression in bacterial operons. *Nucleic Acids Research*, *43*(14), 7137–7151. [https://doi.org/10.1093/nar/gkv635](https://doi.org/10.1093/nar/gkv635)
+[^8]: Bremer, H., & Dennis, P. P. (2008). Modulation of Chemical Composition and Other Parameters of the Cell at Different Exponential Growth Rates. *EcoSal Plus*, *3*(1). [https://doi.org/10.1128/ecosal.5.2.3](https://doi.org/10.1128/ecosal.5.2.3)

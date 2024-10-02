@@ -22,7 +22,7 @@ Mass-produced nickel-absorbing bacterial cleaner for water bodies.
 
 Below is our [business plan](https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf).
 
-<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="100%" height="800px"/>
+<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="100%" height="640px"/>
 
 <div style="text-align: center;" id="pdf2">
   <span style="color: gray">Business Plan of MINERAL</span>
@@ -38,7 +38,7 @@ As global awareness of environmental protection increases, the demand for sustai
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1new.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 1: Nickel has a significant market demand.(data base from Wind, Baocheng Futures Financial Research Institute)</span>
+    	<span style="color: gray">Figure 1: Nickel has a significant market demand (data from Wind, Baocheng Futures Financial Research Institute)</span>
         <br><br>
     </div>
 </div>
@@ -48,7 +48,7 @@ On the other hand, current global nickel reserves are struggling to meet the gro
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig2.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years.(data base from USGS)</span>
+    	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years (data from USGS)</span>
         <br><br>
     </div>
 </div>
@@ -93,7 +93,7 @@ We conducted competitive analysis with the most popular ways[^3].
 
 ### Possibility of Our Product Strategy
 
-#### 1.Competitiveness of MINERAL
+#### Competitiveness of MINERAL
 
 Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to efficiently recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The visible nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
@@ -106,7 +106,7 @@ Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to
 </div>
 <br>
 
-#### 2.Product Lifecycle
+#### Product Lifecycle
 
 Most importantly, our product simplifies the previously cumbersome industrial process using a highly innovative approach — no chemical reagents, and no molecular membrane filtration. The customers simply need to attatch the Gile Carbon Fiber following the product manual, and will be able to observe the valuable nickel being separated.
 
@@ -122,7 +122,7 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
 
 ### Scalability of Our Operation Strategy
 
-#### 1. Business Model and Core Product
+#### Business Model and Core Product
 
 In response to the identified unmet needs and the development progress of [MINERAL](/fudan/description/), we propose our product — [Gile Carbon Fiber](/fudan/hardware/#fig1) — accompanied by our unique monthly subscription service. 
 
@@ -138,9 +138,9 @@ After purchasing our basic product, customers will receive free equipment instal
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig6.webp" style="width:100%">
 </div>
 
+<br>
 
-
-#### 2. Exit Strategy
+#### Exit Strategy
 
 Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
 
@@ -152,7 +152,7 @@ It includes seeking mergers with wastewater treatment companies to leverage thei
 
 In addition to selling MINERAL's core products, we have introduced a **Monthly Membership Subscription service**.
 
-When customers subscribe to our service, they will receive a **basic backup** that includes a real-time wastewater monitoring system, which facilitates strategy optimization and further reduces costs.
+When customers subscribe to our service, they will receive a **starting package** that includes a real-time wastewater monitoring system, which facilitates strategy optimization and further reduces costs.
 
 On this basis, we provide comprehensive maintenance services for our Gile Carbon Fiber. 
 
@@ -171,7 +171,7 @@ Second, throughout the membership duration, customers can enjoy free maintenance
 
 
 
-## Product Development Plans with Milestones, Timelines, Resources, and Risks
+## Product Development Plans
 
 ### Milestones
 
@@ -304,7 +304,7 @@ Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicat
 </div>
 
 
-After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL product. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As on the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the contract with CPS.
+After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL product. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As on the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the Technical Cooperation Intention Agreement with CPS.
 
 <PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/agreement2.pdf" page="1" width="100%" height="800px"/>
 
@@ -419,7 +419,7 @@ Furthermore, our product has strong competitiveness. See [Swot Analysis](#fig21)
 
 ### [Reliable Team](/fudan/team/)
 
-Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
+Our team consists of 14 members from Fudan University, a diverse group of people from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
 
 
 ### Stakeholders

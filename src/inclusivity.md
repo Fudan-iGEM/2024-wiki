@@ -6,13 +6,10 @@ author:
 - name: Xueting Chen
   url: /fudan/team/#xueting-chen
 - name: Ziming Suo
-  url: /fudan/team/#ziming-suo
-
+  url: /fudan/team/#ziming-su
 ---
 
-<br>
-
-<br>
+<br><br>
 
 ## We Shall Eliminate Barriers Between ASD and Science
 
@@ -102,7 +99,7 @@ After the exhibition, we visited the director of the Human Science Museum and th
     </div>
 </div>
 
-Finally, our education program got its name “STEAMed Education — for Children from the Star.” 
+Finally, our inclusivity program got its name “STEAMed Education — for Children from the Star.” 
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/steamed-logo-page-with-illustrate.png" style='width:100%'>
@@ -164,7 +161,6 @@ After the course practice, to understand the evaluation and suggestions for the 
 
 We believe that the top priority is to establish a replicable curriculum model. For this, we need to design more courses to be conducted in Blue Sky and verify the effectiveness of the courses. In the future, these courses can be further promoted to the relatively low functioning ASD population by reducing their difficulty and repeatedly reinforcing them.
 
-【Further consideration can be given to adding interviews as an example.】
 
 ## The Guidelines for STEAMed Education
 
