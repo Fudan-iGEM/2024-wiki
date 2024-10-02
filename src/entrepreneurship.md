@@ -93,7 +93,7 @@ We conducted competitive analysis with the most popular ways[^3].
 
 ### Possibility of Our Product Strategy
 
-#### 1.Competitiveness of MINERAL
+#### 1. Competitiveness of MINERAL
 
 Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to efficiently recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The visible nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
@@ -106,7 +106,7 @@ Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to
 </div>
 <br>
 
-#### 2.Product Lifecycle
+#### 2. Product Lifecycle
 
 Most importantly, our product simplifies the previously cumbersome industrial process using a highly innovative approach — no chemical reagents, and no molecular membrane filtration. The customers simply need to attatch the Gile Carbon Fiber following the product manual, and will be able to observe the valuable nickel being separated.
 
@@ -123,7 +123,7 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
 
 ### Scalability of Our Operation Strategy
 
-#### 1.Business Model and Core Product
+#### 1. Business Model and Core Product
 
 In response to the identified unmet needs and the development progress of [MINERAL](/fudan/description/), we propose our product — [Gile Carbon Fiber](/fudan/hardware/#fig1) — accompanied by our unique monthly subscription service. 
 
@@ -141,7 +141,7 @@ After purchasing our basic product, customers will receive free equipment instal
 
 
 
-#### 2.Exit Strategy
+#### 2. Exit Strategy
 
 Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
 

@@ -35,6 +35,7 @@ For the removal of heavy metals, there are three main biological interactions to
     </div>
 </div>
 
+<br>
 
 #### 3. Why Microparticles?
 
@@ -78,7 +79,7 @@ To protect against widely existing environmental bacteriophage infections, we en
 
 Our ultimate goal is to produce safe, reusable nickel microparticles. Therefore, we designed parts to enhance the efficiency of microparticle formation while mitigating toxicity.
 
-By utilizing carboxysomes, we create a concentrated environment for NiFe hydrogenase and nickel reduction. This compartmentalization enhances the local concentrations of enzymes, improving the catalytic efficiency of hydrogenase and the overall rate of microparticle formation.
+By utilizing carboxysomes, we create a concentrated environment for Ni/Fe hydrogenase and nickel reduction. This compartmentalization enhances the local concentrations of enzymes, improving the catalytic efficiency of hydrogenase and the overall rate of microparticle formation.
 
 
 ### Hydrogen Supply

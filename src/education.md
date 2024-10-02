@@ -23,8 +23,7 @@ So, our goal is **to inspire students across all educational stages in China**, 
     <img src="https://static.igem.wiki/teams/5115/education-zkx/m.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 1: Mencius is a famous educationist in Chinese history.
-            <br>
-            (Image from:https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%AD%90)</span>
+            <br>(Image from https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%AD%90)</span>
         <br><br>
     </div>
 </div>
