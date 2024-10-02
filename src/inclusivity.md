@@ -154,7 +154,7 @@ We believe that the top priority is to establish a replicable curriculum model. 
 
 During the above process, we received many valuable details and supplementary suggestions. We organized these into two initial teaching guidelines: one for course [content design]() and another for [interactive considerations](). We will continue to refine these guidelines as we implement the subsequent courses.
 
-###  Process Evaluation System
+### Process Evaluation System
 
 (The outcome evaluation system will be addressed in Section 4.) (Should we focus more on different dimensions in the evaluation for different tiered subjects?)
 
@@ -302,20 +302,11 @@ After detailed discussions, we accepted these suggestions. This course has boost
 
 #### Teaching Plan and Related Attachments:
 
-[Course 1 Lesson Plan (English).pdf ](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-lesson-plan-en.pdf)
-
-[Course 1 Lesson Plan (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-lesson-plan-cn.pdf)
-
-[Course 1 Picture Book (English)](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-teaching-materials-what-is-gene-en.pdf)
-
-[Course 1 Picture Book (Chinese)](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-teaching-materials-what-is-gene-cn.pdf)
-
-[Course 1 Powerpoint (Chinese)](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-teaching-powerpoint-what-is-gene-cn.pdf)
-
-[Course 1 Quiz and Assessment (English and Chinese)](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-quiz-assessment.pdf)
-
-[Course 1 Game Materials](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-game-materials.pdf)
-
+* [Course 1 Lesson Plan (English).pdf ](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-lesson-plan-en.pdf)<br>[Course 1 Lesson Plan (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-lesson-plan-cn.pdf)
+* [Course 1 Picture Book (English)](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-teaching-materials-what-is-gene-en.pdf)<br>[Course 1 Picture Book (Chinese)](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-teaching-materials-what-is-gene-cn.pdf)
+* [Course 1 Powerpoint (Chinese)](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-teaching-powerpoint-what-is-gene-cn.pdf)
+* [Course 1 Quiz and Assessment (English and Chinese)](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-quiz-assessment.pdf)
+* [Course 1 Game Materials](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-game-materials.pdf)
 
 
 ### Course Ⅱ Gene Engineering
@@ -337,7 +328,6 @@ Inspired by our first course, we also fully adapted our previous picture book to
 1. What is the structure of the DNA double helix?
 2. What are the steps involved in genetic engineering?
 3. How is "Golden Rice" made?
-
 
 
 ::: details Course Ⅱ (Implementation, attachments, etc.)
@@ -391,18 +381,12 @@ We designed a self-assessment questionnaire for after the class, which can be fo
 The students demonstrated a thorough understanding of genetic concepts in their responses to these questionnaires.
 
 
-
 #### Teaching Plan and Related Attachments:
 
-[Course 2 Lesson Plan (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-lesson-plan-en.pdf)
-
-[Course 2 Picture Book (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-teaching-materials-gene-editing-cn.pdf)
-
-[Course 2 Quiz and Assessment (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-quiz-assessment-en.pdf)
-
-[Course 2 Quiz and Assessment (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-quiz-assessment-cn.pdf)
-
-[Course 2 DNA Origami](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-engineering-materials-dna-cn.pdf)
+* [Course 2 Lesson Plan (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-lesson-plan-en.pdf)
+* [Course 2 Picture Book (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-teaching-materials-gene-editing-cn.pdf)
+* [Course 2 Quiz and Assessment (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-quiz-assessment-en.pdf)<br>[Course 2 Quiz and Assessment (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-quiz-assessment-cn.pdf)
+* [Course 2 DNA Origami](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-2-engineering-materials-dna-cn.pdf)
 
 :::
 
@@ -483,15 +467,10 @@ The students demonstrated a thorough understanding of brain science in their res
 
 #### Teaching Plan and Related Attachments:
 
-[Course 3 Lesson Plan (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-lesson-plan-en.pdf)
-
-[Course 3 Powerpoint 1 (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-teaching-powerpoint-brain-science-1-cn.pdf)
-
-[Course 3 Powerpoint 2 (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-teaching-powerpoint-brain-science-2-cn.pdf)
-
-[Course 3 Quiz and Assessment (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-quiz-assessment-en.pdf)
-
-[Course 3 Quiz and Assessment (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-quiz-assessment-cn.pdf)
+* [Course 3 Lesson Plan (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-lesson-plan-en.pdf)
+* [Course 3 Powerpoint 1 (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-teaching-powerpoint-brain-science-1-cn.pdf)
+* [Course 3 Powerpoint 2 (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-teaching-powerpoint-brain-science-2-cn.pdf)
+* [Course 3 Quiz and Assessment (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-quiz-assessment-en.pdf)<br>[Course 3 Quiz and Assessment (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-3-quiz-assessment-cn.pdf)
 
 :::
 
@@ -569,17 +548,10 @@ The students demonstrated a thorough understanding of artificial intelligence in
 
 #### Teaching Plan and Related Attachments:
 
-[Course 4 Lesson Plan (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-lesson-plan-en.pdf)
-
-[Course 4 Powerpoint (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-teaching-powerpoint-ai-cn.pdf)
-
-[Course 4 Quiz Assessment (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-quiz-assessment-en.pdf)
-
-[Course 4 Quiz Assessment  (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-quiz-assessment-cn.pdf)
-
-[Course 4 Game (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-game-en.pdf)
-
-[Course 4 Game (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-game-cn.pdf)
+* [Course 4 Lesson Plan (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-lesson-plan-en.pdf)
+* [Course 4 Powerpoint (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-teaching-powerpoint-ai-cn.pdf)
+* [Course 4 Quiz Assessment (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-quiz-assessment-en.pdf)<br>[Course 4 Quiz Assessment  (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-quiz-assessment-cn.pdf)
+* [Course 4 Game (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-game-en.pdf)<br>[Course 4 Game (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-4-game-cn.pdf)
 
 :::
 
@@ -644,9 +616,8 @@ Our slides can be found in the attachment: [course-4-ppt.pdf](https://static.ige
 
 #### Teaching Plan and Related Attachments:
 
-[Course 5 Lesson plan (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-5-lesson-plan-en.pdf)
-
-[Course 5 Powerpoint (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-5-teaching-powerpoint-oral-health-cn.pdf)
+* [Course 5 Lesson plan (English).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-5-lesson-plan-en.pdf)
+* [Course 5 Powerpoint (Chinese).pdf](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-5-teaching-powerpoint-oral-health-cn.pdf)
 
 :::
 
@@ -750,7 +721,7 @@ Our STEAMed is an innovative and replicable concept. All of our course materials
 
 In summary, we have developed an innovative educational concept, **STEAMed**, based on the needs and characteristics of individuals with ASD, leveraging our team's expertise and interdisciplinary advantages. Using the iHP framework, we have thoughtfully practiced our ideas, creating replicable educational models and content. We applied commercial concepts to ensure the project's sustainability and promotion. Our project is not only about sparking interest, building knowledge, and offering career training for the ASD community but also aligns with [SDG 4: Quality Education] and represents an important step towards building a technologically advanced nation. We look forward to using diverse evaluation systems and teaching methods to move closer to science together through mutual learning and teaching（引用志愿者感想）. By enhancing inclusivity in the scientific community, we aim to amplify more voices in the field. We believe that **under the starry sky, we can all become scientists!**
 
+----
 
-
-[^1]: Wei, X., Yu, J. W., Shattuck, P., McCracken, M., & Blackorby, J. (2013). Science, technology, engineering, and mathematics (STEM) participation among college students with an autism spectrum disorder. *Journal of autism and developmental disorders*, *43*(7), 1539–1546. https://doi.org/10.1007/s10803-012-1700-z
-[^2]: Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. *Journal of child psychology and psychiatry, and allied disciplines*, *63*(4), 381–396. https://doi.org/10.1111/jcpp.13534
+[^1]: Wei, X., Yu, J. W., Shattuck, P., McCracken, M., & Blackorby, J. (2013). Science, technology, engineering, and mathematics (STEM) participation among college students with an autism spectrum disorder. *Journal of autism and developmental disorders*, *43*(7), 1539–1546. [https://doi.org/10.1007/s10803-012-1700-z](https://doi.org/10.1007/s10803-012-1700-z)
+[^2]: Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. *Journal of child psychology and psychiatry, and allied disciplines*, *63*(4), 381–396. [https://doi.org/10.1111/jcpp.13534](https://doi.org/10.1111/jcpp.13534)

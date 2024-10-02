@@ -10,7 +10,7 @@ headergif: https://static.igem.wiki/teams/5115/header/entrepreneurship-header.gi
 
 ### Why
 
-We need more nickel to sustain Earth's operations and reduce pollution from mining.
+We need nickel to sustain Earth's operations and reduce pollution from mining.
 
 ### How
 
@@ -20,45 +20,45 @@ Provide an eco-friendly method to absorb nickel from contaminated water.
 
 Mass-produced nickel-absorbing bacterial cleaner for water bodies.
 
-Please find more information in our [business plan](#pdf2).
+Below is our [business plan](https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf).
 
-<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="90%" height="100vw"/>
+<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="100%" height="800px"/>
 
 <div style="text-align: center;" id="pdf2">
-    	<span style="color: gray">Business Plan of MINERAL</span>
-        <br><br>
-    </div>
+  <span style="color: gray">Business Plan of MINERAL</span>
+  <br><br>
+</div>
 
 ## Identifying and Understanding Unmet Needs
 
 ### Growing Demand for Nickel
 
-As global awareness of environmental protection increases, the demand for sustainable resource management and the reduction of industrial pollution is growing. According to estimates by AsianMetal, **4.4 to 4.6 million tons of nickel-containing scrap** are collected annually, with a nickel content of nearly **350,000 tons**, accounting for about **1/4** of the total nickel demand[^1]. The mining and production processes of nickel have caused significant environmental damage, including deforestation, soil erosion, and water pollution.
-
-The Earth urgently needs effective methods to mitigate the pollution caused by the nickel mining industry.
+As global awareness of environmental protection increases, the demand for sustainable resource management and the reduction of industrial pollution is growing. According to estimates by [AsianMetal](#fig1), 4.4 to 4.6 million tons of nickel-containing scrap are collected annually, with a nickel content of nearly 350,000 tons, accounting for about 1/4 of the total nickel demand[^1]. The mining and production of nickel have caused significant environmental damage, including deforestation, soil erosion, and water pollution.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1new.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1new.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 1: Nickel has a significant market demand.</span>
         <br><br>
     </div>
 </div>
 
-On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM has pointed out that high-grade nickel ore with a content of over **1.7%** can only sustain consumption for **7 to 10 years**[^2]. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the future.
+The Earth urgently needs effective methods to mitigate the pollution caused by the nickel mining industry.
+
+On the other hand, current global nickel reserves are struggling to meet the growing demand from electric vehicles and other high-tech products, increasing the risk of resource depletion. ESDM 这是什么缩写@@@@ has pointed out that high-grade nickel ore with a content of over 1.7% can only sustain consumption for 7 to 10 years[^2]. The Earth needs an efficient nickel recycling technology to extend the lifespan of nickel resources and meet the ongoing demand for nickel in the coming future.
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig2new.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig2new.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years.</span>
         <br><br>
     </div>
 </div>
 
-However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in a new nickel recycling system that meets the pursuit of innovation and efficiency. As a result, we have identified the potential customers for the MINERAL project as industrial manufacturers utilizing nickel, including **battery manufacturers**, **stainless steel producers**, **industrial wastewater treatment companies**, **mining companies**, and **electroplating companies**.
+However, existing nickel recycling methods are inefficient, costly, and harmful to the environment. Given the surge in nickel demand, the market shows a strong willingness to invest in novel nickel recycling systems that meet the pursuit of innovation and efficiency. As a result, we have identified the potential customers for our MINERAL project as industrial manufacturers utilizing nickel, including battery manufacturers, stainless steel producers, industrial wastewater treatment companies, mining companies, and electroplating companies.
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/nicon.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/nicon.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 3: Nickel Consumption Structure</span>
         <br><br>
@@ -66,7 +66,7 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
 </div>
 
 <div style="text-align: center;" id="fig4">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig4new.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig4new.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 4: Potential Customers</span>
         <br><br>
@@ -80,37 +80,29 @@ However, existing nickel recycling methods are inefficient, costly, and harmful 
 We conducted competitive analysis with the most popular ways[^3].
 
 <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig9.webp" style='width:100%'>
-    <div>
-    	<span style="color: gray">Figure 5: Compare to Other Substitute Ways</span>
-        <br><br>
-    </div>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig9.webp" style="width:100%">
 </div>
 
-<br>
+<br><br>
 
 ## Our Possible, Scalable and Inventive Solution
 
 ### Business Model
 
-In response to the identified unmet needs and based on the MINERAL project, we propose our product—**the Nickel Ion Wastewater Cleaner**—accompanied by our unique **monthly subscription service**. After purchasing our basic product, customers will receive **free equipment installation and technical guidance**. By paying a monthly membership fee, they can access our **real-time wastewater treatment monitoring system**, which provides optimization for improving product usage strategies and saving costs. Utilizing our technology of introducing genes into *E. coli* to control the absorption and enrichment of nickel ions, we have successfully developed a product that significantly reduces nickel ion concentrations in water, validating the feasibility of our project.
+In response to the identified unmet needs and the development progress of [MINERAL](/fudan/description/), we propose our product — the Nickel Ion Wastewater Cleaner — accompanied by our unique monthly subscription service. After purchasing our basic product, customers will receive free equipment installation and technical guidance. By paying a monthly membership fee, they can access our real-time wastewater treatment monitoring system, which provides optimization for improving product usage and reducing costs. By introducing engieered parts into *E. coli* to control the absorption and enrichment of nickel ions, we have [successfully](/fudan/results/#) developed a product that significantly reduces nickel ion concentrations in water, validating the feasibility of our product.
 
 <div style="text-align: center;" id="fig6">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig6.webp" style='width:100%'>
-    <div>
-    	<span style="color: gray">Figure 6: Business Model of MINERAL</span>
-        <br><br>
-    </div>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig6.webp" style="width:100%">
 </div>
 
-<br>
+<br><br>
 
 ### Competitiveness of MINERAL
 
-Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to **efficiently** recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The **visible** nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
+Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to efficiently recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The visible nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig7new.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig7new.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 7: Competitiveness of MINERAL</span>
         <br><br>
@@ -121,10 +113,10 @@ Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to
 
 ### Product Lifecycle
 
-Most importantly, our product simplifies the previously cumbersome industrial process using a highly innovative approach—no chemical reagents, no molecular membrane filtration. You simply need to add the Nickel Ion Wastewater Cleaner to wastewater with the corresponding concentration, and you will be able to observe the valuable nickel being separated.
+Most importantly, our product simplifies the previously cumbersome industrial process using a highly innovative approach — no chemical reagents, and no molecular membrane filtration. The customers simply need to add the Nickel Ion Wastewater Cleaner to wastewater following the product manual, and will be able to observe the valuable nickel being separated.
 
 <div style="text-align: center;" id="fig8">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig8new.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig8new.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 8: How Our Product Functions</span>
         <br><br>
@@ -137,13 +129,13 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
 
 Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
 
-It includes **seeking mergers with wastewater treatment companies** to leverage their market resources and accelerate the application of our technology. We also **retain the option to sell patents and licenses** to realize the commercial value of our intellectual property. Additionally, the project can **be preserved as a startup opportunity** to be pursued when market conditions are favorable. This strategy aims to maximize the project’s value while laying the groundwork for future growth.
+It includes seeking mergers with wastewater treatment companies to leverage their market resources and accelerate the application of our technology. We also retain the option to sell patents and licenses to realize the commercial value of our intellectual property. Additionally, the project can be preserved as a startup opportunity to be pursued when market conditions are favorable. This strategy aims to maximize the project’s value while laying the groundwork for future growth.
 
 ## Product Development, Milestones, Resources, and Risks
 
 ### Key Goals
 
-To **improve nickel recovery efficiency**, **enhance the cleaner's ability** to handle higher heavy metal, salt, and pH concentrations, scale up production, achieve profitability, and **set a green industry benchmark**.
+To improve nickel recovery efficiency, enhance the cleaner's ability to handle higher heavy metal, salt, and pH concentrations, scale up production, achieve profitability, and set a green industry benchmark.
 
 ### Key Resources
 
@@ -153,45 +145,50 @@ To **improve nickel recovery efficiency**, **enhance the cleaner's ability** to 
 - Supported by production practices from business  partners
 - Backed by government support for green initiatives
 
-**Technical Labor**: Our project relies on the abundant **technical resources** and **laboratory equipment** within Fudan University, ensuring that the hardware needs for research and experimentation are fully met. Our team benefits from a robust supply of technical labor, including talented students and professional faculty members, who bring both innovative ideas and practical skills to the project. 
+#### Technical Labor
+Our project relies on the abundant technical resources and laboratory equipment within Fudan University, ensuring that the hardware needs for research and experimentation are fully met. Our team benefits from a robust supply of technical labor, including talented students and professional faculty members, who bring both innovative ideas and practical skills to the project. 
 
-**Ongoing pursuit of funding**: Additionally, we are actively seeking continuous funding support through various channels and partnerships to ensure a stable financial pipeline for the project. And there's some [resources](#our-business-partners) that we achieved.
+#### Ongoing pursuit of funding
+Additionally, we are actively seeking continuous funding support through various channels and partnerships to ensure a stable financial pipeline for the project. And there's some [resources](#our-business-partners) that we achieved.
 
-**Technological Barriers**: On the technical side, we have established certain technological barriers, including **preparing patent protection** and the **specialized knowledge** of our team. This gives our project a competitive edge and helps us maintain a unique position in the market. 
+#### Technological Barriers
+On the technical side, we have established certain technological barriers, including preparing patent protection and the specialized knowledge of our team. This gives our project a competitive edge and helps us maintain a unique position in the market. 
 
-**Partner Companies**: We have also forged strong ties with partner companies that provide valuable support in terms of production practices, including access to facilities, technology, and management expertise, which are crucial for transitioning our lab results into viable products.
+#### Partner Companies
+We have also forged strong ties with partner companies that provide valuable support in terms of production practices, including access to facilities, technology, and management expertise, which are crucial for transitioning our lab results into viable products.
 
-**Government Support**: Moreover, our project has received substantial backing from the government, especially since green technologies and sustainable development are highly encouraged under current policies: 
+#### Government Support
+Moreover, our project has received substantial backing from the government, especially since green technologies and sustainable development are highly encouraged under current policies: 
 
 - National People's Congress of the People's Republic of China: *[Draft Amendment to the Mineral Resources Law Second Review: Promoting Green and High-Quality Development in the Mining Industry](http://www.npc.gov.cn/npc/c2/c30834/202407/t20240724_438430.html)*
 
 - EU Commission: *[Circular Economy Action Plan](https://environment.ec.europa.eu/topics/waste-and-recycling_en), [Regulation on Batteries and Waste Batteries](https://eur-lex.europa.eu/eli/reg/2023/1542/oj)*
 
-- Environmental Protection Agency, EPA: *[Resource Conservation and Recovery Act](https://www.epa.gov/rcra)*
+- Environmental Protection Agency (EPA): *[Resource Conservation and Recovery Act](https://www.epa.gov/rcra)*
 
 Government support includes financial subsidies, tax incentives, research grants, and other initiatives, all of which will greatly accelerate the growth and market expansion of our project. The strategic use of these key resources lays a solid foundation for the success of our project and paves the way for future development.
 
 ### Our First Try on Commercialization
 
-In May 2024, we participated in the **Fudan University Innovation and Entrepreneurship Competition**. 
+In May 2024, we participated in the Fudan University Innovation and Entrepreneurship Competition. 
 
-The professional innovation and entrepreneurship instructors from our college conducted a comprehensive review of our project and provided us with valuable feedback, suggesting that we quickly move beyond the laboratory phase and engage with businesses. 
+The professional innovation and entrepreneurship instructors from our university conducted a comprehensive review of our business plan and provided us with valuable feedbacks. One suggesting is to quickly move beyond the laboratory phase and engage with businesses. 
 
 <div style="text-align: center;" id="fig9">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/match.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/match.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 9: Participating in the Competition</span>
+    	<span style="color: gray">Figure 9: Participating in the Entrepreneurship Competition</span>
         <br><br>
     </div>
 </div>
 
-We received a small [**award**](https://mp.weixin.qq.com/s/tw9UTN5enW3R9KSMAoJnCg) in the competition, gaining not only recognition but also the confidence to accelerate our project. Thus, this summer, we reached out to the following business partners.
+We received a small [award](https://mp.weixin.qq.com/s/tw9UTN5enW3R9KSMAoJnCg) in the competition, gaining not only recognition but also the confidence to accelerate our project. Thus, this summer, we reached out to the following business partners.
 
 ### Our Business Partners
 
 #### U Power Tech
 
-Located in Xuhui district, Shanghai, U Power is a startup company dedicated to integrating key power and control systems for electric vehicles into the chassis to facilitate car manufacturing. With a **battery research and development team** of up to **30 professionals**, U Power possesses unique insights into the entire lifecycle of power batteries. After several interactions, U Power expressed **significant interest** in the MINERAL project.
+Located in Xuhui district, Shanghai, U Power is a startup company dedicated to integrating key power and control systems for electric vehicles into the chassis to facilitate car manufacturing. With a battery research and development team of up to 30 professionals, U Power possesses unique insights into the entire lifecycle of power batteries. After several interactions, U Power expressed significant interest in the MINERAL project.
 
 <div style="text-align: center;" id="fig10">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/upower.webp" style='width:50%'>
@@ -202,26 +199,26 @@ Located in Xuhui district, Shanghai, U Power is a startup company dedicated to i
 </div>
 
 
-U Power hosted an **investment promotion meeting** for our project, where Kexin Zheng presented our business prospects to the attending company representatives.
+U Power hosted an investment promotion meeting for our project, where Kexin Zheng presented our business prospects to the attending company representatives.
 
 <div style="text-align: center;" id="fig11">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/upre.gif" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/upre.gif" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 11: Kexin Zheng is promoting our project.</span>
+    	<span style="color: gray">Figure 11: Team member Kexin Zheng is promoting our project</span>
         <br><br>
     </div>
 </div>
 
 
-Participants not only highly praised our **development potential and product design** philosophy but also provided valuable suggestions for our marketing strategy: targeting **electroplating and stainless steel manufacturing** companies as our primary customer base, as these industries have a significant demand for nickel and the electroplating sector operates entirely in liquid environments, making their needs urgent and aligned with our product.
+Participants not only highly praised our development potential and product design philosophy but also provided valuable suggestions for our marketing strategy: targeting electroplating and stainless steel manufacturing companies as our primary customer base, as these industries have a significant demand for nickel and the electroplating sector operates entirely in liquid environments, making their needs urgent and aligned with our product.
 
-Additionally, professionals from U Power's marketing department recommended positioning **environmental protection and pollution control** as our core concept and additional market focus, given that existing heavy metal pollution often spreads to water bodies with wide-ranging but low concentrations, and there are insufficient environmentally friendly and efficient methods to address this issue. Our low-cost, non-hazardous biological approach can fill these critical gaps.
+Additionally, professionals from U Power's marketing department recommended positioning environmental protection and pollution control as our core concept and additional market focus, given that existing heavy metal pollution often spreads to water bodies with wide-ranging but low concentrations, and there are insufficient environmentally friendly and efficient methods to address this issue. Our low-cost, non-hazardous biological approach can fill these critical gaps.
 
 Furthermore, U Power recommended several closely related companies for potential collaboration:
 
 #### GEM
 
-On the recommendation of U Power, we visited GEM, a developed company focused on the **recycling of waste metal resources**.
+On the recommendation of U Power, we visited GEM, a developed company focused on the recycling of waste metal resources.
 
 <div style="text-align: center;" id="fig12">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/gem.webp" style='width:50%'>
@@ -232,20 +229,20 @@ On the recommendation of U Power, we visited GEM, a developed company focused on
 </div>
 
 
-GEM adheres to the development philosophy of *limited resources, unlimited recycling*, committed to *eliminating pollution and regenerating resources.* They promote a circular industrial culture aimed at achieving a harmonious integration of economic value, environmental value, and social responsibility, which **aligns closely with our ideas and missions**.
+GEM adheres to the development philosophy of *limited resources, unlimited recycling*, committed to *eliminating pollution and regenerating resources.* They promote a circular industrial culture aimed at achieving a harmonious integration of economic value, environmental value, and social responsibility, which aligns closely with our ideas and missions.
 
 <div style="text-align: center;" id="fig13">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/productionline.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/productionline.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 13: Control Center of Production Line in GEM</span>
         <br><br>
     </div>
 </div>
 
-GEM expressed strong interest in our project and invited us to their key mineral resource recovery research institute in **Jingmen, Hubei Province, China**, for a tour and discussions on technical collaboration.
+GEM expressed strong interest in our project and invited us to their key mineral resource recovery research institute in Jingmen, Hubei Province, China, for a tour and discussions on technical collaboration.
 
 <div style="text-align: center;" id="fig14">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/confer.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/confer.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 14: Exchanging Technical Details</span>
         <br><br>
@@ -255,7 +252,7 @@ GEM expressed strong interest in our project and invited us to their key mineral
  After assessing the actual conditions of GEM's production line, we quickly identified the most suitable processing phase for the MINERAL project. Consequently, we successfully reached a technical cooperation agreement and later received the relevant wastewater samples from GEM. After we got [result](#https://2024.igem.wiki/fudan/result) and shared it with GEM, they conveyed even stronger willingness to carry out further cooperation with us.
 
 <div style="text-align: center;" id="fig15">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/wastewater.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/wastewater.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 15: Sample of Wastewater Sent by GEM</span>
         <br><br>
@@ -266,7 +263,7 @@ GEM expressed strong interest in our project and invited us to their key mineral
 
 #### CPS
 
-With the technical cooperation agreement with GEM as proof of our project's commercial capabilities, we further expanded our potential customers and partners by reaching out to **Suzhou In Times of Chemical Environmental Protection Equipment Technology Co., Ltd\.** (hereafter referred to as CPS).
+With the technical cooperation agreement with GEM as proof of our project's commercial capabilities, we further expanded our potential customers and partners by reaching out to Suzhou In Times of Chemical Environmental Protection Equipment Technology Co., Ltd\. (hereafter referred to as CPS).
 
 <div style="text-align: center;" id="fig16">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps.webp" style='width:50%'>
@@ -277,10 +274,10 @@ With the technical cooperation agreement with GEM as proof of our project's comm
 </div>
 
 
-Located in the **Suzhou Industrial Park**, CPS is a Sino-Dutch joint venture dedicated to providing **one-stop solutions for industrial wastewater treatment**. With 38 years of experience in the European environmental protection industry, their wastewater treatment equipment and projects are widely applied in sectors such as chemicals, dyeing, papermaking, metal surface treatment, and machining.
+Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicated to providing one-stop solutions for industrial wastewater treatment. With 38 years of experience in the European environmental protection industry, their wastewater treatment equipment and projects are widely applied in sectors such as chemicals, dyeing, papermaking, metal surface treatment, and machining.
 
 <div style="text-align: center;" id="fig17">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps1.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps1.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 17: CPS is sharing technical details.</span>
         <br><br>
@@ -288,14 +285,14 @@ Located in the **Suzhou Industrial Park**, CPS is a Sino-Dutch joint venture ded
 </div>
 
 <div style="text-align: center;" id="fig18">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps2.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps2.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 18: A Happy Ending for the Visit</span>
         <br><br>
     </div>
 </div>
 
-After visiting CPS's factory, we found that their **medium-sized facility** is ideally suited for the initial practical implementation of the MINERAL project. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As of the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the contract with CPS.
+After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL project. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As of the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the contract with CPS.
 
 <PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/agreement.pdf" page="1" width="100%" height="100vw"/>
 
@@ -309,7 +306,7 @@ After visiting CPS's factory, we found that their **medium-sized facility** is i
 ### Development Timeline
 
 <div style="text-align: center;" id="fig19">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig11.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig11.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 19: Our Development Timeline</span>
         <br><br>
@@ -321,20 +318,20 @@ After visiting CPS's factory, we found that their **medium-sized facility** is i
 ### Financial Analysis
 
 <div style="text-align: center;" id="fig20">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/costanalysis.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/costanalysis.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 20: Cost Analysis of MINERAL</span>
         <br><br>
     </div>
 </div>
 
-We first analyzed the profit model for **battery recycling companies** among potential customers. 
+We first analyzed the profit model for battery recycling companies among potential customers. 
 
-Focusing on the most valuable materials in raw material recovery, **cobalt and nickel**, the existing hydrometallurgical and pyrometallurgical combined technology can recover 107.84 tons of nickel sulfate (current price: approximately \$4,500/ton) and 84.65 tons of cobalt sulfate (current price: approximately \$13,000/ton) from every 1,000 tons of used power batteries. With our microbial separation technology, production is estimated to increase by 10%-30%. Based on the current market price of industrial raw materials, the revenue from processing each ton of waste power batteries can directly amount to approximately $228,000.
+Focusing on the most valuable materials in raw material recovery, cobalt and nickel, the existing hydrometallurgical and pyrometallurgical combined technology can recover 107.84 tons of nickel sulfate (current price: approximately \$4,500/ton) and 84.65 tons of cobalt sulfate (current price: approximately \$13,000/ton) from every 1,000 tons of used power batteries. With our microbial separation technology, production is estimated to increase by 10%-30%. Based on the current market price of industrial raw materials, the revenue from processing each ton of waste power batteries can directly amount to approximately $228,000.
 
 Conservatively estimating that the cost of each ton of used power batteries entering the disassembly and recovery stage is about \$42,000, the battery recycling company could earn over $1.8 million annually by processing 10 tons of waste batteries, after accounting for expenses such as equipment depreciation and microbial modification costs.
 
-Therefore, **in the sales scenario of our microbial heavy metal ion cleaner**, the customer acquisition phase has a relatively low unit price of approximately **\$280 per unit of wastewater** caused by a kilogram of waste power batteries. Each ton could yield a profit of approximately $280,000, and this could be increased by about 50% after improving production technology.
+Therefore, in the sales scenario of our microbial heavy metal ion cleaner, the customer acquisition phase has a relatively low unit price of approximately \$280 per unit of wastewater caused by a kilogram of waste power batteries. Each ton could yield a profit of approximately $280,000, and this could be increased by about 50% after improving production technology.
 
 ### Risks
 
@@ -345,22 +342,22 @@ Therefore, **in the sales scenario of our microbial heavy metal ion cleaner**, t
 
 - Moreover, existing nickel ion separation methods are relatively crude and inexpensive, leaving companies with little motivation to switch to biological recovery methods.
 
-  #### **We need to address these difficulties with the support  of everyone in iGEM.**
+  #### We need to address these difficulties with the support  of everyone in iGEM.
 
 ## Our Skills, Capabilities and Stakeholders
 
 ### Skills
 
-To ensure the success of the project, we need to master key skills, including **technological innovation** to optimize product performance, **channel development** to expand the market, **marketing** to enhance brand influence, **financial management** to ensure proper use of funds, **factory operations** to guarantee production efficiency, **human resource management** to build an efficient team, **public relations** to maintain the company's image, and **data analysis** to guide strategic decisions. Together, these skills will drive the development of the project and strengthen its market competitiveness.
+To ensure the success of the project, we need to master key skills, including technological innovation to optimize product performance, channel development to expand the market, marketing to enhance brand influence, financial management to ensure proper use of funds, factory operations to guarantee production efficiency, human resource management to build an efficient team, public relations to maintain the company's image, and data analysis to guide strategic decisions. Together, these skills will drive the development of the project and strengthen its market competitiveness.
 
 ### Capability
 
-Our team needs excellent **communication and collaboration** skills to ensure smooth information flow and teamwork. **Presentation skills** are crucial for conveying the project's vision and attracting support. Strong **analytical and decision-making abilities** are essential for solving complex problems and seizing opportunities. A **responsible attitude** and **good reputation** are vital for gaining the trust and support of stakeholders and ensuring the project's smooth progression. These core capabilities will collectively drive the success and sustainable development of the project.
+Our team needs excellent communication and collaboration skills to ensure smooth information flow and teamwork. Presentation skills are crucial for conveying the project's vision and attracting support. Strong analytical and decision-making abilities are essential for solving complex problems and seizing opportunities. A responsible attitude and good reputation are vital for gaining the trust and support of stakeholders and ensuring the project's smooth progression. These core capabilities will collectively drive the success and sustainable development of the project.
 
 Furthermore, our product has strong competitiveness. See [Swot Analysis](#figx).
 
 <div style="text-align: center;" id="fig21">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig3.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig3.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 21: SWOT Analysis</span>
         <br><br>
@@ -377,7 +374,7 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
 ### Stakeholders
 
 <div style="text-align: center;" id="fig22">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig10.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig10.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 22: Stakeholders Analysis</span>
         <br><br>
@@ -388,7 +385,7 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
 ## Long-term Impacts
 
 <div style="text-align: center;" id="fig23">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/longterm.webp" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/longterm.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 23: Our Possible Long-term Impacts</span>
         <br><br>

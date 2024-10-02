@@ -9,7 +9,7 @@ author:
   url: /fudan/team/#kevin-qi
 ---
 
-<br><br>Throughout our project, we encountered problems in [Parts](/fudan/parts/), [Measurement](/fudan/measurement/#previous-inspiring-methodologies-in-igem), [Software](/fudan/software/#dbtl-cycle-of-our-software-tool), [Hardware](/fudan/hardware/#fiber-design), [Human Practices](/fudan/human-practices/), [Inclusivity,](/fudan/inclusivity/) and [Entrepreneurship](/fudan/entrepreneurship/), we solved them following iterations of the DBTL cycle (Design, Build, Test, Learn). Below are the steps we went through to develop our nickel module - part number [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
+<br><br>Throughout our project, we encountered problems in [Parts](/fudan/parts/), [Measurement](/fudan/measurement/#previous-inspiring-methodologies-in-igem), [Software](/fudan/software/#dbtl-cycle-of-our-software-tool), [Hardware](/fudan/hardware/#fiber-design), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/#the-preliminary-attempt-of-steamed) and [Entrepreneurship](/fudan/entrepreneurship/#our-first-try-on-commercialization), we solved them following iterations of the DBTL cycle (Design, Build, Test, Learn). Below are the steps we went through to develop our nickel module - part number [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068).
 
 ## Cycle 1
 
@@ -114,7 +114,7 @@ Next, we integrate these parts togeter and create our nickel module ([BBa_K51150
 
 ## Summary
 
-These DBTL cycles are just one example of our project engineering processes. Other examples are available at our [Measurement](/fudan/measurement/#previous-inspiring-methodologies-in-igem), [Software](/fudan/software/#dbtl-cycle-of-our-software-tool), [Hardware](/fudan/hardware/#fiber-design), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/) and [Entrepreneurship](/fudan/entrepreneurship/) pages.
+These DBTL cycles are just one example of our project engineering processes. Other examples are available at our [Measurement](/fudan/measurement/#previous-inspiring-methodologies-in-igem), [Software](/fudan/software/#dbtl-cycle-of-our-software-tool), [Hardware](/fudan/hardware/#fiber-design), [Human Practices](/fudan/human-practices/), [Inclusivity](/fudan/inclusivity/#the-preliminary-attempt-of-steamed) and [Entrepreneurship](/fudan/entrepreneurship/#our-first-try-on-commercialization) pages.
 
 
 ## References
