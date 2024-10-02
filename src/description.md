@@ -14,7 +14,7 @@ Humans often realize their mistakes only when the damage is irreparable, a lesso
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/description/description-fig1.png" style="width:100%">
     <div>
-        <span style="color:gray">Figure 1: Overexploitation of natural resources<br>(Image from:<a href ="https://www.pexels.com/zh-cn/video/2836084/">https://www.pexels.com/zh-cn/video/2836084/</a>)</span>
+        <span style="color:gray">Figure 1: Overexploitation of natural resources<br>(Image from <a href ="https://www.pexels.com/zh-cn/video/2836084/">https://www.pexels.com/zh-cn/video/2836084/</a>)</span>
         <br><br>
     </div>
 </div>

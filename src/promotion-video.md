@@ -18,10 +18,9 @@ Nickel plays a vital role in human civilization, underpinning everything [from r
     </div>
 </div>
 
-
 <br>
 
-Extracted from deep within the Earth, nickel drives the advancement of human world. However,once fully exploited, it often fails to be properly recycled and drifts into water bodies, causing severe environmental issues. More concerning, given the [current consumption situation and the world’s nickel reserves](#fig2), we will [run out of nickel by 2118](#fig3).
+Extracted from deep within the Earth, nickel drives the advancement of human world. However, once fully exploited, it often fails to be properly recycled and drifts into water bodies, causing severe environmental issues. More concerning, given the [current consumption situation and the world’s nickel reserves](#fig2), we will [run out of nickel by 2118](#fig3).
 
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/pv/1.png" style="width: 100%">
@@ -31,7 +30,6 @@ Extracted from deep within the Earth, nickel drives the advancement of human wor
     </div>
 </div>
 
-
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/pv/2.png" style="width: 100%">
     <div>
@@ -39,7 +37,6 @@ Extracted from deep within the Earth, nickel drives the advancement of human wor
       <br><br>
     </div>
 </div>
-
 
 <br>
 
@@ -53,10 +50,9 @@ Therefore, Fudan iGEM is committed to using synthetic biology to recover nickel 
     </div>
 </div>
 
-
 <br>
 
-We use *Escherichia coli* as our chassis and introduce three modules to realize our ambition. For Nickel Uptake. We have introduced the Nickel transporter protein [NixA and Nik](#fig5) into *E. coli*  to ensure the nickel absorption specificity. Next, we introduced two metallothioneins, [MT and HPN](#fig5) to ensure our Ecoli can survive in harsh environments of heavy metal ions. 
+We use *Escherichia coli* as our chassis and introduce three modules to realize our ambition. For Nickel Uptake. We have introduced the Nickel transporter protein [NixA and Nik](#fig5) into *E. coli*  to ensure the nickel absorption specificity. Next, we introduced two metallothioneins, [MTA and Hpn](#fig5) to ensure our Ecoli can survive in harsh environments of heavy metal ions. 
 
 <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/pv/4.png" style="width: 100%">
@@ -66,10 +62,9 @@ We use *Escherichia coli* as our chassis and introduce three modules to realize 
     </div>
 </div>
 
-
 ## PV
 
-Finally, our centerpiece: the Nickel Microfactory. By introducing carboxysomes with oxygen-tolerant hydrogenase, our Nickel Microfactory reduces nickel ions to microparticles in the presence of hydrogen. We have also established a symbiotic *E. coli*-cyanobacteria system for hydrogen production via photosynthesis. 
+Finally, our centerpiece: the Nickel Microfactory. By targeting oxygen-tolerant hydrogenase to carboxysomes, our Nickel Microfactory reduces nickel ions to microparticles in the presence of hydrogen. We have also established a symbiotic *E. coli*-cyanobacteria system for hydrogen production *via* photosynthesis. 
 
 <div style="text-align: center;" id="fig6">
     <img src="https://static.igem.wiki/teams/5115/pv/5.png" style="width: 100%">
@@ -79,7 +74,8 @@ Finally, our centerpiece: the Nickel Microfactory. By introducing carboxysomes w
     </div>
 </div>
 
-
 <br>
 
-MINERAL demonstrates extraordinary creativity, and the same principles can be applied to other heavy metals, building a bridge between nature and human society through synthetic biology. 
+[MINERAL](#fig4) demonstrates extraordinary creativity, and the same principles can be applied to other heavy metals, building a bridge between nature and human society through synthetic biology. 
+
+Link to our promotion video [https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3](https://video.igem.org/w/d1795b71-2707-4eeb-92ce-5b88145ef1a3)
