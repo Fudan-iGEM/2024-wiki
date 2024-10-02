@@ -18,6 +18,7 @@ Nickel plays a vital role in human civilization, underpinning everything [from r
     </div>
 </div>
 
+
 <br>
 
 Extracted from deep within the Earth, nickel drives the advancement of human world. However,once fully exploited, it often fails to be properly recycled and drifts into water bodies, causing severe environmental issues. More concerning, given the [current consumption situation and the world’s nickel reserves](#fig2), we will [run out of nickel by 2118](#fig3).
@@ -25,18 +26,20 @@ Extracted from deep within the Earth, nickel drives the advancement of human wor
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/pv/1.png" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 2: Consumption of nickel </span>
+    	  <span style="color: gray">Figure 2: Consumption of Nickel </span>
       <br><br>
     </div>
 </div>
 
+
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/pv/2.png" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 3: We will soon run out of nickel </span>
+    	  <span style="color: gray">Figure 3: We will soon run out of Nickel </span>
       <br><br>
     </div>
 </div>
+
 
 <br>
 
@@ -50,9 +53,10 @@ Therefore, Fudan iGEM is committed to using synthetic biology to recover nickel 
     </div>
 </div>
 
+
 <br>
 
-We use *Escherichia coli* as our chassis and introduce three modules to realize our ambition. For nickel uptake. We have introduced the nickel transporter protein [NixA and Nik](#fig5) into *E. coli* to ensure the nickel absorption specificity. Next, we introduced two metallothioneins, [MTA and Hpn](#fig5) to ensure our Ecoli can survive in harsh environments of heavy metal ions. 
+We use *Escherichia coli* as our chassis and introduce three modules to realize our ambition. For Nickel Uptake. We have introduced the Nickel transporter protein [NixA and Nik](#fig5) into *E. coli*  to ensure the nickel absorption specificity. Next, we introduced two metallothioneins, [MT and HPN](#fig5) to ensure our Ecoli can survive in harsh environments of heavy metal ions. 
 
 <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/pv/4.png" style="width: 100%">
@@ -62,22 +66,20 @@ We use *Escherichia coli* as our chassis and introduce three modules to realize 
     </div>
 </div>
 
+
 <br>
 
-Finally, our centerpiece: the nickel microfactory. By introducing carboxysomes with oxygen-tolerant hydrogenase, our nickel microfactory reduces nickel ions to microparticles in the presence of hydrogen. We have also established a symbiotic *E. coli*-cyanobacteria system for hydrogen production via photosynthesis. 
+Finally, our centerpiece: the Nickel Microfactory. By introducing carboxysomes with oxygen-tolerant hydrogenase, our Nickel Microfactory reduces nickel ions to microparticles in the presence of hydrogen. We have also established a symbiotic *E. coli*-cyanobacteria system for hydrogen production via photosynthesis. 
 
 <div style="text-align: center;" id="fig6">
     <img src="https://static.igem.wiki/teams/5115/pv/5.png" style="width: 100%">
     <div>
-    	  <span style="color: gray">Figure 6: Nickel microfactory </span>
+    	  <span style="color: gray">Figure 6: Nickel Microfactory </span>
       <br><br>
     </div>
 </div>
 
+
 <br>
 
-[MINERAL](#fig4) demonstrates extraordinary creativity, and the same principles can be applied to other heavy metals, building a bridge between nature and human society through synthetic biology. 
-
-<div style="text-align: center">
-  <iframe title="Fudan: MINERAL: Microparticle Integration for Nickel Extraction and Reusable Applications (2024) - Project Promotion [English]" width="560" height="315" src="https://video.igem.org/videos/embed/d1795b71-2707-4eeb-92ce-5b88145ef1a3" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-</div>
+MINERAL demonstrates extraordinary creativity, and the same principles can be applied to other heavy metals, building a bridge between nature and human society through synthetic biology. 
