@@ -8,29 +8,29 @@ headergif: https://static.igem.wiki/teams/5115/header/software-header.gif
 
 <br><br>
 
-:::tip
+::: tip
 
-Try PartHub 3.0 [here](http://47.97.85.37:5000/) or follow the [installation pipeline](#tutorial) to deploy our software on your own device!
+[Try](http://47.97.85.37:5000/) PartHub^3.0^ or follow the [installation tutorial](#tutorial) to deploy our Software on your own device!
 
 :::
 
 
 ## Highlights
 
-- Efficiently uses the iGEM Registry and supports relevant synthetic biology standards such as Genbank and FASTA format
-- Validation against both published and new experimental data
-- Flexible and adaptable design, can be easily tailored to a wide range of application scenarios
-- Well-documented APIs; easy integration with Snapgene
-- Intuitive web UI, comprehensive documentation, and detailed tutorial
+- Efficiently use the [iGEM](https://igem.org/) [Registry](https://parts.igem.org/) and support Genbank and FASTA format input
+- Validation against both published and [our own experimental data](/fudan/measurement/)
+- Flexible and adaptable, be easily tailored to a wide range of application scenarios
+- Well-documented APIs; easy integration with [SnapGene](https://www.snapgene.com/)
+- Intuitive web UI, tool documentation, and user tutorial
 
 ## Overview
 
-Parts are at the core of synthetic biology, and over the years, Fudan's software has been dedicated to providing useful tools for parts management and analysis ([Table 1](#table1)). Our initial efforts, [PartHub 1.0](https://2022.igem.wiki/fudan/software) and [PartHub 2.0](https://2023.igem.wiki/fudan/software), were well-received for their features in displaying parts' citation relationships and enhancing search functionality. However, a critical gap remained: the importance of **sequence information** for parts. While citation relationships and search functionalities are valuable, the sequence of a part is arguably the most essential piece of information. The sequence not only defines the functional properties of a part but also influences its compatibility and performance in host organisms.
+Parts are at the core of synthetic biology. Over the years, our team has been dedicated to providing useful software tools for parts management and analysis ([Table 1](#table1)). Our previous efforts, [PartHub 1.0](https://2022.igem.wiki/fudan/software) and [PartHub 2.0](https://2023.igem.wiki/fudan/software/), were both well-received for their features in displaying parts' citation relationships and enhancing search functionality. However, a critical gap remained: the importance of **sequence information** for parts. While citation relationships and search functionalities are valuable, the sequence of a part is arguably the most essential piece of information. The sequence not only defines the functional properties of a part but also influences its compatibility and performance in host organisms.
 
 Therefore, we are excited to introduce **PartHub 3.0** this year, which addresses this gap by focusing on two critical aspects of parts: **burden estimation** and **similarity query** ([Table 1](#table1)).
 
 <div style="text-align: center;" id="table1">
-          <span style="color: gray">Table 1: Comparison of PartHub 1.0-3.0</span>
+  <span style="color: gray">Table 1: Comparison of PartHub 1.0-3.0</span>
 </div>
 
 |PartHub Version|Main Feature|Use case|
@@ -156,7 +156,7 @@ Once the deployment is complete, PartHub 3.0 will be running at [http://localhos
 
 
 
-:::tip
+::: tip
 
 **Warning: ** Do not include Non-ASCII characters in the sequence file, or it may cause error!
 
@@ -297,13 +297,21 @@ $$H_{RBS}=K\cdot \exp (-B \cdot\Delta G)$$
 where $H_{RBS}$ is the converted RBS strength that aligns with the magnitude of the experimental data, and $\Delta G$ is the Gibbs free energy calculated by the thermodynamic model of the RBS Calculator, and $K$ and $\beta$ are constants determined through least squares fitting, and the fitting results are shown in [Figure 8](#figure-8).
 
 <div style="text-align: center;" id="figure-8">
-<img src="https://static.igem.wiki/teams/5115/software/rbs-benchmark1.png"
+<img src=""
 style='width:80%'>
 <br>
 <div>
 <p><small style="color: gray">Figure 8. The experimentally measured relative RBS strength vs. the Gibbs free energy calculated by RBS Calculator
 </small></p>
 </div>
+</div>
+
+<div style="text-align: center;" id="figure-8">
+    <img src="https://static.igem.wiki/teams/5115/software/rbs-benchmark1.png" style="width:80%">
+    <div>
+      <span style="color: gray">Figure 10. Discussion with our team members</span>
+        <br><br>
+    </div>
 </div>
 
 The data used for benchmarking can be accessed [here](https://static.igem.wiki/teams/5115/software/benchmarking-data.pdf).
@@ -313,18 +321,16 @@ The data used for benchmarking can be accessed [here](https://static.igem.wiki/t
 We selected a set of parts that have been previously measured by experiments[^2], and performed predictions for these selected parts using our software and compared the predicted burden values with the experimental data. The results are summarized in [Figure 9](#figure-9), which plots the experimental burden against the predicted burden.
 
 <div style="text-align: center;" id="figure-9">
-<img src="https://static.igem.wiki/teams/5115/software/burden-against-published.png"
-style='width:80%'>
-<br>
-<div>
-<p><small style="color: gray">Figure 9. Experimental burden of parts from [2] vs. Predicted burden calculated by Burden Predictor
-</small></p>
-</div>
+    <img src="https://static.igem.wiki/teams/5115/software/burden-against-published.png" style="width:100%">
+    <div>
+      <span style="color: gray">Figure 9. Experimental burden of parts from [^2] vs. Predicted burden calculated by Burden Predictor</span>
+        <br><br>
+    </div>
 </div>
 
-我们自己做的parts **(TBA)**
+@@@@ 我们自己做的parts (TBA)
 
-The detailed information and data of the parts can be accessed [here]. **(TBA)**
+The [detailed information](/fudan/measurement/) and data of the parts are included..
 
 ## Similarity Estimator
 
@@ -376,9 +382,7 @@ After calculating the similarity scores, our software will list the top similar 
 
 The similarity relationships and reference relationships between parts are stored in a Neo4j database, a powerful graph database well-suited for handling complex relationships. For visualization, the software uses [Neovis.js](https://neo4j-contrib.github.io/neovis.js/), a JavaScript library that provides an interactive way to explore the graph data.
 
-## DBTL Cycle
-
-(the following will be transferred to Engineering page)
+## DBTL Cycle of Our Software Tool
 
 ### First Round
 
@@ -413,30 +417,26 @@ During the build phase, we implemented the BLAST algorithm to calculate the simi
 We conducted extensive testing of the updated similarity and burden prediction tools. The BLAST algorithm produced more accurate and biologically relevant similarity scores, reflecting the specific functional annotations and sequence features of the parts. The WebUI was tested by our team members ([Figure 10](#figure-10)) and advisors, who gave us valuable suggestions and provided [feedback](https://gitlab.igem.org/2024/software-tools/fudan/-/merge_requests/1) on the usability and intuitiveness of the interface. We made additional adjustments based on this feedback to further improve the user experience.
 
 <div style="text-align: center;" id="figure-10">
-<img src="https://static.igem.wiki/teams/5115/software/dbtl-discussion.jpg"
-style='width:80%'>
-<br>
-<div>
-<p><small style="color: gray">Figure 10. Discussion with our team members on our software
-</small></p>
-</div>
+    <img src="https://static.igem.wiki/teams/5115/software/dbtl-discussion.jpg" style="width:80%">
+    <div>
+      <span style="color: gray">Figure 10. Discussion with our team members</span>
+        <br><br>
+    </div>
 </div>
 
 #### Learn
 
 From the second round of testing, we learned that the BLAST algorithm significantly improved the accuracy of the similarity calculations. We also [integrated](https://gitlab.igem.org/2024/software-tools/fudan/-/commit/21353ed9fc3d4f9df1c612e61bcfe73a435eecb9) the similarity results into the search pipeline, which enhanced the overall functionality of the tool. We have documented the improvements of our software in [Changelog](https://gitlab.igem.org/2024/software-tools/fudan/-/blob/main/CHANGELOG.md).
 
+----
 
-
-During the development of our software, we adhered to a structured Design-Build-Test-Learn (DBTL) cycle to ensure continuous improvement and alignment with user needs. We received valuable suggestions and feedback from our team members and advisors, which was crucial in refining our software. We followed the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) at all times, and maintained a [Changelog](https://gitlab.igem.org/2024/software-tools/fudan/-/blob/main/CHANGELOG.md) to keep track of our improvements. Please visit the [Engineering](https://2024.igem.wiki/fudan/engineering/) page for detailed information.
+During the development of our software, we adhered to a structured Design-Build-Test-Learn (DBTL) cycle to ensure continuous improvement and alignment with user needs. We received valuable suggestions and feedback from our team members and advisors, which was crucial in refining our software. We followed the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) at all times, and maintained a [Changelog](https://gitlab.igem.org/2024/software-tools/fudan/-/blob/main/CHANGELOG.md) to keep track of our improvements.
 
 ## Reference
 
-[^1]: Rugbjerg, P., Myling-Petersen, N., Porse, A., Sarup-Lytzen, K., & Sommer, M. O. A. (2018). Diverse genetic error modes constrain large-scale bio-based production. *Nature Communications*, *9*(1), 787. https://doi.org/10.1038/s41467-018-03232-w
-
-[^2]: Radde, N. (2024). Measuring the burden of hundreds of BioBricks defines an evolutionary limit on constructability in synthetic biology. *Nature Communications*. https://doi.org/10.1038/s41467-024-50639-9
-
-[^3]: Weiße, A. Y., Oyarzún, D. A., Danos, V., & Swain, P. S. (2015). Mechanistic links between cellular trade-offs, gene expression, and growth. *Proceedings of the National Academy of Sciences*, *112*(9), E1038–E1047. https://doi.org/10.1073/pnas.1416533112
-[^4]: Nikolados, E.-M., Weiße, A. Y., Ceroni, F., & Oyarzún, D. A. (2019). Growth Defects and Loss-of-Function in Synthetic Gene Circuits. *ACS Synthetic Biology*, *8*(6), 1231–1240. https://doi.org/10.1021/acssynbio.8b00531
-[^5]: LaFleur, T. L., Hossain, A., & Salis, H. M. (2022). Automated model-predictive design of synthetic promoters to control transcriptional profiles in bacteria. *Nature Communications*, *13*(1), 5159. https://doi.org/10.1038/s41467-022-32829-5
-[^6]: Tian, T., & Salis, H. M. (2015). A predictive biophysical model of translational coupling to coordinate and control protein expression in bacterial operons. *Nucleic Acids Research*, *43*(14), 7137–7151. https://doi.org/10.1093/nar/gkv635
+[^1]: Rugbjerg, P., Myling-Petersen, N., Porse, A., Sarup-Lytzen, K., & Sommer, M. O. A. (2018). Diverse genetic error modes constrain large-scale bio-based production. *Nature Communications*, *9*(1), 787. [https://doi.org/10.1038/s41467-018-03232-w](https://doi.org/10.1038/s41467-018-03232-w)
+[^2]: Radde, N. (2024). Measuring the burden of hundreds of BioBricks defines an evolutionary limit on constructability in synthetic biology. *Nature Communications*. [https://doi.org/10.1038/s41467-024-50639-9](https://doi.org/10.1038/s41467-024-50639-9)
+[^3]: Weiße, A. Y., Oyarzún, D. A., Danos, V., & Swain, P. S. (2015). Mechanistic links between cellular trade-offs, gene expression, and growth. *Proceedings of the National Academy of Sciences*, *112*(9), E1038–E1047. [https://doi.org/10.1073/pnas.1416533112](https://doi.org/10.1073/pnas.1416533112)
+[^4]: Nikolados, E.-M., Weiße, A. Y., Ceroni, F., & Oyarzún, D. A. (2019). Growth Defects and Loss-of-Function in Synthetic Gene Circuits. *ACS Synthetic Biology*, *8*(6), 1231–1240. [https://doi.org/10.1021/acssynbio.8b00531](https://doi.org/10.1021/acssynbio.8b00531)
+[^5]: LaFleur, T. L., Hossain, A., & Salis, H. M. (2022). Automated model-predictive design of synthetic promoters to control transcriptional profiles in bacteria. *Nature Communications*, *13*(1), 5159. [https://doi.org/10.1038/s41467-022-32829-5](https://doi.org/10.1038/s41467-022-32829-5)
+[^6]: Tian, T., & Salis, H. M. (2015). A predictive biophysical model of translational coupling to coordinate and control protein expression in bacterial operons. *Nucleic Acids Research*, *43*(14), 7137–7151. [https://doi.org/10.1093/nar/gkv635](https://doi.org/10.1093/nar/gkv635)

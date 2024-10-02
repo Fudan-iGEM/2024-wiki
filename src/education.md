@@ -46,7 +46,7 @@ Our team secured two booths at the [Starry Sky Academic Culture Festival](https:
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/starrybooth2.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 3: Team member Ruiwen Ma is playing synthetic biology games with students.</span>
+    	<span style="color: gray">Figure 3: Team member Ruiwen Ma is playing synthetic biology games with university students.</span>
         <br><br>
     </div>
 </div>
@@ -192,13 +192,13 @@ Finally, as an innovative attempt to explore the boundaries of education, we rea
 
 ## Our Ground for Future‘s Building On
 
-[去年](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf) 做了什么 今年改进了什么 As we advanced our educational work, we improved a picture book as a science education tool for all educational levels. We designed an educational kit 这是什么，下面的pdf不是toolbox called the *Picture Book Toolbox*, 
+[去年](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf) 做了什么 今年改进了什么 @@@@ As we advanced our educational work, we improved a picture book as a science education tool for all educational levels. We designed an educational kit 这是什么，下面的pdf不是toolbox called the *Picture Book Toolbox*, 
 
 <PDF url="https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf" page="1" width="100%" />
 
-which includes story-driven content, maze activities, "find the difference" games, origami templates, and visual experiment diagrams to enhance the appeal of the picture books. Additionally, this toolkit can be easily adapted for similar courses in our future endeavors, allowing for flexible modifications. The vividly illustrated English picture books successfully fulfilled their mission in classes for middle school, elementary school, and kindergarten students!
+The book includes story-driven content, maze activities, "find the difference" games, origami templates, and visual experiment diagrams to enhance the appeal of the picture books. Additionally, this toolkit can be easily adapted for similar courses in our future endeavors, allowing for flexible modifications. The vividly illustrated English picture books successfully fulfilled their mission in classes for middle school, elementary school, and kindergarten students!
 
-## Summary
+----
 
 In summary, our education initiative began with educating ourselves, equipping team members with ample specialized knowledge and teaching skills, and firmly advancing the strategy of **tailored education plans for our target audiences**. We also believe that introducing synthetic biology knowledge at a younger age could increase the likelihood of these children actively seeking to understand and participate in synthetic biology research in the future.
 
@@ -209,4 +209,3 @@ Therefore, during the main phase of our education efforts, we covered all educat
 - For high school students, we focused on hands-on research to help them explore potential career paths.
 - For middle school students, we prioritized explaining the principles of synthetic biology and interpreting everyday phenomena to enhance their self-awareness and understanding of the world.
 - For kindergarten children, we emphasized the engaging aspects of synthetic biology to plant a seed of interest in the field.
-

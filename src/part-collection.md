@@ -221,11 +221,11 @@ The components of the carboxysome module are derived from [a plasmid reported in
 
 ### Peptide Encapsulation
 
-The Peptide Encapsulation (EP) module is designed to facilitate the effective encapsulation of enzymes within the carboxysome structure, enhancing the efficiency of biochemical reactions. EP ([BBa_K5115002](https://parts.igem.org/Part:BBa_K5115002))  serves as a linker that connects the target enzymes to the carboxysome, ensuring proper localization. We test its targeting efficienty with stayGold fused with EP ([BBa_K5115057](https://parts.igem.org/Part:BBa_K5115057)).
+The Peptide Encapsulation (EP) module is designed to facilitate the effective encapsulation of enzymes to the carboxysome structure, enhancing the efficiency of biochemical reactions. EP ([BBa_K5115002](https://parts.igem.org/Part:BBa_K5115002))  serves as a linker that connects the target enzymes to the carboxysome, ensuring proper localization. We test its targeting efficienty with stayGold fused with EP ([BBa_K5115057](https://parts.igem.org/Part:BBa_K5115057)).
 
 In our design, EP is integrated into several composite parts: the part hoxF fused with EP ([BBa_K5115058](https://parts.igem.org/Part:BBa_K5115058), and its ribozyme-connected version [BBa_K5115061](https://parts.igem.org/Part:BBa_K5115061)) or hoxU fused with EP ([BBa_K5115059](https://parts.igem.org/Part:BBa_K5115059), and its ribozyme-connected version [BBa_K5115062](https://parts.igem.org/Part:BBa_K5115062)) combines the hoxF or hoxU coding sequence, responsible for encoding a hydrogenase subunit, inframe with EP, facilitating the targeted delivery of the hydrogenase into the carboxysome. 
 
-Additionally, the parts hox and hyp with EP targeted hoxF ([BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063)) and hox and hyp with EP targeted hoxU ([BBa_K5115064](https://parts.igem.org/Part:BBa_K5115064)) contain the hox and hyp genes, with EP specifically targeting hoxF and hoxU, respectively, for encapsulation. This design allows for the coordinated expression and delivery of both hydrogenase and helper proteins within the carboxysome shell, promoting efficient nickel ion reduction processes.
+Additionally, the parts hox and hyp with EP targeted hoxF ([BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063)) and hox and hyp with EP targeted hoxU ([BBa_K5115064](https://parts.igem.org/Part:BBa_K5115064)) contain the hox and hyp genes, with EP specifically targeting hoxF and hoxU, respectively, for encapsulation. This design allows for the coordinated expression and delivery of both hydrogenase and helper proteins to the carboxysome shell, promoting efficient nickel ion reduction processes.
 
 <div style="text-align: center;">
    <p>Table 7: Parts for Peptide Encapsulation</p>
