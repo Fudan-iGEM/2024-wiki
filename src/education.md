@@ -27,11 +27,9 @@ So, our goal is **to inspire students across all educational stages in China**, 
     </div>
 </div>
 
-<br>
-
 ## Education for University Students
 
-###Academic Culture Festival
+### Academic Culture Festival
 
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
@@ -46,7 +44,7 @@ So, our goal is **to inspire students across all educational stages in China**, 
 Our team hosted two booths at the **[Academic Culture Festival](https://mp.weixin.qq.com/s/d18fl0Bhf2tGK7M7HiVJYw)** at our university to showcase synthetic biology and our project. During this event, we enthusiastically introduced synthetic biology concepts and information about iGEM to **undergraduate and graduate students**. We also gained insights into effective educational approaches and the appropriate complexity of popular science for higher education students, laying a solid foundation for future educational initiatives. [This experience](https://mp.weixin.qq.com/s/ZAvP470rsg1TDX8qlwq5sw) also helped our team members refine their presentation skills and abilities.
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/starrybooth1.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/starrybooth11.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 2: Our two attracting booths on Fudan green grass.</span>
         <br><br>
@@ -54,12 +52,13 @@ Our team hosted two booths at the **[Academic Culture Festival](https://mp.weixi
 </div>
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/starrybooth2.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/starrybooth21.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 3: Team member Ruiwen Ma is playing synthetic biology games with university students.</span>
+    	<span style="color: gray">Figure 3: Team member Ruiwen Ma is playing synthetic biology games with students.</span>
         <br><br>
     </div>
 </div>
+
 
 However, during the activities, we realized that our team members' proficiency in synthetic biology knowledge was not enough to effectively carry out our educational initiatives. Therefore, we decided to participate in Education Forum and conduct internal training to **learn some education skills**.
 
@@ -94,18 +93,8 @@ During discussions in 4 sub-forums, we learned an important educational principl
     </div>
 </div>
 
-<br>
 
-### Further Explosion for Higher Education Students
 
-<p><small style="color: gray">📅 Date: Nov.20, 2023<br>🗣️ Organizers: Yuhan Wang, Kexin Zheng, Xujie Tan, Xueting Chen<br>👥 Audience: Exchange students in Fudan University</small></p>
-
-To building a collaborative world, international exchange and understanding among global youth are important.
-
-After we graduated from the Education Forum, we carried out our second round education practice with international students on our campus, aiming to enhance the universality and readability of educational tools. Exchange students from countries and regions including Indonesia, Germany, Slovakia, Morocco, Norway, Macau, Singapore, and Nipple participated in this event, greatly contributing to our understanding of education. This experience laid the groundwork for adapting our upcoming illustrated educational tools into multiple languages.
-
-=======
->>>>>>> 47bb4464890b2240d495712160056ac7390855e3
 <div style="text-align: center;" id="fig6">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/forumrepresentive2.webp" style="width:100%">
     <div>
@@ -163,16 +152,18 @@ We hosted this communication event, inviting [Dr. Don W. Cleveland](https://en.w
         <br><br>
     </div>
 </div>
+Additionally, we invited other undergraduates from Fudan University's School of Life Sciences who are interested in biology and organized an academic exchange event that aligns with cutting-edge research and promotes interdisciplinary integration.
 
-Additionally, we invited other undergraduates from Fudan University's School of Life Sciences who are interested in synthetic biology, achieving our goal of promoting cutting-edge knowledge in the field.
+Through interactions with experts, we facilitated academic discussions and cultural exchange, collectively exploring a future where synthetic biology is widely applied.
 
 <div style="text-align: center;" id="fig9">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/don2.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/don21.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 9:  Undergraduates had a happy time with Dr. Don W. Cleveland.</span>
         <br><br>
     </div>
 </div>
+
 
 With the progress above, we moved forward to promote synthetic biology knowledge to high school students in China.
 
@@ -193,27 +184,27 @@ With the progress above, we moved forward to promote synthetic biology knowledge
 By collaborating with the State Key Laboratory of Genetics Engineering, we [invited high school students](https://mp.weixin.qq.com/s/PkEyOO0QkiYaLgErkqDIbw) from across China to participate in a summer camp at Fudan University focused on learning about biological sciences. During the camp, we guided the students on a tour of the campus and biology labs, culminating in a roundtable discussion where we aimed to learn about their perceptions of synthetic biology and provide educational outreach.
 
 <div style="text-align: center;" id="fig10">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/together.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/together1.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 10: Group Photo of Us and High School Students from All Over China.</span>
         <br><br>
     </div>
 </div>
 
-
 In the discussion, we found that high school students' understanding of synthetic biology could cover the basics, especially if they had taken high-school-level biology courses. They expressed more interest in the research aspects of synthetic biology. They eager to participate some kind daily lab work, which could help them clarify their aspirations when choosing majors in college. This points to a future collaboration between synthetic biology education and high school students' career planning.
 
 <div style="text-align: center;" id="fig11">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/happytime.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/happytime1.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 11: We are sharing experiences of doing synthetic biology research.</span>
         <br><br>
     </div>
 </div>
 
+
 After thoroughly understanding the expectations and needs of high school students, we visited the [Genetically Modified Organism (GMO)](https://education.nationalgeographic.org/resource/genetically-modified-organisms/) Educational Base in Shanghai, China,  to offer another group of high school students a more comprehensive career experience.
 
-### Exploration on GMO with Students from AnTing
+### Exploration on GMO with Students from AnTing 
 
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
@@ -235,7 +226,6 @@ To stimulate their interest, we collaborated with the [Science Popularization Ed
     </div>
 </div>
 
-<br>
 
 ## Education for Junior Students and Pupils
 
@@ -256,23 +246,23 @@ After conducting educational practices for high school students, we decided to e
 First, we visited Shizuishan Experimental Junior Middle School in Ningxia, a region known for its ethnic diversity and fixed perceptions of being underdeveloped. Before preparing this course, we conducted thorough research to express our specialized knowledge in as simple a manner as possible. In addition to bringing [picture books](#our-ground-for-future's-building-on), we prepared **dynamic teaching materials and origami games**.
 
 <div style="text-align: center;" id="fig13">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/shizuishan.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/shizuishan1.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 13: Junior middle school students are carefully listening to Xujie Tan‘s stories. </span>
         <br><br>
     </div>
 </div>
 
-
 However, during the on-site teaching, we realized that the proliferation of **the internet** has improved information exchange in what we once thought were isolated areas. The children are no longer constrained by local economic conditions and educational resources; they can now share the same perspectives as those from more developed regions. This prompted us to rethink the meaning of education. If these children can now easily see the outside world, perhaps the true purpose of education lies in teaching them how to explore the outside world and synthetic biology knowledge on their own.
 
 <div style="text-align: center;" id="fig14">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/shizuishan2.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/shizuishan21.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 14: Our Group Photo with Volunteers </span>
         <br><br>
     </div>
 </div>
+
 
 ### Introducing Synbio to Shanghai Shangde Students
 
@@ -284,6 +274,8 @@ However, during the on-site teaching, we realized that the proliferation of **th
 </p>  
 </div>
 
+
+
 <div style="text-align: center;" id="fig15">
     <img src="https://static.igem.wiki/teams/5115/education-zkx/shangde.webp" style="width:100%">
     <div>
@@ -291,6 +283,7 @@ However, during the on-site teaching, we realized that the proliferation of **th
         <br><br>
     </div>
 </div>
+
 
 
 Building on our progressively refined education system, we further expanded our target audience to elementary school students. Thus, we visited **[Shanghai Shangde Experimental School](https://mp.weixin.qq.com/s/eyv0pq-ZjZrKf7wMELDfTA)** to deliver a series of science education courses. In the classroom, the children displayed a strong interest in and ability to learn about synthetic biology. This strongly validated the effectiveness of our educational strategies and provided valuable insights for future endeavors.
@@ -309,27 +302,32 @@ Building on our progressively refined education system, we further expanded our 
 
 Finally, as an innovative attempt to explore the boundaries of education, we reached out to **[Shijiazhuang Huihua University Affiliated Kindergarten](https://mp.weixin.qq.com/s/IeVzSPkYSJiv6bnb1WOMXA)** and prepared a set of engaging science education courses for the young children. 
 
-Yuhan Wang introduced the concept of genes to children by comparing the differences between red Fuji apples, red delicious apples, and green apples, while recounting Mendel's journey of discovering genes through pea plants. This sparked many questions from the children, such as, *"Am I different from other kids just like the apples are different?"* and *"Was the first human in the world different from us?"* Yuhan patiently answered these questions, concluding that what makes each of us special is the many different yet beautiful colors in our genes. We should cherish this beauty, love ourselves, and respect others—this is the true magic!
+Yuhan Wang introduced the concept of genes to children by comparing the differences between red Fuji apples, red delicious apples, and green apples, while recounting Mendel's journey of discovering genes through pea plants. This sparked many questions from the children, such as, *"Am I different from other kids just like the apples are different?"* and *"Was the first human in the world different from us?"*  Yuhan patiently answered these questions, concluding that what makes each of us special is the many different yet beautiful colors in our genes. We should cherish this beauty, love ourselves, and respect others—this is the true magic!
 
 <div style="text-align: center;" id="fig16">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/kidfinal.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/kidfinal1.webp" style="width:100%">
     <div>
     	<span style="color: gray">Figure 16: Yuhan Wang is telling them interesting synbio stories. </span>
         <br><br>
     </div>
 </div>
 
+
 After the activity, we left the teaching materials in the story corner of Huihua Kindergarten and observed the children's interest in the books. To our delight, the children showed a high level of engagement, independently reading the books during free time.
 
 ## Our Ground for Future‘s Building On
 
-Last year, we introduced a picture book titled [*What is Gene (2023)*](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf), which has now become the main teaching material for attracting pupils and kids in this year's education activities.
+Last year, we introduced a picture book titled [*What is Gene*](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf), which has now become the main teaching material for attracting pupils and kids in this year's education activities.
 
 Through multiple cycles of practice, reflection, and improvement, we've made enhancements to the picture book. This year's teaching materials include interesting  mini-games such as mazes, *find the difference*, and drawing self-portraits. Additionally, we've expanded the content to make it suitable for middle school students and [individuals with autism](/fudan/inclusivity). We discovered that implementing the educational plan as a [Standard Operating Procedure (SOP)](https://en.wikipedia.org/wiki/Standard_operating_procedure) greatly facilitates the rapid recruitment and training of volunteers, especially in situations where there is a lack of helpful staff, thus promoting the widespread and efficient execution of educational activities.
 
-The book includes story-driven content, maze activities, "find the difference" games, origami templates, and visual experiment diagrams to enhance the appeal of the picture books. Additionally, this toolkit can be easily adapted for similar courses in our future endeavors, allowing for flexible modifications. The vividly illustrated English picture books successfully fulfilled their mission in classes for middle school, elementary school, and kindergarten students!
+<PDF url="https://static.igem.wiki/teams/5115/education-zkx/picture-book-what-is-gene-final.pdf" page="1" width="100%" />
 
-----
+<PDF url="https://static.igem.wiki/teams/5115/education-zkx/picture-book-gene-editing.pdf" page="1" width="100%" />
+
+The two PDFs are from [Fudan iGEM 2023](https://2023.igem.wiki/fudan/education/).
+
+## Summary
 
 Overall, our education strategy, inspired by the philosophies of [Mencius and Bandura](#concept-of-education), has equipped our team members with great teaching skills, firmly advancing the strategy of tailored educational programs for our target audience.
 
@@ -346,3 +344,4 @@ We identified different focal points for each group. We continuously engage in s
         <br><br>
     </div>
 </div>
+
