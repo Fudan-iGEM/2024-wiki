@@ -20,12 +20,15 @@ However, we are concerned that directly designing courses for younger children f
 So, our goal is **to inspire students across all educational stages in China**, planting the seeds of [synthetic biology](https://en.wikipedia.org/wiki/Synthetic_biology) within schools, so they have more choices in their future career paths and interests.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/mencius1.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/m.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 1: Mencius is a famous educationist in Chinese history.</span>
+    	<span style="color: gray">Figure 1: Mencius is a famous educationist in Chinese history.
+            <br>
+            (Image from:https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%AD%90)</span>
         <br><br>
     </div>
 </div>
+
 
 ## Education for University Students
 
