@@ -84,6 +84,8 @@
         xlink:href="https://static.igem.wiki/teams/5115/homepage/title.svg"
       />
 
+
+
       <g mask="url(#m)">
         <rect fill="#CDE3EC" width="100%" height="100%" class="gan"/>
           <image
@@ -626,7 +628,13 @@
             src="https://static.igem.wiki/teams/5115/homepage11/new1-page11-word.svg"
             alt="Word14"
             class="word14"
-        />
+        />    
+          <img 
+              src="https://static.igem.wiki/teams/5115/homepage11/click.svg"
+              alt="DescriptionLink"
+              class="click-des"
+              onclick="console.log('Element clicked!')"
+          />
         <div class="waves">
           <div class="wave" id="wave1"></div>
           <div class="wave" id="wave2"></div>
@@ -683,6 +691,7 @@
 </template>
 
 <script>
+
 /* import PageFooter from '@theme-hope/components/PageFooter'; */
 import Lottie from '../components/Lottie.vue';
 export default {
@@ -712,6 +721,7 @@ export default {
     });
   },
   methods: {
+
     updatePreserveAspectRatio() {
       if (window.innerWidth >= 1025) {
         this.preserveAspectRatio = 'xMidYMid slice';
@@ -719,7 +729,10 @@ export default {
         this.preserveAspectRatio = 'xMinYMin meet';
       }
     },
-    
+    redirectToDescription() {
+      window.open('/fudan/description/', '_blank'); 
+      console.log("Element clicked!");
+    },
     initPage1Animations(gsap) {
       if (window.innerWidth >= 300) {
         const page1Tl = gsap.timeline({
@@ -1155,10 +1168,11 @@ export default {
     },
     initPage10Animations(gsap) {
       if (window.innerWidth >= 300) {
-        gsap.set(['.cube', '.word11','.word10'], { yPercent: -20 });
+        gsap.set(['.cube', '.word11','.word10'], { yPercent: -10 });
 
         gsap.set(['.time-svg'], { yPercent: 10 });
-        gsap.timeline(".time-svg",{
+        gsap.to(".time-svg",{
+          yPercent: 0,
           scrollTrigger: {
             trigger: ".page-10",
             start: "top 10%",
@@ -1212,13 +1226,33 @@ export default {
         gsap.set(['.cube', '.word10', '.word11'], { clearProps: 'all' });
       }
     },
+    
+    initPage11Animations(gsap) {
+      if (window.innerWidth >= 300) {
+        gsap.set(['.click-des'], { opacity: 0 });
+
+        gsap.to(".click-des",{
+          opacity: 1,
+          scrollTrigger: {
+            trigger: ".page-11",
+            start: "top 20%",
+            end: "center 50%",
+            duration: 7,
+            scrub: true, 
+          }
+        });
+      } else {
+        // Clear GSAP properties for mobile
+        gsap.set(['.cube', '.word10', '.word11'], { clearProps: 'all' });
+      }
+    },
   },
   async mounted() {
     // Initial screen width check
     this.updatePreserveAspectRatio();
     // Listen for window resize events
     window.addEventListener('resize', this.updatePreserveAspectRatio);
-
+    
     // Dynamically import GSAP and plugins
     const gsapModule = await import('gsap');
     const ScrollTriggerModule = await import('gsap/ScrollTrigger');
@@ -1243,7 +1277,8 @@ export default {
     this.initPageBAnimations(gsap);
     this.initPage9Animations(gsap);
     this.initPage10Animations(gsap);
-    gsap.to('.nick', {
+    this.initPage11Animations(gsap);
+    gsap.to(['.nick','.click-des'], {
       y: '+=50', // Move 20px down
       duration: 2, // Duration of the float down
       repeat: -1, // Repeat indefinitely
@@ -1500,12 +1535,20 @@ section {
 .data2-graph-2,
 .data2-graph-3,
 .data2-graph-xy-and-name,
-.mineral {
+.mineral{
   position: absolute;
   top: 0;
   width: 100%;
   height: auto;
   left: 0;
+}
+.click-des{
+  position: absolute;
+  top: 30%;
+  left: 6%;
+  width: 100%;
+  height: auto;
+  scale: 0.3;
 }
 .nick{
   position: absolute;
@@ -1605,6 +1648,9 @@ section {
   font-size: 1.5rem;
 }
 
+.click-des {
+  pointer-events: auto; 
+}
 /* Remove gaps between pages */
 .page-1,
 .page-2,
