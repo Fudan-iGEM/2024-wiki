@@ -5,6 +5,7 @@ author:
   name: All Members
 ---
 
+<br><br>
 Welcome to our Fudan iGEM 2024 Team page, where you meet the exceptional individuals propelling our project forward. As a diverse and dedicated team of 14 aspiring members, guided by 5 experienced instructors and advisors, we are united by our shared passion for synthetic biology. 
 
 ## Meet Our Members
