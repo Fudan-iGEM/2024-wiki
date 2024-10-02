@@ -67,7 +67,7 @@ We use *Escherichia coli* as our chassis and introduce three modules to realize 
 </div>
 
 
-<br>
+## PV
 
 Finally, our centerpiece: the Nickel Microfactory. By introducing carboxysomes with oxygen-tolerant hydrogenase, our Nickel Microfactory reduces nickel ions to microparticles in the presence of hydrogen. We have also established a symbiotic *E. coli*-cyanobacteria system for hydrogen production via photosynthesis. 
 

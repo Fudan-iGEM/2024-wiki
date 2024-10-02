@@ -17,7 +17,7 @@ Welcome to our Fudan iGEM 2024 Team page, where you meet the exceptional individ
 
 ### Xujie Tan
 
-#### The Deadliner
+#### The Deadline Breaker
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/xujie-tan.jpg" style="width:50%">
