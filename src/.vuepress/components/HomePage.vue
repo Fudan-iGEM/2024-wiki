@@ -635,13 +635,13 @@
           <div class="wave" id="wave3"></div>
           <div class="wave" id="wave4"></div>
         </div>
-        <a href="https://www.yfc.cn/" target="_blank">  
+<!--         <a href="https://www.yfc.cn/" target="_blank">  
           <img 
               src="https://static.igem.wiki/teams/5115/homepage11/click.svg"
               alt="DescriptionLink"
               class="click-des"
           />
-        </a> 
+        </a>  -->
       </div>
     </div>
     
@@ -661,6 +661,9 @@
           </a -->
           <a href="https://www.fudan.edu.cn/en/" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/czh/fudan-lyh.svg" alt="www.fudan.edu.cn" />
+          </a>
+          <a href="/fudan/description/" target="_blank">
+            <img class="logo-description" src="https://static.igem.wiki/teams/5115/czh/description.svg" alt="www.fudan.edu.cn" />
           </a>
           <a href="https://life.fudan.edu.cn/main.htm" target="_blank">
             <img class="logo" src="https://static.igem.wiki/teams/5115/czh/life-lyh.svg" alt="life.fudan.edu.cn" />
@@ -1150,7 +1153,7 @@ export default {
           duration: 0.1, 
         }, '+=0.2');
         page9Tl.to('.carbo9-2', {
-          y: '17%',
+          y: '18%',
           yoyo: true,
           ease: 'power1.inOut',
           scrollTrigger: {
@@ -1168,7 +1171,7 @@ export default {
     },
     initPage10Animations(gsap) {
       if (window.innerWidth >= 300) {
-        gsap.set(['.cube', '.word11','.word10'], { yPercent: -10 });
+        gsap.set(['.cube', '.word11','.word10'], { yPercent: -20 });
 
         gsap.set(['.time-svg'], { yPercent: 10 });
         gsap.to(".time-svg",{
@@ -1229,18 +1232,17 @@ export default {
     
     initPage11Animations(gsap) {
       if (window.innerWidth >= 300) {
-        gsap.set(['.click-des'], { opacity: 0 });
+        const logo = document.querySelector(".logo-description");
+        gsap.set(logo, { scale: 1 }); 
 
-        gsap.to(".click-des",{
-          opacity: 1,
-          scrollTrigger: {
-            trigger: ".page-11",
-            start: "top 20%",
-            end: "center 50%",
-            duration: 7,
-            scrub: true, 
-          }
+        logo.addEventListener("mouseenter", () => {
+          gsap.to(logo, { scale: 1.2, duration: 0.3, ease: "power1.out" });
         });
+
+        logo.addEventListener("mouseleave", () => {
+          gsap.to(logo, { scale: 1, duration: 0.3, ease: "power1.out" });
+        });
+        
       } else {
         // Clear GSAP properties for mobile
         gsap.set(['.cube', '.word10', '.word11'], { clearProps: 'all' });
@@ -1806,6 +1808,10 @@ footer{
     margin-bottom: 1rem;
   }
   .logo {
+    max-height: 7rem;
+    margin: 0 1rem;
+  }
+  .logo-description{
     max-height: 7rem;
     margin: 0 1rem;
   }

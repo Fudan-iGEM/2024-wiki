@@ -31,13 +31,14 @@ To counteract the spontaneous nickel efflux of *E. coli*, we overexpress RcnR^C3
 Our Nickel Absorption module allows *E. coli* to achieve a high influx of nickel ions, vital for subsequent biochemical pathways and nickel-dependent enzymatic activities in our design.
 
 <div style="text-align: center;" id="fig-1">
-<img src="https://static.igem.wiki/teams/5115/@@@@" style="width:70%">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-nickel-absorption.png" style="width:70%">
 <div>
    <span style="color:gray">Figure 1: Overview of Nickel Uptake Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of the nik operon, NixA transporter, RcnR regulator, and NixA-F1v in facilitating nickel ion absorption <em>E. coli</em></small>
    </span><br><br>
 </div>
 </div>
+
 
 <div style="text-align: center;">
    <p>Table 1: Parts for Nickel Absorption</p>
@@ -75,13 +76,14 @@ In addition to Hpn, we incorporate metallothionein (MTA, [BBa_K5115050](https://
 Together, the synergistic action of ribozyme-connected Hpn ([BBa_K5115036](https://parts.igem.org/Part:BBa_K5115036)) and MTA ([BBa_K5115050](https://parts.igem.org/Part:BBa_K5115050)) establishes a comprehensive nickel tolerance mechanism, which not only supports the effective uptake of nickel ions but also ensures that *E. coli* can thrive in challenging environments characterized by fluctuating metal concentrations.
 
 <div style="text-align: center;" id="fig-2">
-<img src="https://static.igem.wiki/teams/5115/@@@@" style="width:70%">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-nickel-tolerance.png" style="width:70%">
 <div>
    <span style="color:gray">Figure 2: Overview of Nickel Tolerance Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of the Hpn and MTA in facilitating nickel ion recovery and tolerance in <em>E. coli</em></small>
    </span><br><br>
 </div>
 </div>
+
 
 <div style="text-align: center;">
    <p>Table 2: Parts for Nickel Tolerance</p>
@@ -100,6 +102,15 @@ Together, the synergistic action of ribozyme-connected Hpn ([BBa_K5115036](https
 To ensure the viability of our engineered *E. coli* in semi-open environments, such as wastewater treatment facilities, we developed an anti-phage survival module utilizing YejM ([BBa_K5115070](https://parts.igem.org/Part:BBa_K5115070)). YejM plays a key role in regulating the synthesis of lipopolysaccharide (LPS), a major component of the *E. coli* outer membrane. By inhibiting the degradation of LpxC, an enzyme required for LPS biosynthesis, YejM maintains stable LPS level, which in turn enhances bacterial membrane's integrity. A strong outer membrane serves as a protective barrier, reducing susceptibility to phage infection. Mechanistically, YejM competes with FtsH, a membrane-bound protease, preventing FtsH from degrading LpxC.
 
 To validate the anti-phage effect of YejM, we expressed YejM in *E. coli* TG1 strain, which carry type IV pili required for infection by M13KO7 phages. After exposuring to phages (carrying Kan resistence), on dual-antibiotic (Amp+Kan) LB plates, we observed significantly fewer colonies from YejM-expressing bactera (carrying Amp resistence), indicating a marked reduction in phage infection. As we designed, increased LPS level loweres the efficiency of phage binding and entry, ensuring the functionality of our [MINERAL](/fudan/description/) modules for industrial applications.
+
+<div style="text-align: center;" id="fig-2">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-anti-phage.png" style="width:70%">
+<div>
+   <span style="color:gray">Figure 3: Overview of Anti-phage Mechanisms.<br><small>
+     This diagram illustrates the interaction and functions of the YejM in preventing phage from infecting <em>E. coli</em></small>
+   </span><br><br>
+</div>
+</div>
 
 <div style="text-align: center;">
    <p>Table 3: Parts for Survival</p>
@@ -148,6 +159,15 @@ The hox operon consists of multiple genes that work collaboratively to facilitat
 The hyp operon plays a critical role in the maturation of hydrogenase, with hypA ([BBa_K5115008](https://parts.igem.org/Part:BBa_K5115008)), hypB ([BBa_K5115009](https://parts.igem.org/Part:BBa_K5115009)), and hypF ([BBa_K5115010](https://parts.igem.org/Part:BBa_K5115010)) working together to facilitate the delivery of necessary cofactors to the enzyme complex. Specifically, hypA and hypB are involved in nickel binding and transport, ensuring that the hydrogenase subunits receive the required metal ions for optimal activity. HypF assists in the assembly of the hydrogenase complex by stabilizing its structure during maturation.
 
 Through the synergistic integration of the hox and hyp operon, our module effectively enables the reduction of nickel ions into nickel particles, thereby maximizing the efficiency of nickel recovery from industrial wastewater.
+
+<div style="text-align: center;" id="fig-2">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-hydrogenase-mediated-nickel-ion-reduction.png" style="width:70%">
+<div>
+   <span style="color:gray">Figure 4: Overview of Nickel-reduction Mechanisms.<br><small>
+     This diagram illustrates the interaction and functions of hox and hyp operon in mediating nickel reduction in <em>E. coli</em></small>
+   </span><br><br>
+</div>
+</div>
 
 <div style="text-align: center;">
    <p>Table 5: Parts for Hydrogenase-Mediated Nickel Ion Reduction</p>
@@ -226,6 +246,15 @@ The Peptide Encapsulation (EP) module is designed to facilitate the effective en
 In our design, EP is integrated into several composite parts: the part hoxF fused with EP ([BBa_K5115058](https://parts.igem.org/Part:BBa_K5115058), and its ribozyme-connected version [BBa_K5115061](https://parts.igem.org/Part:BBa_K5115061)) or hoxU fused with EP ([BBa_K5115059](https://parts.igem.org/Part:BBa_K5115059), and its ribozyme-connected version [BBa_K5115062](https://parts.igem.org/Part:BBa_K5115062)) combines the hoxF or hoxU coding sequence, responsible for encoding a hydrogenase subunit, inframe with EP, facilitating the targeted delivery of the hydrogenase into the carboxysome. 
 
 Additionally, the parts hox and hyp with EP targeted hoxF ([BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063)) and hox and hyp with EP targeted hoxU ([BBa_K5115064](https://parts.igem.org/Part:BBa_K5115064)) contain the hox and hyp genes, with EP specifically targeting hoxF and hoxU, respectively, for encapsulation. This design allows for the coordinated expression and delivery of both hydrogenase and helper proteins to the carboxysome shell, promoting efficient nickel ion reduction processes.
+
+<div style="text-align: center;" id="fig-2">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-carboxysomes-ep.png" style="width:70%">
+<div>
+   <span style="color:gray">Figure 5: Overview of  &alpha;-carboxysomes Compartmentalization Mechanisms.<br><small>
+     This diagram illustrates the interaction and functions of Cso operon and Ep in warpping Hydrogenase in <em>E. coli</em></small>
+   </span><br><br>
+</div>
+</div>
 
 <div style="text-align: center;">
    <p>Table 7: Parts for Peptide Encapsulation</p>
