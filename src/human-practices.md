@@ -759,7 +759,7 @@ Professor Yin initially approached our discussion from the perspective of indust
 </div>
 
 
-We had a discussion about our project with Zhang Chuyue, the captain of the [Fudan 2019](https://2019.igem.org/Team:Fudan/Team) team. Zhang Chuyue is a PhD student at Yale University, specializing in molecular biology. Based on her iGEM competition experience, she shared a lot of valuable insights with us. We presented our project to Zhang Chuyue, and she认为 our project is unique and innovative, encouraging us to think boldly and explore the future of synthetic biology and our project.
+We had a discussion about our project with Zhang Chuyue, the captain of the [Fudan 2019](https://2019.igem.org/Team:Fudan-TSI/Team) team. Zhang Chuyue is a PhD student at Yale University, specializing in molecular biology. Based on her iGEM competition experience, she shared a lot of valuable insights with us. We presented our project to Zhang Chuyue, and she认为 our project is unique and innovative, encouraging us to think boldly and explore the future of synthetic biology and our project.
 
 <br>
 
