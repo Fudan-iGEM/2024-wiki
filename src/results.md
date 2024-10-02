@@ -170,7 +170,7 @@ To visualize nickel microparticles in F Module cells, we used osmium tetroxide a
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/txj/transmission-electron-microscopy.png" style='width:95%'>
     <div>
-    	<span style="color: gray">Figure 8. Transmission electron microscopy images of negative stained E. coli expressing MINERAL F module.</em><br>
+    	<span style="color: gray">Figure 8. Transmission electron microscopy images of negative stained E. coli expressing MINERAL F module.<br>
         <small>Osmium tetroxide and uranyl acetate were used for the staining A-E. Scale bar shown on the image. (A) Overview of <em>E. coli</em> cells. (B) Sections of bacteria, filled with carboxysome-sized regions (CSR) surrounded by electron dense dots. In one cell, all visual CSR are circled by yellow dash lines. (C) The size of CSR are various, with two examples circled. (D,E) For cells with less electron dense dots, CSR are clear, with the cell in C fully packed with CSR and the cell in D sparsely packed. (F) No uranyl acetate staining. The image confirms that the electron dense dots throughout A-E are not salt crystals but actual metallic particles, which we believe are Ni particles. Three 80-nm square regions are enlarged, showing polyhedral outline of CSR, with Ni particles surrounded.
 </small>
 </span>

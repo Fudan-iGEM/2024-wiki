@@ -1155,10 +1155,22 @@ export default {
     },
     initPage10Animations(gsap) {
       if (window.innerWidth >= 300) {
+        gsap.set(['.cube', '.word11','.word10'], { yPercent: -20 });
+
+        gsap.set(['.time-svg'], { yPercent: 10 });
+        gsap.timeline(".time-svg",{
+          scrollTrigger: {
+            trigger: ".page-10",
+            start: "top 10%",
+            end: "95% bottom",
+            duration: 15,
+            scrub: true, 
+          }
+        });
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "75% bottom",
+            start: "55% bottom",
             end: "95% bottom",
             pin: ".cube",
             pinSpacing: false,
@@ -1168,7 +1180,7 @@ export default {
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "75% bottom",
+            start: "55% bottom",
             end: "95% bottom",
             pin: ".word10",
             pinSpacing: false,
@@ -1178,7 +1190,7 @@ export default {
         gsap.timeline({
           scrollTrigger: {
             trigger: ".page-10",
-            start: "75% bottom",
+            start: "55% bottom",
             end: "95% bottom",
             pin: ".word11",
             pinSpacing: false,
