@@ -75,7 +75,7 @@ Inspired by our educational activities last year, we got the preliminary idea fo
 
 ### 2 From STEM to STEAM
 
-In order to make the picture book more suitable for children with autism, we communicated with the children's book editors from [Tongleiren] and [Fudan University Press]. They agreed that the storytelling of picture books is beneficial for the ASD population to understand knowledge. They also enlightened us that **art therapy is often used in special education**. After the conversation, we conducted further literature research and found that **STEAM** (science, technology, engineering, art, and mathematics) is an emerging interdisciplinary education model that allows students to approach science through appreciating and creating art. STEAM education greatly enhancing the **comprehensibility and inclusiveness** of traditional STEM courses. Both STEM education and art therapy have been proven to be beneficial for individuals with ASD. However, **there is no research focusing on STEAM education for the ASD population**. You can click [here](https://static.igem.wiki/teams/5115/inclusivity/review-from-stem-to-steam.pdf) to get our detailed literature research results. Therefore, we decided conduct the **first** STEAM education attempt for the ASD population. Specifically, we **added painting and sticker segments** to the picture book.
+In order to make the picture book more suitable for children with autism, we communicated with the children's book editors from Tongleiren and Fudan University Press. They agreed that the storytelling of picture books is beneficial for the ASD population to understand knowledge. They also enlightened us that **art therapy is often used in special education**. After the conversation, we conducted further literature research and found that **STEAM** (science, technology, engineering, art, and mathematics) is an emerging interdisciplinary education model that allows students to approach science through appreciating and creating art. STEAM education greatly enhancing the **comprehensibility and inclusiveness** of traditional STEM courses. Both STEM education and art therapy have been proven to be beneficial for individuals with ASD. However, **there is no research focusing on STEAM education for the ASD population**. You can click [here](https://static.igem.wiki/teams/5115/inclusivity/review-from-stem-to-steam.pdf) to get our detailed literature research results. Therefore, we decided conduct the **first** STEAM education attempt for the ASD population. Specifically, we **added painting and sticker segments** to the picture book.
 
 <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/chubanshe.png" style='width:100%'>
@@ -89,7 +89,7 @@ In order to make the picture book more suitable for children with autism, we com
 
 An art exhibition inspired us to further **highlight medical elements** in our curriculum. We served as volunteer guides and visited the **"Colorful Starry Sky" Star Child Human and Art Theme Art Exhibition** co-hosted by Fudan University's Human Science Museum and [Angel's Voice Salon]. The works were painted by Star Children after visiting the Human Science Museum. The **bold use of color, innovative composition, and unique perspective** in the paintings allowed us to intuitively feel the power of the integration of science and art, as well as the Star Children's **talent in scientific perception and artistic creation**. In addition, since human science is an important part of medicine, we realized from the exhibition that medicine, being closely linked to everyday life, plays a key role in helping individuals with ASD **understand their condition, accept themselves and develop healthy daily habits.** Therefore, building upon STEAM, we propose an even more innovative and targeted educational approach called **STEAMed**. Specifically, for the first class, we can inspire autistic people to think about the relationship between genes and traits, diseases, uniqueness, and value. 
 
-After the exhibition, we visited the director of the Human Science Museum and the person in charge of teaching at [Angel's Voice Salon] separately. We discussed our ideas for "Starry Wish Picture Book Library" and "STEAMed". Encouragingly, they both expressed their support and willingness to cooperate. In addition, [Angel's Voice Salon] aims to enable angels to grow through the influence, which also inspired us to explore more artistic forms beyond painting.
+After the exhibition, we visited the director of the Human Science Museum and the person in charge of teaching at Angel's Voice Salon separately. We discussed our ideas for "Starry Wish Picture Book Library" and "STEAMed". Encouragingly, they both expressed their support and willingness to cooperate. In addition, Angel's Voice Salon aims to enable angels to grow through the influence, which also inspired us to explore more artistic forms beyond painting.
 
 <div style="text-align: center;" id="fig6">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/2colorful-starry-sky-art-theme-exhibition.jpg" style='width:100%'>
@@ -108,14 +108,32 @@ Finally, our inclusivity program got its name “STEAMed Education — for Child
       <br><br>
     </div>
 </div>
+##  Courses Evaluation System of STEAMed
+
+We have decided to adopt STEAMed as our education conception and plan to adapt last year's picture book to teach genetics. **One major challenge now is how to evaluate the course effectiveness during the process.** A robust evaluation mechanism will enhance the effectiveness and scientific basis of our teaching. The core characteristics of the ASD population are social interaction and communication difficulties, meaning that feedback obtained from them may be limited. Therefore, we pay special attention to the perspectives of stakeholders. With the suggestions and guidance from teachers of nonprofit institutions, we designed the evaluation system.
+
+**Our evaluation primarily focuses on the following six aspects:**
+
+1. How was the student's experience in this class?
+2. How interested were the students in this lesson?
+3. Did the students deepen their understanding of a particular issue?
+4. Did this class improve the students' literacy in six subjects?
+5. Did this class help the students in their daily lives?
+6. What aspects of this lesson can be improved?
+
+**Our evaluations include three types:**
+
+1. Objective evaluations through testing, distributed to students to complete after class.
+2. Subjective evaluations distributed to students to score the course after class.
+3. Subjective evaluations through interviews with volunteers, special education teachers, and parents involved throughout the process, to assess the changes in students.
 
 ## The Preliminary Attempt of STEAMed
 
-We have decided to adopt STEAMed as our education conception and plan to adapt last year's picture book to teach genetics. Now, we plan to carry out **small-scale pilot** teaching to achieve **"a breakthrough from zero to one."**T hen we would receive feedback and further advance our project.
+After the design of course evaluation system, we planned to carry out **small-scale pilot** teaching to achieve **"a breakthrough from zero to one."** After the course, we would get feedback and further advance our project.
 
 ### Pilot Objects
 
-Facing the challenge of large individual differences within the ASD group, we decided to adopt one-on-one and stratified teaching methods. As the spectrum suggests, ASD includes various degrees of severity, with differences in intelligence, learning ability, and language expression ability. The needs of different subgroups also vary. For those with relatively low functioning, it is necessary to further simplify the course content and reduce the difficulty of the course, paying attention to strengthening and repetition in teaching. For those with higher functioning, the connection between course content and vocational skills can be more emphasized.
+Facing the challenge of large individual differences within the ASD group, we decided to adopt  **one-on-one** and **layered teaching** methods. As the spectrum suggests, ASD includes various degrees of severity, with differences in intelligence, learning ability, and language expression ability. The needs of different subgroups also vary. For those with relatively low functioning, it is necessary to further simplify the course content and reduce the difficulty of the course, paying attention to strengthening and repetition in teaching. For those with higher functioning, the connection between course content and vocational skills can be more emphasized.
 
 Subsequently, we began to select appropriate pilot objects. Compared with rehabilitation institutions, special schools have higher requirements for the formality and systematicness of courses and are not suitable as early pilot objects. After adequate communication with various rehabilitation institutions, we finally chose **INDIGO** and **Light of Rainbow**, both of which could arrange a fixed class time for us every weekend. INDIGO is the **first in Shanghai** non-profit organization to provide body, intelligence, and vocational development training projects for **older** individuals with mental disabilities. INDIGO Angels have relatively strong comprehension, social, and expressive abilities and have shown a greater interest in science. At the same time, INDIGO Angels are mostly in the vocational stage, such as baristas, chefs, etc. Light of Rainbow mainly provides physical and mental intelligence rehabilitation training for ASD **children**, representing another type of ASD group.
 
@@ -126,16 +144,13 @@ Subsequently, we began to select appropriate pilot objects. Compared with rehabi
       <br><br>
     </div>
 </div>
-
 ### Curriculum Refinement and Implementation
 
-We further revised the picture book based on the teachers' suggestions, designed a preliminary course effectiveness evaluation system, and designed other supporting activities. For details on the teaching content, please see ["STEAMed Practice"](https://2024.igem.wiki/fudan/inclusivity/#steamed-practice) below. Our differentiation in course difficulty is mainly reflected in the following aspects.
+We further revised the picture book based on the teachers' suggestions, designed a preliminary course effectiveness evaluation system, and designed other supporting activities. For details on the teaching content, please see ["The Practice of STEAMed"](https://2024.igem.wiki/fudan/inclusivity/#the-practice-of-steamed) below. Our differentiation in course difficulty is mainly reflected in the following aspects.
 
-- **Teaching capacity:** In Light of Rainbow, we will omit parts that are difficult to understand, such as the double helix structure of genes, the relationship between cells and genes, etc.
-- **Number of teaching sessions:** At INDIGO, we conducted only 1 teaching session. At Light of Rainbow, we conducted 2 repeated teachings for the same group of students. The difficulty of the second teaching session is slightly higher than the first.
+- **Teaching content:** In Light of Rainbow, we will **omit** parts that are difficult to understand, such as the double helix structure of genes. We will also teach some concepts through more vivid **analogies**, even if these analogies may not be appropriate. For example, using shape and color matching to assist students in completing base pairing tasks.
+- **Number of teaching sessions:** At INDIGO, we conducted only 1 teaching session. At Light of Rainbow, we conducted 2 repeated teachings for the same group of students, to enhance teaching effectiveness.
 - **Supporting activities:** Light of Rainbow has more hands-on and activity segments.
-- **The concept of pairing:** At INDIGO, the pairing of bases. At Light of Rainbow, we will use the pairing of shapes and sizes as an analogy.
-- **Examples of inheritance:** At INDIGO, we will list more examples. At Light of Rainbow, we mainly use the similarities between parents and Star Children as examples.
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/fencengshidian.jpg" style='width:100%'>
@@ -147,7 +162,17 @@ We further revised the picture book based on the teachers' suggestions, designed
 
 ### Course Effectiveness
 
-After the course practice, to understand the evaluation and suggestions for the course, we conducted interviews with teaching volunteers and parents of students. We have compiled and uploaded the [bilingual transcript](.zip) and [audio file] of the INDIGO interview, as well as the [bilingual transcript and video link](https://static.igem.wiki/teams/5115/inclusivity/interview-record-targeting-rainbow-rain-with-tencent-meeting-link.pdf) of the Light of Rainbow interview. Overall, the interviewees recognized our use of picture book teaching methods and suggested that we combine more hands-on practices and physical art forms. In terms of understanding the knowledge, the performance of the students from [INDIGO](https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ) performed better than those from [Light of Rainbow](https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ). Students from INDIGO for the most part could understand the theoretical explanations. Even if some students had a lower level of understanding, parents believed that we “planted a seed in their hearts”. Students from Light of Rainbow, however, appeared quite confused during both sessions, with volunteers noting “repeated many times and he still didn’t understand”, “many tasks were done by parents on behalf of the students”. Relatively speaking, the level of understanding after the second class was better than the first. Overall, these results demonstrate the possibility of STEAMed hierarchical teaching.
+After the course practice, to understand the evaluation and suggestions for the course, we conducted interviews with teaching volunteers and parents of students. We have compiled and uploaded the [bilingual transcript](.zip) and [audio file]() of the INDIGO interview, as well as the [bilingual transcript and video link](https://static.igem.wiki/teams/5115/inclusivity/interview-record-targeting-rainbow-rain-with-tencent-meeting-link.pdf) of the Light of Rainbow interview. Overall, the interviewees **recognized our use of picture book**.
+
+In terms of **the understanding of knowledge**, the performance of the students from [INDIGO](https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ) performed better than those from [Light of Rainbow](https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ). Students from INDIGO for the most part could understand the theoretical explanations. Even if some students had a lower level of understanding, parents believed that we **“planted a seed in their hearts”**. Students from Light of Rainbow, however, appeared quite confused during both sessions, with volunteers noting “repeated many times and he still didn’t understand”, “many tasks were done by parents on behalf of the students”. Relatively speaking, the level of understanding after the second class was better than the first. Overall, these results **demonstrate the feasibility of STEAMed layered teaching method**.
+
+We have summarized the suggestions of the respondents on how to improve the teaching effectiveness for Light of Rainbow students as follows.
+
+1. Reduce the content and time of theoretical explanations.
+2. Repeat the same teaching content more times.
+3. Add more hands-on activities.
+4. Integrating knowledge into more forms of physical and artistic expression.
+5. In course evaluation, more emphasis is placed on the accompanying significance of the course rather than the level of knowledge acquisition.
 
 <div style="text-align: center;" id="fig10">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/zhanlanfangtan.jpg" style='width:100%'>
@@ -157,61 +182,13 @@ After the course practice, to understand the evaluation and suggestions for the 
     </div>
 </div>
 
-### the Next Step
+### The Next Step
 
-We believe that the top priority is to establish a replicable curriculum model. For this, we need to design more courses to be conducted in Blue Sky and verify the effectiveness of the courses. In the future, these courses can be further promoted to the relatively low functioning ASD population by reducing their difficulty and repeatedly reinforcing them.
+We believe that the top priority is to **establish a replicable education model**. For this, we need to design more courses, **conduct them at INDIGO**, and verify their effectiveness. In the future, these courses can be further promoted to the relatively low functioning ASD population according to the above suggestions.
 
+## The Practice of STEAMed 
 
-## The Guidelines for STEAMed Education
-
-During the above process, we received many valuable details and supplementary suggestions. We organized these into two initial teaching guidelines: one for course [content design]() and another for [interactive considerations](). We will continue to refine these guidelines as we implement the subsequent courses.
-
-### Process Evaluation System
-
-One major challenge is how to evaluate the course effectiveness during the process. A robust evaluation mechanism will enhance the effectiveness and scientific basis of our teaching. The core characteristics of the ASD population are social interaction and communication difficulties, meaning that feedback obtained from them may be limited. Therefore, we pay special attention to the perspectives of stakeholders. With the suggestions and guidance from teachers at various nonprofit institutions, our evaluation primarily focuses on the following four aspects:
-
-1. How was the student's experience in this class?
-2. How interested were the students in this lesson?
-3. Did the students deepen their understanding of a particular issue?
-4. Did this class help the students in their daily lives?
-5. What aspects of this lesson can be improved?
-
-Methodologically, we use post-class tests for **objective** evaluations and conduct self-assessments and interviews with stakeholders (experts, special education professionals, parents, nonprofit workers, volunteers, etc.) for **subjective** evaluations.
-
-**Our process evaluations include three types:**
-
-1. Objective evaluations through testing, distributed to students to complete after class.
-2. Subjective evaluations, distributed to students to score the course after class.
-3. Subjective evaluations through interviews with volunteers, special education teachers, and parents involved throughout the process, to assess the changes in students.
-
-### Course Design Requirements
-
-1. It is important to pay attention to individual differences.
-2. Teaching design based on functional stratification of ASD patients.
-3. Design a more concise and understandable curriculum based on the difficulty of generalization that exists in ASD patients.
-4. Adopt multi-sensory experience teaching.
-5. Stimulate active learning in ASD patients.
-
-### Attention should be paid during the course
-
-1. Pay attention to physical contact.
-2. Pay attention to privacy protection
-3. Pay attention to the correctness of the course
-4. Pay attention to emotional guidance
-5. Pay attention to interaction and patience
-6. Pay attention to the professional skills of the lecturer
-
-### Attachment: Course Guidelines
-
-We have attached our designed curriculum guidelines to help more teams promote STEAMed teaching.
-
-[steamed-guidelines-cn.pdf (igem.wiki)](https://static.igem.wiki/teams/5115/inclusivity/steamed-guidelines-cn.pdf)
-
-[steamed-guidelines-en.pdf (igem.wiki)](https://static.igem.wiki/teams/5115/inclusivity/steamed-guidelines-en.pdf)
-
-## STEAMed Practice
-
-After thorough validation and discussion, we carefully launched the STEAMed course. In each class, we guide ASD students to explore a "small scientific question" rooted in daily life, enhancing their skills in STEAMed.
+After thorough validation and discussion, we carefully launched the STEAMed course. In each class, we guide ASD students to explore a "small scientific question" originating from daily life. In this section, we have provided a detailed introduction to all the teaching content.
 
 ### Course Ⅰ Gene Science
 
@@ -553,10 +530,7 @@ The students demonstrated a thorough understanding of artificial intelligence in
 <p>  
     <strong><small>📅 Topic:</small></strong> <small>Oral Health and Dental Care</small><br>  
     <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>  
-    <strong><small>🖇️ Public Push Link:</small></strong> <small><a href="https://mp.weixin.qq.com/s/mgt9XwOQiUCA1l6q6eR6Dw" target="_blank">(Chinese) 暂无推送</a></small>
-</p>  
 </div>
-
 
 #### ① Purpose and Content
 
@@ -619,13 +593,9 @@ Our slides can be found in the attachment: [Course 5 Powerpoint (Chinese).pdf](h
 
 ## Stakerholders' opinions on STEAMed
 
-After completing several rounds of teaching, we conducted interviews with experts, teachers, and parents [Attachment: transcript and mp3] to obtain a more comprehensive and objective evaluation and to identify areas for improvement. Overall, **our ideas and concepts have received high praise**.
+After completing several rounds of teaching, we conducted interviews with experts, teachers, and parents to obtain a more comprehensive and objective evaluation and to identify areas for improvement. Overall, **our ideas and concepts have received high praise**.
 
-### Highlights
-
-关注到了这些人群
-
-We invited two associate professors from Fudan University’s **School of Social Development and Public Policy** for in-person discussions. Both are dedicated to public welfare projects. **[Associate Professor Fu Fang]** has overseen several projects focusing on children with autism, while Associate Professor **Yu Zhiyuan** specializes in charitable work and social organizations. They highly praised the initial concept of STEAMed: **“Your team is dynamic, interdisciplinary, creative, and action-oriented. We believe you will inject fresh energy into the field of autism public welfare!”** (This quote is fabricated; perhaps we could rephrase it.)
+We invited two associate professors from Fudan University’s **School of Social Development and Public Policy** for in-person discussions. Both are dedicated to public welfare projects. **Associate Professor Fang Fu** has overseen several projects focusing on children with autism, while Associate Professor **Zhiyuan Yu** specializes in charitable work and social organizations. They highly praised the initial concept of STEAMed: **“Your team is dynamic, interdisciplinary, creative, and action-oriented. We are glad to see your injection fresh energy into the field of autism public welfare!”**
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/5interview-fufang.jpg" style="width:100%">
@@ -635,13 +605,36 @@ We invited two associate professors from Fudan University’s **School of Social
     </div>
 </div>
 
-We also communicated with rehabilitation institutions and special education schools. The **Beijing Rainbow Village International Health and Wellness Base** has primarily focused on ASD children aged 2 to 7, but has recently begun to expand its efforts to older and elderly individuals. In an interview, its senior business director, **Wang Yishuang**, mentioned that “people with physical disabilities often receive more sympathy and assistance, while **those with intellectual disabilities are more likely to be excluded**.” Our efforts may help **“open a window”** for them to realize their scientific potential.
+We also communicated with rehabilitation institutions and special education schools. The **Beijing Rainbow Village International Health and Wellness Base** has primarily focused on ASD children aged 2 to 7, but has recently begun to expand its efforts to older and elderly individuals. In an interview, its senior business director, **Yishuang Wang **, mentioned that “people with physical disabilities often receive more sympathy and assistance, while **those with intellectual disabilities are more likely to be excluded**.” Our efforts may help **“open a window”** for them to realize their scientific potential.
 
-### Shortcomings and Improvement
+## The Guidelines for STEAMed Education
 
-Due to time constraints, there was still insufficient attention to relatively lower-level concerns. Professor Fu Fang [Attachment: transcript and mp3] further suggested that in the future, we could facilitate interaction between different ASD subgroups.
+During the above process, we accumulated a lot of practical experience and received many valuable suggestions. We organized these into two initial teaching guidelines: one for **course content design** and another for **interactive considerations**. Below are excerpts of some key information.
 
-We will continue to design new teaching content based on the needs and interests of the learners. Additionally, we look forward to incorporating more physical and artistic forms of expression.
+### Guidelines Course Design
+
+1. It is important to pay attention to individual differences.
+2. Teaching design based on functional stratification of ASD patients.
+3. Design a more concise and understandable curriculum based on the difficulty of generalization that exists in ASD patients.
+4. Adopt multi-sensory experience teaching.
+5. Stimulate active learning in ASD patients.
+
+### Attention should be paid during the course
+
+1. Pay attention to physical contact.
+2. Pay attention to privacy protection
+3. Pay attention to the correctness of the course
+4. Pay attention to emotional guidance
+5. Pay attention to interaction and patience
+6. Pay attention to the professional skills of the lecturer
+
+### Attachment: Course Guidelines
+
+We have attached the detailed curriculum guidelines to **help more teams** promote STEAMed teaching.
+
+[steamed-guidelines-cn.pdf (igem.wiki)](https://static.igem.wiki/teams/5115/inclusivity/steamed-guidelines-cn.pdf)
+
+[steamed-guidelines-en.pdf (igem.wiki)](https://static.igem.wiki/teams/5115/inclusivity/steamed-guidelines-en.pdf)
 
 ## Enhancement of Public Awareness
 
@@ -682,8 +675,9 @@ We recruited volunteers for STEAMed education targeting the ASD community throug
       <br><br>
     </div>
 </div>
-
 ## Obtaining Financial Support
+
+**"Economical burden"** is another barrier. So we wanted to seek economic support for autistic families. After communicating with a financial expert for families with special needs children, we took the following actions.
 
 ### Charity Sales
 
@@ -698,23 +692,29 @@ April 2, 2024, marks the 17th **“World Autism Awareness Day”**. Taking this 
 </div>
 ### Raising Public Welfare Funds
 
-We have successfully secured funding intentions from the **U.S. Consulate General in Shanghai**. Additionally, [Professor Fu Fang] and [Professor Yu Zhiyuan] have expressed their willingness to help us obtain sponsorships from **foundations and hospitals**.
+We have successfully secured funding intentions from the **U.S. Consulate General in Shanghai**. Additionally, Professor Fang Fu and Professor Zhiyuan Yu have expressed their willingness to help us obtain sponsorships from **foundations and hospitals**.
 
-## Our Sustainable Mechanism
+## To Be Continued
 
-### Teaching Targets
+Due to time constraints, there was still insufficient attention to relatively lower-level concerns. 
 
-In the future, we will focus on a broader range of ASD populations and individuals with intellectual disabilities.  We will experiment with pilot teaching on a larger scale. For relatively low functioning groups, teaching effectiveness will be tested after more repetition and reinforcement, while paying more attention to the significance of accompanying oneself in teaching. Beyond rehabilitation institutions, we have also reached out to several **special education schools** for ASD in Shanghai. They are all eager to apply our refined curriculum to help break down the barriers between their students and science. Throughout the project, we have also engaged with **other groups with intellectual disabilities**, who face similar challenges as the ASD community. We aim to inspire scientific interest in more of these related groups and tap into their scientific potential. This is also the true essence of neurodiversity and inclusivity.
+### Teaching Objects
 
-### 教学内容
+In the future, we will focus on a broader range of ASD populations and individuals with intellectual disabilities.  We will experiment with pilot teaching on a larger scale. We aim to inspire scientific interest in more of these related groups and tap into their scientific potential. This is also the true essence of neurodiversity and inclusivity.
 
-可以把各种edu方法
+- For relatively **low-functioning** groups, we hope to try the concept of 'making science a way of companion'. Professor Fang Fu suggested that in the future, we could facilitate interaction between different ASD subgroups.
+- Beyond rehabilitation institutions, we have also reached out to several **special education schools** for ASD in Shanghai. They are all eager to apply our refined curriculum to help break down the barriers between their students and science.
+- Throughout the project, we have also engaged with **other groups with intellectual disabilities**, who face similar challenges as the ASD community. 
+
+### Teaching Contents
+
+We will continue to design new teaching content based on the needs and interests of the learners. Additionally, we look forward to incorporating more physical and artistic forms of expression.
 
 ### Partners
 
 We have received support from individual volunteers, public welfare organizations, and public welfare institutions. With the support of these partners, we are confident in the long-term sustainability of our project.
 
-In addition to the [Bertalanffy Club], operated by iGEM, we have also reached long-term cooperation agreements with the [Fudan University Nanshangu Association] and the [Fudan University Red Cross]. Together, we will design and deliver courses.
+In addition to the Bertalanffy Club, operated by iGEM, we have also reached long-term cooperation agreements with the Fudan University Nanshangu Association and the Fudan University Red Cross. Together, we will design and deliver courses.
 
 We were invited to participate in the **[Expedition Forum](https://mp.weixin.qq.com/s/rz5_monngU4MajMzbODBXg)** and the **Fudan Public Welfare Exchange Gathering**. At the Expedition Forum, there were four guests from large public welfare institutions and foundations, as well as public welfare organizations from 18 universities across six provinces. The Fudan Public Welfare Exchange Gathering included six guest professors, 18 alumni guests, and seven student organization leaders. During the open discussion, members of public welfare organizations expressed their willingness to collaborate with us, and the guests indicated that they would help connect us with more public welfare resources in the future to jointly promote this meaningful project.
 
@@ -728,7 +728,7 @@ We were invited to participate in the **[Expedition Forum](https://mp.weixin.qq.
 
 ### Funding Sources
 
-After submitting applications and going through a selection process, we successfully received funding from Fudan University's Undergraduate Academic Practice Research Support Program, known as the Xiangbo Project. We also secured funding intentions from the **U.S. Consulate General in Shanghai**. Additionally, [Professor Fu Fang] and [Professor Yu Zhiyuan] have expressed their willingness to help us obtain sponsorships from foundations and hospitals.
+After submitting applications and going through a selection process, we successfully received funding from Fudan University's Undergraduate Academic Practice Research Support Program, known as the Xiangbo Project. We also secured funding intentions from the **U.S. Consulate General in Shanghai**. Additionally, Professor Fu Fang and Professor Yu Zhiyuan have expressed their willingness to help us obtain sponsorships from foundations and hospitals.
 
 ### A Foundation for Others
 
@@ -736,9 +736,11 @@ Our STEAMed is an innovative and replicable concept. All of our course materials
 
 ## Conclusion
 
-In summary, we have developed an innovative educational concept, **STEAMed**, based on the needs and characteristics of individuals with ASD, leveraging our team's expertise and interdisciplinary advantages. Using the iHP framework, we have thoughtfully practiced our ideas, creating replicable educational models and content. We applied commercial concepts to ensure the project's sustainability and promotion. Our project is not only about sparking interest, building knowledge, and offering career training for the ASD community but also aligns with [SDG 4: Quality Education] and represents an important step towards building a technologically advanced nation. We look forward to using diverse evaluation systems and teaching methods to move closer to science together through **mutual learning and teaching**. By enhancing inclusivity in the scientific community, we aim to amplify more voices in the field. We believe that **under the starry sky, we can all become scientists!**
+In summary, we make efforts from four dimensions to eliminate barriers. Faced with scarce educational resources, we have developed an innovative educational concept, **STEAMed**, based on the needs and characteristics of individuals with ASD, leveraging our team's expertise and interdisciplinary advantages. We confirmed its effectiveness in practice. Using the iHP framework, we have thoughtfully practiced our ideas, creating replicable educational models and content. We applied commercial concepts to ensure the project's sustainability and promotion. Our project is not only about sparking interest, building knowledge, and offering career training for the ASD community but also aligns with SDG 4 "Quality Education" and represents an important step towards building a technologically advanced nation. We look forward to using diverse evaluation systems and teaching methods to move closer to science together through **mutual learning and teaching**. By enhancing inclusivity in the scientific community, we aim to amplify more voices in the field.
 
-----
+We believe that **under the starry sky, we can all become scientists!**
+
+
 
 [^1]: Wei, X., Yu, J. W., Shattuck, P., McCracken, M., & Blackorby, J. (2013). Science, technology, engineering, and mathematics (STEM) participation among college students with an autism spectrum disorder. *Journal of autism and developmental disorders*, *43*(7), 1539–1546. https://doi.org/10.1007/s10803-012-1700-z
 [^2]: Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. *Journal of child psychology and psychiatry, and allied disciplines*, *63*(4), 381–396. https://doi.org/10.1111/jcpp.13534

@@ -39,10 +39,10 @@ Therefore, we are excited to introduce **PartHub 3.0** this year, which addresse
 |2.0|Enhanced Search Functionality|Users can quickly find the parts they are interested in thanks to advanced search and recommendation algorithm.|
 |3.0|Burden Prediction and Similarity Estimation|Apart from the features above, researchers can also understand the burden of different parts and find parts similar to the target part.|
 
-As illustrated in Figure 1, PartHub 3.0 consists of two main components: the [Burden Predictor](/fudan/software/#burden-predictor) and the [Similarity Estimator](/fudan/software/#similarity-estimator). The Burden Predictor can predict the metabolic burden of a composite part, which can be either a monocistron or a [pRAP system](/fudan/software/#introduction)-based polycistron. The Similarity Estimator allows users to search for specific parts within PartHub and identify similar parts.
+As illustrated in [Figure 1](#figure-1), PartHub 3.0 consists of two main components: the [Burden Predictor](/fudan/software/#burden-predictor) and the [Similarity Estimator](/fudan/software/#similarity-estimator). The Burden Predictor can predict the metabolic burden of a composite part, which can be either a monocistron or a [pRAP system](/fudan/software/#introduction)-based polycistron. The Similarity Estimator allows users to search for specific parts within PartHub and identify similar parts.
 
 <div style="text-align: center;" id="figure-1">
-<img src="https://static.igem.wiki/teams/5115/software/schematic2.png" style="width:100%">
+<img src="https://static.igem.wiki/teams/5115/software/schematic4.png" style="width:100%">
 <br>
 <div>
 <p><small style="color: gray">Figure 1. Schematic figure of PartHub 3.0.
@@ -215,7 +215,8 @@ style="width:100%">
 </small></p>
 </div>
 </div>
-Warning: Do not include Non-ASCII characters in the sequence file, or it may cause error!
+
+Warning:  Do not include Non-ASCII characters in the sequence file, or it may cause error!
 
 ### 3. Similar Parts Searching
 
@@ -240,7 +241,7 @@ If you wish to add a part to the [Burden Predictor](#_2-burden-predictor), click
 style="width:100%">
 <br>
 <div>
-<p><small style="color: gray">Figure 7. Search results.
+<p><small style="color: gray">Figure 7. The search results interface.
 </small></p>
 </div>
 </div>
@@ -300,7 +301,7 @@ Moreover, we selected *Escherichia coli* as our host organism for initial develo
 As illustrated in [Figure 10](#figure-10), our model incorporates the basic gene expression processes including transcription (TX) and translation (TL). Transcription is simplified into a dumped process, while translation contains two stages - initiation, when the ribosome binds to the ribosome binding site (RBS) of the mRNA; and elongation, when the ribosome moves along the open reading frame and produces polypeptide chain.
 
 <div style="text-align: center;" id="figure-10">
-<img src="https://static.igem.wiki/teams/5115/software/model-schematic3.png"
+<img src="https://static.igem.wiki/teams/5115/software/model-schematic4.png"
 style="width:80%">
 <br>
 <div>
@@ -309,23 +310,21 @@ style="width:80%">
 </div>
 </div>
 
-
-
 To capture how cells allocate their resources across various types of proteins, we partitions the proteome into five components, including heterologous proteins (expressed by the parts introduced into the cell), ribosomes, metabolic enzymes, transporters, and housekeeping proteins. In our model, mRNA transcripts compete for free ribosomes and energy for translation, leading to a competitive environment where genes from the introduced parts must contend with native genes for cellular resources. This competition, coupled with the dilution of heterologous proteins due to the predicted growth rate, creates a two-way interaction between the parts and the cellular host. The burden of a part is defined as the reduction percentage of the growth rate of the host organism compared to the wild type.
 
 To make our software more useful to synthetic biology, we have introduced the commonly used parameters of parts into our software, including plasmid copy number, promoter strength, RBS strength, and the length the coding sequence (CDS). In our software, plasmid copy number and promoter strengths is modeled as the maximal TX rate of a gene, RBS strengths the binding affinity and dissociation constant between transcripts and ribosomes, and CAI the maximum TL elongation rate. These features allow synthetic biologists to explore how different environmental and genetic conditions influence the behavior of gene circuits within the host cell.
 
 We have also built a small library containing several commonly used basic parts, including promoters, RBS, and CDS. These parts have been experimentally validated for their promoter strength and RBS strength. To know more information about this library, please visit [this link](https://static.igem.wiki/teams/5115/software/software-basic-parts-lib.pdf).
 
-Didn't find the parts you are interested in our library? You can easily add them to the Burden Predictor by following these steps:
+Didn't find the parts you are interested in our library? You can easily add them to Burden Predictor by selecting one of the following methods below:
 
-1. **Input the Part's Sequence**: Manually enter the sequence of the part directly into the software.
-2. **Upload the Sequence File**: Upload sequence files from your device in Genbank or FASTA format.
-3. **Search the iGEM Registry by PartHub**: Use PartHub to search the iGEM Registry for parts of interest and add them to the Burden Predictor.
+- **Input the Part's Sequence**: Manually enter the sequence of the part directly into the software.
+- **Upload the Sequence File**: Upload sequence files from your device in Genbank or FASTA format.
+- **Search the iGEM Registry by PartHub**: Use PartHub to search the iGEM Registry for parts of interest and add them to the Burden Predictor.
 
 This flexible approach ensures you can incorporate any part you need for your research.
 
-For detailed instructions on how to use these features, please refer to our [tutorial](/fudan/software/#_2-burden-predictor).
+For detailed instructions on how to use these features, please refer to our [tutorial](#_2-burden-predictor).
 
 For basic parts not included in our library, we employ the [Promoter Calculator](https://github.com/barricklab/promoter-calculator) and [RBS Calculator](https://github.com/hsalis/Ribosome-Binding-Site-Calculator-v1.0) to estimate the promoter strength and RBS strength based on their sequences, respectively[^6][^7]. These tools use advanced algorithms to predict the functional properties of sequences, ensuring that users can accurately assess the performance of new parts.
 
@@ -483,8 +482,8 @@ The parameters of our model are listed in [Table 3](#table3).
 | $K_{\gamma}$ | 7 |[3]|
 | $K_t, K_m$ | 1000 |[3]|
 | $d_m$ | 0.1 |[3]|
-| $\beta_{prom}$ | 69.49 | [fitting](/fudan/software/#parameter-fitting) |
-| $\beta_{RBS}$ | 50.31 | [fitting](/fudan/software/#parameter-fitting) |
+| $\beta_{prom}$ | 69.49 | [parameter fitting](#parameter-fitting) |
+| $\beta_{RBS}$ | 50.31 | [parameter fitting](#parameter-fitting) |
 | $\beta_{n}$ | 200 | Set manually |
 
 ### Results
@@ -505,7 +504,6 @@ style='width:80%'>
 </div>
 </div>
 
-
 #### Benchmarking of Promoter Calculator and RBS Calculator
 
 To test the accuracy of the Promoter Calculator and the RBS Calculator, we conducted a benchmarking process for both of the calculators. This benchmarking involves converting the predicted data from these calculators to the same magnitude as the experimental data, ensuring direct comparability and integration into our software.
@@ -521,13 +519,10 @@ where $H_{prom}$ represents the converted promoter strength that matches the mag
 style='width:80%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 12. The experimentally measured relative promoter strength vs. promoter strength calculated by Promoter Calculator
+<p><small style="color: gray">Figure 12. Experimental promoter strength vs. promoter strength calculated by Promoter Calculator
 </small></p>
 </div>
 </div>
-
-
-
 
 Unlike the Promoter Calculator, the RBS Calculator calculates the total Gibbs free energy ( $\Delta G$ ) of the entire translation initiation process. Therefore, we benchmarked the accuracy of the RBS Calculator by converting the calculated $\Delta G$ to match the experimental data. This conversion was performed using the following equation:
 
@@ -540,12 +535,10 @@ where $H_{RBS}$ is the converted RBS strength that aligns with the magnitude of 
 style='width:80%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 13. The experimentally measured relative RBS strength vs. RBS strength calculated by RBS Calculator
+<p><small style="color: gray">Figure 13. Experimental RBS strength vs. RBS strength calculated by RBS Calculator
 </small></p>
 </div>
 </div>
-
-
 
 The data used for benchmarking can be accessed [here](https://static.igem.wiki/teams/5115/software/benchmarking-data.pdf).
 
@@ -575,7 +568,6 @@ style='width:80%'>
 </div>
 </div>
 
-
 The detailed information and data of the parts we used in this section can be accessed [here](https://static.igem.wiki/teams/5115/software/parts-expr-valid.pdf).
 
 ## Similarity Estimator
@@ -604,7 +596,7 @@ If two parts have multiple alignments, the software selects the maximum sequence
 
 #### Category similarity
 
-Our software also considers the [category labels from the iGEM Registry](https://parts.igem.org/Categories). . In iGEM registry, each part can have multiple classification labels, and each category includes several levels of subcategories.
+Our software also considers the [category](https://parts.igem.org/Categories) information from the iGEM Registry, where each part can have multiple classification labels, and each category includes several levels of subcategories.
 
 To be specific, our software calculates the number of shared categories and assigning a weight to each category based on its hierarchical level. This approach ensures that parts with similar functional annotations are given higher similarity scores.
 
@@ -658,6 +650,8 @@ After calculating the similarity scores, our software will list the top similar 
 
 The similarity relationships and reference relationships between parts are stored in a Neo4j database, a powerful graph database well-suited for handling complex relationships. For visualization, the software uses [Neovis.js](https://neo4j-contrib.github.io/neovis.js/), a JavaScript library that provides an interactive way to explore the graph data.
 
+For examples of visualization, please refer to [Figure 8](#figure-8).
+
 #### Exclusion of reference relationships
 
 When calculating the similarity between parts, our software **excludes parts that have reference or twin relationships** to avoid redundancy and ensure that the similarity scores are meaningful. Reference parts are often duplicates or highly similar to other parts, and twins are exact copies, which can skew the similarity scores.
@@ -665,6 +659,8 @@ When calculating the similarity between parts, our software **excludes parts tha
 Moreover, our software does not distinguish between basic parts and composite parts when calculating similarity. This is because both types of parts can have significant biological relevance, and distinguishing between them may neglect important similarities.
 
 ## DBTL Cycle
+
+During the development of PartHub 3.0, we strictly followed the Design-Build-Test-Learn (DBTL) cycle to ensure continuous improvement and alignment with user needs. This iterative process allowed us to systematically refine our software, incorporating feedback and making improvements at each stage.
 
 ### First Round
 
