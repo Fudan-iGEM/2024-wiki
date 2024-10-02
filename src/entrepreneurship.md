@@ -22,7 +22,7 @@ Mass-produced nickel-absorbing bacterial cleaner for water bodies.
 
 Below is our [business plan](https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf).
 
-<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="100%" height="640px"/>
+<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="100%" height="800px"/>
 
 <div style="text-align: center;" id="pdf2">
   <span style="color: gray">Business Plan of MINERAL</span>
@@ -38,7 +38,7 @@ As global awareness of environmental protection increases, the demand for sustai
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig1new.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 1: Nickel has a significant market demand (data from Wind, Baocheng Futures Financial Research Institute)</span>
+    	<span style="color: gray">Figure 1: Nickel has a significant market demand.(data base from Wind, Baocheng Futures Financial Research Institute)</span>
         <br><br>
     </div>
 </div>
@@ -48,7 +48,7 @@ On the other hand, current global nickel reserves are struggling to meet the gro
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig2.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years (data from USGS)</span>
+    	<span style="color: gray">Figure 2: According to prediction, nickel will be exhausted in 24 years.(data base from USGS)</span>
         <br><br>
     </div>
 </div>
@@ -93,7 +93,7 @@ We conducted competitive analysis with the most popular ways[^3].
 
 ### Possibility of Our Product Strategy
 
-#### Competitiveness of MINERAL
+#### 1.Competitiveness of MINERAL
 
 Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to efficiently recover nickel from industrial wastewater, transforming it into reusable nickel microparticles in an environmentally friendly manner[^4]. The visible nature of the product enhances its market appeal. Additionally, our production process has been optimized to maintain product quality and production efficiency as we scale up. These features ensure that our project meets scalability requirements while maintaining market competitiveness.
 
@@ -106,23 +106,24 @@ Our product is a bioengineered solution utilizing *E. coli* and cyanobacteria to
 </div>
 <br>
 
-#### Product Lifecycle
+#### 2.Product Lifecycle
 
 Most importantly, our product simplifies the previously cumbersome industrial process using a highly innovative approach — no chemical reagents, and no molecular membrane filtration. The customers simply need to attatch the Gile Carbon Fiber following the product manual, and will be able to observe the valuable nickel being separated.
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig8new.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig88new.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 7: How Our Product Functions</span>
+    	<span style="color: gray">Figure 7: Our Product Lifecycle</span>
         <br><br>
     </div>
 </div>
 
 
 
+
 ### Scalability of Our Operation Strategy
 
-#### Business Model and Core Product
+#### 1.Business Model and Core Product
 
 In response to the identified unmet needs and the development progress of [MINERAL](/fudan/description/), we propose our product — [Gile Carbon Fiber](/fudan/hardware/#fig1) — accompanied by our unique monthly subscription service. 
 
@@ -138,9 +139,9 @@ After purchasing our basic product, customers will receive free equipment instal
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig6.webp" style="width:100%">
 </div>
 
-<br>
 
-#### Exit Strategy
+
+#### 2.Exit Strategy
 
 Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
 
@@ -152,7 +153,7 @@ It includes seeking mergers with wastewater treatment companies to leverage thei
 
 In addition to selling MINERAL's core products, we have introduced a **Monthly Membership Subscription service**.
 
-When customers subscribe to our service, they will receive a **starting package** that includes a real-time wastewater monitoring system, which facilitates strategy optimization and further reduces costs.
+When customers subscribe to our service, they will receive a **basic backup** that includes a real-time wastewater monitoring system, which facilitates strategy optimization and further reduces costs.
 
 On this basis, we provide comprehensive maintenance services for our Gile Carbon Fiber. 
 
@@ -160,18 +161,9 @@ First, during the membership service period, we will offer a two-week supply of 
 
 Second, throughout the membership duration, customers can enjoy free maintenance and testing services for the Gile Carbon Fiber, similar to insurance. [See our capabilities](/fudan/safety/#project-risk-control). This minimizes the risk of production efficiency decline due to product aging, ensuring that customers' factories operate at peak performance at all times.
 
-<div style="text-align: center;" id="fig9">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/membership.webp" style="width:100%">
-    <div>
-    	<span style="color: gray">Figure 9: Chart of Membership Subscription</span>
-        <br><br>
-    </div>
-</div>
 
 
-
-
-## Product Development Plans
+## Product Development Plans with Milestones, Timelines, Resources, and Risks
 
 ### Milestones
 
@@ -181,14 +173,13 @@ In May 2024, we participated in the Fudan University Innovation and Entrepreneur
 
 The professional innovation and entrepreneurship instructors from our university conducted a comprehensive review of our business plan and provided us with valuable feedbacks. One suggesting is to quickly move beyond the laboratory phase and engage with businesses. 
 
-<div style="text-align: center;" id="fig10">
+<div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/match.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 10: Participating in the Entrepreneurship Competition</span>
+    	<span style="color: gray">Figure 9: Participating in the Entrepreneurship Competition</span>
         <br><br>
     </div>
 </div>
-
 
 We received the [Honourable Mention Award](https://mp.weixin.qq.com/s/tw9UTN5enW3R9KSMAoJnCg) in the competition, gaining not only recognition but also the confidence to accelerate our project. Thus, this summer, we reached out to the following business partners.
 
@@ -198,25 +189,23 @@ We received the [Honourable Mention Award](https://mp.weixin.qq.com/s/tw9UTN5enW
 
 Located in Xuhui district, Shanghai, [U Power](https://en.upower.com) is a startup company dedicated to integrating key power and control systems for electric vehicles into the chassis to facilitate car manufacturing. With a battery research and development team of up to 30 professionals, U Power possesses unique insights into the entire lifecycle of power batteries. After several interactions, U Power expressed significant interest in the MINERAL product.
 
-<div style="text-align: center;" id="fig11">
+<div style="text-align: center;" id="fig10">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/upower.webp" style="width:50%">
     <div>
-    	<span style="color: gray">Figure 11: U Power Tech, A Robust Startup</span>
+    	<span style="color: gray">Figure 10: U Power Tech, A Robust Startup</span>
         <br><br>
     </div>
 </div>
-
 
 U Power hosted an investment promotion meeting for our project, where [Kexin](/fudan/team/#kexin-zheng) presented our business prospects to the attending company representatives.
 
-<div style="text-align: center;" id="fig12">
+<div style="text-align: center;" id="fig11">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/upre.gif" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 12: Team member Kexin Zheng is promoting our project</span>
+    	<span style="color: gray">Figure 11: Team member Kexin Zheng is promoting our project</span>
         <br><br>
     </div>
 </div>
-
 
 Participants not only highly praised our development potential and product design philosophy but also provided valuable suggestions for our marketing strategy: targeting electroplating and stainless steel manufacturing companies as our primary customer base, as these industries have a significant demand for nickel and the electroplating sector operates entirely in liquid environments, making their needs urgent and aligned with our product.
 
@@ -228,21 +217,20 @@ Furthermore, U Power recommended several closely related companies for potential
 
 Upon the recommendation of U Power, we visited [GEM Victory](https://www.gem.com.cn), a developed company focused on the recycling of waste metal resources.
 
-<div style="text-align: center;" id="fig13">
+<div style="text-align: center;" id="fig12">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/gem.webp" style="width:33%">
     <div>
-    	<span style="color: gray">Figure 13: GEM, Recycling For Future!</span>
+    	<span style="color: gray">Figure 12: GEM, Recycling For Future!</span>
         <br><br>
     </div>
 </div>
 
-
 GEM adheres to the development philosophy of *limited resources, unlimited recycling*, committed to *eliminating pollution and regenerating resources*. They promote a circular industrial culture aimed at achieving a harmonious integration of economic value, environmental value, and social responsibility, which aligns closely with our ideas and missions.
 
-<div style="text-align: center;" id="fig14">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/productionline.webp" style="width:100%">
+<div style="text-align: center;" id="fig13">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/productionlinenew.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 14: Control Center of Production Line in GEM</span>
+    	<span style="color: gray">Figure 13: Control Center of Production Line in GEM</span>
         <br><br>
     </div>
 </div>
@@ -250,10 +238,10 @@ GEM adheres to the development philosophy of *limited resources, unlimited recyc
 
 GEM expressed strong interest in our project and invited us to their key mineral resource recovery research institute in Jingmen, Hubei Province, China, for a tour and discussions on technical collaboration.
 
-<div style="text-align: center;" id="fig15">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/confer.webp" style="width:100%">
+<div style="text-align: center;" id="fig14">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/confernew.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 15: Exchanging Technical Details</span>
+    	<span style="color: gray">Figure 14: Exchanging Technical Details</span>
         <br><br>
     </div>
 </div>
@@ -261,50 +249,48 @@ GEM expressed strong interest in our project and invited us to their key mineral
 
 After assessing the actual conditions of GEM's production line, we quickly identified the most suitable processing phase for our [MINERAL](/fudan/description/) product. Consequently, we successfully reached a technical cooperation agreement and later received the relevant wastewater samples from GEM. After we got [results](/fudan/results/) and shared it with GEM, they conveyed even stronger willingness to carry out further cooperation with us.
 
-<div style="text-align: center;" id="fig16">
+<div style="text-align: center;" id="fig15">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/wastewater.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 16: Sample of Wastewater Sent by GEM</span>
+    	<span style="color: gray">Figure 15: Sample of Wastewater Sent by GEM</span>
         <br><br>
     </div>
 </div>
-
 
 **3. Suzhou CPS**
 
 With the technical cooperation agreement with GEM as proof of our project's commercial capabilities, we further expanded our potential customers and partners by reaching out to [Suzhou In Times of Chemical Environmental Protection Equipment Technology](http://www.cps88.com) (hereafter referred to as CPS).
 
-<div style="text-align: center;" id="fig17">
+<div style="text-align: center;" id="fig16">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps.webp" style="width:50%">
     <div>
-    	<span style="color: gray">Figure 17: CPS, a Wastewater Treatment Company</span>
+    	<span style="color: gray">Figure 16: CPS, a Wastewater Treatment Company</span>
         <br><br>
     </div>
 </div>
-
 
 Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicated to providing one-stop solutions for industrial wastewater treatment. With 38 years of experience in the European environmental protection industry, their wastewater treatment equipment and projects are widely applied in sectors such as chemicals, dyeing, papermaking, metal surface treatment, and machining.
 
+<div style="text-align: center;" id="fig17">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps1new.webp" style="width:100%">
+    <div>
+    	<span style="color: gray">Figure 17: CPS is sharing technical details</span>
+        <br><br>
+    </div>
+</div>
+
+
+
 <div style="text-align: center;" id="fig18">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps1.webp" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps2new.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 18: CPS is sharing technical details</span>
-        <br><br>
-    </div>
-</div>
-
-<br>
-
-<div style="text-align: center;" id="fig19">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/cps2.webp" style="width:100%">
-    <div>
-    	<span style="color: gray">Figure 19: A Happy Ending for the Visit</span>
+    	<span style="color: gray">Figure 18: A Happy Ending for the Visit</span>
         <br><br>
     </div>
 </div>
 
 
-After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL product. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As on the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the Technical Cooperation Intention Agreement with CPS.
+After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL product. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As on the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the contract with CPS.
 
 <PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/agreement2.pdf" page="1" width="100%" height="800px"/>
 
@@ -323,25 +309,23 @@ Our goal is to improve nickel recovery efficiency, enhance the cleaner's ability
 
 So we prepared a development timeline for MINERAL.
 
-<div style="text-align: center;" id="fig20">
+<div style="text-align: center;" id="fig19">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig11.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 20: Our Development Timeline</span>
+    	<span style="color: gray">Figure 19: Our Development Timeline</span>
         <br><br>
     </div>
 </div>
-
 
 **2. Financial Analysis**
 
-<div style="text-align: center;" id="fig21">
+<div style="text-align: center;" id="fig20">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/costanalysis.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 21: Cost Analysis of MINERAL</span>
+    	<span style="color: gray">Figure 20: Cost Analysis of MINERAL</span>
         <br><br>
     </div>
 </div>
-
 
 We first analyzed the profit model for battery recycling companies among potential customers. 
 
@@ -410,24 +394,23 @@ Our team needs excellent communication and collaboration skills to ensure smooth
 
 Furthermore, our product has strong competitiveness. See [Swot Analysis](#fig21) below.
 
-<div style="text-align: center;" id="fig22">
+<div style="text-align: center;" id="fig21">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig3.webp" style="width:100%">
 </div>
-
 
 <br>
 
 ### [Reliable Team](/fudan/team/)
 
-Our team consists of 14 members from Fudan University, a diverse group of people from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
+Our team consists of 14 members from Fudan University's iGEM team, a diverse group of undergraduates, graduates, and expert mentors from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
 
 
 ### Stakeholders
 
-<div style="text-align: center;" id="fig23">
+<div style="text-align: center;" id="fig22">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/fig10.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 23: Stakeholders Analysis</span>
+    	<span style="color: gray">Figure 22: Stakeholders Analysis</span>
         <br><br>
     </div>
 </div>
@@ -435,15 +418,14 @@ Our team consists of 14 members from Fudan University, a diverse group of people
 
 ## Long-term Impacts
 
-<div style="text-align: center;" id="fig24">
+<div style="text-align: center;" id="fig23">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/newfig23.webp" style="width:100%">
     <div>
-    	<span style="color: gray">Figure 24: Our Possible Long-term Impacts</span>
+    	<span style="color: gray">Figure 23: Our Possible Long-term Impacts</span>
         <br><br>
     </div>
 </div>
 
-----
 
 [^1]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
 [^2]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)

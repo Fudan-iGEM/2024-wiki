@@ -17,17 +17,21 @@ Wastewater treatment and energy recovery are becoming global concerns with the i
       <br><br>
     </div>
 </div>
+<br>
+
 However, ordinary biological filtration devices are typically designed with rigid structures and sizes. This inflexibility leads to high costs and significant challenges in satisfying the vast and various demands of wastewater treatment in remote and off-grid areas, because of the lack of infrastructure, limited funding or difficulty in implementing and maintaining facilities. For example, transferring devices to Antarctica is not easy due to the constraints of remoteness, isolation, harsh weather and other local conditions. Therefore, most countries have chosen processes that use biofilms[^2]. 
 
 In today's wastewater treatment industry, various [contemporary biofilm reactors](#figb) have been created. However, they still have some limitations. The fluidized bed biofilm reactor (FBBR), for instance, consumes substantial energy due to the frequent collisions of its biofilm-coated particles. And the membrane biofilm reactor (MBfR) is more susceptible to contamination, which can shorten their lifespan[^3].  
 
 <div style="text-align: center;" id="figb">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/biofilm.png" style="width: 100%">
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/heavy-metal-tolerance.png" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 2: Types of biofilm in a wastewater environment system (Maurya et al., 2023) </span>
       <br><br>
     </div>
 </div>
+
+<br>
 
 We analyze all these limitations and come up with our own solution using carbon nanotubes (CNTs). CNTs possess unique physicochemical and morphological characteristics, excellent adsorption capabilities, and permeability, showing significant potential in various areas[^4]. We have designed an innovative fiber structure based on carbon nanotubes, which can not only carry and nourish our engineered bacteria but also be woven into any required shape and size according to actual needs. In practical application scenarios, we load the engineered bacteria onto our designed fibers and weave them into a form that perfectly matches the target device. With this fiber structure, implated with our engineered bacteria expressing [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067) and [BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068), deployed in the wastewater treatment device, we can effectively achieve the recovery of nickel.
 
@@ -129,7 +133,7 @@ After literature review, we optimized the suspension ratio as suggested. After c
       <br><br>
     </div>
 </div>
-
+<br>
 
 We then [put several composite fibers into our bacteria liquid culture](#fig10), placed them in a 37°C incubator for overnight culture. This experiment aims to verify the bacteria's tropism and adhesion to the fibers.
 
@@ -140,7 +144,7 @@ We then [put several composite fibers into our bacteria liquid culture](#fig10),
       <br><br>
     </div>
 </div>
-
+<br>
 
 After that, we retrieved the soaked composite fibers. Wash them twice with LB medium thoroughly for a minute (to wash off any residual bacterial liquid). Subsequently, the composite fibers were placed on a clean LB plate and incubated at 37°C for 15 hours. We observed [bacterial growth around the area where the composite fibers were placed](#fig11), suggesting that bacteria could adhere to the fibers.
 
@@ -157,7 +161,7 @@ After that, we retrieved the soaked composite fibers. Wash them twice with LB me
 
 ## Reflect and Learn
 
-To refine our fiber design, we utilized the working paradigm of [Integrated Human Practices](/fudan/human-practices/#cycle-4-hardware). We consulted Dr. Han Hui from IES Environmental Protection Technology (Suzhou). After introducing our design, Dr. Han immediately recognized and praised the ingenuity of our approach, convinced by its potential for practical application, and offered some suggestions. 
+To refine our fiber design, we utilized the working paradigm of [Integrated Human Practices](/fudan/human-practices/#cycle-4-hardware). We consulted Dr. Han Hui from IES Environmental Protection Technology (Suzhou). After introducing our design, Dr. Han immediately recognized and praised the ingenuity of our approach, convinced by its potential for practical application, and [offered some suggestions](https://2024.igem.wiki/fudan/human-practices/#_6-4-feedback-from-cps-experts). 
 
 * She pointed out that in the realm of water treatment engineering, the appropriate consumable replacement cycle is key to industrial application considering the high operational demands of integrated equipment and the cost of consumables. Therefore, our materials need to maintain robust mechanical properties.
 * Dr. Han suggested that we first conduct a series of gradient ratio experiments, measuring and comparing the mechanical strength and bacterial adsorption capabilities of aCNT fibers with different proportions of these two components.
