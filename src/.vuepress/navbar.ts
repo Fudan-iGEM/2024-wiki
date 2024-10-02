@@ -11,7 +11,6 @@ export default navbar([
       { text: 'Hardware', link: '/hardware' },
       { text: 'Implementation', link: '/implementation' },
       { text: 'Measurement', link: '/measurement' },
-      { text: 'Model', link: '/model' },
       { text: 'Notebook', link: '/notebook' },
       { text: 'Software', link: '/software' },
       { text: 'Results', link: '/results' },

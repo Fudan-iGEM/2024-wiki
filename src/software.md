@@ -10,7 +10,7 @@ headergif: https://static.igem.wiki/teams/5115/header/software-header.gif
 
 :::tip
 
-Try PartHub 3.0 [here](http://47.97.85.37:5000/) or follow the [installation pipeline](#tutorial) to deploy our software on your own device!
+Try PartHub 3.0 [here](http://47.97.85.37:5000/) or follow the [installation tutorial](#tutorial) to deploy our software on your own device!
 
 :::
 
@@ -30,7 +30,7 @@ Parts are at the core of synthetic biology, and over the years, Fudan's software
 Therefore, we are excited to introduce **PartHub 3.0** this year, which addresses this gap by focusing on two critical aspects of parts: **burden prediction** and **similarity estimation** ([Table 1](#table1)).
 
 <div style="text-align: center;" id="table1">
-          <span style="color: gray">Table 1: Comparison of PartHub 1.0-3.0</span>
+    <span style="color: gray">Table 1: Comparison of PartHub 1.0-3.0</span>
 </div>
 
 |PartHub Version|Main Feature|Use case|
@@ -68,7 +68,7 @@ To facilitate integration with other tools and platforms, we have also created c
 
 <PDF url="https://static.igem.wiki/teams/5115/software/software-apis1.pdf" page="1" width="100%" height='75vh' />
 
-#### Code availability 
+#### Code availability
 
 We have also uploaded our source code on [Gitlab](https://gitlab.igem.org/2024/software-tools/fudan), and created a [Docker image](https://hub.docker.com/repository/docker/chc1234567890/fudanigem2024/general) for easier installation.
 
