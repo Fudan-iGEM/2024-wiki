@@ -616,7 +616,7 @@
       </div>
     </section> -->
 
-    <section class="page-11" id="gift">
+    <div class="page-11" id="gift">
       <div class="background-container">
         <lottie :options="earthOptions"  class="lottie-animation"></lottie>
         <img 
@@ -628,21 +628,22 @@
             src="https://static.igem.wiki/teams/5115/homepage11/new1-page11-word.svg"
             alt="Word14"
             class="word14"
-        />    
-          <img 
-              src="https://static.igem.wiki/teams/5115/homepage11/click.svg"
-              alt="DescriptionLink"
-              class="click-des"
-              onclick="console.log('Element clicked!')"
-          />
+        /> 
         <div class="waves">
           <div class="wave" id="wave1"></div>
           <div class="wave" id="wave2"></div>
           <div class="wave" id="wave3"></div>
           <div class="wave" id="wave4"></div>
         </div>
+        <a href="https://www.yfc.cn/" target="_blank">  
+          <img 
+              src="https://static.igem.wiki/teams/5115/homepage11/click.svg"
+              alt="DescriptionLink"
+              class="click-des"
+          />
+        </a> 
       </div>
-    </section>
+    </div>
     
     <!-- footer -->
     <footer>
@@ -1647,9 +1648,9 @@ section {
   font-size: 1.5rem;
 }
 
-.click-des {
+/* .click-des {
   pointer-events: auto; 
-}
+} */
 /* Remove gaps between pages */
 .page-1,
 .page-2,
