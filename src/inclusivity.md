@@ -1,6 +1,6 @@
 ---
 title: Inclusivity
-headergif: https://static.igem.wiki/teams/5115/header/inclusivity-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/inclusivity-header-new.gif
 
 author:
 - name: Xueting Chen

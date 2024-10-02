@@ -6,7 +6,7 @@ author:
   url: /fudan/team/#zhenghan-chen
 - name: Liyue Chen
   url: /fudan/team/#liyue-chen
-headergif: https://static.igem.wiki/teams/5115/header/mode-example.gif
+headergif: https://static.igem.wiki/teams/5115/header/model-header-new.gif
 
 ---
 

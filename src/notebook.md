@@ -3,7 +3,7 @@ title: Notebook
 author:
   name: Wanqi Li
   url: /fudan/team/#wanqi-li
-headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
+headergif: https://static.igem.wiki/teams/5115/header/notebook-header-new.gif
 ---
 
 ## January
