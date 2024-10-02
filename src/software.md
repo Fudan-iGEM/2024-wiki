@@ -80,6 +80,7 @@ style="width:100%">
 </div>
 </div>
 
+
 #### Code availability
 
 We have also uploaded our source code on [Gitlab](https://gitlab.igem.org/2024/software-tools/fudan), and created a [Docker image](https://hub.docker.com/repository/docker/chc1234567890/fudanigem2024/general) for easier installation.
@@ -301,7 +302,7 @@ Moreover, we selected *Escherichia coli* as our host organism for initial develo
 As illustrated in [Figure 10](#figure-10), our model incorporates the basic gene expression processes including transcription (TX) and translation (TL). Transcription is simplified into a dumped process, while translation contains two stages - initiation, when the ribosome binds to the ribosome binding site (RBS) of the mRNA; and elongation, when the ribosome moves along the open reading frame and produces polypeptide chain.
 
 <div style="text-align: center;" id="figure-10">
-<img src="https://static.igem.wiki/teams/5115/software/model-schematic4.png"
+<img src="https://static.igem.wiki/teams/5115/software/model-schematic5.png"
 style="width:80%">
 <br>
 <div>
