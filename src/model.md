@@ -97,6 +97,12 @@ NixA is a Ni²⁺-specific transporter protein found in *Helicobacter pylori*. H
 
 
 
+<div style="width: 100%; text-align: center; margin-top: 20px;">  
+        <!-- 居中注释：七张自然风光组成的字母竖版照片 -->  
+        <span style="color: gray;">MINERAL (Generated from CAMP LANDSAT)</span>  
+    </div>  
+
+
 
 
 [^1]: Kumakura, D., Yamaguchi, R., Hara, A., & Nakaoka, S. (2023). Disentangling the growth curve of microbial culture. *Journal of Theoretical Biology*, *566*, 110631. https://doi.org/10.1016/j.jtbi.2023.110631

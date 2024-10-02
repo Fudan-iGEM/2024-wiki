@@ -59,12 +59,13 @@ Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around
 4. Dry the hydrogel threads at room temperature for 12 hours to form aCNT composite fibers [^7].
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hradware-2.jpg" style="width: 100%">
+    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware-2.jpg" style="width: 100%">
     <div>
     	  <span style="color: gray">Figure 4: Production of aCNT composite fiber in laboratory environment</span>
       <br><br>
     </div>
 </div>
+
 <br>
 
 #### Industrial Preparation
