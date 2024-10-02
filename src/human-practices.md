@@ -13,7 +13,7 @@ author:
 
 <br>
 
-“Human Practices” refers to iGEM teams’ proactive efforts to assess how their work interacts with the world and the broader impacts it creates. [MINERAL](/fudan/description/) project addressed the industrial issue of nickel wastewater pollution, aiming to contribute to a better planet and future for humanity. This vision also evolved through the project's lifecycle. Our HP efforts helped us navigate challenges, fostering connections with esteemed scientists, wastewater treatment enterprises, government bodies, and like-minded teams, all of which played pivotal roles in key decisions throughout the project.
+“Human Practices” refers to iGEM teams’ proactive efforts to assess how their work interacts with the world and the broader impacts it creates. The [MINERAL](/fudan/description/) project addressed the industrial issue of nickel wastewater pollution, aiming to contribute to a better planet and future for humanity. This vision also evolved through the project's lifecycle. Our HP efforts helped us navigate challenges, fostering connections with esteemed scientists, wastewater treatment enterprises, government bodies, and like-minded teams, all of which played pivotal roles in key decisions throughout the project.
 
 Next, join us as we embark on an exciting HP journey together!
 
@@ -475,9 +475,10 @@ Another issue is the catalytic mechanism of [hydrogenase](https://parts.igem.org
 <p>  
     <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>  
     <strong><small>👥 People:</small></strong> <small>Xujie Tan</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Xiaoling Xu, PI of the School of Basic Medicine at Hangzhou Normal University, has achieved heterologous expression of Cupriavidus necator hydrogenase in E. coli, which has catalytic activity. This result has been supported by multiple publications</small>  
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Xiaoling Xu, PI of the School of Basic Medicine at Hangzhou Normal University, has achieved heterologous expression of Cupriavidus necator hydrogenase in <em>E. coli</em>, which has catalytic activity. This result has been supported by multiple publications</small>  
 </p>  
 </div>
+
 
 We have focused on three issues:
 
@@ -769,14 +770,14 @@ Attachment: [Interview Record Shanghai Water Authority](https://static.igem.wiki
       <br><br>
     </div>
 </div>
-
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
     <strong><small>📅 Date:</small></strong> <small>Aug. 5th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Lin Qi, Ruiwen Ma</small><br>  
+    <strong><small>👥 People:</small></strong> <small>Kevin Qi, Ruiwen Ma</small><br>  
     <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Mingbo Yin, affiliated with the School of Life Sciences at Fudan University, focuses on the systematics and evolution of zooplankton. His research explores the taxonomy of zooplankton, the mechanisms behind the formation and maintenance of diversity, and the molecular basis of their adaptive evolution, aiming to reveal their critical role in sustaining the health of aquatic ecosystems.</small>  
 </p>  
 </div>
+
 
 
 [Professor Yin](https://life.fudan.edu.cn/b3/2c/c28175a308012/page.htm) initially approached our discussion from the perspective of industrial applications, suggesting that we could set up a buffer pool to absorb nickel, facilitating its deposition or collection, which is suitable for industrial wastewater treatment. He also raised concerns about potential [biosafety issues](/fudan/safety/#project-risk-control) that our project might entail. He proposed that for the treatment of lake and river pollution, ecological principles could be employed to manage *E. coli* through the food chain (plankton), but noted that biosafety is difficult to ensure. Additionally, controlling the quantity of *E. coli* is challenging; on one hand, we must avoid having too few bacteria, which would be ineffective, and on the other hand, we should prevent having too many bacteria that could lead to unknown effects. Lastly, Professor Yin highlighted the difficulties of biosafety assessments and emphasized the need to handle biosafety issues related to genetically modified *E. coli* with caution.
@@ -814,14 +815,14 @@ We had a discussion about our project with [Chuyue Zhang, the leader of the Fuda
       <br><br>
     </div>
 </div>
-
 <div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
 <p>  
     <strong><small>📅 Date:</small></strong> <small>Aug. 5th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ruiwen Ma, Lin Qi, Yi Shi</small><br>  
+    <strong><small>👥 People:</small></strong> <small>Ruiwen Ma, Kevin Qi, Yi Shi</small><br>  
     <strong><small>🖇️ Respondent Profile:</small></strong> <small>Philip Beachy, a Stanford professor, is a leading expert on the Hedgehog signaling pathway, important in development and disease research. He has made major contributions over his 40-year career, including cloning the gene and developing drugs.Katrin Andreasson, also at Stanford, studies how immune responses lead to brain damage, especially in Alzheimer’s disease. She co-directs Stanford’s Alzheimer’s Disease Research Center.</small>  
 </p>  
 </div>
+
 
 On August 5, we discussed the future of our project with [Professor Philip Beachy](https://www.med.stanford.edu/profiles/philip-beachy) and [Professor Katrin Andreasson](https://www.med.stanford.edu/profiles/katrin-andreasson). They believed that our project could be applied to more metals, and similar principles could yield broader social benefits.
 

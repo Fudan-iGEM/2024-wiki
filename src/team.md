@@ -5,6 +5,7 @@ author:
   name: All Members
 ---
 
+<br><br>
 Welcome to our Fudan iGEM 2024 Team page, where you meet the exceptional individuals propelling our project forward. As a diverse and dedicated team of 14 aspiring members, guided by 5 experienced instructors and advisors, we are united by our shared passion for synthetic biology. 
 
 ## Meet Our Members
@@ -17,7 +18,7 @@ Welcome to our Fudan iGEM 2024 Team page, where you meet the exceptional individ
 
 ### Xujie Tan
 
-#### The Deadliner
+#### The Deadline Breaker
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/xujie-tan.jpg" style="width:50%">

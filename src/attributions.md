@@ -6,7 +6,7 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/attribution-header-new.gif
 ---
 
-<br><br>
+## We are Fudan iGEMers!
 
 The content below is fetched from [https://attributions.igem.org?team=Fudan&year=2024](https://attributions.igem.org?team=Fudan&year=2024).
 

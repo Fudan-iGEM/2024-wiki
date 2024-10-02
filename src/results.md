@@ -87,12 +87,13 @@ Heavy metal ions are cytotoxic, so while we aim for *E. coli* to absorb nickel i
     <img src="https://static.igem.wiki/teams/5115/ni-results/50-mg-l-hpn1.png" style='width:70%'>
     <div>
     	<span style="color: gray">Figure 4: Comparison of <em>E. coli</em> Growth curve with and without Hpn in 50 mg/L Ni²⁺<br>
-            <small>The graph illustrates the effect of Ni²⁺ on the growth of <em>E. coli</em> expressing Hpn compared to <em>E. coli</em> without Hpn expression in a medium containing 50 mg/L Ni²⁺ (<em>E.coli</em> strain: BL21 DE3, induced with 1 mM IPTG). The optical density (OD₆₀₀) of the initial bacterial suspension was adjusted to 0.5. <em>E. coli</em> growth was measured by OD₆₀₀, and the bacterial counts were calculated using a standard conversion, where OD₆₀₀ = 1 corresponds to 5.39 × 10⁸ cells. The results indicate that <em>E. coli</em> expressing Hpn has greater tolerance to Ni²⁺, exhibiting higher growth rates than <em>E. coli</em> without Hpn expression under the same conditions.
+            <small>The graph illustrates the effect of Ni²⁺ on the growth of <em>E. coli</em> expressing Hpn compared to <em>E. coli</em> without Hpn expression in a medium containing 50 mg/L Ni²⁺ (<em>E. coli</em> strain: BL21 DE3, induced with 1 mM IPTG). The optical density (OD₆₀₀) of the initial bacterial suspension was adjusted to 0.5. <em>E. coli</em> growth was measured by OD₆₀₀, and the bacterial counts were calculated using a standard conversion, where OD₆₀₀ = 1 corresponds to 5.39 × 10⁸ cells. The results indicate that <em>E. coli</em> expressing Hpn has greater tolerance to Ni²⁺, exhibiting higher growth rates than <em>E. coli</em> without Hpn expression under the same conditions.
 </small>
 </span>
         <br><br>
     </div>
 </div>
+
 To evaluate the growth of our modified *E. coli* in a nickel-rich environment, we generated growth curves by measuring OD<sub>600</sub>. As shown in [Figure 4](#fig4), *E. coli* expressing Hpn consistently outperformed the controls in a medium with a nickel concentration of 50 mg/L. This demonstrates that Hpn effectively protects *E. coli* in high nickel environments. We also repeated the experiments at 20 mg/L and 100 mg/L nickel concentrations and obtained similar results. 
 
 Our primary goal in expressing Hpn is to alleviate the survival pressure on *E. coli* in high nickel environments, allowing it to absorb nickel more efficiently. To assess this, we measured nickel uptake in *E. coli* with and without Hpn, enabling us to compare the differences in nickel absorption.
