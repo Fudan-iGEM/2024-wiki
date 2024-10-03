@@ -651,19 +651,19 @@
       <div class="footer-wrapper" >
         <div class="logos">
           <a href="https://www.yfc.cn/" target="_blank">
-            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/yf-lyh.svg" alt="yfc.cn" />
+            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/yf-lyh.svg" alt="yfc.cn">
           </a>
           <a href="https://www.fudan.edu.cn/en/" target="_blank">
-            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/fudan-lyh.svg" alt="www.fudan.edu.cn" />
+            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/fudan-lyh.svg" alt="www.fudan.edu.cn">
           </a>
           <a href="/fudan/description/" target="_blank">
-            <img class="logo-description" src="https://static.igem.wiki/teams/5115/czh/description.svg" alt="/fudan/description/" />
+            <img class="logo-description" src="https://static.igem.wiki/teams/5115/czh/description.svg" alt="description">
           </a>
           <a href="https://life.fudan.edu.cn/main.htm" target="_blank">
-            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/life-lyh.svg" alt="life.fudan.edu.cn" />
+            <img class="logo" src="https://static.igem.wiki/teams/5115/czh/life-lyh.svg" alt="life.fudan.edu.cn">
           </a>
           <a href="https://2024.igem.wiki/fudan/">
-            <img class="logo home-logo" src="https://static.igem.wiki/teams/5115/czh/logo-trans.svg" alt="Team Fudan #iGEM2024" />
+            <img class="logo home-logo" src="https://static.igem.wiki/teams/5115/czh/logo-trans.svg" alt="Team Fudan #iGEM2024">
           </a>
         </div>
         <hr />
