@@ -34,7 +34,7 @@ Meanwhile, the demand for nickel is growing at an unsustainable rate, out-pacing
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/description/description-fig2.png" style="width:100%">
     <div>
-        <span style="color:gray">Figure 2: Nickel in our modern world<br>(Image from: <a href ="https://www.freepik.com/">https://www.freepik.com/</a>)</span>
+        <span style="color:gray">Figure 2: Nickel in our modern world<br>(Image from: <a href="https://www.freepik.com/">https://www.freepik.com/</a>)</span>
         <br><br>
     </div>
 </div>
