@@ -1,6 +1,6 @@
 ---
 title: Sustainable
-author: 
+author:
   name: Ruiwen Ma
   url: /fudan/team/#ruiwen-ma
 headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
@@ -22,15 +22,15 @@ headergif: https://static.igem.wiki/teams/5115/header/sdg-header.gif
 
 ## Sustainable Development by Nickel Recycling
 
-Nickel, essential for electric vehicle batteries, is crucial for modern infrastructure and clean energy technologies. However, current recycling methods are inefficient and environmentally damaging, impeding progress toward sustainable development. 
+Nickel, essential for electric vehicle batteries, is crucial for modern infrastructure and clean energy technologies. However, current recycling methods are inefficient and environmentally damaging, impeding progress toward sustainable development.
 
 We develop a system that recycles nickel from waste and transforms it into harmless microparticles, minimizing the nickel industry's environmental impact and reducing the need for future nickel mining. This process aligns with the Sustainable Development Goals and supports bioremediation efforts, reinforcing our determination for a greener future.
 
 ### SDG 7: Affordable and Clean Energy
 
-The 7th SDG emphasizes the need for reliable and sustainable energy solutions. 
+The 7th SDG emphasizes the need for reliable and sustainable energy solutions.
 
-[MINERAL](/fudan/description/) transforms nickel into harmless microparticles, making it affordable and environmentally friendly for future use. By simplifying the utilization of nickel, our project reduces costs associated with traditional nickel extraction and promotes a sustainable approach to clean energy. 
+[MINERAL](/fudan/description/) transforms nickel into harmless microparticles, making it affordable and environmentally friendly for future use. By simplifying the utilization of nickel, our project reduces costs associated with traditional nickel extraction and promotes a sustainable approach to clean energy.
 
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/sdgs/sdg-microfactory.png" style='width:100%'>
@@ -48,14 +48,14 @@ The 9th SDG aims to build resilient infrastructure, promote inclusive and sustai
 
 [MINERAL](/fudan/description/) makes recycling nickel energy-efficient, which supports the development of advanced technologies and infrastructure, particularly in regions where resource scarcity and environmental degradation pose significant challenges. We contacted a battery recycling company, and they saw real potential in our project for making a positive impact in the industry, supporting infrastructure growth while protecting our planet’s resources.
 
-Please refer to [Entrepreneurship](/fudan/entrepreneurship/) for more information.
+Below is a photo taken while our team reaching out to a battery company and gettting their feedbacks. Please refer to [Entrepreneurship](/fudan/entrepreneurship/) for more information.
 
-<div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/battery.jpg" style="width:100%">
-    <div>
+<div style="text-align:center;height:288px" id="fig3">
+    <img src="https://static.igem.wiki/teams/5115/sdgs/battery.jpg" style="width:100%;transform:translate(0,-45%);">
+    <!-- div>
     	<span style="color: gray">Our team reached out to a battery company, introduced our project, and got feedbacks.</span>
         <br><br>
-    </div>
+    </div -->
 </div>
 
 <br>
@@ -88,16 +88,16 @@ The 6th SDG emphasizes the availability and sustainable management of water and 
 
 ### SDG 14: Life Below Water
 
-The 14th SDG targets at conserving and sustainably using the oceans, seas, and marine resources. 
+The 14th SDG targets at conserving and sustainably using the oceans, seas, and marine resources.
 
-Mining and industrial processes release nickel into rivers, lakes, and oceans, leading to severe pollution that harms aquatic life and disrupts marine food chains. [MINERAL](/fudan/description/) helps mitigate the toxic effects of nickel in oceans and protect marine biodiversity, maintaining the health of our oceans. 
+Mining and industrial processes release nickel into rivers, lakes, and oceans, leading to severe pollution that harms aquatic life and disrupts marine food chains. [MINERAL](/fudan/description/) helps mitigate the toxic effects of nickel in oceans and protect marine biodiversity, maintaining the health of our oceans.
 
 We also recognized that releasing *E. coli* into the water body could harm aquatic life. We prioritize safety by studying the behavior of *C. elegans*; they show no significant abnormalities when consuming our microparticles and microbes (*E. coli* + hydrogenase) but are affected in nickel-rich growth media. Please refer to [Safety](/fudan/safety/) for more information.
 
 Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers, preventing its spread in water, and effectively addressing metal issues while avoiding creating new problems. Please refer to [Hardware](/fudan/hardware/) for more information.
 
 <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/celegan-fibre-ni-pic.png" style='width:100%'>
+    <img src="https://static.igem.wiki/teams/5115/sdgs/celegan-fibre-ni-pic.png" style='width:80%'>
     <div>
         <span style="color:gray">Besides recycling nickel from water, we also use <em>C. elegans</em> to test biosafety and make <em>E. coli</em> grow on fibers to prevent its spread.</span>
         <br><br>
@@ -110,7 +110,7 @@ Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers
 
 ### SDG 4: Quality Education
 
-The 4th SDG is the cornerstone that enables the achievement of many Sustainable Development Goals. 
+The 4th SDG is the cornerstone that enables the achievement of many Sustainable Development Goals.
 
 We focus on delivering biology education across the K-12 spectrum, actively gathering feedback from students to refine our methods in each teaching session continually. Please refer to [Education](/fudan/education/) for more information.
 
@@ -123,7 +123,7 @@ We focus on delivering biology education across the K-12 spectrum, actively gath
     </div>
 </div>
 
-We believe that education should embrace inclusivity, ensuring that no one is excluded from scientific learning due to barriers like physical conditions and imbalanced resources. We recognized that many autistic individuals possess the cognitive abilities to grasp scientific concepts but their potentials are constantly ignored because they usually don't give active feedback in ordinary lectures. Therefore, we developed specialized [STEAMed](/fudan/inclusivity/#STEAMed) programs tailored to them. We strive to create more engaging and interactive teaching approaches to meet their unique needs—an area currently underserved by existing educational resources. 
+We believe that education should embrace inclusivity, ensuring that no one is excluded from scientific learning due to barriers like physical conditions and imbalanced resources. We recognized that many autistic individuals possess the cognitive abilities to grasp scientific concepts but their potentials are constantly ignored because they usually don't give active feedback in ordinary lectures. Therefore, we developed specialized [STEAMed](/fudan/inclusivity/#STEAMed) programs tailored to them. We strive to create more engaging and interactive teaching approaches to meet their unique needs—an area currently underserved by existing educational resources.
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/sdgs/inclu-3.jpg" style="width:100%">
@@ -150,7 +150,7 @@ In addition, our inclusive education spreads knowledge among diverse communities
 
 The 8th SDG appeals to promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all.
 
-The implementation of [MINERAL](/fudan/description/) creates new job opportunities in the fields of biotechnology and environmental management. By fostering partnerships with industry leaders, we support a vibrant job market and contribute to the growth of the green economy. Companies invest significant resources to comply with environmental regulations. By using [MINERAL](/fudan/description/), they can save money and redirect those funds into investments and other areas. This ultimately contributes to economic growth. 
+The implementation of [MINERAL](/fudan/description/) creates new job opportunities in the fields of biotechnology and environmental management. By fostering partnerships with industry leaders, we support a vibrant job market and contribute to the growth of the green economy. Companies invest significant resources to comply with environmental regulations. By using [MINERAL](/fudan/description/), they can save money and redirect those funds into investments and other areas. This ultimately contributes to economic growth.
 
 Please refer to [Human Practices](/fudan/human-practices/) and [Entrepreneurship](/fudan/entrepreneurship/) for more information.
 
@@ -160,7 +160,7 @@ The 17th SDG encourages strengthening the means of implementation and revitalizi
 
 Our initiative to develop a biological solution for nickel recycling relies on strong, multi-faceted collaborations. Recognizing that a single team cannot tackle global challenges alone, we actively engage with a diverse network of stakeholders.
 
-We have forged valuable partnerships with industry leaders, academic experts, and other iGEMers who share the same aim with us to Refine our technology and understand market dynamics. Our collaboration with a battery recycling company has provided practical insights, enhancing the feasibility of our project. We also aim to raise awareness and garner support for our mission through promotional activities. 
+We have forged valuable partnerships with industry leaders, academic experts, and other iGEMers who share the same aim with us to Refine our technology and understand market dynamics. Our collaboration with a battery recycling company has provided practical insights, enhancing the feasibility of our project. We also aim to raise awareness and garner support for our mission through promotional activities.
 
 ----
 

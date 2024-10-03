@@ -21,6 +21,8 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
 | August 15th | [CUS-China 2024](https://2024.igem.wiki/csu-china/)<br>[HNU-China 2024](https://2024.igem.wiki/hnu-china/) | [Exchange project ideas](/fudan/human-practices/#_10-communicate-with-peers-improving-the-project-through-meeting) |
 | August 16th | [Chinese National Engineering Research Center for Control & Treatment of Heavy Metal Pollution](https://zjsgczx.csu.edu.cn/)<br>[G-Green E-Eco M-Manufacture](https://www.gem.com.cn/gb/index.html)<br>[Yisibei](https://www.cps88.cn/) | [Applications of our hardware](/fudan/human-practices/#c2-9-discuss-with-prof-lin)<br>[Entrepreneurship](/fudan/human-practices/#_8-entrepreneurship) |
 
+<br>
+
 <div style="text-align: center;" id="fig1">
     <img src="https://static.igem.wiki/teams/5115/collaborations-final/1.png" style="width:100%">
 </div>
@@ -34,6 +36,8 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
 | [Shanghai Putuo Zhanyi Children's Intelligence Service Center](https://www.zhanyiertong.org) | [Organize activities](/fudan/inclusivity/#the-preliminary-attempt-of-steamed) |
 | [INDIGO](https://mp.weixin.qq.com/s/1oH0URp3To4R0A3HJnZc1Q)<br>[Light Of Rainbow](https://www.asd-home.cn/jgz2694/) | [Promote of STEAMed<br>Collect feedbacks](/fudan/inclusivity/#the-preliminary-attempt-of-steamed) |
 
+<br>
+
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/collaborations-final/2.png" style="width:100%">
 </div>
@@ -46,6 +50,8 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [FDU Nanshangu](https://mp.weixin.qq.com/s/_mioNil5xQIeOIlhYicueg) | [Implementation of activities](/fudan/inclusivity/#course-i-gene-science) |
 | [Fudan Red Cross](https://mp.weixin.qq.com/s/-lNk_V08rP98bBLkmXyTAw) | [Promote STEAMed](/fudan/inclusivity/#_6-1-public-education) |
+
+<br>
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/collaborations-final/3.png" style="width:100%">

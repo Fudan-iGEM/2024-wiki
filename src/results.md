@@ -46,12 +46,12 @@ As shown in [Figure 1](#fig1), NixA generally outperforms nikABCDE. The ribozyme
 
 To investigate the difference between F1v-NixA and NixA-F1v, we used AlphaFold 3[^1] to predict their structures. According to the computated models ([Figure 2](#fig2)), the N-terminus of NixA is in the periplasm, while the C-terminus lies within the cytoplasm. Plasma membrane location marked based on an existing study[^2]. F1v is on the periplasmic side when fused to the N-terminus of NixA and on the cytoplasmic side when fused to the C-terminus. The nickel uptake capability is higher when F1v is fused to the C-terminus (on the cytoplasmic side), possibly indicating a better dimerization effect, or the N-terminal F1v disturbs NixA's normal function.
 
-We also conducted nickel absorption tests with different starting Ni²⁺ concentrations (20 mg/L and 50 mg/L), leading to the same result. 
+We also conducted nickel absorption tests with different starting Ni²⁺ concentrations (20 mg/L and 50 mg/L), leading to the same result.
 
 
 ### Nickel Retainment by RcnR^C35L^
 
-Wild-type *E. coli* expresses RcnA, especially at high Ni²⁺ concentrations, to efflux nickel as a protective mechanism. Overexpressing a mutant RcnR<sup>C35L</sup> ([BBa_K5115000](https://parts.igem.org/Part:BBa_K5115000)) could limit the induction of *rcnA*, thereby preventing *E. coli* from effluxing nickel. 
+Wild-type *E. coli* expresses RcnA, especially at high Ni²⁺ concentrations, to efflux nickel as a protective mechanism. Overexpressing a mutant RcnR<sup>C35L</sup> ([BBa_K5115000](https://parts.igem.org/Part:BBa_K5115000)) could limit the induction of *rcnA*, thereby preventing *E. coli* from effluxing nickel.
 
 The part [BBa_K5115000](https://parts.igem.org/Part:BBa_K5115000) has RcnR Cys residue at position 35 changed to Leu. This modification prevents RcnR in response to high nickel levels, thus limiting RcnA induction and ensuring that absorbed nickel remains within our engineered *E. coli*.
 
@@ -74,7 +74,7 @@ For more details, please checkout our nickel module [BBa_K5115068](https://parts
 
 ## Testing survival modules
 
-By employing [survival modules](/fudan/description/#_2-survival-module), engineered *E. coli* could be better prepared to withstand environmental pressures while effectively absorbing and reducing nickel. The challenges *E. coli* may face in practical applications include high concentrations of heavey metal ions, freezing conditions, threats from phages, etc. Two new survial modules were developed this year: enhancing heavy metal tolerance and providing anti-phage protection.
+By employing [survival modules](/fudan/description/#_2-survival-module), engineered *E. coli* could be better prepared to withstand environmental pressures while effectively absorbing and reducing nickel. The challenges *E. coli* may face in practical applications include high concentrations of heavey metal ions, freezing conditions, threats from phages, *etc*. Two new survial modules were developed this year: enhancing heavy metal tolerance and providing anti-phage protection.
 
 ### Heavy Metal Tolerance by Hpn
 
@@ -91,7 +91,7 @@ Heavy metal ions are cytotoxic, so while we aim for *E. coli* to absorb nickel i
     </div>
 </div>
 
-To evaluate the growth of our modified *E. coli* in a nickel-rich environment, we generated growth curves by measuring OD<sub>600</sub>. As shown in [Figure 4](#fig4), *E. coli* expressing Hpn consistently outperformed the controls in a medium with a nickel concentration of 50 mg/L. This demonstrates that Hpn effectively protects *E. coli* in high nickel environments. We also repeated the experiments at 20 mg/L and 100 mg/L nickel concentrations and obtained similar results. 
+To evaluate the growth of our modified *E. coli* in a nickel-rich environment, we generated growth curves by measuring OD<sub>600</sub>. As shown in [Figure 4](#fig4), *E. coli* expressing Hpn consistently outperformed the controls in a medium with a nickel concentration of 50 mg/L. This demonstrates that Hpn effectively protects *E. coli* in high nickel environments. We also repeated the experiments at 20 mg/L and 100 mg/L nickel concentrations and obtained similar results.
 
 Our primary goal in expressing Hpn is to alleviate the survival pressure on *E. coli* in high nickel environments, allowing it to absorb nickel more efficiently. To assess this, we measured nickel uptake in *E. coli* with and without Hpn, enabling us to compare the differences in nickel absorption.
 
@@ -109,7 +109,7 @@ As shown in [Figure 5](#fig5), the nickel absorption ability of the Hpn + NixA-F
 
 ### Anti-phage by YejM
 
-Phages in the environment pose a significant threat to bacterial survival, and bacterial lipopolysaccharides (LPS) can act as a physical barrier to prevent phage infection. YejM ([BBa_K5115070](https://parts.igem.org/Part:BBa_K5115070)) inhibits LpxC degradation, which is the enzyme critical for LPS production. 
+Phages in the environment pose a significant threat to bacterial survival, and bacterial lipopolysaccharides (LPS) can act as a physical barrier to prevent phage infection. YejM ([BBa_K5115070](https://parts.igem.org/Part:BBa_K5115070)) inhibits LpxC degradation, which is the enzyme critical for LPS production.
 
 We infected *E. coli* TG1 with kanamycin-resistant M13KO7 phage and plated a 200-fold dilution on kanamycin plates. This allowed us to assess the phage infection efficiency by counting the number of colonies.
 
@@ -128,9 +128,9 @@ According to [Figure 6](#fig6), it's clear that TG1-YejM significantly exhibits 
 
 ## Testing nickel microparticle module
 
-Our [nickel microparticle module](/fudan/description/#_3-nickel-microparticle-module) is designed to efficiently absorb nickel ions and convert them into less toxic microparticles. The microparticles consist of hydrogenases, a carboxysome shell, and reduced nickel, with diameters around 50-80 nm. We have constructed two composite parts: the U module ([BBa_K5115066](https://parts.igem.org/Part:BBa_K5115066)) and the F module ([BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067)). 
+Our [nickel microparticle module](/fudan/description/#_3-nickel-microparticle-module) is designed to efficiently absorb nickel ions and convert them into less toxic microparticles. The microparticles consist of hydrogenases, a carboxysome shell, and reduced nickel, with diameters around 50-80 nm. We have constructed two composite parts: the U module ([BBa_K5115066](https://parts.igem.org/Part:BBa_K5115066)) and the F module ([BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067)).
 
-The F module includes [BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063) (hox and hyp, with EP targeted to hoxF) and [BBa_K5115060](https://parts.igem.org/Part:BBa_K5115060) (ribozyme + RBS + cso without csoS3 + stem-loop). We expected this design to accumulate hydrogenase with the carboxysome, facilitating a stable environment for nickel reduction. 
+The F module includes [BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063) (hox and hyp, with EP targeted to hoxF) and [BBa_K5115060](https://parts.igem.org/Part:BBa_K5115060) (ribozyme + RBS + cso without csoS3 + stem-loop). We expected this design to accumulate hydrogenase with the carboxysome, facilitating a stable environment for nickel reduction.
 
 The U module functions similarly to the F module, with the main difference being that, in the U module, the EP is fused with hoxU instead of hoxF. The hoxF subunit is essential for electron transport, while hoxU subunit conducts electrons between hoxH and hoxF. This design allows us to compare the effectiveness of different EP subunit fusions.
 
@@ -155,7 +155,7 @@ In [Figure 7](#fig7), in (A)-(C), we can observe that due to the lack of carboxy
 
 The F module ([BBa K5115067](https://parts.igem.org/Part:BBa_K5115067)), composed of hydrogenase and carboxysome, reduces nickel ions into nickel microparticles using hydrogen as an electron donor. We cultured the F module *E. coli* in LB medium containing 100 mg/L nickel ions, inside a seal bottle, after bubbling with 10x volumes of 5.6% hydrogen gas.
 
-To visualize nickel microparticles in F module expressing bacteria, osmium tetroxide and uranyl acetate were used to negative stain the fixed samples, and further examined by [TEM](/fudan/experiments/#other-experimental-methods). Osmium tetroxide binds to lipid membranes to enhance contrast, while uranyl acetate binds to nucleic acids and proteins, to improve the visibility of cellular structures. Nickel microparticles are visible due to their higher electron density. 
+To visualize nickel microparticles in F module expressing bacteria, osmium tetroxide and uranyl acetate were used to negative stain the fixed samples, and further examined by [TEM](/fudan/experiments/#other-experimental-methods). Osmium tetroxide binds to lipid membranes to enhance contrast, while uranyl acetate binds to nucleic acids and proteins, to improve the visibility of cellular structures. Nickel microparticles are visible due to their higher electron density.
 
 <div style="text-align: center;" id="fig7">
     <img src="https://static.igem.wiki/teams/5115/txj/transmission-electron-microscopy.png" style='width:100%'>
@@ -215,7 +215,7 @@ After testing our nickel enrichment module, we discovered that:
 * NixA-F1v is our best nickel uptake protein, outperforming nik-operon, nik-ribozyme, NixA, and F1v-NixA ([Figure 1](#fig1))
 * RcnR<sup>C35L</sup> improves nickel absorption by inhibiting nickel efflux ([Figure 3](#fig3))
 
-After testing our survival modules, we found out that: 
+After testing our survival modules, we found out that:
 
 * Hpn effectively protects *E. coli* in high nickel environments, therefore improving nickel uptake ([Figure 4](#fig4), [Figure 5](#fig5))
 * YejM enables *E. coli* to thrive in the presence of phages ([Figure 6](#fig6))
@@ -233,7 +233,7 @@ These results are just examples of our wet lab achievements. Other accomplishmen
 
 ----
 
-[^1]: Abramson, J., Adler, J., Dunger, J., Evans, R., Green, T., Pritzel, A., Ronneberger, O., Willmore, L., Ballard, A. J., Bambrick, J., Bodenstein, S. W., Evans, D. A., Hung, C.-C., O’Neill, M., Reiman, D., Tunyasuvunakool, K., Wu, Z., Žemgulytė, A., Arvaniti, E., … Jumper, J. M. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature*, *630*(8016), 493–500. [https://doi.org/10.1038/s41586-024-07487-w](https://doi.org/10.1038/s41586-024-07487-w) 
-[^2]: Hernandez, J. A., Micus, P. S., Sunga, S. A. L., Mazzei, L., Ciurli, S., & Meloni, G. (2024). Metal selectivity and translocation mechanism characterization in proteoliposomes of the transmembrane NiCoT transporter NixA from Helicobacter pylori. *Chemical Science*, *15*(2), 651–665. [https://doi.org/10.1039/D3SC05135H](https://doi.org/10.1039/D3SC05135H) 
+[^1]: Abramson, J., Adler, J., Dunger, J., Evans, R., Green, T., Pritzel, A., Ronneberger, O., Willmore, L., Ballard, A. J., Bambrick, J., Bodenstein, S. W., Evans, D. A., Hung, C.-C., O’Neill, M., Reiman, D., Tunyasuvunakool, K., Wu, Z., Žemgulytė, A., Arvaniti, E., … Jumper, J. M. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature*, *630*(8016), 493–500. [https://doi.org/10.1038/s41586-024-07487-w](https://doi.org/10.1038/s41586-024-07487-w)
+[^2]: Hernandez, J. A., Micus, P. S., Sunga, S. A. L., Mazzei, L., Ciurli, S., & Meloni, G. (2024). Metal selectivity and translocation mechanism characterization in proteoliposomes of the transmembrane NiCoT transporter NixA from Helicobacter pylori. *Chemical Science*, *15*(2), 651–665. [https://doi.org/10.1039/D3SC05135H](https://doi.org/10.1039/D3SC05135H)
 [^3]: Dutta, D., De, D., Chaudhuri, S., & Bhattacharya, S. K. (2005). Hydrogen production by Cyanobacteria. Microbial Cell Factories, 4(1), 36. [https://doi.org/10.1186/1475-2859-4-36]( https://doi.org/10.1186/1475-2859-4-36)
 

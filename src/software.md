@@ -207,7 +207,7 @@ style="width:100%">
 
 After selecting the parts, you can view them under the "Current parts" line. Next, set the copy number of the plasmid where the parts will be located. When you hover over the copy number input box, a tooltip listing common plasmid copy numbers will appear. This feature helps you accurately specify the copy number, ensuring optimal expression of the selected parts.
 
-On the right side of the copy number input box, there is a switch that allows you to indicate whether the composite part should be considered as part of the pRAP system. If your part is polycistronic, please turn this switch on to ensure accurate prediction. 
+On the right side of the copy number input box, there is a switch that allows you to indicate whether the composite part should be considered as part of the pRAP system. If your part is polycistronic, please turn this switch on to ensure accurate prediction.
 
 Once you have configured the settings, click the "Calculate" button to predict the burden, and the result will be displayed on the right side of the interface.
 
@@ -426,7 +426,7 @@ $$\dot{c_i^c} = \lambda c_i^c + k_{b,i}^c p_r m_i^c - k_{u,i}^c c_x - v_i^c \tag
 
 Here, $d_p$ represents the degradation rate of the proteins expressed by the parts, and $p_i^c,m_i^c,c_i^c$ denote the concentrations of the i*i*-th gene's protein, mRNA, and ribosome-bound mRNA, respectively.
 
-We model **TX rate** of the i-th heterologous gene as: 
+We model **TX rate** of the i-th heterologous gene as:
 
 $$w_i^c = w_{i,\max}^c \frac{a}{\theta_x + a} \tag{15}$$
 
@@ -442,7 +442,7 @@ $$\frac{k_{b,i}^c}{k_{u,i}^c} = \frac{H_{RBS}}{\beta_{RBS}}\tag{17}$$
 
 where $H_{RBS}$ is the RBS strength from our basic parts library, and $\beta_{RBS}$ is the scaling parameter.
 
-**TL elongation rate** is modeled as follows: 
+**TL elongation rate** is modeled as follows:
 
 $$v_x = c_x \frac{\gamma(a)}{n_x}\tag{18}$$
 
@@ -599,7 +599,7 @@ The sequence similarity score, denoted as $\text{SeqScore}$ is then calculated b
 
 $$\text{SeqScore}_{i,j} = \max\limits_{\text{id}(k)=(i,j)} (0.7 \times \frac{\text{BitScore}_k}{\max\limits_l \text{BitScore}_l} + 0.3 \times \text{identity}_k) \tag{21}$$
 
-If two parts have multiple alignments, the software selects the maximum sequence similarity score among all the alignments. 
+If two parts have multiple alignments, the software selects the maximum sequence similarity score among all the alignments.
 
 #### Category similarity
 

@@ -8,7 +8,7 @@ headergif: https://static.igem.wiki/teams/5115/header/hardware-header.gif
 
 <br><br>
 
-Wastewater treatment and energy recovery are becoming global concerns with the increase of human activities and substantial consumption of fossil fuels. Even in [Antarctica](#figa), the largest untouched wilderness on our planet, wastewater treatment is urgently needed with the presence of 44 permanently manned research stations[^1]. 
+Wastewater treatment and energy recovery are becoming global concerns with the increase of human activities and substantial consumption of fossil fuels. Even in [Antarctica](#figa), the largest untouched wilderness on our planet, wastewater treatment is urgently needed with the presence of 44 permanently manned research stations[^1].
 
 <div style="text-align: center;" id="figa">
     <img src="https://static.igem.wiki/teams/5115/hardware-hkx/antarctica.jpg" style="width: 100%">
@@ -20,9 +20,9 @@ Wastewater treatment and energy recovery are becoming global concerns with the i
 
 <br>
 
-However, ordinary biological filtration devices are typically designed with rigid structures and sizes. This inflexibility leads to high costs and significant challenges in satisfying the vast and various demands of wastewater treatment in remote and off-grid areas, because of the lack of infrastructure, limited funding or difficulty in implementing and maintaining facilities. For example, transferring devices to Antarctica is not easy due to the constraints of remoteness, isolation, harsh weather and other local conditions. Therefore, most countries have chosen processes that use biofilms[^2]. 
+However, ordinary biological filtration devices are typically designed with rigid structures and sizes. This inflexibility leads to high costs and significant challenges in satisfying the vast and various demands of wastewater treatment in remote and off-grid areas, because of the lack of infrastructure, limited funding or difficulty in implementing and maintaining facilities. For example, transferring devices to Antarctica is not easy due to the constraints of remoteness, isolation, harsh weather and other local conditions. Therefore, most countries have chosen processes that use biofilms[^2].
 
-In today's wastewater treatment industry, various [contemporary biofilm reactors](#figb) have been created. However, they still have some limitations. The fluidized bed biofilm reactor (FBBR), for instance, consumes substantial energy due to the frequent collisions of its biofilm-coated particles. And the membrane biofilm reactor (MBfR) is more susceptible to contamination, which can shorten their lifespan[^3].  
+In today's wastewater treatment industry, various [contemporary biofilm reactors](#figb) have been created. However, they still have some limitations. The fluidized bed biofilm reactor (FBBR), for instance, consumes substantial energy due to the frequent collisions of its biofilm-coated particles. And the membrane biofilm reactor (MBfR) is more susceptible to contamination, which can shorten their lifespan[^3].
 
 <div style="text-align: center;" id="figb">
     <img src="https://static.igem.wiki/teams/5115/hardware-hkx/heavy-metal-tolerance.png" style="width: 100%">
@@ -60,9 +60,9 @@ Our fiber uses carbon nanotubes as a skeleton and agarose gel are wrapped around
 
 #### [Laboratory Preparation](#fig2)
 
-1. Heat a 2.0g suspension of multi-walled carbon nanotubes (MWNT) (3% by weight in water) to approximately 100 degrees Celsius. Stir continuously for 5 minutes. 
-2. Add 40mg/50ml of agarose to the solution and stir for 30 minutes while maintaining the temperature. 
-3. Transfer the hot liquid suspension containing MWNT and agarose into a 5 mL syringe equipped with a needle, and form hydrogel threads by extruding them through the needle with a 0.5 or 1 millimeter diameter hole. 
+1. Heat a 2.0g suspension of multi-walled carbon nanotubes (MWNT) (3% by weight in water) to approximately 100 degrees Celsius. Stir continuously for 5 minutes.
+2. Add 40mg/50ml of agarose to the solution and stir for 30 minutes while maintaining the temperature.
+3. Transfer the hot liquid suspension containing MWNT and agarose into a 5 mL syringe equipped with a needle, and form hydrogel threads by extruding them through the needle with a 0.5 or 1 millimeter diameter hole.
 4. Dry the hydrogel threads at room temperature for 12 hours to form aCNT composite fibers [^7].
 
 <div style="text-align: center;" id="fig2">
@@ -107,7 +107,7 @@ Soak the woven fiber material in bacterial solution. Stand for 30 minutes to fac
 
 ### Multi-Application Scenarios
 
-Our aCNT composite fibers can be used in multiple scenarios. In industrial environments, our complete composite fiber-engineered bacteria mesh can be placed inside the wastewater treatment device. Engineered bacteria on the fiber absorb and reduce nickel ions as the wastewater flows through the fiber mesh. 
+Our aCNT composite fibers can be used in multiple scenarios. In industrial environments, our complete composite fiber-engineered bacteria mesh can be placed inside the wastewater treatment device. Engineered bacteria on the fiber absorb and reduce nickel ions as the wastewater flows through the fiber mesh.
 
 In natural water bodies, we can weave the fiber into nets similar to fishing nets. Once secured to the banks of rivers or wooden poles in the water, [the fiber nets can naturally hang into the water](#fig8) and achieve purification.
 
@@ -166,7 +166,7 @@ After that, we retrieved the soaked composite fibers. Wash them twice with LB me
 
 ## Reflect and Learn
 
-To refine our fiber design, we utilized the working paradigm of [Integrated Human Practices](/fudan/human-practices/#cycle-4-hardware). We consulted Dr. Han Hui from IES Environmental Protection Technology (Suzhou). After introducing our design, Dr. Han immediately recognized and praised the ingenuity of our approach, convinced by its potential for practical application, and [offered some suggestions](https://2024.igem.wiki/fudan/human-practices/#_6-4-feedback-from-cps-experts). 
+To refine our fiber design, we utilized the working paradigm of [Integrated Human Practices](/fudan/human-practices/#cycle-4-hardware). We consulted Dr. Han Hui from IES Environmental Protection Technology (Suzhou). After introducing our design, Dr. Han immediately recognized and praised the ingenuity of our approach, convinced by its potential for practical application, and [offered some suggestions](https://2024.igem.wiki/fudan/human-practices/#_6-4-feedback-from-cps-experts).
 
 * She pointed out that in the realm of water treatment engineering, the appropriate consumable replacement cycle is key to industrial application considering the high operational demands of integrated equipment and the cost of consumables. Therefore, our materials need to maintain robust mechanical properties.
 * Dr. Han suggested that we first conduct a series of gradient ratio experiments, measuring and comparing the mechanical strength and bacterial adsorption capabilities of aCNT fibers with different proportions of these two components.

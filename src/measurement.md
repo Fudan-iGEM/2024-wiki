@@ -81,7 +81,7 @@ Do not put the culture into 4 degree. Do not over-grow. Ideally, collecting all 
 5. Using the same circular selection, measure the gray value of each spot in the chosen dilution and record these values in an Excel spreadsheet.
 6. Subtract the mean background value from each of the gray values of the spots measured.
 7. Repeat this process for all plates. The resulting values will reflect the growth levels of each biological replicate, including the control. In our case, spots on not-induced plates are baseline for each plasmid, and we use baseline of plasmids just expressing fluorescent proteins [(#0, #1, #19, #25)](#tab1) as our control.
-8. Calculate the mean and standard deviation of the relative growth values obtained from the previous step for three or more replicates. These mean values could be used further to cacluate plasmid burden (induced divided by non-induced), etc.
+8. Calculate the mean and standard deviation of the relative growth values obtained from the previous step for three or more replicates. These mean values could be used further to cacluate plasmid burden (induced divided by non-induced), *etc*.
 
 **Special Tips on Spotting**
 

@@ -14,7 +14,7 @@ Our favourite composite part is [MINERAL](/fudan/description/) F module ([BBa_K5
 
 ## Nickel Enrichment Module
 
-Based on our experimental [results](/fudan/results/), we have finalized [MINERAL](/fudan/description/) nickel module ([BBa_K5115068]([BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068))), which consist of ribozyme-connected Metallothionein (MTA, [BBa_K5115050](https://parts.igem.org/Part:BBa_K5115050)), Histidine-rich metal-binding protein [(Hpn)](https://parts.igem.org/Part:BBa_K1151001), RcnR^C35L^ ([BBa_K5115000](https://parts.igem.org/Part:BBa_K5115000)), and NixA-F1v ([BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086)). 
+Based on our experimental [results](/fudan/results/), we have finalized [MINERAL](/fudan/description/) nickel module ([BBa_K5115068]([BBa_K5115068](https://parts.igem.org/Part:BBa_K5115068))), which consist of ribozyme-connected Metallothionein (MTA, [BBa_K5115050](https://parts.igem.org/Part:BBa_K5115050)), Histidine-rich metal-binding protein [(Hpn)](https://parts.igem.org/Part:BBa_K1151001), RcnR^C35L^ ([BBa_K5115000](https://parts.igem.org/Part:BBa_K5115000)), and NixA-F1v ([BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086)).
 
 This integrated module enables bacteria not only for efficient nickel ion absorption, but also for maintaining cellular health under heavy metal stress conditions, thereby increasing nickel tolerance and facilitating sustainable nickel recovery from wastewater.
 
@@ -25,12 +25,12 @@ Our module is engineered to optimize nickel ion update from industrial wastewate
 
 In parallel, NixA ([BBa_K5115071](https://parts.igem.org/Part:BBa_K5115071)), a member of the NiCoT family, was made also for nickel absorption. This monomeric protein is specifically adapted for nickel transport. By employing a modified FKBP, F1v (FKBP with F36V mutation) ([BBa_K5115085](https://parts.igem.org/Part:BBa_K5115085)), we optimize NixA's dimerization with two different assembly orders, as NixA-F1v ([BBa_K5115086](https://parts.igem.org/Part:BBa_K5115086)) and F1v-NixA ([BBa_K5115087](https://parts.igem.org/Part:BBa_K5115087)), and the former significantly improving its transport efficiency.
 
-To counteract the spontaneous nickel efflux of *E. coli*, we overexpress RcnR^C35L^ ([BBa_K5115000](https://parts.igem.org/Part:BBa_K5115000)), a nickel-responsive transcriptional regulator mutant, to optimize nickel uptake by limiting *rcnA* expression. RcnR is a tetrameric transcriptional repressor that responds to the binding of Ni(II) ions by releasing DNA, resulting in the expression of RcnA, which is responsible for nickel export from the cell. By limiting RcnA, RcnR^C35L^ ensures that intracellular nickel ion concentrations remain elevated. 
+To counteract the spontaneous nickel efflux of *E. coli*, we overexpress RcnR^C35L^ ([BBa_K5115000](https://parts.igem.org/Part:BBa_K5115000)), a nickel-responsive transcriptional regulator mutant, to optimize nickel uptake by limiting *rcnA* expression. RcnR is a tetrameric transcriptional repressor that responds to the binding of Ni(II) ions by releasing DNA, resulting in the expression of RcnA, which is responsible for nickel export from the cell. By limiting RcnA, RcnR^C35L^ ensures that intracellular nickel ion concentrations remain elevated.
 
 Our Nickel Absorption module allows *E. coli* to achieve a high influx of nickel ions, vital for subsequent biochemical pathways and nickel-dependent enzymatic activities in our design.
 
 <div style="text-align: center;" id="fig-1">
-<img src="https://static.igem.wiki/teams/5115/part-collection/parts-nickel-absorption.png" style="width:70%">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-nickel-absorption.png" style="width:100%">
 <div>
    <span style="color:gray">Figure 1: Overview of Nickel Uptake Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of the nik operon, NixA transporter, RcnR regulator, and NixA-F1v in facilitating nickel ion absorption <em>E. coli</em></small>
@@ -78,7 +78,7 @@ In addition to Hpn, we incorporate metallothionein (MTA, [BBa_K5115050](https://
 Together, the synergistic action of ribozyme-connected Hpn ([BBa_K5115036](https://parts.igem.org/Part:BBa_K5115036)) and MTA ([BBa_K5115050](https://parts.igem.org/Part:BBa_K5115050)) establishes a comprehensive nickel tolerance mechanism, which not only supports the effective uptake of nickel ions but also ensures that *E. coli* can thrive in challenging environments characterized by fluctuating metal concentrations.
 
 <div style="text-align: center;" id="fig-2">
-<img src="https://static.igem.wiki/teams/5115/part-collection/parts-nickel-tolerance.png" style="width:70%">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-nickel-tolerance.png" style="width:100%">
 <div>
    <span style="color:gray">Figure 2: Overview of Nickel Tolerance Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of the Hpn and MTA in facilitating nickel ion recovery and tolerance in <em>E. coli</em></small>
@@ -108,7 +108,7 @@ To ensure the viability of our engineered *E. coli* in semi-open environments, s
 To validate the anti-phage effect of YejM, we expressed YejM in *E. coli* TG1 strain, which carry type IV pili required for infection by M13KO7 phages. After exposuring to phages (carrying Kan resistence), on dual-antibiotic (Amp+Kan) LB plates, we observed significantly fewer colonies from YejM-expressing bactera (carrying Amp resistence), indicating a marked reduction in phage infection. As we designed, increased LPS level loweres the efficiency of phage binding and entry, ensuring the functionality of our [MINERAL](/fudan/description/) modules for industrial applications.
 
 <div style="text-align: center;" id="fig-2">
-<img src="https://static.igem.wiki/teams/5115/part-collection/parts-anti-phage.png" style="width:70%">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-anti-phage.png" style="height:480px">
 <div>
    <span style="color:gray">Figure 3: Overview of Anti-Phage Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of the YejM in preventing phage from infecting <em>E. coli</em></small>
@@ -149,7 +149,7 @@ Based on our experimental results, we have selected our favorite module for nick
 
 This integrated module provides a reliable framework for effective reduction of nickel ions into [less harmful](/fudan/safety/#fig45) forms, promoting not only efficient nickel recovery but also surprisingly nickel uptake ability of our engineered *E. coli*.
 
-<div style="text-align: center;">
+<div style="text-align:left;padding-left:7em;">
    <p>Table 4: Parts for Microparticle System</p>
 </div>
 
@@ -230,7 +230,7 @@ In our design, we omitted the *csoS3* ([BBa_K5115027](https://parts.igem.org/Par
 
 The components of the carboxysome module are derived from [a plasmid reported in the literature](https://addgene.org/140856), which contains the genetic sequences necessary for the assembly and function of carboxysomes in *E. coli*. We removed the csoS3 and wrapped its sequence with pRAP[^2].
 
-<div style="text-align: center;">
+<div style="text-align:left;padding-left:7em;">
    <p>Table 6: Parts for &alpha;-Carboxysome Compartmentalization</p>
 </div>
 
@@ -259,12 +259,12 @@ The components of the carboxysome module are derived from [a plasmid reported in
 
 The Peptide Encapsulation (EP) module is designed to facilitate the effective encapsulation of enzymes to the carboxysome structure, enhancing the efficiency of biochemical reactions. EP ([BBa_K5115002](https://parts.igem.org/Part:BBa_K5115002))  serves as a linker that connects the target enzymes to the carboxysome, ensuring proper localization. We test its targeting efficienty with stayGold fused with EP ([BBa_K5115057](https://parts.igem.org/Part:BBa_K5115057)).
 
-In our design, EP is integrated into several composite parts: the part hoxF fused with EP ([BBa_K5115058](https://parts.igem.org/Part:BBa_K5115058), and its ribozyme-connected version [BBa_K5115061](https://parts.igem.org/Part:BBa_K5115061)) or hoxU fused with EP ([BBa_K5115059](https://parts.igem.org/Part:BBa_K5115059), and its ribozyme-connected version [BBa_K5115062](https://parts.igem.org/Part:BBa_K5115062)) combines the hoxF or hoxU coding sequence, responsible for encoding a hydrogenase subunit, inframe with EP, facilitating the targeted delivery of the hydrogenase into the carboxysome. 
+In our design, EP is integrated into several composite parts: the part hoxF fused with EP ([BBa_K5115058](https://parts.igem.org/Part:BBa_K5115058), and its ribozyme-connected version [BBa_K5115061](https://parts.igem.org/Part:BBa_K5115061)) or hoxU fused with EP ([BBa_K5115059](https://parts.igem.org/Part:BBa_K5115059), and its ribozyme-connected version [BBa_K5115062](https://parts.igem.org/Part:BBa_K5115062)) combines the hoxF or hoxU coding sequence, responsible for encoding a hydrogenase subunit, inframe with EP, facilitating the targeted delivery of the hydrogenase into the carboxysome.
 
 Additionally, the parts hox and hyp with EP targeted hoxF ([BBa_K5115063](https://parts.igem.org/Part:BBa_K5115063)) and hox and hyp with EP targeted hoxU ([BBa_K5115064](https://parts.igem.org/Part:BBa_K5115064)) contain the hox and hyp genes, with EP specifically targeting hoxF and hoxU, respectively, for encapsulation. This design allows for the coordinated expression and delivery of both hydrogenase and helper proteins to the carboxysome shell, promoting efficient nickel ion reduction processes.
 
 <div style="text-align: center;" id="fig-2">
-<img src="https://static.igem.wiki/teams/5115/part-collection/parts-carboxysomes-ep.png" style="width:70%">
+<img src="https://static.igem.wiki/teams/5115/part-collection/parts-carboxysomes-ep.png" style="height:480px">
 <div>
    <span style="color:gray">Figure 5: Overview of  &alpha;-Carboxysome Compartmentalization Mechanisms.<br><small>
      This diagram illustrates the interaction and functions of Cso operon and Ep in warpping Hydrogenase in <em>E. coli</em></small>

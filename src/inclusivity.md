@@ -21,19 +21,19 @@ author:
     </div>
 </div>
 
-Globally, about 1 in every 36 children is diagnosed with **Autism Spectrum Disorder (ASD)**, and the prevalence keeps increasing. ASD is the most common and representative disorder within the category of pervasive developmental disorders. It typically begins in early childhood and is characterized by **social interaction difficulties, communication challenges, restricted interests, and repetitive behaviors**. Many children with ASD also experience various degrees of **intellectual disability**. They seem distant, which is why they are often given two beautiful names: **Star Children** and **Angels**. 
+Globally, about 1 in every 36 children is diagnosed with **Autism Spectrum Disorder (ASD)**, and the prevalence keeps increasing. ASD is the most common and representative disorder within the category of pervasive developmental disorders. It typically begins in early childhood and is characterized by **social interaction difficulties, communication challenges, restricted interests, and repetitive behaviors**. Many children with ASD also experience various degrees of **intellectual disability**. They seem distant, which is why they are often given two beautiful names: **Star Children** and **Angels**.
 
-Autistic children are often **excluded from science education**. The education they receive generally comes from their families, rehabilitation institutions, and special schools, focusing mainly on basic survival needs and the development of movement, language, and cognition. Few of them have opportunities to get mainstream education, let alone STEM education. However, **does ASD inherently mean an insurmountable barrier to science?** 
+Autistic children are often **excluded from science education**. The education they receive generally comes from their families, rehabilitation institutions, and special schools, focusing mainly on basic survival needs and the development of movement, language, and cognition. Few of them have opportunities to get mainstream education, let alone STEM education. However, **does ASD inherently mean an insurmountable barrier to science?**
 
 We want to say, **the answer is no!**
 
 In fact, studies have shown that individuals with ASD **display [unique talents](https://www.autismconnect.com/blogs/why-children-on-the-autism-spectrum-gravitate-towards-stem-subjectssciencetechnologyengineering-and-mathematics/) in** **STEM** (science, technology, engineering, and mathematics) fields, including proficiency in systematization and analysis, logical and creative thinking, and compatibility with STEM. The protagonist of the American movie "Rain Man" and the real-life Chinese character Zhou Wei are both vivid examples. According to the statistics, people with ASD are more likely to **pursue careers in STEM**[^1].
 
-Unfortunately, **real barriers still exist**. Through literature reviews, interviews, [surveys](https://static.igem.wiki/teams/5115/inclusivity/asd-steam-survey.pdf), and field observations, **we have conducted in-depth research into the barriers** that ASD individuals face in engaging with science. You can click [here](https://static.igem.wiki/teams/5115/inclusivity/research-on-the-barriers-bilingual.pdf) to view detailed research results and analysis. The following are the key findings. 
+Unfortunately, **real barriers still exist**. Through literature reviews, interviews, [surveys](https://static.igem.wiki/teams/5115/inclusivity/asd-steam-survey.pdf), and field observations, **we have conducted in-depth research into the barriers** that ASD individuals face in engaging with science. You can click [here](https://static.igem.wiki/teams/5115/inclusivity/research-on-the-barriers-bilingual.pdf) to view detailed research results and analysis. The following are the key findings.
 
 
-1. **Lack of specialized professionals**: There are few educators focusing on the ASD population, and even fewer of them have the ability to conduct STEM education. 
-2. **The teaching content is** **monotonous, abstract, and detached from real-life situations**: Instead of comprehensiveness and systematicity, most lessons focusing only on single course, such as mathematics. The content is often abstract and requires high cognitive ability from students. 
+1. **Lack of specialized professionals**: There are few educators focusing on the ASD population, and even fewer of them have the ability to conduct STEM education.
+2. **The teaching content is** **monotonous, abstract, and detached from real-life situations**: Instead of comprehensiveness and systematicity, most lessons focusing only on single course, such as mathematics. The content is often abstract and requires high cognitive ability from students.
 3. **Low public awareness:** Attention and inclusiveness of public towards the ASD population are insufficient, and the importance of scientific outreach for the ASD community is often overlooked.
 4. **Economical Burden on ASD families:** Families find it difficult to bear the financial burden of education.
 
@@ -93,7 +93,7 @@ In order to make the picture book more suitable for children with autism, we com
 
 ### 3 From STEAM to STEAMed
 
-An art exhibition inspired us to further **highlight medical elements** in our curriculum. We served as volunteer guides and visited the **"Colorful Starry Sky" Star Child Human and Art Theme Art Exhibition** co-hosted by Fudan University's Human Science Museum and Angel's Voice Salon. The works were painted by Star Children after visiting the Human Science Museum. The **bold use of color, innovative composition, and unique perspective** in the paintings allowed us to intuitively feel the power of the integration of science and art, as well as the Star Children's **talent in scientific perception and artistic creation**. In addition, since human science is an important part of medicine, we realized from the exhibition that medicine, being closely linked to everyday life, plays a key role in helping individuals with ASD **understand their condition, accept themselves and develop healthy daily habits.** Therefore, building upon STEAM, we propose an even more innovative and targeted educational approach called **STEAMed**. Specifically, for the first class, we can inspire autistic people to think about the relationship between genes and traits, diseases, uniqueness, and value. 
+An art exhibition inspired us to further **highlight medical elements** in our curriculum. We served as volunteer guides and visited the **"Colorful Starry Sky" Star Child Human and Art Theme Art Exhibition** co-hosted by Fudan University's Human Science Museum and Angel's Voice Salon. The works were painted by Star Children after visiting the Human Science Museum. The **bold use of color, innovative composition, and unique perspective** in the paintings allowed us to intuitively feel the power of the integration of science and art, as well as the Star Children's **talent in scientific perception and artistic creation**. In addition, since human science is an important part of medicine, we realized from the exhibition that medicine, being closely linked to everyday life, plays a key role in helping individuals with ASD **understand their condition, accept themselves and develop healthy daily habits.** Therefore, building upon STEAM, we propose an even more innovative and targeted educational approach called **STEAMed**. Specifically, for the first class, we can inspire autistic people to think about the relationship between genes and traits, diseases, uniqueness, and value.
 
 After the exhibition, we visited the director of the Human Science Museum and the person in charge of teaching at Angel's Voice Salon separately. We discussed our ideas for "Starry Wish Picture Book Library" and "STEAMed". Encouragingly, they both expressed their support and willingness to cooperate. In addition, Angel's Voice Salon aims to enable angels to grow through the influence, which also inspired us to explore more artistic forms beyond painting.
 
@@ -105,7 +105,7 @@ After the exhibition, we visited the director of the Human Science Museum and th
     </div>
 </div>
 
-Finally, our inclusivity program got its name “STEAMed Education — for Children from the Star.” 
+Finally, our inclusivity program got its name “STEAMed Education — for Children from the Star.”
 
 ## Courses Evaluation System of STEAMed
 
@@ -134,7 +134,7 @@ After the design of course evaluation system, we planned to carry out **small-sc
 
 Facing the challenge of large individual differences within the ASD group, we decided to adopt  **one-on-one** and **layered teaching** methods. As the spectrum suggests, ASD includes various degrees of severity, with differences in intelligence, learning ability, and language expression ability. The needs of different subgroups also vary. For those with relatively low functioning, it is necessary to further simplify the course content and reduce the difficulty of the course, paying attention to strengthening and repetition in teaching. For those with higher functioning, the connection between course content and vocational skills can be more emphasized.
 
-Subsequently, we began to select appropriate pilot objects. Compared with rehabilitation institutions, special schools have higher requirements for the formality and systematicness of courses and are not suitable as early pilot objects. After adequate communication with various rehabilitation institutions, we finally chose **INDIGO** and **Light of Rainbow**, both of which could arrange a fixed class time for us every weekend. INDIGO is the **first in Shanghai** non-profit organization to provide body, intelligence, and vocational development training projects for **older** individuals with mental disabilities. INDIGO Angels have relatively strong comprehension, social, and expressive abilities and have shown a greater interest in science. At the same time, INDIGO Angels are mostly in the vocational stage, such as baristas, chefs, etc. Light of Rainbow mainly provides physical and mental intelligence rehabilitation training for ASD **children**, representing another type of ASD group.
+Subsequently, we began to select appropriate pilot objects. Compared with rehabilitation institutions, special schools have higher requirements for the formality and systematicness of courses and are not suitable as early pilot objects. After adequate communication with various rehabilitation institutions, we finally chose **INDIGO** and **Light of Rainbow**, both of which could arrange a fixed class time for us every weekend. INDIGO is the **first in Shanghai** non-profit organization to provide body, intelligence, and vocational development training projects for **older** individuals with mental disabilities. INDIGO Angels have relatively strong comprehension, social, and expressive abilities and have shown a greater interest in science. At the same time, INDIGO Angels are mostly in the vocational stage, such as baristas, chefs, *etc*. Light of Rainbow mainly provides physical and mental intelligence rehabilitation training for ASD **children**, representing another type of ASD group.
 
 <div style="text-align: center;" id="fig8">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/zhanyi-zhanlan.jpg" style='width:100%'>
@@ -198,19 +198,19 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 
 ### Course Ⅰ Gene Science
 
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Topic:</small></strong> <small>What is Gene</small><br>  
-    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center, Shanghai Light of Rainbow Children's Intelligent Training Center</small><br>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Topic:</small></strong> <small>What is Gene</small><br>
+    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center, Shanghai Light of Rainbow Children's Intelligent Training Center</small><br>
     <strong><small>🖇️ Public Push Link:</small></strong> <small>1.<a href="https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ" target="_blank">(Chinese) 星愿绘本馆 | “天使”人间</a> 2.<a href="https://mp.weixin.qq.com/s/-q65xuoICfR6TYni6GSmuw" target="_blank">(Chinese) 星愿绘本馆丨“星星”的碱基之旅</a> 3.<a href="https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ">(Chinese) 星愿绘本馆 | 陪伴“星星”，拉手基因</a></small>
-</p>  
+</p>
 </div>
 
 <br>
 
 #### ① Purpose and Content
 
-**Purpose:** 
+**Purpose:**
 
 1. Understand genes and master gene structure;
 2. Learn how to recognize oneself and accept oneself.
@@ -224,11 +224,11 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 
 
 
-::: details Course Ⅰ (Photos, Implementation, attachments, etc.)
+::: details Course Ⅰ (Photos, Implementation, attachments)
 
 #### ② Course Implementation
 
-**Scientific Knowledge:** In this course, we used a picture book teaching model. Based on our colorful picture books from last year, we made thorough simplifications and necessary additions to the content for the ASD population. The picture book ([Course 1 Lesson Plan (English).pdf ](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-lesson-plan-en.pdf)) is listed in the appendix. 
+**Scientific Knowledge:** In this course, we used a picture book teaching model. Based on our colorful picture books from last year, we made thorough simplifications and necessary additions to the content for the ASD population. The picture book ([Course 1 Lesson Plan (English).pdf ](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-lesson-plan-en.pdf)) is listed in the appendix.
 
 <div style="text-align: center;" id="fig11">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-1.jpg" style="width:100%">
@@ -280,12 +280,12 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 
 ### Course Ⅱ Gene Engineering
 
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Topic:</small></strong> <small>Gene Editing</small><br>  
-    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Topic:</small></strong> <small>Gene Editing</small><br>
+    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>
     <strong><small>🖇️ Public Push Link:</small></strong> <small><a href="https://mp.weixin.qq.com/s/4V7yzuG5VeXQ3IBlING87A">(Chinese) 星愿绘本馆 | 当天使遇见“基因”</a></small>
-</p>  
+</p>
 </div>
 
 
@@ -304,7 +304,7 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 
 
 
-::: details Course Ⅱ (Photos, Implementation, attachments, etc.)
+::: details Course Ⅱ (Photos, Implementation, attachments)
 
 #### ② Course Implementation
 
@@ -362,12 +362,12 @@ We designed a self-assessment questionnaire for after the class, which can be fo
 
 ### Course Ⅲ Neuroscience and Cerebrology
 
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Topic:</small></strong> <small>Brain Science</small><br>  
-    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Topic:</small></strong> <small>Brain Science</small><br>
+    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>
     <strong><small>🖇️ Public Push Link:</small></strong> <small><a href="https://mp.weixin.qq.com/s/mgt9XwOQiUCA1l6q6eR6Dw" target="_blank">(Chinese) 星愿绘本馆｜当天使遇见脑科学</a></small>
-</p>  
+</p>
 </div>
 
 #### ① Purpose and Content
@@ -385,7 +385,7 @@ We designed a self-assessment questionnaire for after the class, which can be fo
 
 
 
-::: details Course Ⅲ (Photos, Implementation, attachments, etc.)
+::: details Course Ⅲ (Photos, Implementation, attachments)
 
 #### ② Course Implementation
 
@@ -453,12 +453,12 @@ The students demonstrated a thorough understanding of brain science in their res
 
 ### Course Ⅳ Artificial Intelligence
 
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Topic:</small></strong> <small>Artificial Intelligence</small><br>  
-    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Topic:</small></strong> <small>Artificial Intelligence</small><br>
+    <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>
     <strong><small>🖇️ Public Push Link:</small></strong> <small><a href="https://mp.weixin.qq.com/s/diG6aQBKsdMvoDihidEK3Q" target="_blank">(Chinese) 星愿绘本馆｜天使与AI的邂逅</a></small>
-</p>  
+</p>
 </div>
 
 #### ① Purpose and Content
@@ -476,7 +476,7 @@ The students demonstrated a thorough understanding of brain science in their res
 
 
 
-::: details Course Ⅳ (Photos, Implementation, attachments, etc.)
+::: details Course Ⅳ (Photos, Implementation, attachments)
 
 #### ② Course Implementation
 
@@ -536,11 +536,11 @@ The students demonstrated a thorough understanding of artificial intelligence in
 
 ### Course Ⅴ Biomedicine and Stomatology
 
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Topic:</small></strong> <small>Oral Health and Dental Care</small><br>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Topic:</small></strong> <small>Oral Health and Dental Care</small><br>
     <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>
-</p>      
+</p>
 </div>
 
 #### ① Purpose and Content
@@ -558,7 +558,7 @@ The students demonstrated a thorough understanding of artificial intelligence in
 
 
 
-::: details Course Ⅴ (Photos, Implementation, attachments, etc.)
+::: details Course Ⅴ (Photos, Implementation, attachments)
 
 #### ② Course Implementation
 
@@ -645,9 +645,8 @@ During the above process, we accumulated a lot of practical experience and recei
 
 We have attached the detailed curriculum guidelines to **help more teams** promote STEAMed teaching.
 
-[steamed-guidelines-cn.pdf (igem.wiki)](https://static.igem.wiki/teams/5115/inclusivity/steamed-guidelines-cn.pdf)
-
-[steamed-guidelines-en.pdf (igem.wiki)](https://static.igem.wiki/teams/5115/inclusivity/steamed-guidelines-en.pdf)
+* [steamed-guidelines-cn.pdf](https://static.igem.wiki/teams/5115/inclusivity/steamed-guidelines-cn.pdf)
+* [steamed-guidelines-en.pdf](https://static.igem.wiki/teams/5115/inclusivity/steamed-guidelines-en.pdf)
 
 ## Enhancement of Public Awareness
 
@@ -655,7 +654,7 @@ As mentioned above, **"low public awareness"** is one of the barriers for the AS
 
 In order to make our public education more scientific and effective, we first conducted theoretical learning. Our team member Ziming Suo systematically studied [**the elective course**](https://static.igem.wiki/teams/5115/inclusivity/phpm110059-01-2023-2024-1.pdf) 'Theory and Practice of Health Communication'. Later, we [**held a lecture**](https://mp.weixin.qq.com/s/rUcpIVjLsTR6x_Hs-9S4AQ) and invited Wang Fan, Deputy Director of the Institute of Health Communication at Fudan University, as the keynote speaker. These have laid a solid foundation for our activities.
 
-Throughout the entire process of our public education, we pay special attention to the the concept of **neurodiversity**[^2], whose core idea is that so-called "disorders" are actually **normal variations** in human cognition, emotion, learning, and neurological function. Neurodevelopmental disorders, especially autism, are better understood as part of a spectrum. 
+Throughout the entire process of our public education, we pay special attention to the the concept of **neurodiversity**[^2], whose core idea is that so-called "disorders" are actually **normal variations** in human cognition, emotion, learning, and neurological function. Neurodevelopmental disorders, especially autism, are better understood as part of a spectrum.
 
 ### Promotion of Popular Science
 
@@ -717,7 +716,7 @@ We have successfully secured funding intentions from the **U.S. Consulate Genera
 
 ## To Be Continued
 
-Due to time constraints, there was still insufficient attention to relatively lower-level concerns. 
+Due to time constraints, there was still insufficient attention to relatively lower-level concerns.
 
 ### Teaching Objects
 
@@ -725,7 +724,7 @@ In the future, we will focus on a broader range of ASD populations and individua
 
 - For relatively **low-functioning** groups, we hope to try the concept of 'making science a way of companion'. Professor Fang Fu suggested that in the future, we could facilitate interaction between different ASD subgroups.
 - Beyond rehabilitation institutions, we have also reached out to several **special education schools** for ASD in Shanghai. They are all eager to apply our refined curriculum to help break down the barriers between their students and science.
-- Throughout the project, we have also engaged with **other groups with intellectual disabilities**, who face similar challenges as the ASD community. 
+- Throughout the project, we have also engaged with **other groups with intellectual disabilities**, who face similar challenges as the ASD community.
 
 ### Teaching Contents
 
@@ -753,15 +752,15 @@ We were invited to participate in the **[Expedition Forum](https://mp.weixin.qq.
 
 After submitting applications and going through a selection process, we successfully received funding from Fudan University's Undergraduate Academic Practice Research Support Program, known as the Xiangbo Project. We also secured funding intentions from the **U.S. Consulate General in Shanghai**. Additionally, Professor Fu Fang and Professor Yu Zhiyuan have expressed their willingness to help us obtain sponsorships from foundations and hospitals.
 
-In the future, we plan to further diversify our funding sources. 
+In the future, we plan to further diversify our funding sources.
 
-In the initial stage, this includes securing grants from schools and government, as well as collaborating with non-profit organizations to cut costs. 
+In the initial stage, this includes securing grants from schools and government, as well as collaborating with non-profit organizations to cut costs.
 
 In the mature stage, we will primarily seek funding from socially-conscious individuals and conduct fund-raising sales about STEAMed, striving to achieve financial independence and balance for the initiative.
 
 ### A Foundation for Others
 
-Our STEAMed is an innovative and replicable concept. All of our course materials (including lesson plans, PPTs, post-lesson assessments, etc.) have been distributed freely both offline and online nationwide. We have summarized our experience with science education for the ASD population into two guides, which have been uploaded in multiple languages. We welcome other organizations to contact us through various channels to exchange ideas on how to optimize and promote STEAMed education. By doing this, other teams or external entities can easily build upon our work.
+Our STEAMed is an innovative and replicable concept. All of our course materials (including lesson plans, PPTs, post-lesson assessments, *etc*.) have been distributed freely both offline and online nationwide. We have summarized our experience with science education for the ASD population into two guides, which have been uploaded in multiple languages. We welcome other organizations to contact us through various channels to exchange ideas on how to optimize and promote STEAMed education. By doing this, other teams or external entities can easily build upon our work.
 
 ## Conclusion
 

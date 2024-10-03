@@ -8,11 +8,11 @@ headergif: https://static.igem.wiki/teams/5115/header/notebook-header-new.gif
 
 ## January
 
-From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage/) on synthetic biology and the iGEM competition. Goals included: 
+From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage/) on synthetic biology and the iGEM competition. Goals included:
 
-1. Sharing experiences from [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team) and 2023 members to prepare new members with essential skills and knowledge while allowing them to select their own focuses based on interest; 
-2. Ice-breaking among new members to build effective communication; 
-3. Brainstorming new ideas for 2024 through discussions and critiques; 
+1. Sharing experiences from [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team) and 2023 members to prepare new members with essential skills and knowledge while allowing them to select their own focuses based on interest;
+2. Ice-breaking among new members to build effective communication;
+3. Brainstorming new ideas for 2024 through discussions and critiques;
 4. Lab training of the [co-culture](https://2023.igem.wiki/fudan/results/#_2-symbiotic-system) of cyanobacteria with *Escherichia coli*, and conducted experiments examing bacterial [anti-UV](https://2023.igem.wiki/fudan/results/#_1-survival-system) ability from last year.
 
 <div style="text-align: center;" id="fig1">
@@ -35,9 +35,9 @@ During the Chinese New Year, our team researched previous iGEM projects and summ
 
 While we advanced the commercial plan for Eco Sponge and secured a third prize at the "Excellence Cup" competition in our university, we decided to focus on the metal extraction project.
 
-After we conducted further research, our 2024 iGEM project got its initial focus: *microbial engineering for metal extraction focused on enhancing nickel absorption, reducing nickel exclusion and mitigating nickel toxicity*. 
+After we conducted further research, our 2024 iGEM project got its initial focus: *microbial engineering for metal extraction focused on enhancing nickel absorption, reducing nickel exclusion and mitigating nickel toxicity*.
 
-Meanwhile, some of us put efforts to autism education, include: revising a picture book based on expert feedback, testing its effectiveness in classroom settings (top left of [the following image](#fig3)), etc.
+Meanwhile, some of us put efforts to autism education, include: revising a picture book based on expert feedback, testing its effectiveness in classroom settings (top left of [the following image](#fig3)), *etc*.
 
 <div style="text-align: center;" id="fig3">
     <img src="https://static.igem.wiki/teams/5115/notebook/march.jpg" style="width:100%">

@@ -49,8 +49,8 @@ To assess the plasmid burden on *E. coli*, we employ the Spot Assay, a technique
 
 ## Inclusivity
 
-We launched the "STEAMed" project (science, technology, engineering, art, mathematics, and medicine), promoting a two-way dialogue between our team and individuals with Autism Spectrum Disorder (ASD), allowing us to improve our approach based on their genuine feedback and needs. 
+We launched the "STEAMed" project (science, technology, engineering, art, mathematics, and medicine), promoting a two-way dialogue between our team and individuals with Autism Spectrum Disorder (ASD), allowing us to improve our approach based on their genuine feedback and needs.
 
-Our personalized, picture book-based lessons combine science, technology, engineering, art, and medicine, tailored for different ASD subgroups through partnerships with rehabilitation centers. 
+Our personalized, picture book-based lessons combine science, technology, engineering, art, and medicine, tailored for different ASD subgroups through partnerships with rehabilitation centers.
 
 By engaging the public through charity sales and media outreach, we aim to highlight the remarkable scientific potential of those with ASD. We also included hands-on activities and artistic expression to make learning more accessible. Collaborating with public welfare organizations and experts has been crucial in refining our methods. Our evaluation system ensures that we continuously gather feedback, enabling us to adapt and improve our teaching model to better serve the community.

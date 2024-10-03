@@ -51,13 +51,13 @@ This year we utilized *Caenorhabditis elegans* in assessing the outcome of relea
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;" id="fig45">       
-   <div style="flex: 1; text-align: center;">           
-      <img src="https://static.igem.wiki/teams/5115/txj/c-elegans2.jpg" style="width:95%; height: auto;">           
-   </div>       
-   <div style="flex: 1; text-align: center;">           
-      <img src="https://static.igem.wiki/teams/5115/txj/c-elegans1.png" style="width:95%; height: auto;">           
-   </div>   
+<div style="display: flex; justify-content: space-between; align-items: center;" id="fig45">
+   <div style="flex: 1; text-align: center;">
+      <img src="https://static.igem.wiki/teams/5115/txj/c-elegans2.jpg" style="width:95%; height: auto;">
+   </div>
+   <div style="flex: 1; text-align: center;">
+      <img src="https://static.igem.wiki/teams/5115/txj/c-elegans1.png" style="width:95%; height: auto;">
+   </div>
 </div>
 <div style="text-align: center; margin-top: 10px;">
    <span style="color: gray">Figure 4 & 5: Comparison of the average distance moved per minute and the average turning angle per turn of <em>Caenorhabditis elegans</em>, 18 hours after seeding.<br>

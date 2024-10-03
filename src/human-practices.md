@@ -14,48 +14,48 @@ author:
 
 Next, join us as we embark on an exciting HP journey together!
 
-<div style="display: flex; flex-direction: column; align-items: center;">  
-    <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px; margin: 0 auto;">  
-        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig1'>  
-            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/m-0.jpg" style="width: 100%; height: auto;">  
-            <div style="margin-top: 5px;">   
-            </div>  
-        </div>  
-        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig2'>  
-            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/i-1.jpg" style="width: 100%; height: auto;">  
-            <div style="margin-top: 5px;">  
-            </div>  
-        </div>  
-        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig3'>  
-            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/n-1.jpg" style="width: 100%; height: auto;">  
-            <div style="margin-top: 5px;">  
-            </div>  
-        </div>  
-        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig4'>  
-            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/e-1.jpg" style="width: 100%; height: auto;">  
-            <div style="margin-top: 5px;">  
-            </div>  
-        </div>  
-        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig5'>  
-            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/r-3.jpg" style="width: 100%; height: auto;">  
-            <div style="margin-top: 5px;">   
-            </div>  
-        </div>  
-        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig6'>  
-            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/a-3.jpg" style="width: 100%; height: auto;">  
-            <div style="margin-top: 5px;">   
-            </div>  
-        </div>  
-        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig7'>  
-            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/l-3.jpg" style="width: 100%; height: auto;">  
-            <div style="margin-top: 5px;">  
-            </div>  
-        </div>  
-    </div>  
-    <div style="width: 100%; text-align: center; margin-top: 20px;">  
-        <!-- 居中注释：七张自然风光组成的字母竖版照片 -->  
-        <span style="color: gray; font-size: 14px;">MINERAL project (Generated from CAMP LANDSAT)</span>  
-    </div>  
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px; margin: 0 auto;">
+        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig1'>
+            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/m-0.jpg" style="width: 100%; height: auto;">
+            <div style="margin-top: 5px;">
+            </div>
+        </div>
+        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig2'>
+            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/i-1.jpg" style="width: 100%; height: auto;">
+            <div style="margin-top: 5px;">
+            </div>
+        </div>
+        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig3'>
+            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/n-1.jpg" style="width: 100%; height: auto;">
+            <div style="margin-top: 5px;">
+            </div>
+        </div>
+        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig4'>
+            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/e-1.jpg" style="width: 100%; height: auto;">
+            <div style="margin-top: 5px;">
+            </div>
+        </div>
+        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig5'>
+            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/r-3.jpg" style="width: 100%; height: auto;">
+            <div style="margin-top: 5px;">
+            </div>
+        </div>
+        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig6'>
+            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/a-3.jpg" style="width: 100%; height: auto;">
+            <div style="margin-top: 5px;">
+            </div>
+        </div>
+        <div style="flex: 0 0 calc(14.2857% - 10px); text-align: center; margin: 5px;" id='fig7'>
+            <img src="https://static.igem.wiki/teams/5115/mineral-interesting-pictures/l-3.jpg" style="width: 100%; height: auto;">
+            <div style="margin-top: 5px;">
+            </div>
+        </div>
+    </div>
+    <div style="width: 100%; text-align: center; margin-top: 20px;">
+        <!-- 居中注释：七张自然风光组成的字母竖版照片 -->
+        <span style="color: gray; font-size: 14px;">MINERAL project (Generated from CAMP LANDSAT)</span>
+    </div>
 </div>
 <br>
 
@@ -119,7 +119,7 @@ Our iHP work strictly adheres to the principle of integrity and covers the entir
 
 The foundation of the project was built upon comprehensive literature and online research, giving rise to the creation of [MINERAL](/fudan/description/) project.
 
-However, after identifying and reflecting on this scientific issue, based on simple synthetic biology components, needed further engagement and updates through communication with frontline stakeholders. 
+However, after identifying and reflecting on this scientific issue, based on simple synthetic biology components, needed further engagement and updates through communication with frontline stakeholders.
 
 Therefore, with questions and aspirations about nickel recovery, we visited Mr. Sicong Xiong on April 26, a former undergraduate in life sciences, an iGEM enthusiast, and currently employed at Polestar Automotive.
 
@@ -134,12 +134,12 @@ Therefore, with questions and aspirations about nickel recovery, we visited Mr. 
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Apr. 26th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Chen Xueting, Suo Ziming, Wang Yuhan</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Mr. Sicong Xiong works at Polestar Automobiles, specializing in the field of new energy vehicles and power batteries. He is an avid enthusiast of iGEM.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Apr. 26th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Chen Xueting, Suo Ziming, Wang Yuhan</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Mr. Sicong Xiong works at Polestar Automobiles, specializing in the field of new energy vehicles and power batteries. He is an avid enthusiast of iGEM.</small>
+</p>
 </div>
 
 Mr. Xiong is an expert in battery recycling, and he briefed us on the industry's current status. While 95% of metals in batteries are efficiently recycled, our project didn’t show a clear advantage in this regard. However, Mr. Xiong highlighted three key challenges in battery recycling:
@@ -150,7 +150,7 @@ Mr. Xiong is an expert in battery recycling, and he briefed us on the industry's
 
 He praised our project’s nickel specificity and suggested focusing on wastewater treatment in electric vehicle batteries for greater impact.
 
-Mr. Xiong also suggested that we visit battery recycling plants or other relevant factories for further field research to gain hands-on experience and understand industry needs. 
+Mr. Xiong also suggested that we visit battery recycling plants or other relevant factories for further field research to gain hands-on experience and understand industry needs.
 
 Following his advice, we explored additional sources of nickel pollution, leading us to focus on addressing nickel contamination in wastewater from electric vehicle battery recycling. At this point, our project was named "[MINERAL](/fudan/description/)", symbolizing our goal of recycling nickel from wastewater.
 
@@ -167,11 +167,11 @@ Following his advice, we explored additional sources of nickel pollution, leadin
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>May 4th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Xujing Tan, Ziming Suo, Hongcheng Chen</small><br>   
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>May 4th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Xujing Tan, Ziming Suo, Hongcheng Chen</small><br>
+</p>
 </div>
 
 On May 4th, we hosted a project design exchange at our University with [BIT-China](https://2024.igem.wiki/bit-china/) , [ShanghaiTech-China](https://2024.igem.wiki/shanghaitech-china/), and [Tongji-China](https://2024.igem.wiki/tongji-china/). To our surprise, BIT-China also focused on battery issues, though they approached electric vehicle battery recycling with entirely different strategies. While their work was not centered on pollution, through in-depth discussions, we gained new insights from an engineering perspective and realized that nickel, though significant in our project, is not the primary industrial concern in battery production and recycling.
@@ -193,12 +193,12 @@ Based on thorough preliminary research and reflection, on July 11, during our di
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Apr. 26th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Ms. Ling Xu, an assistant researcher, currently focuses on RF MEMS devices, 2.5D/3D packaging, microsystem packaging design, and reliability.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Apr. 26th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Ms. Ling Xu, an assistant researcher, currently focuses on RF MEMS devices, 2.5D/3D packaging, microsystem packaging design, and reliability.</small>
+</p>
 </div>
 
 We learned about the use of nickel in chip packaging and the generation of nickel-containing wastewater. This enlightened us with a broader understanding of nickel wastewater issues.
@@ -220,12 +220,12 @@ Since we still needed to find answers within the electric vehicle battery recycl
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 9th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Kexin Zheng</small><br>  
-    <strong><small>🖇️ Company Profile:</small></strong> <small>U POWER is a new smart electric vehicle company that builds cars for different scenarios, and is a leader in skateboard chassis racing. U POWER does not produce power batteries, but because its core business is in the manufacture of automotive chassis, it has its own unique requirements and understanding of power batteries.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 9th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Kexin Zheng</small><br>
+    <strong><small>🖇️ Company Profile:</small></strong> <small>U POWER is a new smart electric vehicle company that builds cars for different scenarios, and is a leader in skateboard chassis racing. U POWER does not produce power batteries, but because its core business is in the manufacture of automotive chassis, it has its own unique requirements and understanding of power batteries.</small>
+</p>
 </div>
 
 The investment experts at U Power Technologies expressed strong interest in the [MINERAL](/fudan/description/) project but pointed out that the experimental validation is still in its early stages, making it difficult to assess its readiness for commercial application. They suggested visiting industrial battery recycling plants to bridge the gap between theory and engineering.
@@ -245,17 +245,17 @@ With this question in mind, and inspired by Mr. Xiong and the investment experts
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 15th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Kexin Zheng, Wanqi Li</small><br>  
-    <strong><small>🖇️ Company Profile:</small></strong> <small>GEM is a leading enterprise in China for the recycling of power batteries, boasting numerous national-level research achievements and patents, and a member of the National Engineering Research Center for Electronic Waste Recycling.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 15th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Kexin Zheng, Wanqi Li</small><br>
+    <strong><small>🖇️ Company Profile:</small></strong> <small>GEM is a leading enterprise in China for the recycling of power batteries, boasting numerous national-level research achievements and patents, and a member of the National Engineering Research Center for Electronic Waste Recycling.</small>
+</p>
 </div>
 
 
 
-We presented our project to GEM’s engineering experts and toured their control center, pilot lab, and full production line for battery recycling. 
+We presented our project to GEM’s engineering experts and toured their control center, pilot lab, and full production line for battery recycling.
 
 The experts pointed out that nickel recovery is a small part of electric vehicle battery recycling and encouraged us to focus on addressing broader nickel wastewater pollution issues.
 
@@ -274,8 +274,8 @@ GEM's experts provided several technical expectations for our project:
 2. Specificity: MINERAL's specificity should target a particular stage in industrial battery recycling, ideally paired with a systematic hardware design.
 3. Nickel microparticle production: The engineers are highly interested in the production of nickel microparticles, which could revolutionize the inefficient process of nickel extraction from laterite ores and enable a closed-loop industry.
 
-<div style="text-align: center;" id="fig16">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-3.jpg" style='width:100%'>
+<div style="text-align:center;overflow:hidden;height:324px;" id="fig16">
+    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-3.jpg" style='width:100%;transform:translate(0,-39%);'>
     <div>
           <span style="color: gray">Figure 3.5.3 Discuss with experts of GEM</span>
       <br><br>
@@ -289,7 +289,7 @@ GEM's experts also suggested that our perspective should be broader, focusing on
 
 <br>
 
-To gain a comprehensive understanding of these industrial nickel wastewater issues, we held an online meeting with [Suzhou in times of chemical environmental protection equipment technology](https://www.cps88.cn/) on August 27. 
+To gain a comprehensive understanding of these industrial nickel wastewater issues, we held an online meeting with [Suzhou in times of chemical environmental protection equipment technology](https://www.cps88.cn/) on August 27.
 
 ### 3.6 Visit CPS Victory
 
@@ -300,12 +300,12 @@ To gain a comprehensive understanding of these industrial nickel wastewater issu
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 27th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Yi Shi</small><br>  
-    <strong><small>🖇️ Company Profile:</small></strong> <small>CPS, with 38 years of experience in the European environmental protection industry, is committed to providing integrated industrial heavy metal wastewater treatment solutions, with particular experience in the field of electroplating nickel wastewater treatment.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 27th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Yi Shi</small><br>
+    <strong><small>🖇️ Company Profile:</small></strong> <small>CPS, with 38 years of experience in the European environmental protection industry, is committed to providing integrated industrial heavy metal wastewater treatment solutions, with particular experience in the field of electroplating nickel wastewater treatment.</small>
+</p>
 </div>
 
 Following the advice of their technical experts, we optimized our technical approach.
@@ -319,11 +319,11 @@ Subsequently, on September 10, we visited Suzhou, China, and had an in-depth exc
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Sep. 10th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Yuhan Wang</small><br>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Sep. 10th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Yuhan Wang</small><br>
+</p>
 </div>
 
 We visited Suzhou CPS's electroplating wastewater equipment production workshop, laboratory, and pilot equipment warehouse. The project experts at IES showed great interest in our project and proposed the idea of incubating it into a university-industry collaboration initiative.
@@ -338,10 +338,10 @@ We visited Suzhou CPS's electroplating wastewater equipment production workshop,
 
 ## Design＆Refinement
 
-Based on detailed literature and online research, we began designing our project. In the initial phase, [MINERAL](/fudan/description/) project consisted of three functional modules: 
+Based on detailed literature and online research, we began designing our project. In the initial phase, [MINERAL](/fudan/description/) project consisted of three functional modules:
 
-1. [The nikABCDE membrane protein module](https://parts.igem.org/Part:BBa_K4765129), which facilitates the absorption of nickel ions into the cytoplasm; 
-2. The MntS protein module, which prevents the efflux of metal ions; 
+1. [The nikABCDE membrane protein module](https://parts.igem.org/Part:BBa_K4765129), which facilitates the absorption of nickel ions into the cytoplasm;
+2. The MntS protein module, which prevents the efflux of metal ions;
 3. [The MTA protein module](https://parts.igem.org/Part:BBa_K5115050), which binds metal ions intracellularly.
 
 <br>
@@ -350,14 +350,14 @@ At the beginning of the project, we had a thorough discussion with PI Professor 
 
 ### 4.1 Discuss with Professor Jiang Zhong and Professor Boxun Lu
 
-<div style="display: flex; justify-content: space-between; align-items: center;">       <div style="flex: 1; text-align: center;" id='fig19'>           <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-zhong.jpg" style="width: 80%; height: auto;">           <div style="margin-top: 10px;">               <span style="color: gray">Figure 4.1.1 Prof. Zhong (Left)</span>           </div>       </div>       <div style="flex: 1; text-align: center;" id='fig20'>           <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-ru.jpg" style="width: 83%; height: auto;">           <div style="margin-top: 10px;">               <span style="color: gray">Figure 4.1.2 Prof. Ru (Right)</span>           </div>       </div>   </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">       <div style="flex: 1; text-align: center;" id='fig19'>           <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-zhong.jpg" style="width: 80%; height: auto;">           <div style="margin-top: 10px;">               <span style="color: gray">Figure 4.1.1 Prof. Zhong</span>           </div>       </div>       <div style="flex: 1; text-align: center;" id='fig20'>           <img src="https://static.igem.wiki/teams/5115/ihp-zm/1-17-discuss-prof-ru.jpg" style="width: 83%; height: auto;">           <div style="margin-top: 10px;">               <span style="color: gray">Figure 4.1.2 Prof. Lu</span>           </div>       </div>   </div>
 
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Jan. 17th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>All Members</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Zhong's primary research focus is on virology and microbiomics. Professor Ru's main research interests are neurodegenerative diseases and original drug development strategies</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Jan. 17th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>All Members</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Zhong's primary research focus is on virology and microbiomics. Professor Lu's main research interests are neurodegenerative diseases and original drug development strategies</small>
+</p>
 </div>
 
 Two professors discussed with us the rationale and feasibility of the three-module design. They questioned the role of the MntS protein in the system and suggested that we focus on the nickel-related protein system in *Helicobacter pylori*. After detailed discussions and literature review, we eliminated incorrect ideas and redesigned the modules. We identified the *H. pylori* [NixA nickel absorption membrane protein](https://parts.igem.org/Part:BBa_K5115071) and [Hpn nickel-binding protein](https://parts.igem.org/Part:BBa_K5115036), and based on these, we refined the nickel absorption system and the intracellular nickel conversion system.
@@ -378,11 +378,11 @@ Two professors discussed with us the rationale and feasibility of the three-modu
     </div>
 </div>
 
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Jul. 26th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>All members</small><br>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Jul. 26th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>All members</small><br>
+</p>
 </div>
 
 At the 11th CCiC, experts from the School of Pharmaceutical Sciences at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/zh) discussed with us the potential issues related to the production of nickel microparticles, including how to supply hydrogen and whether nickel microparticles are toxic to bacteria. After careful research and discussions, we confirmed through reliable literature that nickel microparticles of a certain size have toxic effects on bacteria. Inspired by our symbiotic system from last year, we constructed a "cyanobacteria-*E. coli*" symbiotic system and began wet lab experiments for validation.
@@ -402,12 +402,12 @@ At the 11th CCiC, experts from the School of Pharmaceutical Sciences at [Xi'an J
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Jul. 30th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Xujie Tan</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Guoping Zhao,academician of the Chinese Academy of Sciences, molecular microbiologist, has made significant achievements in the basic and applied research of important gene cloning, structure and function of microorganisms, microbial genomics, as well as the molecular epidemiology and origin and evolution of SARS virus.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Jul. 30th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Xujie Tan</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Guoping Zhao,academician of the Chinese Academy of Sciences, molecular microbiologist, has made significant achievements in the basic and applied research of important gene cloning, structure and function of microorganisms, microbial genomics, as well as the molecular epidemiology and origin and evolution of SARS virus.</small>
+</p>
 </div>
 
 In response to the potential toxicity of nickel microparticles and the efficiency issues in bacteria, we reached out to [Professor Guoping Zhao](https://life.fudan.edu.cn/94/06/c28221a300038/page.htm) for advice on the next steps. Professor Zhao from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, analyzed several key directions our project needs to focus on from the perspectives of principle-driven, bottom-up development, and AI assistance. He suggested that we should focus on the project’s needs and set clear benchmarks.
@@ -425,12 +425,12 @@ Inspired by Professor Guoping Zhao, we first focused on the efficiency of bacter
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Jul. 30th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Xujie Tan</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Jinbiao Ma, deputy director of the State Key Laboratory of Genetic Engineering at our University, specializes in structural biology research on non-coding RNA and epigenetics.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Jul. 30th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Xujie Tan</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Jinbiao Ma, deputy director of the State Key Laboratory of Genetic Engineering at our University, specializes in structural biology research on non-coding RNA and epigenetics.</small>
+</p>
 </div>
 
 We consulted Professor Ma about whether the oligomerization of channel proteins can enhance transport efficiency. Professor Ma indicated that this was an experimental question and he couldn't provide a definitive answer. However, he pointed us in the direction of using the [FKBP](https://parts.igem.org/Part:BBa_K5115085) method to achieve protein oligomerization, which helped us construct oligomeric proteins.
@@ -450,12 +450,12 @@ Another issue is the catalytic mechanism of [hydrogenase](https://parts.igem.org
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Xujie Tan</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Xiaoling Xu, PI of the School of Basic Medicine at Hangzhou Normal University, has achieved heterologous expression of Cupriavidus necator hydrogenase in <em>E. coli</em>, which has catalytic activity. This result has been supported by multiple publications</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Xujie Tan</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Xiaoling Xu, PI of the School of Basic Medicine at Hangzhou Normal University, has achieved heterologous expression of Cupriavidus necator hydrogenase in <em>E. coli</em>, which has catalytic activity. This result has been supported by multiple publications</small>
+</p>
 </div>
 
 We have focused on three issues:
@@ -484,7 +484,7 @@ Due to limitations in laboratory conditions, the testing of changes in nickel io
 
 <br>
 
-However, these methods are not enough. To find the testing methods we are looking for, we visited Professor [Xiuping Zhu](https://environment.fudan.edu.cn/4c/0d/c26241a412685/page.htm) from the Department of Environmental Science and Engineering at our University on July 16. 
+However, these methods are not enough. To find the testing methods we are looking for, we visited Professor [Xiuping Zhu](https://environment.fudan.edu.cn/4c/0d/c26241a412685/page.htm) from the Department of Environmental Science and Engineering at our University on July 16.
 
 ### 5.1 Discuss with Professor Zhu
 
@@ -495,12 +495,12 @@ However, these methods are not enough. To find the testing methods we are lookin
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Jul. 16th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Ruiwen Ma</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Xiuping Zhu, who works in the Department of Environmental Science and Engineering at our University, mainly engages in research on electrochemical water treatment and resource energy recycling and utilization.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Jul. 16th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Ruiwen Ma</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Xiuping Zhu, who works in the Department of Environmental Science and Engineering at our University, mainly engages in research on electrochemical water treatment and resource energy recycling and utilization.</small>
+</p>
 </div>
 
 Professor Zhu has long been engaged in metal wastewater treatment. She guided us through the laboratory, explaining the uses and basic operating procedures of various instruments. She suggested that when analyzing the generated "nickel microparticles" using multi-element experimental wastewater, we should include elemental analysis to determine the composition of the metal microparticles, as it can be challenging to identify their elements based solely on their appearance.
@@ -522,12 +522,12 @@ After our discussion with Professor Zhu, we also visit [Prof. Feng](https://facu
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ruiwen Ma, Yuhan Li</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Wei Feng, Chemist, focuses his research on establishing <i>in vivo</i> imaging and detection methods based on rare earth fluorescent nanomaterials.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ruiwen Ma, Yuhan Li</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Wei Feng, Chemist, focuses his research on establishing <i>in vivo</i> imaging and detection methods based on rare earth fluorescent nanomaterials.</small>
+</p>
 </div>
 
 Professor Feng firstly denied our plan to measure the content of nickel microparticles by [UV spectrophotometry](/fudan/experiments/#ni2-concentration-measurement), because the absorption peak of organic compounds is much higher than that of nickel microparticles, which makes it very difficult or even inaccurate to measure the content of nickel particles. He pointed out that this method cannot effectively capture the characteristic absorption peaks of microparticles due to the complex system, and suggested that we use a control group to confirm whether there is interference from the absorption signal of nickel particles. In addition, Professor Feng also mentioned that although nickel microparticles are theoretically magnetic, their magnetic properties are very weak, making nickel testing methods using magnetic separation impractical.
@@ -545,12 +545,12 @@ Following his further suggestion, we discussed the possibility of using an elect
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Kexin Zheng</small><br>  
-    <strong><small>🖇️ Laboratory Profile:</small></strong> <small>Chinese National Engineering Research Center for Heavy Metal Pollution Control & Treatment (CNERC-CTHMP) is the national technology R&D and education base for heavy metal pollution.The Center focuses on the research of heavy metal pollution control and treatment.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Kexin Zheng</small><br>
+    <strong><small>🖇️ Laboratory Profile:</small></strong> <small>Chinese National Engineering Research Center for Heavy Metal Pollution Control & Treatment (CNERC-CTHMP) is the national technology R&D and education base for heavy metal pollution.The Center focuses on the research of heavy metal pollution control and treatment.</small>
+</p>
 </div>
 
 On August 16, during our visit to [the National Engineering Technology Research Center for Heavy Metal Pollution](https://zjsgczx.csu.edu.cn/ywz/Home.htm), we entered the scanning electron microscopy room and the transmission electron microscopy room. Doctoral and master's students from Professor Lin's research group, including Fangyuan Du, introduced us to several experimental techniques related to heavy metal wastewater treatment.
@@ -578,11 +578,11 @@ In the initial conception of the [MINERAL](/fudan/description/), we designed a m
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Jul. 24th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>All Members</small><br>   
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Jul. 24th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>All Members</small><br>
+</p>
 </div>
 
 We explained our membrane-based hardware concept to Professor Cai, who pointed out that membranes are not suitable for large-scale industrial production and specific usage scenarios. After thorough research and discussions, we designed a bacterial membrane covering material based on specialized fibers. Bacteria can specifically adhere to this unique fiber, allowing for personalized applications of the fabric in various scenarios. This became the foundation of our hardware design.
@@ -598,17 +598,17 @@ We explained our membrane-based hardware concept to Professor Cai, who pointed o
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Kexin Zheng</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Zhang Lin, the academic leader of the Department of Environmental Science and Engineering at Central South University, has long been engaged in research on heavy metal pollution control chemistry, and is committed to solving scientific problems in pollution control engineering.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 2th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Kexin Zheng</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Prof. Zhang Lin, the academic leader of the Department of Environmental Science and Engineering at Central South University, has long been engaged in research on heavy metal pollution control chemistry, and is committed to solving scientific problems in pollution control engineering.</small>
+</p>
 </div>
 
-On August 16, [Professor Lin](https://faculty.csu.edu.cn/linzhang/zh_CN/index.htm) from Central South University emphasized the importance of considering the specificity and key issues of different application environments. He pointed out that our bacterial density is extremely low compared to large natural water bodies. Two problems need to be addressed: 
+On August 16, [Professor Lin](https://faculty.csu.edu.cn/linzhang/zh_CN/index.htm) from Central South University emphasized the importance of considering the specificity and key issues of different application environments. He pointed out that our bacterial density is extremely low compared to large natural water bodies. Two problems need to be addressed:
 
-1. Increase the contact area between [MINERAL](/fudan/description/) project and the ions in the water; 
+1. Increase the contact area between [MINERAL](/fudan/description/) project and the ions in the water;
 2. Enhance the flux of water passing through [MINERAL](/fudan/description/) project per unit time.
 
 <div style="text-align: center;" id="fig30">
@@ -621,7 +621,7 @@ On August 16, [Professor Lin](https://faculty.csu.edu.cn/linzhang/zh_CN/index.ht
 
 Using sponges as an example, he suggested that we could adopt a biomimetic approach to mimic how sponges filter seawater, allowing sufficient flux of seawater through the bacterial body.
 
-After further research and discussions, we created hardware designs for natural water bodies based on mesh design. This part of the hardware design can be found in the “Hardware” section.
+After further research and discussions, we created hardware designs for natural water bodies based on mesh design. More details about this part, please visit our [Hardware](/fudan/hardware) page.
 
 <br>
 
@@ -635,16 +635,16 @@ After further research and discussions, we created hardware designs for natural 
     </div>
 </div>
 
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Sep. 10th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Yuhan Wang</small><br>   
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Sep. 10th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Wanqi Li, Yuhan Wang</small><br>
+</p>
 </div>
 
-Inspired by Professor Zhang Lin, we aimed to enhance the hardware design for treating industrial nickel wastewater from an industrial perspective. 
+Inspired by Professor Zhang Lin, we aimed to enhance the hardware design for treating industrial nickel wastewater from an industrial perspective.
 
-On September 10, during our visit to the Suzhou CPS pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing [MINERAL](/fudan/description/) project hardware suitable for industrial environments. 
+On September 10, during our visit to the Suzhou CPS pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing [MINERAL](/fudan/description/) project hardware suitable for industrial environments.
 
 <div style="text-align: center;" id="fig32">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-victory-4.jpg" style='width:100%'>
@@ -667,11 +667,11 @@ We also considered MINERAL project's placement after preliminary alkaline treatm
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Sep. 30th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Kexin Huang</small><br>   
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Sep. 30th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ziming Suo, Kexin Huang</small><br>
+</p>
 </div>
 
 After we conducted detailed theoretical validation and generated samples of Hardware polymer fibers through experiments, we had another online discussion with Suzhou CPS. We spoke with Dr. Hui Han, who expressed that our materials have credible potential and praised our design and experimental data. She also considered the lifespan and cost of Hardware fibers as consumables for industrial applications and hoped that we could further reduce production costs to facilitate industrial use.
@@ -699,11 +699,11 @@ Following this feedback, our team believes that our product indeed has market po
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 9th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ruiwen Ma</small><br>   
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 9th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ruiwen Ma</small><br>
+</p>
 </div>
 
 In our Dry Lab design, inspired by fluid dynamics, we aim to focus on local issues and develop a model to simulate pollution diffusion. During the design process, we reached out to [the Shanghai Municipal Ecology and Environment Bureau](https://sthj.sh.gov.cn/) for data support and suggestions. We received a positive response from the bureau, which further motivated our Model development.
@@ -725,12 +725,12 @@ Attachment: [Interview Record Shanghai Water Authority](https://static.igem.wiki
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 5th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Kevin Qi, Ruiwen Ma</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Mingbo Yin, affiliated with the School of Life Sciences at Fudan University, focuses on the systematics and evolution of zooplankton. His research explores the taxonomy of zooplankton, the mechanisms behind the formation and maintenance of diversity, and the molecular basis of their adaptive evolution, aiming to reveal their critical role in sustaining the health of aquatic ecosystems.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 5th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Kevin Qi, Ruiwen Ma</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Professor Mingbo Yin, affiliated with the School of Life Sciences at Fudan University, focuses on the systematics and evolution of zooplankton. His research explores the taxonomy of zooplankton, the mechanisms behind the formation and maintenance of diversity, and the molecular basis of their adaptive evolution, aiming to reveal their critical role in sustaining the health of aquatic ecosystems.</small>
+</p>
 </div>
 
 [Professor Yin](https://life.fudan.edu.cn/b3/2c/c28175a308012/page.htm) initially approached our discussion from the perspective of industrial applications, suggesting that we could set up a buffer pool to absorb nickel, facilitating its deposition or collection, which is suitable for industrial wastewater treatment. He also raised concerns about potential [biosafety issues](/fudan/safety/#project-risk-control) that our project might entail. He proposed that for the treatment of lake and river pollution, ecological principles could be employed to manage *E. coli* through the food chain (plankton), but noted that biosafety is difficult to ensure. Additionally, controlling the quantity of *E. coli* is challenging; on one hand, we must avoid having too few bacteria, which would be ineffective, and on the other hand, we should prevent having too many bacteria that could lead to unknown effects. Lastly, Professor Yin highlighted the difficulties of biosafety assessments and emphasized the need to handle biosafety issues related to genetically modified *E. coli* with caution.
@@ -746,12 +746,12 @@ Attachment: [Interview Record Shanghai Water Authority](https://static.igem.wiki
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Jul. 16th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Xujie Tan, Ziming Suo</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Zhang Chuyue, the leader of the Fudan iGEM 2019 team, is a PhD student at Yale University, specializing in molecular biology.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Jul. 16th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Xujie Tan, Ziming Suo</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Zhang Chuyue, the leader of the Fudan iGEM 2019 team, is a PhD student at Yale University, specializing in molecular biology.</small>
+</p>
 </div>
 
 We had a discussion about our project with [Chuyue Zhang, the leader of the Fudan iGEM 2019 team](https://old.igem.org/Team.cgi). Chuyue is a PhD student at Yale University, specializing in molecular biology. Based on her iGEM competition experience, she shared a lot of valuable insights with us. We presented our project to Chuyue Zhang, and she thinks that our project is unique and innovative, encouraging us to think boldly and explore the future of synthetic biology and our project.
@@ -767,12 +767,12 @@ We had a discussion about our project with [Chuyue Zhang, the leader of the Fuda
       <br><br>
     </div>
 </div>
-<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">  
-<p>  
-    <strong><small>📅 Date:</small></strong> <small>Aug. 5th, 2024</small><br>  
-    <strong><small>👥 People:</small></strong> <small>Ruiwen Ma, Kevin Qi, Yi Shi</small><br>  
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Philip Beachy, a Stanford professor, is a leading expert on the Hedgehog signaling pathway, important in development and disease research. He has made major contributions over his 40-year career, including cloning the gene and developing drugs.Katrin Andreasson, also at Stanford, studies how immune responses lead to brain damage, especially in Alzheimer’s disease. She co-directs Stanford’s Alzheimer’s Disease Research Center.</small>  
-</p>  
+<div style="background-color: rgba(254, 188, 91, 0.75); padding: 1px 10px; border-radius: 8px;">
+<p>
+    <strong><small>📅 Date:</small></strong> <small>Aug. 5th, 2024</small><br>
+    <strong><small>👥 People:</small></strong> <small>Ruiwen Ma, Kevin Qi, Yi Shi</small><br>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Philip Beachy, a Stanford professor, is a leading expert on the Hedgehog signaling pathway, important in development and disease research. He has made major contributions over his 40-year career, including cloning the gene and developing drugs.Katrin Andreasson, also at Stanford, studies how immune responses lead to brain damage, especially in Alzheimer’s disease. She co-directs Stanford’s Alzheimer’s Disease Research Center.</small>
+</p>
 </div>
 
 On August 5, we discussed the future of our project with [Professor Philip Beachy](https://www.med.stanford.edu/profiles/philip-beachy) and [Professor Katrin Andreasson](https://www.med.stanford.edu/profiles/katrin-andreasson). They believed that our project could be applied to more metals, and similar principles could yield broader social benefits.
@@ -800,11 +800,9 @@ The Fudan iGEM 2024 team organized two and participated in three cross-school ex
 
 Although Education and Inclusivity are not strictly part of iHP, we still utilized the DBTL-based iHP approach to engage with education experts, sociologists, and social workers. Our Education and Inclusivity activities benefited significantly from these interactions.
 
-For a detailed account of this section, please refer to the [Education](/fudan/education/)  and [Inclusivity](/fudan/inclusivity) sections.
+For more details please refer to our [Education](/fudan/education/) and [Inclusivity](/fudan/inclusivity/) pages.
 
-<br>
-
-## References
+----
 
 [^1]: Shanghai Metallurgy Equipment Group. Global Mineral Resources Report 2023. [Global Mineral Resources Report 2023 (smegcn.com)](https://www.smegcn.com/news/global-mineral-resources-report-2023)
 [^2]: [Recycling and Environment – International Nickel Study Group (insg.org)](https://insg.org/index.php/about-nickel/recycling-and-environment/)

@@ -120,11 +120,11 @@ The phage carries Kan resistance. If the bacteria was infected by the phage, col
 ### Reagents
 
 - NGM Preparation
-  1. Add 2.5 g peptone, 3 g NaCl, 20 g agar, 25 mL of 1 mol/L phosphate buffer (108.3 g KH~2~PO~4~, 35.6 g K~2~HPO~4~, pH 6.0, made up to 1 L), 1 mL of 1 mol/L CaCl~2~ solution, 1 mL of 1 mol/L MgSO~4~ solution, dissolve in 1 L ddH~2~O. 
+  1. Add 2.5 g peptone, 3 g NaCl, 20 g agar, 25 mL of 1 mol/L phosphate buffer (108.3 g KH~2~PO~4~, 35.6 g K~2~HPO~4~, pH 6.0, made up to 1 L), 1 mL of 1 mol/L CaCl~2~ solution, 1 mL of 1 mol/L MgSO~4~ solution, dissolve in 1 L ddH~2~O.
   2. Sterilize at 121°C under high pressure for 20 minutes.
   3. Cool down to approximately 55°C at room temperature, then add 1 mL of a 5 mg/mL cholesterol solution (prepared in anhydrous ethanol).
 
-- M9 Buffer Preparation: Add 3 g KH~2~PO~4~, 6 g Na~2~HPO~4~, 5 g NaCl, 1 mL of 1 mol/L MgSO~4~, dissolve in 1 L ddH~2~O. 
+- M9 Buffer Preparation: Add 3 g KH~2~PO~4~, 6 g Na~2~HPO~4~, 5 g NaCl, 1 mL of 1 mol/L MgSO~4~, dissolve in 1 L ddH~2~O.
 
 - Nematode Lysis Solution (prepare before use): Add 1 mL of 5 mol/L NaOH, 1 mL of 10% NaCl, dissolve in 7 mL ddH~2~O.
 
@@ -148,7 +148,7 @@ The phage carries Kan resistance. If the bacteria was infected by the phage, col
 
 ## Other experimental methods
 
-* [TEM sample preparation](https://static.igem.wiki/teams/5115/test/bacteria-fix-stain-embed-tem.pdf) and imaging was carried by the EM Core Facility of [SKLGE](https://homo.fudan.edu.cn). 
+* [TEM sample preparation](https://static.igem.wiki/teams/5115/test/bacteria-fix-stain-embed-tem.pdf) and imaging was carried by the EM Core Facility of [SKLGE](https://homo.fudan.edu.cn).
 * Fluorescence imaging of [BBa_K5115057](https://parts.igem.org/Part:BBa_K5115057) was carried out on a motorized spinning-disk confocal microscope at room temperature, with a 150x oil objective lens (NA 1.45). [Agarose pad](https://2022.igem.wiki/fudan/experiments#preparation-of-agarose-pad-for-microscopy) was prepared as described previously.
 * Cyanobacteria-*E. coli* [Aggregation Assay](https://2023.igem.wiki/fudan/experiments/#cyanobacteria-e-coli-aggregation-assay) was carried out as described previously.
 * [IPTG induction](https://2022.igem.wiki/fudan/experiments#iptg-induction-experiment) was carried out as described previously.
@@ -156,7 +156,7 @@ The phage carries Kan resistance. If the bacteria was infected by the phage, col
 * [DNA agarose gel electrophoresis](https://2022.igem.wiki/fudan/experiments#agarose-gel-electrophoresis) was carried out as described previously.
 * [Overlap extension PCR](https://2022.igem.wiki/fudan/experiments#overlap-extension-pcr-oe-pcr) was used to generate fusion proteins.
 * [PCR](https://2021.igem.org/Team:Fudan/Experiments#pcr) was used to generate inserts and vectors for ligase-free cloning.
-* [Restriction enzyme digestion](https://2021.igem.org/Team:Fudan/Experiments#restriction-enzyme-double-digestion) was used to generate fragments from ribozyme connected parts, specifically **PmeI** to generate inserts and **SwaI** for vectors.  
+* [Restriction enzyme digestion](https://2021.igem.org/Team:Fudan/Experiments#restriction-enzyme-double-digestion) was used to generate fragments from ribozyme connected parts, specifically **PmeI** to generate inserts and **SwaI** for vectors.
 * Inserts and vectors were ligated using [ClonExpress reaction](https://2021.igem.org/Team:Fudan/Experiments#clonexpress-ligation-reaction).
 * [Bacteria transformation](https://2023.igem.wiki/fudan/experiments/#plasmid-transformation) and [plating](https://2023.igem.wiki/fudan/experiments/#plating) were conducted as described previously.
 * [Bacteria colony PCR](https://2022.igem.wiki/fudan/experiments#colony-pcr) with [the listed primers](/fudan/parts/) was used to screen plasmids before sending to Sanger sequencing.

@@ -23,7 +23,7 @@ Humans often realize their mistakes only when the damage is irreparable, a lesso
 
 ## Use and Misuse of Nickel
 
-Nickel is an essential metal element that plays a crucial role in modern industries, particularly in the production of electric vehicle batteries and stainless steel, which are foundational to sectors like transportation and construction. In many ways, nickel powers and supports the modern society as we know it. 
+Nickel is an essential metal element that plays a crucial role in modern industries, particularly in the production of electric vehicle batteries and stainless steel, which are foundational to sectors like transportation and construction. In many ways, nickel powers and supports the modern society as we know it.
 
 However, nickel mining and extraction come at a significant environmental cost. The process of extracting nickel from ores typically involves large-scale mining operations, which release toxic by-products, including nickel-laden wastewater. This wastewater, when discharged into rivers, lakes, or oceans, can be highly toxic to aquatic ecosystems, disrupting biodiversity and threatening aquatic life[^1]. Yet, because global nickel reserves are currently perceived as abundant, there has been little urgency to prioritize recycling, despite its importance for sustainability and environmental protection.
 
@@ -43,7 +43,7 @@ Meanwhile, the demand for nickel is growing at an unsustainable rate, out-pacing
 
 ## Current Nickel Recycling Methods
 
-Nickel can be sourced from either mining or recycling. Today, nickel recycling mainly involves recovering it from end-of-life products, such as stainless steel and batteries. Conventional recycling methods typically rely on melting, refining, and purifying scrap metal. While these processes help recover some nickel, they are energy-intensive, costly, and waste generating[^3]. 
+Nickel can be sourced from either mining or recycling. Today, nickel recycling mainly involves recovering it from end-of-life products, such as stainless steel and batteries. Conventional recycling methods typically rely on melting, refining, and purifying scrap metal. While these processes help recover some nickel, they are energy-intensive, costly, and waste generating[^3].
 
 Despite the environmental damage caused by mining, it remains the more cost-effective option compared to recycling. As a result, there is little economic incentive to prioritize recycling. Currently, only &nbsp;1%&nbsp; of the global nickel supply comes from recycling[^4].
 
@@ -99,14 +99,14 @@ The reduction of nickel requires the enzyme Ni/Fe hydrogenase, which reversibly 
 
 ### 4. Lack of a Stable Hydrogen Source in *E. coli*
 
-To drive nickel reduction, a steady supply of hydrogen gas is essential, as hydrogenase catalyzes the reaction in both directions. However, *E. coli* lacks a stable, continuous source of hydrogen, which limits the efficiency of this process. 
+To drive nickel reduction, a steady supply of hydrogen gas is essential, as hydrogenase catalyzes the reaction in both directions. However, *E. coli* lacks a stable, continuous source of hydrogen, which limits the efficiency of this process.
 
 Addressing these four challenges is crucial for our project’s success.
 
 
 ## Our Solutions
 
-We present four interrelated modules to tackle the problems identified in the previous section: Nickel Enrichment, Survival, Nickel Microparticle, and Hydrogen Supply Module. These systems work together to enable efficient and low-impact nickel absorption, then processed into reusable nickel microparticles. 
+We present four interrelated modules to tackle the problems identified in the previous section: Nickel Enrichment, Survival, Nickel Microparticle, and Hydrogen Supply Module. These systems work together to enable efficient and low-impact nickel absorption, then processed into reusable nickel microparticles.
 
  <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/description/description-fig5.png" style="width:100%">
@@ -146,9 +146,9 @@ To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR a
 
 #### a) Heavy Metal Tolerance
 
-Inspired by *Helicobacter pylori*’s natural defense against high cytosolic nickel concentrations[^16], we choose to express two types of nickel binding proteins that can lower cytosolic heavy metal concentrations. This protects *E. coli* from the detrimental effects caused by nickel ions and other heavy metals possibly present in industrial wastewater. 
+Inspired by *Helicobacter pylori*’s natural defense against high cytosolic nickel concentrations[^16], we choose to express two types of nickel binding proteins that can lower cytosolic heavy metal concentrations. This protects *E. coli* from the detrimental effects caused by nickel ions and other heavy metals possibly present in industrial wastewater.
 
-- **Hpn (*H. pylori* nickel-binding)**: A histidine-rich cytoplasmic protein found in *H. pylori* capable of storing Ni ions[^17]. 
+- **Hpn (*H. pylori* nickel-binding)**: A histidine-rich cytoplasmic protein found in *H. pylori* capable of storing Ni ions[^17].
 - **Metallothioneins**: Cystine-rich cytoplasmic proteins that bind to various heavy metals. Compared to Hpn, they bind to a wider range of heavy metals. We use the metallothionein from *Pisum sativum* (MTA) as it shows a higher affinity for nickel[^18].
 
 Although both proteins serve to increase bacteria tolerance to cytosolic nickel levels, their difference in amino acid composition help to reduce the overall burden on *E. coli*.

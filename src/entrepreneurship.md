@@ -22,7 +22,7 @@ Mass-produced nickel-absorbing bacterial cleaner for water bodies.
 
 Below is our [business plan](https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf).
 
-<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="100%" height="800px"/>
+<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/pdf2.pdf" page="1" width="100%" height="640px"/>
 
 <div style="text-align: center;" id="pdf2">
   <span style="color: gray">Business Plan of MINERAL</span>
@@ -124,9 +124,9 @@ Most importantly, our product simplifies the previously cumbersome industrial pr
 
 #### 1. Business Model and Core Product
 
-In response to the identified unmet needs and the development progress of [MINERAL](/fudan/description/), we propose our product — [Gile Carbon Fiber](/fudan/hardware/#fig1) — accompanied by our unique monthly subscription service. 
+In response to the identified unmet needs and the development progress of [MINERAL](/fudan/description/), we propose our product — [Gile Carbon Fiber](/fudan/hardware/#fig1) — accompanied by our unique monthly subscription service.
 
-Traditional biological filtration devices often feature fixed structures and limited designs, which restrict their adaptability to the diverse requirements of wastewater treatment. In response to this challenge, we present our innovative product: Gile Carbon Fiber. This cutting-edge solution is based on carbon nanotube-agarose gel (aCNT) composite fibers, where carbon nanotubes provide a robust skeleton wrapped in agarose gel, creating a versatile composite structure. 
+Traditional biological filtration devices often feature fixed structures and limited designs, which restrict their adaptability to the diverse requirements of wastewater treatment. In response to this challenge, we present our innovative product: Gile Carbon Fiber. This cutting-edge solution is based on carbon nanotube-agarose gel (aCNT) composite fibers, where carbon nanotubes provide a robust skeleton wrapped in agarose gel, creating a versatile composite structure.
 
 Our product is designed for multiple applications. In industrial settings, our composite fiber-engineered bacteria mesh can be integrated into wastewater treatment systems, where engineered bacteria absorb and reduce nickel ions as wastewater flows through. In natural water bodies, we can weave the fibers into nets akin to fishing nets, which can be secured along riverbanks or wooden poles, allowing for natural purification.
 
@@ -142,7 +142,7 @@ After purchasing our basic product, customers will receive free equipment instal
 
 #### 2. Exit Strategy
 
-Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation. 
+Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation.
 
 It includes seeking mergers with wastewater treatment companies to leverage their market resources and accelerate the application of our technology. We also retain the option to sell patents and licenses to realize the commercial value of our intellectual property. Additionally, the project can be preserved as a startup opportunity to be pursued when market conditions are favorable. This strategy aims to maximize the project’s value while laying the groundwork for future growth.
 
@@ -154,22 +154,22 @@ In addition to selling MINERAL's core products, we have introduced a **Monthly M
 
 When customers subscribe to our service, they will receive a **basic backup** that includes a real-time wastewater monitoring system, which facilitates strategy optimization and further reduces costs.
 
-On this basis, we provide comprehensive maintenance services for our Gile Carbon Fiber. 
+On this basis, we provide comprehensive maintenance services for our Gile Carbon Fiber.
 
 First, during the membership service period, we will offer a two-week supply of phage-resistant *E. coli* strains free of charge to ensure the stability of product function.
 
 Second, throughout the membership duration, customers can enjoy free maintenance and testing services for the Gile Carbon Fiber, similar to insurance. [See our capabilities](/fudan/safety/#project-risk-control). This minimizes the risk of production efficiency decline due to product aging, ensuring that customers' factories operate at peak performance at all times.
 
 
-## Product Development Plans with Milestones, Timelines, Resources, and Risks
+## Product Development Plans
 
 ### Milestones
 
 #### Our First Try on Commercialization
 
-In May 2024, we participated in the Fudan University Innovation and Entrepreneurship Competition. 
+In May 2024, we participated in the Fudan University Innovation and Entrepreneurship Competition.
 
-The professional innovation and entrepreneurship instructors from our university conducted a comprehensive review of our business plan and provided us with valuable feedbacks. One suggesting is to quickly move beyond the laboratory phase and engage with businesses. 
+The professional innovation and entrepreneurship instructors from our university conducted a comprehensive review of our business plan and provided us with valuable feedbacks. One suggesting is to quickly move beyond the laboratory phase and engage with businesses.
 
 <div style="text-align: center;" id="fig9">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/match.webp" style="width:100%">
@@ -235,12 +235,12 @@ GEM adheres to the development philosophy of *limited resources, unlimited recyc
 
 GEM expressed strong interest in our project and invited us to their key mineral resource recovery research institute in Jingmen, Hubei Province, China, for a tour and discussions on technical collaboration.
 
-<div style="text-align: center;" id="fig14">
-    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/confernew.webp" style="width:100%">
-    <div>
+<div style="text-align:center;overflow:hidden;height:324px" id="fig14">
+    <img src="https://static.igem.wiki/teams/5115/entrepreneurship/confernew.webp" style="width:100%;transform:translate(0,-39%);">
+    <!-- div>
     	<span style="color: gray">Figure 14: Exchanging Technical Details</span>
         <br><br>
-    </div>
+    </div -->
 </div>
 
 After assessing the actual conditions of GEM's production line, we quickly identified the most suitable processing phase for our [MINERAL](/fudan/description/) product. Consequently, we successfully reached a technical cooperation agreement and later received the relevant wastewater samples from GEM. After we got [results](/fudan/results/) and shared it with GEM, they conveyed even stronger willingness to carry out further cooperation with us.
@@ -287,7 +287,7 @@ Located in the Suzhou Industrial Park, CPS is a Sino-Dutch joint venture dedicat
 
 After visiting CPS's factory, we found that their medium-sized facility is ideally suited for the initial practical implementation of the MINERAL product. CPS extended an invitation for school-enterprise cooperation and expressed their desire to invest funds as soon as possible to pilot part of the production line. As on the wiki freeze day, MINERAL had finished the communication on the [first version](#pdf1) of the contract with CPS.
 
-<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/agreement2.pdf" page="1" width="100%" height="800px"/>
+<PDF url="https://static.igem.wiki/teams/5115/entrepreneurship/agreement2.pdf" page="1" width="100%" height="640px"/>
 
 <div style="text-align: center;" id="pdf1">
     	<span style="color: gray">Technical Cooperation Intention Agreement</span>
@@ -322,7 +322,7 @@ So we prepared a development timeline for MINERAL.
     </div>
 </div>
 
-We first analyzed the profit model for battery recycling companies among potential customers. 
+We first analyzed the profit model for battery recycling companies among potential customers.
 
 Focusing on the most valuable materials in raw material recovery, cobalt and nickel, the existing hydrometallurgical and pyrometallurgical combined technology can recover 107.84 tons of nickel sulfate (current price: approximately [\$4,500/ton](https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/metals/101723-trade-review-china-nickel-sulfate-prices-set-to-drift-sideways-in-q4-on-surplus-stocks)) and 84.65 tons of cobalt sulfate (current price: approximately [\$13,000/ton](https://mmta.co.uk/cobalt-sulfate-the-state-of-play-and-whats-to-come/)) from every 1,000 tons of used power batteries. With our microbial separation technology, production is estimated to increase by 10%-30%. Based on the current market price of industrial raw materials, the revenue from processing each ton of waste power batteries can directly amount to approximately $228,000.
 
@@ -340,7 +340,7 @@ Therefore, in the sales scenario of our microbial heavy metal ion cleaner, the c
 
 **1. Technical Labor**
 
-Our project relies on the abundant technical resources and laboratory equipment within Fudan University, ensuring that the hardware needs for research and experimentation are fully met. Our team benefits from a robust supply of technical labor, including talented students and professional faculty members, who bring both innovative ideas and practical skills to the project. 
+Our project relies on the abundant technical resources and laboratory equipment within Fudan University, ensuring that the hardware needs for research and experimentation are fully met. Our team benefits from a robust supply of technical labor, including talented students and professional faculty members, who bring both innovative ideas and practical skills to the project.
 
 **2. Ongoing pursuit of funding**
 
@@ -348,7 +348,7 @@ Additionally, we are actively seeking continuous funding support through various
 
 **3. Technological Barriers**
 
-On the technical side, we have established certain technological barriers, including preparing patent protection and the specialized knowledge of our team. This gives our project a competitive edge and helps us maintain a unique position in the market. 
+On the technical side, we have established certain technological barriers, including preparing patent protection and the specialized knowledge of our team. This gives our project a competitive edge and helps us maintain a unique position in the market.
 
 **4. Partner Companies**
 
@@ -356,7 +356,7 @@ We have also forged strong ties with partner companies that provide valuable sup
 
 **5. Government Support**
 
-Moreover, our project has received substantial backing from the government, especially since green technologies and sustainable development are highly encouraged under current policies: 
+Moreover, our project has received substantial backing from the government, especially since green technologies and sustainable development are highly encouraged under current policies:
 
 - National People's Congress of the People's Republic of China: *[Draft Amendment to the Mineral Resources Law Second Review: Promoting Green and High-Quality Development in the Mining Industry](http://www.npc.gov.cn/npc/c2/c30834/202407/t20240724_438430.html)*
 
@@ -368,7 +368,7 @@ Government support includes financial subsidies, tax incentives, research grants
 
 ### Risks
 
-- In the current context where environmental pollution is difficult to measure as equitably as carbon emissions, our team's biological method lacks cost advantages when heavy metal ion concentrations in wastewater are high. 
+- In the current context where environmental pollution is difficult to measure as equitably as carbon emissions, our team's biological method lacks cost advantages when heavy metal ion concentrations in wastewater are high.
 - Integrating this method into the end of chemical treatment processes also places high demands on facility infrastructure.
 
 - The shortage of synthetic biology talent means that after selling the product, we would need to provide customers with extensive and detailed after-sales services, creating significant pressure on human resources.
@@ -422,7 +422,7 @@ Our team consists of 14 members from Fudan University's iGEM team, a diverse gro
 
 ----
 
-[^1]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389) 
+[^1]: Kalungi, P., Yao, Z., & Huang, H. (2024). Aspects of Nickel, Cobalt and  Lithium, the Three Key Elements for Li-Ion Batteries: An Overview on  Resources, Demands, and Production. *Materials (Basel, Switzerland)*, *17*(17), 4389. [https://doi.org/10.3390/ma17174389](https://doi.org/10.3390/ma17174389)
 [^2]: China Geology. (2022). *2022 Annual report of China mineral resources (lithium, nickel, cobalt, REE etc.)*. 5(4), 779–780. [https://doi.org/10.31035/cg2022071](https://doi.org/10.31035/cg2022071)
 [^3]: Kazeminezhad, I., & Mosivand, S. (2017). Elimination of copper and nickel from wastewater by electrooxidation method. *Journal of Magnetism and Magnetic Materials*, 422, 84-92. [https://doi.org/10.1016/j.jmmm.2016.08.049](https://doi.org/10.1016/j.jmmm.2016.08.049)
 [^4]: Gong, S., Dong, E., Liu, B., Yuwen, C., Niu, Y., Ji, G., Chen, W., Hou, K., Guo, S., & Zhang, L. (2024). Eco-friendly closed-loop recycling of nickel, cobalt, manganese, and lithium from spent ternary lithium-ion battery cathodes. Separation and Purification Technology, 348, 127771. [https://doi.org/10.1016/j.seppur.2024.127771](https://doi.org/10.1016/j.seppur.2024.127771)
