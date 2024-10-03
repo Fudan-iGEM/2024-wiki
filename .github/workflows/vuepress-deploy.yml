@@ -24,9 +24,3 @@ jobs:
 
     - name: build vuepress site
       run: pnpm src:build
-
-    - name: deploy to pages
-      uses: Fudan_iGEM/vuepress-deploy@v1
-      with:
-        target_branch: gh-pages
-        build_dir: src/.vuepress/dist
