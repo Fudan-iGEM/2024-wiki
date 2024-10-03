@@ -1,0 +1,31 @@
+name: build and deploy
+on: [push]
+  branches: [main]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      with:
+        fetch-depth: 0
+
+    - name: setup pnpm
+      uses: pnpm/action-setup@v2
+      with:
+        version: 8
+        run_install: true
+
+    - name: setup Node.js 
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+        cache: pnpm
+
+    - name: build vuepress site
+      run: pnpm src:build
+
+    - name: deploy to pages
+      uses: Fudan_iGEM/vuepress-deploy@v1
+      with:
+        target_branch: gh-pages
+        build_dir: src/.vuepress/dist
