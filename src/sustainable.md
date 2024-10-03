@@ -112,15 +112,15 @@ Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers
 
 The 4th SDG is the cornerstone that enables the achievement of many Sustainable Development Goals.
 
-We focus on delivering biology education across the K-12 spectrum, actively gathering feedback from students to refine our methods in each teaching session continually. Please refer to [Education](/fudan/education/) for more information.
+We focus on delivering biology education across the K-12 spectrum, actively gathering feedback from students to refine our methods in each teaching session continually. Please refer to [Education](/fudan/education/) for more information. The photo below shows a team member is delivering biology education in a primary school.
 
-<div style="text-align: center;" id="fig6">
-    <img src="https://static.igem.wiki/teams/5115/sdgs/quality-education.jpg" style="width: 100%">
-    <div><span style='color: gray;'>
+<div style="text-align:center;overflow:hidden;height:435px;" id="fig6">
+    <img src="https://static.igem.wiki/teams/5115/sdgs/quality-education.jpg" style="width:100%;transform:translate(0,-10%);">
+    <!-- div><span style='color: gray;'>
       Fudan iGEM 2024 is delivering biology education in a primary school.
     </span>
     <br><br>
-    </div>
+    </div -->
 </div>
 
 We believe that education should embrace inclusivity, ensuring that no one is excluded from scientific learning due to barriers like physical conditions and imbalanced resources. We recognized that many autistic individuals possess the cognitive abilities to grasp scientific concepts but their potentials are constantly ignored because they usually don't give active feedback in ordinary lectures. Therefore, we developed specialized [STEAMed](/fudan/inclusivity/#STEAMed) programs tailored to them. We strive to create more engaging and interactive teaching approaches to meet their unique needs—an area currently underserved by existing educational resources.

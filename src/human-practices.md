@@ -276,10 +276,10 @@ GEM's experts provided several technical expectations for our project:
 
 <div style="text-align:center;overflow:hidden;height:324px;" id="fig16">
     <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-3.jpg" style='width:100%;transform:translate(0,-39%);'>
-    <div>
+    <!-- div>
           <span style="color: gray">Figure 3.5.3 Discuss with experts of GEM</span>
       <br><br>
-    </div>
+    </div -->
 </div>
 
 

@@ -265,8 +265,8 @@ However, during the on-site teaching, we realized that the proliferation of **th
 </p>
 </div>
 
-<div style="text-align: center;" id="fig15">
-    <img src="https://static.igem.wiki/teams/5115/education-zkx/shangde.webp" style="width:100%">
+<div style="text-align:center;overflow:hidden;" id="fig15">
+    <img src="https://static.igem.wiki/teams/5115/education-zkx/shangde.webp" style="width:100%;transform:translate(0, -8%);">
     <div>
     	<span style="color: gray">Figure 15: Pupils volunteer to answer questions in class. </span>
         <br><br>

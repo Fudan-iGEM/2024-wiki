@@ -19,7 +19,7 @@ Humans often realize their mistakes only when the damage is irreparable, a lesso
     </div>
 </div>
 
-<vr>
+<br>
 
 ## Use and Misuse of Nickel
 
