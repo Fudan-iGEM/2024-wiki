@@ -3,6 +3,7 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    branches: [main]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -25,6 +26,11 @@ jobs:
 
     - name: build vuepress site
       run: pnpm docs:build
+
+    - name: Check GitHub Pages status
+      uses: crazy-max/ghaction-github-status@v3
+      with:
+        pages_threshold: major_outage
 
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v4
