@@ -679,7 +679,7 @@
         </div>
   
         <!-- Social Media Icons Section -->
-        <div class="social-links">
+        <div class="social-links" style="padding-bottom:2rem !important">
           Contact&nbsp;us:&nbsp;<a class="custom-link" href="mailto:igem@fudan.edu.cn" target="_blank">igem@fudan.edu.cn</a>
         </div>
       </div>

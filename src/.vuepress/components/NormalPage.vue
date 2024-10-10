@@ -115,8 +115,11 @@ const headerDepth = computed(() => frontmatter.value.headerDepth ?? themeLocale.
   .vp-toc-marker {
     display: block;
   }
-}
 
+  .card-wrapper { /* 2024-10-9 */
+    padding-top: 520px !important;
+  }
+}
 
 .card-wrapper {
     max-width: var(--content-width, 740px);
