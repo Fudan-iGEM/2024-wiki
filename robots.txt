@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://2024.igem.wiki/fudan/fudan/sitemap.xml
