@@ -257,5 +257,5 @@ print('\n'.join(["'%s'," % x for x in sorted(sub_is_NOT_basic) ]))
 # 'BBa_K5115081',
 
 print('\n\nCAUTION: remove files in parts-html for update\n')
-#print('Validate with https://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2024&group=Fudan\n\n\n\n')
+#print('Validate with https://parts.igem.org/partsdb/search_1000.cgi?q=K5115000\n\n\n\n')
 driver.quit()

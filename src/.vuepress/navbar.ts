@@ -21,7 +21,7 @@ export default navbar([
     text: 'Parts',children:[
       { text: 'Improved Parts', link: '/improve' },
       { text: 'Part Collection', link: '/part-collection' },
-      { text: 'Registry Links', link: 'https://gitlab.igem.org/2024/fudan/-/blob/main/groupparts.md' },
+      { text: 'Parts List', link: 'https://parts.igem.org/partsdb/search_1000.cgi?q=K5115000' },
     ],
     icon: 'iconfont icon-experiment',
   },

@@ -117,7 +117,7 @@ Our work is carefully documented, with all course materials, effect evaluations,
 
 ----
 
-View our presentation video at [https://video.igem.org/w/@@@@](https://video.igem.org/w/@@@@)
+View our presentation video at [https://video.igem.org/w/0a8667f2-af24-487e-bb4c-be98b868eb9e](https://video.igem.org/w/0a8667f2-af24-487e-bb4c-be98b868eb9e)
 
 
 [^1]: Global Critical Minerals Outlook 2024 – Analysis. IEA. 

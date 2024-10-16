@@ -10,7 +10,7 @@ author:
 
 ### Bronze
 
-- We successfully complete the following Competition Deliverables: [Wiki](/fudan/), Presentation Video, Judging Form and in-person Judging Session at Paris.
+- We successfully complete the following Competition Deliverables: [Wiki](/fudan/), [Presentation Video](https://video.igem.org/w/0a8667f2-af24-487e-bb4c-be98b868eb9e), [Safety Form](https://teams.igem.org/5115/safety), [Attributions Form](https://teams.igem.org/5115/attributions), Judging Form and in-person Judging Session at Paris.
 - We carefully describe what work our team members did and what other people did for our project at [Attributions](/fudan/attributions/).
 - We describe how and why we chose our iGEM project on our [Description](/fudan/description/) page
 - We make a useful [Contribution](/fudan/contribution/) for future iGEM teams.

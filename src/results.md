@@ -12,7 +12,7 @@ author:
 
 <br><br>
 
-We assemble some of our wet lab results from the [Registry](https://gitlab.igem.org/2024/fudan/-/blob/main/groupparts.md) onto this page. Please note on our [Inclusivity](/fudan/inclusivity/), [Entrepreneurship](/fudan/entrepreneurship/), [Education](/fudan/education/) and [Hardware](/fudan/hardware/) pages, we documented interesting results from those activities.
+We assemble some of our wet lab results from the [Registry](https://parts.igem.org/partsdb/search_1000.cgi?q=K5115000) onto this page. Please note on our [Inclusivity](/fudan/inclusivity/), [Entrepreneurship](/fudan/entrepreneurship/), [Education](/fudan/education/) and [Hardware](/fudan/hardware/) pages, we documented interesting results from those activities.
 
 ## Testing nickel enrichment module
 
