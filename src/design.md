@@ -21,7 +21,7 @@ Nickel is just one of many heavy metals that harm the environment, so why priori
 
 ### Why Bioaccumulation?
 
-For the removal of heavy metals, there are three main biological interactions to consider: bioaccumulation, biosorption, and bioprecipitation. Here’s why we chose bioaccumulation:
+For the removal of heavy metals, there are three main biological interactions to consider: bioaccumulation, biosorption, and bioprecipitation. Here's why we chose bioaccumulation:
 
 - **Higher Metal Removal Efficiency:** Existing studies comparing nickel removal via engineered *E. coli* for bioaccumulation versus biosorption indicate that bioaccumulation offers greater efficiency for nickel uptake[^5] [^6]. This makes it a preferable approach for our goal of maximizing nickel recovery.
 - **Stability in Harsh Environments:** Industrial wastewater is a complex and harsh environment with variable concentrations of multiple pollutants. Bioaccumulation offers better control over intracellular conditions compared to biosorption, where external environmental factors can impact binding efficiency. In our design, accumulating nickel within *E. coli* provides a stable, manageable environment for downstream processing.
@@ -69,7 +69,7 @@ Survival of our engineered *E. coli* in industrial wastewater is critical, as on
 
 #### Increase Heavy Metal Tolerance
 
-Inspired by natural mechanisms of *Helicobacter pylori*’s histidine-rich proteins, we designed our *E. coli* to express Hpn and metallothioneins. These proteins help sequestering nickel ions, reducing cytosolic toxicity and thereby improving cell survival in nickel-rich environments.
+Inspired by natural mechanisms of *Helicobacter pylori*'s histidine-rich proteins, we designed our *E. coli* to express Hpn and metallothioneins. These proteins help sequestering nickel ions, reducing cytosolic toxicity and thereby improving cell survival in nickel-rich environments.
 
 #### Increase Phage Resistance
 

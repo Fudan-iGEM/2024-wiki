@@ -101,7 +101,7 @@ The reduction of nickel requires the enzyme Ni/Fe hydrogenase, which reversibly 
 
 To drive nickel reduction, a steady supply of hydrogen gas is essential, as hydrogenase catalyzes the reaction in both directions. However, *E. coli* lacks a stable, continuous source of hydrogen, which limits the efficiency of this process.
 
-Addressing these four challenges is crucial for our project’s success.
+Addressing these four challenges is crucial for our project's success.
 
 
 ## Our Solutions
@@ -146,7 +146,7 @@ To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR a
 
 #### a) Heavy Metal Tolerance
 
-Inspired by *Helicobacter pylori*’s natural defense against high cytosolic nickel concentrations[^16], we choose to express two types of nickel binding proteins that can lower cytosolic heavy metal concentrations. This protects *E. coli* from the detrimental effects caused by nickel ions and other heavy metals possibly present in industrial wastewater.
+Inspired by *Helicobacter pylori*'s natural defense against high cytosolic nickel concentrations[^16], we choose to express two types of nickel binding proteins that can lower cytosolic heavy metal concentrations. This protects *E. coli* from the detrimental effects caused by nickel ions and other heavy metals possibly present in industrial wastewater.
 
 - **Hpn (*H. pylori* nickel-binding)**: A histidine-rich cytoplasmic protein found in *H. pylori* capable of storing Ni ions[^17].
 - **Metallothioneins**: Cystine-rich cytoplasmic proteins that bind to various heavy metals. Compared to Hpn, they bind to a wider range of heavy metals. We use the metallothionein from *Pisum sativum* (MTA) as it shows a higher affinity for nickel[^18].

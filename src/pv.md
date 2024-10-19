@@ -29,7 +29,7 @@ Our result shows that the ribosome-connected version of the nik operon significa
 
 To maintain high intracellular nickel levels, we engineered RcnR with a C35L mutation, preventing nickel-induced expression of the RcnA efflux pump[^6]. Our results confirm that the modified RcnR effectively inhibits nickel efflux.
 
-In the survival module, we introduced Hpn, a histidine-rich cytoplasmic protein that binds nickel ions[^7]. It’ll lower the toxicity caused by high nickel concentration. Hpn can enhance *E. coli*'s absorption capacity by relieving survival pressure.
+In the survival module, we introduced Hpn, a histidine-rich cytoplasmic protein that binds nickel ions[^7]. It'll lower the toxicity caused by high nickel concentration. Hpn can enhance *E. coli*'s absorption capacity by relieving survival pressure.
 
 The combination of the nickel uptake module and survival module results in a remarkable 43% increase in nickel uptake.
 
@@ -51,7 +51,7 @@ Throughout the project, we implemented a ribozyme-based design. However, this ap
 
 ### measurement, by sy
 
-To collect data for our software tools, we developed this year’s measurement, the Spot Assay. This assay, traditionally used in yeast genetics studies, was used to evaluate how plasmid transformations affect *E. coli* growth. 
+To collect data for our software tools, we developed this year's measurement, the Spot Assay. This assay, traditionally used in yeast genetics studies, was used to evaluate how plasmid transformations affect *E. coli* growth. 
 
 It involves spotting dilutions of bacterial cultures onto agar plates with and without induction. After inclubation at 37 degree, the colony sizes on the plates reveal how different plasmids affect bacterial growth. Comparing to the time-consuming OD600 measurements of liquid cultures, the Spot Assay offers several advantages: minimal starting culture, rapid results within 24 hours, high sensitivity for detecting subtle growth differences, simultaneous testing of multiple plasmids or conditions, easy validation and calibration to ensure reliable results[^9].
 
@@ -87,7 +87,7 @@ Our product is a cleaner, designed to remove heavy metal ions from wastewater. W
 
 A new subscription service？Pay monthly，and we will extend your products' life while optimizing your strategy of usage, which saves a large amount of money.
 
-After the wiki freeze, we continue the discussion on our company’s subscription plan. We made several changes. First, even if a customer does not subscribe to our advanced service, we will still conduct safety inspections on their mail-in samples as part of our responsibility to society.
+After the wiki freeze, we continue the discussion on our company's subscription plan. We made several changes. First, even if a customer does not subscribe to our advanced service, we will still conduct safety inspections on their mail-in samples as part of our responsibility to society.
 
 In our advanced service, we will culture local cyanobacteria and utilize sequencing information to engineer our bacteria to express specific lectins, thereby optimizing their adhesion without introducing another alien species. Also in our advanced services, we would provide bacteria with local optimized survival modules, with most suitable kill-switches. 
 
@@ -107,9 +107,9 @@ Not only do we focus on education of all ages, but we also believe that everyone
 
 Through our research, we discovered that many individuals with Autism Spectrum Disorder (ASD) have unique talents in STEM. However, they face significant barriers in accessing synthetic biology and science education. This underrepresented community grapples with four major challenges: a lack of specialized educators, inadequate teaching methods, low public awareness, and financial strain on families.
 
-To address these challenges, we developed STEAMed, an innovative educational model. Focusing on ASD individuals, we broaden their access to synthetic biology, genetics, and science more widely. We implemented tailored teaching methods and accessible approaches to capture ASD students’ attention and engage them through art and hands-on activities.
+To address these challenges, we developed STEAMed, an innovative educational model. Focusing on ASD individuals, we broaden their access to synthetic biology, genetics, and science more widely. We implemented tailored teaching methods and accessible approaches to capture ASD students' attention and engage them through art and hands-on activities.
 
-Throughout our project, we engaged in meaningful dialogue with their parents, educators, and rehabilitation staff. Their feedback has been invaluable in shaping our curriculum. By listening to their experiences and values, we’ve been able to enhance our project and effectively tackle the barriers faced by the ASD community.
+Throughout our project, we engaged in meaningful dialogue with their parents, educators, and rehabilitation staff. Their feedback has been invaluable in shaping our curriculum. By listening to their experiences and values, we've been able to enhance our project and effectively tackle the barriers faced by the ASD community.
 
 To raise public awareness, which is the biggest barrier the community faces, we promoted our efforts through media, multiple lectures, and charity events. During this iGEM season, over 30 team members and volunteers participated in our science outreach activities. We conducted 16 in-person events that reached 135 ASD patients and engaged more than 10 thousand audience members.
 

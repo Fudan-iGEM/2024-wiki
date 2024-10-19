@@ -82,7 +82,7 @@ Hey everyone, I'm Yuhan from the class of '21 in the Department of Biology! I'm 
     <img src="https://static.igem.wiki/teams/5115/team/lin-qi.jpg" style="width:50%">
 </div> 
 
-Lin, a Biological Sciences major, brought his wild imagination to this year’s iGEM. He always has his own thoughts about the project, biology, and the world around him. If you were to know him, I bet you’d say: He’s full of ideas!
+Lin, a Biological Sciences major, brought his wild imagination to this year's iGEM. He always has his own thoughts about the project, biology, and the world around him. If you were to know him, I bet you'd say: He's full of ideas!
 
 ### Liyue Chen
 
@@ -116,7 +116,7 @@ Hello everyone, I am Ziming, a student in the 2022 eight-year clinical medicine 
     <img src="https://static.igem.wiki/teams/5115/team/chenghong-cheng.jpg" style="width:50%">
 </div>
 
-Hi everyone, I’m Hongcheng. If you ever need a tech-savvy shoulder to lean on or want to chat about the next big thing in tech, I’m your guy! Let’s build something incredible together!
+Hi everyone, I'm Hongcheng. If you ever need a tech-savvy shoulder to lean on or want to chat about the next big thing in tech, I'm your guy! Let's build something incredible together!
 
 ### Ruiwen Ma
 
@@ -144,7 +144,7 @@ Yi: the Joker, a curious mind with an intriguing soul, always exploring the hidd
     <img src="https://static.igem.wiki/teams/5115/team/kexin-zheng.jpg" style="width:50%">
 </div>
 
-Kexin, who majored in Business Management, is responsible for Entrepreneurship, video production, Education, and Integrated Human Practices. With a great passion for sports, she serves for Fudan’s women's volleyball team and softball team. Hey there, sports fans!
+Kexin, who majored in Business Management, is responsible for Entrepreneurship, video production, Education, and Integrated Human Practices. With a great passion for sports, she serves for Fudan's women's volleyball team and softball team. Hey there, sports fans!
 
 ## Instructors and Advisors
 

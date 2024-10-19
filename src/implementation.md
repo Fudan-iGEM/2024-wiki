@@ -42,6 +42,6 @@ As the application of our product moves beyond the containment of laboratories, 
 
 ## Prospect
 
-In addition to nickel, other divalent metals—such as copper, zinc, and cobalt—can become future targets. With MINERAL’s highly modular design, adapting the system for new metals simply involves substituting the relevant transport and binding proteins in the bioaccumulation system, making it a versatile platform for metal recovery.
+In addition to nickel, other divalent metals—such as copper, zinc, and cobalt—can become future targets. With MINERAL's highly modular design, adapting the system for new metals simply involves substituting the relevant transport and binding proteins in the bioaccumulation system, making it a versatile platform for metal recovery.
 
 Moreover, the concept of bioaccumulating heavy metals and forming reserves could be applied in more visionary contexts, such as terraforming Mars. In a future scenario, engineered microorganisms like those in MINERAL could help sequester toxic metals or produce essential materials, aiding in the creation of a habitable environment on other planets.

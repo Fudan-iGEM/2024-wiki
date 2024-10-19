@@ -130,7 +130,7 @@ Traditional biological filtration devices often feature fixed structures and lim
 
 Our product is designed for multiple applications. In industrial settings, our composite fiber-engineered bacteria mesh can be integrated into wastewater treatment systems, where engineered bacteria absorb and reduce nickel ions as wastewater flows through. In natural water bodies, we can weave the fibers into nets akin to fishing nets, which can be secured along riverbanks or wooden poles, allowing for natural purification.
 
-Serving as a carrier for synthetic biology applications, our Gile Carbon Fiber enhances contemporary wastewater treatment technology. The reversible weaving process enables recycling and reuse, effectively extending the product’s lifespan while reducing environmental impact. Furthermore, our fiber is characterized by low energy consumption. It not only recovers nickel but can also be adapted for the recovery of other heavy metals and general wastewater purification. With aCNT composite fibers, we offer an efficient, eco-friendly approach to wastewater treatment, paving the way for sustainable advancements in bioenergy and green chemistry.
+Serving as a carrier for synthetic biology applications, our Gile Carbon Fiber enhances contemporary wastewater treatment technology. The reversible weaving process enables recycling and reuse, effectively extending the product's lifespan while reducing environmental impact. Furthermore, our fiber is characterized by low energy consumption. It not only recovers nickel but can also be adapted for the recovery of other heavy metals and general wastewater purification. With aCNT composite fibers, we offer an efficient, eco-friendly approach to wastewater treatment, paving the way for sustainable advancements in bioenergy and green chemistry.
 
 After purchasing our basic product, customers will receive free equipment installation and technical guidance. By paying a monthly membership fee, they can access our real-time wastewater treatment monitoring system, which provides optimization for improving product usage and reducing costs. By introducing engieered parts into *E. coli* to control the absorption and enrichment of nickel ions, we have [successfully](/fudan/results/#fig1) developed a product that significantly reduces nickel ion concentrations in water, validating the feasibility of our product.
 
@@ -144,7 +144,7 @@ After purchasing our basic product, customers will receive free equipment instal
 
 Our exit strategy is multifaceted, designed to maximize project value and ensure efficient resource allocation.
 
-It includes seeking mergers with wastewater treatment companies to leverage their market resources and accelerate the application of our technology. We also retain the option to sell patents and licenses to realize the commercial value of our intellectual property. Additionally, the project can be preserved as a startup opportunity to be pursued when market conditions are favorable. This strategy aims to maximize the project’s value while laying the groundwork for future growth.
+It includes seeking mergers with wastewater treatment companies to leverage their market resources and accelerate the application of our technology. We also retain the option to sell patents and licenses to realize the commercial value of our intellectual property. Additionally, the project can be preserved as a startup opportunity to be pursued when market conditions are favorable. This strategy aims to maximize the project's value while laying the groundwork for future growth.
 
 ### Inventiveness of Our Charging Strategy
 
@@ -397,7 +397,7 @@ Furthermore, our product has strong competitiveness. See [Swot Analysis](#fig21)
 
 ### [Reliable Team](/fudan/team/)
 
-Our team consists of 14 members from Fudan University's iGEM team, a diverse group of people from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team’s combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
+Our team consists of 14 members from Fudan University's iGEM team, a diverse group of people from various academic fields. Our members bring deep theoretical knowledge and practical experience in technological innovation, project management, and social engagement. This diversity fosters creativity and allows us to approach problems from multiple perspectives. With the valuable guidance and support from mentors with extensive academic and industry connections, our team's combination of reliability, technical expertise, and practical experience provides a solid foundation for project success.
 
 ### Stakeholders
 

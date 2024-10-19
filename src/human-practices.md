@@ -10,7 +10,7 @@ author:
 
 <br><br>
 
-“Human Practices” refers to iGEM teams’ proactive efforts to assess how their work interacts with the world and the broader impacts it creates. The [MINERAL](/fudan/description/) project addressed the industrial issue of nickel wastewater pollution, aiming to contribute to a better planet and future for humanity. This vision also evolved through the project's lifecycle. Our HP efforts helped us navigate challenges, fostering connections with esteemed scientists, wastewater treatment enterprises, government bodies, and like-minded teams, all of which played pivotal roles in key decisions throughout the project.
+"Human Practices" refers to iGEM teams' proactive efforts to assess how their work interacts with the world and the broader impacts it creates. The [MINERAL](/fudan/description/) project addressed the industrial issue of nickel wastewater pollution, aiming to contribute to a better planet and future for humanity. This vision also evolved through the project's lifecycle. Our HP efforts helped us navigate challenges, fostering connections with esteemed scientists, wastewater treatment enterprises, government bodies, and like-minded teams, all of which played pivotal roles in key decisions throughout the project.
 
 Next, join us as we embark on an exciting HP journey together!
 
@@ -142,13 +142,13 @@ Therefore, with questions and aspirations about nickel recovery, we visited Mr. 
 </p>
 </div>
 
-Mr. Xiong is an expert in battery recycling, and he briefed us on the industry's current status. While 95% of metals in batteries are efficiently recycled, our project didn’t show a clear advantage in this regard. However, Mr. Xiong highlighted three key challenges in battery recycling:
+Mr. Xiong is an expert in battery recycling, and he briefed us on the industry's current status. While 95% of metals in batteries are efficiently recycled, our project didn't show a clear advantage in this regard. However, Mr. Xiong highlighted three key challenges in battery recycling:
 
 1. High energy consumption.
 2. Significant air and water pollution.
 3. Lack of specificity in conventional methods.
 
-He praised our project’s nickel specificity and suggested focusing on wastewater treatment in electric vehicle batteries for greater impact.
+He praised our project's nickel specificity and suggested focusing on wastewater treatment in electric vehicle batteries for greater impact.
 
 Mr. Xiong also suggested that we visit battery recycling plants or other relevant factories for further field research to gain hands-on experience and understand industry needs.
 
@@ -255,7 +255,7 @@ With this question in mind, and inspired by Mr. Xiong and the investment experts
 
 
 
-We presented our project to GEM’s engineering experts and toured their control center, pilot lab, and full production line for battery recycling.
+We presented our project to GEM's engineering experts and toured their control center, pilot lab, and full production line for battery recycling.
 
 The experts pointed out that nickel recovery is a small part of electric vehicle battery recycling and encouraged us to focus on addressing broader nickel wastewater pollution issues.
 
@@ -410,7 +410,7 @@ At the 11th CCiC, experts from the School of Pharmaceutical Sciences at [Xi'an J
 </p>
 </div>
 
-In response to the potential toxicity of nickel microparticles and the efficiency issues in bacteria, we reached out to [Professor Guoping Zhao](https://life.fudan.edu.cn/94/06/c28221a300038/page.htm) for advice on the next steps. Professor Zhao from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, analyzed several key directions our project needs to focus on from the perspectives of principle-driven, bottom-up development, and AI assistance. He suggested that we should focus on the project’s needs and set clear benchmarks.
+In response to the potential toxicity of nickel microparticles and the efficiency issues in bacteria, we reached out to [Professor Guoping Zhao](https://life.fudan.edu.cn/94/06/c28221a300038/page.htm) for advice on the next steps. Professor Zhao from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, analyzed several key directions our project needs to focus on from the perspectives of principle-driven, bottom-up development, and AI assistance. He suggested that we should focus on the project's needs and set clear benchmarks.
 
 <br>
 
@@ -771,7 +771,7 @@ We had a discussion about our project with [Chuyue Zhang, the leader of the Fuda
 <p>
     <strong><small>📅 Date:</small></strong> <small>Aug. 5th, 2024</small><br>
     <strong><small>👥 People:</small></strong> <small>Ruiwen Ma, Kevin Qi, Yi Shi</small><br>
-    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Philip Beachy, a Stanford professor, is a leading expert on the Hedgehog signaling pathway, important in development and disease research. He has made major contributions over his 40-year career, including cloning the gene and developing drugs.Katrin Andreasson, also at Stanford, studies how immune responses lead to brain damage, especially in Alzheimer’s disease. She co-directs Stanford’s Alzheimer’s Disease Research Center.</small>
+    <strong><small>🖇️ Respondent Profile:</small></strong> <small>Philip Beachy, a Stanford professor, is a leading expert on the Hedgehog signaling pathway, important in development and disease research. He has made major contributions over his 40-year career, including cloning the gene and developing drugs.Katrin Andreasson, also at Stanford, studies how immune responses lead to brain damage, especially in Alzheimer's disease. She co-directs Stanford's Alzheimer's Disease Research Center.</small>
 </p>
 </div>
 
@@ -788,7 +788,7 @@ The Fudan iGEM 2024 team organized two and participated in three cross-school ex
 | Event                                                        | Date      | Improvement                                                  |
 | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
 | Shanghai Meeting of Fudan-BIT-Tongji-ShanghaiTech iGEMers    | 2024.5.4  | Through our exchange with BIT, we learned that both teams were focusing on different aspects of the same issue. This deepened our understanding of battery recycling and ultimately influenced both our project background and theme. |
-| The 11th CCiC                                                | 2024.7.11 | The expert’s questions highlighted flaws in our technical approach and significantly influenced the design of our components. For detailed information, please refer to section 4.2 The 11th CCiC. |
+| The 11th CCiC                                                | 2024.7.11 | The expert's questions highlighted flaws in our technical approach and significantly influenced the design of our components. For detailed information, please refer to section 4.2 The 11th CCiC. |
 | [The 6th Northwestern China iGEM Meetup](https://mp.weixin.qq.com/s/_jbI8uVtmTqemjQcoTS4ew) | 2024.8.5  | We discussed the HP working method and shared our project details during the conversation. |
 | Changsha Meeting of Fudan-CSU-HNU-NUDT iGEMers               | 2024.8.15 | We raised technical questions with each other and identified potential flaws in the project. |
 | Online Meeting of CUG-Fudan-BIT iGEMers                      | 2024.8.20 | CUG, Fudan, and BIT-China share similar project backgrounds, all focusing on heavy metal recovery or pollution. Through an online conference, we reviewed each other's project designs from different perspectives, gaining a deeper understanding of the topics and background from various technical angles. |

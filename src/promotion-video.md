@@ -20,7 +20,7 @@ Nickel plays a vital role in human civilization, underpinning everything [from r
 
 <br>
 
-Extracted from deep within the Earth, nickel drives the advancement of human world. However, once fully exploited, it often fails to be properly recycled and drifts into water bodies, causing severe environmental issues. More concerning, given the [current consumption situation and the world’s nickel reserves](#fig2), we will [run out of nickel by 2118](#fig3).
+Extracted from deep within the Earth, nickel drives the advancement of human world. However, once fully exploited, it often fails to be properly recycled and drifts into water bodies, causing severe environmental issues. More concerning, given the [current consumption situation and the world's nickel reserves](#fig2), we will [run out of nickel by 2118](#fig3).
 
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/pv/1.png" style="width: 100%">

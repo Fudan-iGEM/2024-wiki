@@ -105,7 +105,7 @@ After the exhibition, we visited the director of the Human Science Museum and th
     </div>
 </div>
 
-Finally, our inclusivity program got its name “STEAMed Education — for Children from the Star.”
+Finally, our inclusivity program got its name "STEAMed Education — for Children from the Star."
 
 ## Courses Evaluation System of STEAMed
 
@@ -168,7 +168,7 @@ We further revised the picture book based on the teachers' suggestions, designed
 
 After the course practice, to understand the evaluation and suggestions for the course, we conducted interviews with teaching volunteers and parents of students. We have compiled and uploaded the [bilingual transcript](https://static.igem.wiki/teams/5115/inclusivity/interview-record-parents.pdf) of the INDIGO interview, as well as the [bilingual transcript and video link](https://static.igem.wiki/teams/5115/inclusivity/interview-record-targeting-rainbow-rain-with-tencent-meeting-link.pdf) of the Light of Rainbow interview. Overall, the interviewees **recognized our use of picture book**.
 
-In terms of **the understanding of knowledge**, the performance of the students from [INDIGO](https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ) performed better than those from [Light of Rainbow](https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ). Students from INDIGO for the most part could understand the theoretical explanations. Even if some students had a lower level of understanding, parents believed that we **“planted a seed in their hearts”**. Students from Light of Rainbow, however, appeared quite confused during both sessions, with volunteers noting “repeated many times and he still didn’t understand”, “many tasks were done by parents on behalf of the students”. Relatively speaking, the level of understanding after the second class was better than the first. Overall, these results **demonstrate the feasibility of STEAMed layered teaching method**.
+In terms of **the understanding of knowledge**, the performance of the students from [INDIGO](https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ) performed better than those from [Light of Rainbow](https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ). Students from INDIGO for the most part could understand the theoretical explanations. Even if some students had a lower level of understanding, parents believed that we **"planted a seed in their hearts"**. Students from Light of Rainbow, however, appeared quite confused during both sessions, with volunteers noting "repeated many times and he still didn't understand", "many tasks were done by parents on behalf of the students". Relatively speaking, the level of understanding after the second class was better than the first. Overall, these results **demonstrate the feasibility of STEAMed layered teaching method**.
 
 We have summarized the suggestions of the respondents on how to improve the teaching effectiveness for Light of Rainbow students as follows.
 
@@ -202,7 +202,7 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 <p>
     <strong><small>📅 Topic:</small></strong> <small>What is Gene</small><br>
     <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center, Shanghai Light of Rainbow Children's Intelligent Training Center</small><br>
-    <strong><small>🖇️ Public Push Link:</small></strong> <small>1.<a href="https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ" target="_blank">(Chinese) 星愿绘本馆 | “天使”人间</a> 2.<a href="https://mp.weixin.qq.com/s/-q65xuoICfR6TYni6GSmuw" target="_blank">(Chinese) 星愿绘本馆丨“星星”的碱基之旅</a> 3.<a href="https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ">(Chinese) 星愿绘本馆 | 陪伴“星星”，拉手基因</a></small>
+    <strong><small>🖇️ Public Push Link:</small></strong> <small>1.<a href="https://mp.weixin.qq.com/s/YPPsUTPAZ19k9FFzKl2bDQ" target="_blank">(Chinese) 星愿绘本馆 | "天使"人间</a> 2.<a href="https://mp.weixin.qq.com/s/-q65xuoICfR6TYni6GSmuw" target="_blank">(Chinese) 星愿绘本馆丨"星星"的碱基之旅</a> 3.<a href="https://mp.weixin.qq.com/s/YeO3UpyzIzm3GYnCJO6RvQ">(Chinese) 星愿绘本馆 | 陪伴"星星"，拉手基因</a></small>
 </p>
 </div>
 
@@ -284,7 +284,7 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 <p>
     <strong><small>📅 Topic:</small></strong> <small>Gene Editing</small><br>
     <strong><small>👥 Location:</small></strong> <small>Shanghai INDIGO Disabled Service Center</small><br>
-    <strong><small>🖇️ Public Push Link:</small></strong> <small><a href="https://mp.weixin.qq.com/s/4V7yzuG5VeXQ3IBlING87A">(Chinese) 星愿绘本馆 | 当天使遇见“基因”</a></small>
+    <strong><small>🖇️ Public Push Link:</small></strong> <small><a href="https://mp.weixin.qq.com/s/4V7yzuG5VeXQ3IBlING87A">(Chinese) 星愿绘本馆 | 当天使遇见"基因"</a></small>
 </p>
 </div>
 
@@ -608,7 +608,7 @@ Our slides can be found in the attachment: [Course 5 Powerpoint (Chinese).pdf](h
 
 After completing several rounds of teaching, we conducted interviews with experts, teachers, and parents to obtain a more comprehensive and objective evaluation and to identify areas for improvement. Overall, **our ideas and concepts have received high praise**.You can click [here](https://static.igem.wiki/teams/5115/inclusivity/interview-indigo-parents-post.pdf) to view the verbatim transcript of the interview with parents.
 
-We invited two associate professors from Fudan University’s **School of Social Development and Public Policy** for in-person discussions. Both are dedicated to public welfare projects. **Associate Professor Fang Fu** has overseen several projects focusing on children with autism, while Associate Professor **Zhiyuan Yu** specializes in charitable work and social organizations. They highly praised the initial concept of STEAMed: **“Your team is dynamic, interdisciplinary, creative, and action-oriented. We are glad to see that you injected fresh energy into the field of autism public welfare!”** You can click [here](https://static.igem.wiki/teams/5115/inclusivity/interview-fu-fang-post.pdf) to view the verbatim transcript of the interview.
+We invited two associate professors from Fudan University's **School of Social Development and Public Policy** for in-person discussions. Both are dedicated to public welfare projects. **Associate Professor Fang Fu** has overseen several projects focusing on children with autism, while Associate Professor **Zhiyuan Yu** specializes in charitable work and social organizations. They highly praised the initial concept of STEAMed: **"Your team is dynamic, interdisciplinary, creative, and action-oriented. We are glad to see that you injected fresh energy into the field of autism public welfare!"** You can click [here](https://static.igem.wiki/teams/5115/inclusivity/interview-fu-fang-post.pdf) to view the verbatim transcript of the interview.
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/5interview-fufang.jpg" style="width:100%">
@@ -618,7 +618,7 @@ We invited two associate professors from Fudan University’s **School of Social
     </div>
 </div>
 
-We also communicated with rehabilitation institutions and special education schools. The **Beijing Rainbow Village International Health and Wellness Base** has primarily focused on ASD children aged 2 to 7, but has recently begun to expand its efforts to older and elderly individuals. In an interview, its senior business director, **Yishuang Wang**, mentioned that “people with physical disabilities often receive more sympathy and assistance, while **those with intellectual disabilities are more likely to be excluded**.” Our efforts may help **“open a window”** for them to realize their scientific potential. You can click [here](https://static.igem.wiki/teams/5115/inclusivity/inclusivity-interview-record-wangyishuang.pdf) to view the verbatim transcript of the interview.
+We also communicated with rehabilitation institutions and special education schools. The **Beijing Rainbow Village International Health and Wellness Base** has primarily focused on ASD children aged 2 to 7, but has recently begun to expand its efforts to older and elderly individuals. In an interview, its senior business director, **Yishuang Wang**, mentioned that "people with physical disabilities often receive more sympathy and assistance, while **those with intellectual disabilities are more likely to be excluded**." Our efforts may help **"open a window"** for them to realize their scientific potential. You can click [here](https://static.igem.wiki/teams/5115/inclusivity/inclusivity-interview-record-wangyishuang.pdf) to view the verbatim transcript of the interview.
 
 ## The Guidelines for STEAMed Education
 
@@ -662,7 +662,7 @@ We released a science popularization [push](https://mp.weixin.qq.com/s/-sqXbEAM9
 
 ### Media Promotion
 
-We promoted our inclusivity project through media. In addition to the posts and vlogs released during the course, we also submitted [an article](https://www.thepaper.cn/newsDetail_forward_28867253) to China's mainstream media outlet **“The Paper”**, providing a comprehensive summary and review of STEAMed education. The article has been published on The Paper's app and website, and will be promoted through various mainstream media platforms, with the editor estimating a **million-level readership** for the single article.
+We promoted our inclusivity project through media. In addition to the posts and vlogs released during the course, we also published [an article](https://www.thepaper.cn/newsDetail_forward_28867253) to China's mainstream media outlet **"The Paper"**, providing a comprehensive summary and review of STEAMed education. This article is being promoted, with the editor estimating a **million-level readership** for the coming months.
 
 ### Postcards Exchange
 
@@ -698,7 +698,7 @@ We recruited volunteers for STEAMed education targeting the ASD community throug
 
 ### Charity Sales
 
-April 2, 2024, marks the 17th **“World Autism Awareness Day”**. Taking this opportunity, we held three **charity sales** events on various campuses of Fudan University. The charity sale includes cultural and creative products designed by us, as well as works completed by ASD students in the course. We shared this year's inclusivity project with passers-by. After the charity sale, we donated the proceeds to [Light of Rainbow].
+April 2, 2024, marks the 17th **"World Autism Awareness Day"**. Taking this opportunity, we held three **charity sales** events on various campuses of Fudan University. The charity sale includes cultural and creative products designed by us, as well as works completed by ASD students in the course. We shared this year's inclusivity project with passers-by. After the charity sale, we donated the proceeds to [Light of Rainbow].
 
 <div style="text-align: center;" id="fig30">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/handanyimai.jpg" style='width:100%'>

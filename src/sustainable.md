@@ -46,7 +46,7 @@ Please refer to [Implementation](/fudan/implementation/) for more information.
 
 The 9th SDG aims to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.
 
-[MINERAL](/fudan/description/) makes recycling nickel energy-efficient, which supports the development of advanced technologies and infrastructure, particularly in regions where resource scarcity and environmental degradation pose significant challenges. We contacted a battery recycling company, and they saw real potential in our project for making a positive impact in the industry, supporting infrastructure growth while protecting our planet’s resources.
+[MINERAL](/fudan/description/) makes recycling nickel energy-efficient, which supports the development of advanced technologies and infrastructure, particularly in regions where resource scarcity and environmental degradation pose significant challenges. We contacted a battery recycling company, and they saw real potential in our project for making a positive impact in the industry, supporting infrastructure growth while protecting our planet's resources.
 
 Below is a photo taken while our team reaching out to a battery company and gettting their feedbacks. Please refer to [Entrepreneurship](/fudan/entrepreneurship/) for more information.
 
@@ -94,7 +94,7 @@ Mining and industrial processes release nickel into rivers, lakes, and oceans, l
 
 We also recognized that releasing *E. coli* into the water body could harm aquatic life. We prioritize safety by studying the behavior of *C. elegans*; they show no significant abnormalities when consuming our microparticles and microbes (*E. coli* + hydrogenase) but are affected in nickel-rich growth media. Please refer to [Safety](/fudan/safety/) for more information.
 
-Additionally, we’ve developed hardware that allows *E. coli* to grow on fibers, preventing its spread in water, and effectively addressing metal issues while avoiding creating new problems. Please refer to [Hardware](/fudan/hardware/) for more information.
+Additionally, we've developed hardware that allows *E. coli* to grow on fibers, preventing its spread in water, and effectively addressing metal issues while avoiding creating new problems. Please refer to [Hardware](/fudan/hardware/) for more information.
 
 <div style="text-align: center;" id="fig5">
     <img src="https://static.igem.wiki/teams/5115/sdgs/celegan-fibre-ni-pic.png" style='width:80%'>
