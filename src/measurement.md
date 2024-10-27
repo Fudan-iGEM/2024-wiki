@@ -6,6 +6,11 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 ---
 
+<br><br>
+
+Updated on 2024-10-26: we were nominated for [the Best Measurement (Undergrad)](https://jamboree.igem.org/2024/results?scroll=Best%20Measurement#special-prizes).
+
+
 ## Introduction
 
 In our [MINERAL](/fudan/description/) project, we are working towards improving *Escherichia coli*'s ability to absorb nickel ions from wastewater and convert them into biosafe [nickel particles](/fudan/description/#_3-nickel-microparticle-module) using hydrogenase enzymes. This involves introducing a variety of genetic modules into *E. coli* using plasmid transformation. Different DNA modules are responsible for functions like nickel uptake, nickel tolerance, and concentrated nickel reduction in bacteria cytosol.

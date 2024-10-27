@@ -6,6 +6,7 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/design-header-new.gif
 ---
 
+
 ## Concept Design
 
 Throughout the design process of MINERAL, we encountered multiple critical decisions that shaped our path forward. Here, we focus on answering three essential questions to clarify why we made specific choices in our approach.

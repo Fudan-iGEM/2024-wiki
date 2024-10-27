@@ -11,6 +11,9 @@ author:
 
 <br><br>
 
+Updated on 2024-10-26: we were nominated for [the Best Inclusivity Award (Undergrad)](https://jamboree.igem.org/2024/results?scroll=Best%20Inclusivity%20Award#special-prizes).
+
+
 ## We Shall Eliminate Barriers Between ASD and Science
 
 <div style="text-align: center;" id="fig1">

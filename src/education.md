@@ -8,6 +8,7 @@ author:
   url: /fudan/team/#kexin-zheng
 ---
 
+
 ## Concept of Education
 
 As mentioned in **[Mencius](https://en.wikipedia.org/wiki/Mencius)**, before educating others, be sure that you're well-educated. We realize that understanding knowledge from the perspective of learners is essential for effective education. Thus, while conducting our  educational activities this year, we focus on exploring the needs of our target audience and developing the educational skills of our members.

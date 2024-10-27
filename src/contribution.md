@@ -6,14 +6,15 @@ author:
   url: /fudan/team/#meet-our-members
 ---
 
+
 ## Medal Criteria
 
 ### Bronze
 
-- We successfully complete the following Competition Deliverables: [Wiki](/fudan/), [Presentation Video](https://video.igem.org/w/0a8667f2-af24-487e-bb4c-be98b868eb9e), [Safety Form](https://teams.igem.org/5115/safety), [Attributions Form](https://teams.igem.org/5115/attributions), Judging Form and in-person Judging Session at Paris.
+- We successfully complete the following Competition Deliverables: [Wiki](/fudan/), [Presentation Video](https://video.igem.org/w/4817e7e4-446b-4760-b866-2817794b02c9), [Safety Form](https://teams.igem.org/5115/safety), [Attributions Form](https://teams.igem.org/5115/attributions), [Judging Form](https://teams.igem.org/5115/judging) and in-person Judging Session at Paris.
 - We carefully describe what work our team members did and what other people did for our project at [Attributions](/fudan/attributions/).
-- We describe how and why we chose our iGEM project on our [Description](/fudan/description/) page
-- We make a useful [Contribution](/fudan/contribution/) for future iGEM teams.
+- We describe how and why we chose our iGEM project on our [Description](/fudan/description/) page.
+- We document our [Contribution](/fudan/contribution/) for future iGEM teams, one example is improving [BBa_K1151001](https://parts.igem.org/Part:BBa_K1151001) to [BBa_K5115036](https://parts.igem.org/Part:BBa_K5115036).
 
 ### Silver
 
@@ -24,8 +25,8 @@ author:
 
 We have decided to compete for three special awards: [New Composite Part](https://parts.igem.org/Part:BBa_K5115067), [Mesurement](/fudan/measurement/), [Inclusivity](/fudan/inclusivity/).
 
-- We created a powerful new composite part [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067) which promotes [hydrogen-catalyzed nickel reduction](/fudan/description/#_3-nickel-microparticle-module) within *E. coli*. The effectiveness of this system has been thoroughly documented on [the Registry page](https://parts.igem.org/Part:BBa_K5115067). This offers a promising tool for using *E. coli* to reduce various metal ions and turing them into microparticles.
-- Using the Spot Assay, we measured the plasmid burden on growth, allowing us to assess the metabolic impact and refine our plasmid designs for optimal [nickel particle](/fudan/description/#_3-nickel-microparticle-module) production while minimizing growth burden.
+- We created a powerful new composite part [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067) which promotes [hydrogen-catalyzed nickel reduction](/fudan/description/#_3-nickel-microparticle-module) within *E. coli*. The effectiveness of this system has been thoroughly documented on [the Registry page](https://parts.igem.org/Part:BBa_K5115067). This offers a promising tool for using *E. coli* to reduce various metal ions and turing them into microparticles. This part is driven by T7 promoter from [BBa_K4765027](http://parts.igem.org/Part:BBa_K4765027), and terminated by T7 and rrnB T1 dual-terminator on the plasmid backbone.
+- Using the Spot Assay, we [measured](/fudan/measurement/) the plasmid burden on growth, allowing us to assess the metabolic impact and refine our plasmid designs for optimal [nickel particle](/fudan/description/#_3-nickel-microparticle-module) production while minimizing growth burden.
 - The "STEAMed" project fosters inclusivity by promoting a two-way dialogue with individuals with Autism Spectrum Disorder (ASD). Our personalized, picture book-based lessons are tailored for different ASD subgroups, enhancing learning through hands-on activities and artistic expression, while continually improving based on genuine feedback and community engagement.
 
 
@@ -36,6 +37,8 @@ We created an composite part aimed at achieving high metal reduction efficiency 
 This part, [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067), integrates Ni/Fe hydrogenase, carboxysome subunits, and encapsulation peptide to enable efficient nickel ion reduction and microparticle formation inside *E. coli*. The system was designed to co-express essential subunits of hydrogenase and carboxysome, creating a concentrated environment for enzyme activity, enhancing nickel recovery, and improving bioprocessing efficiency.
 
 By fusing the stayGold fluorescent protein to the carboxysome-targeting peptide EP and observing fluorescence aggregation within bacteria, we confirmed [our technical feasibility of linking hydrogenase to carboxysome](/fudan/results/#_3-nickel-microparticle-module). Subsequently, we validated [the effectiveness of the nickel reduction and microparticle formation](/fudan/results/#_3-nickel-microparticle-module) by transmission electron microscopy. Finally, we assessed the ecological safety of our product using *Caenorhabditis elegans* as a model organism and obtained [reassuring results](/fudan/safety/).
+
+This part is an outstanding example of our ribozyme-connected [parts](/fudan/part-collection). Promoters and terminators are not included in these parts, and they were built in our plasmid backbones: [BBa_K4765027](http://parts.igem.org/Part:BBa_K4765027) (T7 promoter with lac operator, T7 and rrnB T1 dual-terminator) and [BBa_K5115069](https://parts.igem.org/Part:BBa_K5115069) (J23107, T7 and rrnB T1 dual-terminator). This flexible design enables all our ribozyme-connected parts easily transfer to other prokaryotic expression vectors, even shuttle vectors. 
 
 
 ## Measurement

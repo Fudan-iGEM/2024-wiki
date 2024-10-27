@@ -6,6 +6,7 @@ author:
 headergif: https://static.igem.wiki/teams/5115/header/notebook-header-new.gif
 ---
 
+
 ## January
 
 From January 8th to 17th, led by [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), we held the ten-day [winter training](/fudan/heritage/) on synthetic biology and the iGEM competition. Goals included:
