@@ -44,7 +44,7 @@ Our favourite parts are [BBa_K5115067](https://parts.igem.org/Part:BBa_K5115067)
 
 These two parts are outstanding examples of our expanding ribozyme-connected parts [collection](/fudan/part-collection). Promoters and terminators are not included in these parts, and they were built in our plasmid backbones: [BBa_K4765027](http://parts.igem.org/Part:BBa_K4765027) (T7 promoter with lac operator, T7 and rrnB T1 dual-terminator) and [BBa_K5115069](https://parts.igem.org/Part:BBa_K5115069) (J23107, T7 and rrnB T1 dual-terminator). This flexible design enables all our ribozyme-connected parts easily transfer to other prokaryotic expression vectors, even shuttle vectors. 
 
-----
+## --
 
 Visit our [Improve](/fudan/improve/) page for parts we improved this year.
 

@@ -17,7 +17,7 @@ Updated on 2024-10-26: we were nominated for [the Best Inclusivity Award (Underg
 ## We Shall Eliminate Barriers Between ASD and Science
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/1neurons.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/1neurons.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Neurons networks built by one of our team member and an autistic kid with twisted bars.</span>
       <br><br>
@@ -57,7 +57,7 @@ The following figure shows our overall strategy for addressing barriers.
 ## The Conception of STEAMed
 
 <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/steamed-pintu.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/steamed-pintu.png" style='width:100%'>
     <div>
           <span style="color: gray">The concept of STEAMed project.</span>
       <br><br>
@@ -158,7 +158,7 @@ We further revised the picture book based on the teachers' suggestions, designed
 - **Supporting activities:** Light of Rainbow has more hands-on and activity segments.
 
 <div style="text-align: center;" id="fig9">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/fencengshidian.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/fencengshidian.jpg" style='width:100%'>
     <div>
           <span style="color: gray">We were conducting a Starry Wish Picture Book Library activity in Light of Rainbow (left) and INDIGO (right).</span>
       <br><br>
@@ -234,7 +234,7 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 **Scientific Knowledge:** In this course, we used a picture book teaching model. Based on our colorful picture books from last year, we made thorough simplifications and necessary additions to the content for the ASD population. The picture book ([Course 1 Lesson Plan (English).pdf ](https://static.igem.wiki/teams/5115/inclusivity/course-materials/course-1-lesson-plan-en.pdf)) is listed in the appendix.
 
 <div style="text-align: center;" id="fig11">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-1-zhanlan-1.jpg" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-1-zhanlan-1.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 1.1</span>
       <br><br>
@@ -316,7 +316,7 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 **Engineering Skills:** Using the DNA double helix structure as a backdrop, we guided the students in creating a DNA spiral structure through origami. This hands-on activity helped them understand the scientific knowledge of DNA.
 
 <div style="text-align: center;" id="fig14">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-dna.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-2-dna.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 2.1</span>
       <br><br>
@@ -326,7 +326,7 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 **Technological Perspective:** We guided the students in learning about gene editing techniques through an experiential approach using scissors and paper.
 
 <div style="text-align: center;" id="fig15">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-engineer.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-2-engineer.png" style="width:100%">
     <div>
           <span style="color: gray">Course 2.2</span>
       <br><br>
@@ -395,7 +395,7 @@ We designed a self-assessment questionnaire for after the class, which can be fo
 **Scientific Knowledge:** We used a teaching-guidance method to educate the students about the structure of the brain and the generation of sensory perception.
 
 <div style="text-align: center;" id="fig17">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-teach-1.jpg" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-3-teach-1.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 3.1</span>
       <br><br>
@@ -405,7 +405,7 @@ We designed a self-assessment questionnaire for after the class, which can be fo
 **Engineering Skills:** Under our guidance, the students constructed a "simulated neuron."
 
 <div style="text-align: center;" id="fig18">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-engineer.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-3-engineer.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 3.2</span>
       <br><br>
@@ -415,7 +415,7 @@ We designed a self-assessment questionnaire for after the class, which can be fo
 **Scientific Perception:** Under our guidance, the students completed experimental activities such as the "color blind spot," "color perception experiment," and "reaction speed test."
 
 <div style="text-align: center;" id="fig19">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-experience.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-3-experience.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 3.3</span>
       <br><br>
@@ -425,7 +425,7 @@ We designed a self-assessment questionnaire for after the class, which can be fo
 **Practical Skills:** Experience the generation of vision and reaction abilities through games like "Catch the Shadow" and "Handkerchief Toss."
 
 <div style="text-align: center;" id="fig20">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-3-game.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-3-game.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 3.4</span>
       <br><br>
@@ -486,7 +486,7 @@ The students demonstrated a thorough understanding of brain science in their res
 **Technological Perspective:** We provided students with a science popularization lesson on the development of information technology. Our slides can be found in the attachment: [course-5-ppt.pdf](https://static.igem.wiki/teams/5115/inclusivity/course-5-ppt.pdf)
 
 <div style="text-align: center;" id="fig21">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-teach.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-5-teach.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 4.1</span>
       <br><br>
@@ -506,7 +506,7 @@ The students demonstrated a thorough understanding of brain science in their res
 **Artistic Ability:** The students illustrated their conceptualization of artificial intelligence.
 
 <div style="text-align: center;" id="fig23">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-5-art.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-5-art.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 4.3</span>
       <br><br>
@@ -568,7 +568,7 @@ The students demonstrated a thorough understanding of artificial intelligence in
 **Scientific Knowledge:** We used a teaching-guided approach to educate the students about the classification and growth of teeth.
 
 <div style="text-align: center;" id="fig24">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-teach.jpg" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-4-teach.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 5.1</span>
       <br><br>
@@ -578,7 +578,7 @@ The students demonstrated a thorough understanding of artificial intelligence in
 **Engineering Skills:** We guided the students in making handmade toothpaste using chemical principles.
 
 <div style="text-align: center;" id="fig25">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-engineer.jpg" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-4-engineer.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 5.2</span>
       <br><br>
@@ -588,7 +588,7 @@ The students demonstrated a thorough understanding of artificial intelligence in
 **Artistic Skills:** The students painted the positions and shapes of teeth.
 
 <div style="text-align: center;" id="fig26">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-4-art.jpg" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/course-4-art.jpg" style="width:100%">
     <div>
           <span style="color: gray">Course 5.3</span>
       <br><br>
@@ -614,7 +614,7 @@ After completing several rounds of teaching, we conducted interviews with expert
 We invited two associate professors from Fudan University's **School of Social Development and Public Policy** for in-person discussions. Both are dedicated to public welfare projects. **Associate Professor Fang Fu** has overseen several projects focusing on children with autism, while Associate Professor **Zhiyuan Yu** specializes in charitable work and social organizations. They highly praised the initial concept of STEAMed: **"Your team is dynamic, interdisciplinary, creative, and action-oriented. We are glad to see that you injected fresh energy into the field of autism public welfare!"** You can click [here](https://static.igem.wiki/teams/5115/inclusivity/interview-fu-fang-post.pdf) to view the verbatim transcript of the interview.
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/5interview-fufang.jpg" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/5interview-fufang.jpg" style="width:100%">
     <br>
     <div>
     	<p><small style="color: gray">We were communicating with associate professor Fu Fang.</small></p>
@@ -672,7 +672,7 @@ We promoted our inclusivity project through media. In addition to the posts and 
 We designed [a set of postcards](https://static.igem.wiki/teams/5115/inclusivity/cards-inc.pdf) based on our picture book. On the one hand, we collected public **messages in hopes of inspiring scientific interest** in the ASD community and sent them to [Light of Rainbow]. On the other hand, We collected feedback from Star Children to teaching volunteers and the public.
 
 <div style="text-align: center;" id="fig28">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/xiemingxinpian.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/xiemingxinpian.jpg" style='width:100%'>
     <div>
           <span style="color: gray">The postcards carried the public's wishes for the ASD community.</span>
       <br><br>
@@ -686,7 +686,7 @@ We designed [a set of postcards](https://static.igem.wiki/teams/5115/inclusivity
 We recruited volunteers for STEAMed education targeting the ASD community through [online posts](https://mp.weixin.qq.com/s/R--7Ph2Z23VN8PBek537Og) and offline booths. Additionally, we provided a volunteer registration channel for the general public through WeChat groups. Through hands-on practice, volunteers were able to gain a deeper understanding of the significance of popular science education for the ASD community.
 
 <div style="text-align: center;" id="fig29">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/zhiyuanzhezhaoxin.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/zhiyuanzhezhaoxin.jpg" style='width:100%'>
     <div>
           <span style="color: gray">We are recruiting teaching volunteers.</span>
       <br><br>
@@ -704,7 +704,7 @@ We recruited volunteers for STEAMed education targeting the ASD community throug
 April 2, 2024, marks the 17th **"World Autism Awareness Day"**. Taking this opportunity, we held three **charity sales** events on various campuses of Fudan University. The charity sale includes cultural and creative products designed by us, as well as works completed by ASD students in the course. We shared this year's inclusivity project with passers-by. After the charity sale, we donated the proceeds to [Light of Rainbow].
 
 <div style="text-align: center;" id="fig30">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/handanyimai.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/handanyimai.jpg" style='width:100%'>
     <div>
           <span style="color: gray">We were holding a charity sale.</span>
       <br><br>
@@ -742,7 +742,7 @@ In addition to the Bertalanffy Club, operated by iGEM, we have also reached long
 We were invited to participate in the **[Expedition Forum](https://mp.weixin.qq.com/s/rz5_monngU4MajMzbODBXg)** and the **Fudan Public Welfare Exchange Gathering**. At the Expedition Forum, there were four guests from large public welfare institutions and foundations, as well as public welfare organizations from 18 universities across six provinces. The Fudan Public Welfare Exchange Gathering included six guest professors, 18 alumni guests, and seven student organization leaders. During the open discussion, members of public welfare organizations expressed their willingness to collaborate with us, and the guests indicated that they would help connect us with more public welfare resources in the future to jointly promote this meaningful project.
 
 <div style="text-align: center;" id="fig31">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/yuanzhenghegongyiren.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/yuanzhenghegongyiren.jpg" style='width:100%'>
     <div>
           <span style="color: gray">We were invited to participate in the Expedition Forum and Fudan Charity Exchange Gathering.</span>
       <br><br>

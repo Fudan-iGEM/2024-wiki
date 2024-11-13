@@ -128,7 +128,7 @@ Therefore, with questions and aspirations about nickel recovery, we visited Mr. 
 ### 3.1 Discuss with Mr. Xiong
 
 <div style="text-align: center;" id="fig10">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/4-26-with-mr-xiong.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/4-26-with-mr-xiong.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 3.1 Discuss with Mr. Xiong</span>
       <br><br>
@@ -161,7 +161,7 @@ Following his advice, we explored additional sources of nickel pollution, leadin
 ### 3.2 Shanghai Meeting of Fudan-BIT-Tongji-ShanghaiTech iGEMers
 
 <div style="text-align: center;" id="fig11">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/5-4-meeting-shanghai-igemers.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/5-4-meeting-shanghai-igemers.png" style='width:100%'>
     <div>
           <span style="color: gray">Figure 3.2 Shanghai Meeting of Fudan-BIT-Tongji-ShanghaiTech iGEMers</span>
       <br><br>
@@ -214,7 +214,7 @@ Since we still needed to find answers within the electric vehicle battery recycl
 ### 3.4 Meeting with U Power
 
 <div style="text-align: center;" id="fig13">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-9-meeting-upower.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-9-meeting-upower.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 3.4 Meeting with U Power</span>
       <br><br>
@@ -239,7 +239,7 @@ With this question in mind, and inspired by Mr. Xiong and the investment experts
 ### 3.5 Visit GEM victory in Jingmen
 
 <div style="text-align: center;" id="fig14">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-15-visit-gem.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 3.5.1 Visit GEM Victory</span>
       <br><br>
@@ -260,7 +260,7 @@ We presented our project to GEM's engineering experts and toured their control c
 The experts pointed out that nickel recovery is a small part of electric vehicle battery recycling and encouraged us to focus on addressing broader nickel wastewater pollution issues.
 
 <div style="text-align: center;" id="fig15">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-2.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-15-visit-gem-2.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 3.5.2 Visit GEM Laboratory</span>
       <br><br>
@@ -275,7 +275,7 @@ GEM's experts provided several technical expectations for our project:
 3. Nickel microparticle production: The engineers are highly interested in the production of nickel microparticles, which could revolutionize the inefficient process of nickel extraction from laterite ores and enable a closed-loop industry.
 
 <div style="text-align:center;overflow:hidden;height:324px;" id="fig16">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-3.jpg" style='width:100%;transform:translate(0,-39%);'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-15-visit-gem-3.jpg" style='width:100%;transform:translate(0,-39%);'>
     <!-- div>
           <span style="color: gray">Figure 3.5.3 Discuss with experts of GEM</span>
       <br><br>
@@ -313,7 +313,7 @@ Following the advice of their technical experts, we optimized our technical appr
 Subsequently, on September 10, we visited Suzhou, China, and had an in-depth exchange with [Suzhou CPS](https://www.cps88.cn/). We also toured their workshop and factory facilities.
 
 <div style="text-align: center;" id="fig18">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-1.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/9-10-visit-cps-1.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 3.6.2 Visit CPS Victory</span>
       <br><br>
@@ -371,7 +371,7 @@ Two professors discussed with us the rationale and feasibility of the three-modu
 ### 4.2 The 11th CCiC
 
 <div style="text-align: center;" id="fig21">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/7-11-ccic-txj.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/7-11-ccic-txj.png" style='width:100%'>
     <div>
           <span style="color: gray">Figure 4.2 The 11th CCiC</span>
       <br><br>
@@ -516,7 +516,7 @@ After our discussion with Professor Zhu, we also visit [Prof. Feng](https://facu
 ### 5.2 Discuss with Professor Wei Feng
 
 <div style="text-align: center;" id="fig26">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-2-discuss-prof-feng.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-2-discuss-prof-feng.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 5.2 Discuss with Prof. Feng</span>
       <br><br>
@@ -539,7 +539,7 @@ Following his further suggestion, we discussed the possibility of using an elect
 ## 5.3 Visit to the Laboratory of CNERC-CTHMP.
 
 <div style="text-align: center;" id="fig27">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-linzhang-lab.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-16-discuss-linzhang-lab.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 5.3 The Lab of CNERC-CTHMP</span>
       <br><br>
@@ -572,7 +572,7 @@ In the initial conception of the [MINERAL](/fudan/description/), we designed a m
 ### 6.1 Discussed with Our PI
 
 <div style="text-align: center;" id="fig28">
-    <img src="https://static.igem.wiki/teams/5115/hardware-hkx/hardware1.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/hardware1.png" style='width:100%'>
     <div>
           <span style="color: gray">Figure 6.1 Model of Agarose–carbon nanotube (aCNT) composite fiber</span>
       <br><br>
@@ -612,7 +612,7 @@ On August 16, [Professor Lin](https://faculty.csu.edu.cn/linzhang/zh_CN/index.ht
 2. Enhance the flux of water passing through [MINERAL](/fudan/description/) project per unit time.
 
 <div style="text-align: center;" id="fig30">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-16-discuss-prof-lin.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-16-discuss-prof-lin.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 6.2.2 Discuss with Prof. Lin</span>
       <br><br>
@@ -628,7 +628,7 @@ After further research and discussions, we created hardware designs for natural 
 ### 6.3 Discussion with CPS technology experts:  the hardware design for industrial nickel wastewater pollution.
 
 <div style="text-align: center;" id="fig31">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-10-visit-cps-2.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/9-10-visit-cps-2.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 6.3.1 Visit the Victory of CPS</span>
       <br><br>
@@ -647,7 +647,7 @@ Inspired by Professor Zhang Lin, we aimed to enhance the hardware design for tre
 On September 10, during our visit to the Suzhou CPS pilot equipment workshop, we discussed the general structure of industrial processing equipment with technical experts. We focused on chromatography columns and used this as a basis for designing [MINERAL](/fudan/description/) project hardware suitable for industrial environments.
 
 <div style="text-align: center;" id="fig32">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-15-visit-gem-victory-4.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-15-visit-gem-victory-4.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 6.3.2 Pollution Monitoring Center</span>
       <br><br>
@@ -661,7 +661,7 @@ We also considered MINERAL project's placement after preliminary alkaline treatm
 ### 6.4 Feedback from CPS experts (The Second Meeting)
 
 <div style="text-align: center;" id="fig33">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/9-30-online-discuss-with-cps.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/9-30-online-discuss-with-cps.png" style='width:100%'>
     <div>
           <span style="color: gray">Figure 6.4 The Second Online Meeting with CPS</span>
       <br><br>
@@ -719,7 +719,7 @@ Attachment: [Interview Record Shanghai Water Authority](https://static.igem.wiki
 ### 8.1 Discuss with Prof. Yin
 
 <div style="text-align: center;" id="fig35">
-    <img src="https://static.igem.wiki/teams/5115/ihp-zm/8-5-discuss-with-yinmingbo.jpg" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/8-5-discuss-with-yinmingbo.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 8.1: Discuss with Professor Mingbo Yin</span>
       <br><br>

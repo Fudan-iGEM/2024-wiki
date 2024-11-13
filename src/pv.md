@@ -11,6 +11,60 @@ author:
 
 MINERAL is committed to addres the growing problem of heavy metal pollution in the environment. Our engineered bacteria can selectively absorb nickel ion from water. Utilizing carboxysome-targeted hydronases, nickel ions are converted into microparticles within the bacteria. This innovative metal ion reduction strategy, which we developed and tested, can be readily adapted for other heavy metals. Our modular design is flexible, allowing for efficient recovery and environmental protection across a wider range of heavy metal pollution problems. Here, we present a detailed explanation of our project, including experimental methods, key results, and lessons learned.  Additionally, we developed our inclusive program to enhance the accessibility of synthetic biology for the autism community.
 
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture01.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture02.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture03.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture04.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture05.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture06.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture07.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture08.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture09.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture10.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture11.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture12.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture13.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture14.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture15.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture16.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture17.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture18.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture19.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture20.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture21.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture22.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture23.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture24.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture25.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture26.jpg" style='width:100%'>
+
+<img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture27.jpg" style='width:100%'>
+
 
 ## Transcripts
 

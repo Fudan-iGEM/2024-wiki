@@ -74,7 +74,7 @@ Finally, our centerpiece: the Nickel Microfactory. By targeting oxygen-tolerant 
 
 <br>
 
-## PV
+## --
 
 [MINERAL](#fig4) demonstrates extraordinary creativity, and the same principles can be applied to other heavy metals, building a bridge between nature and human society through synthetic biology.
 

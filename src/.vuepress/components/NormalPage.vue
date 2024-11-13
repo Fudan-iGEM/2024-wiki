@@ -116,9 +116,9 @@ const headerDepth = computed(() => frontmatter.value.headerDepth ?? themeLocale.
     display: block;
   }
 
-  .card-wrapper { /* 2024-10-9 */
+  /* .card-wrapper { #### 2024-10-9 ## cannot fix if no sidebar
     padding-top: 520px !important;
-  }
+  } */
 }
 
 .card-wrapper {

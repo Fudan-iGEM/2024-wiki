@@ -18,7 +18,7 @@ Updated on 2024-10-10: our presentation video is at [https://video.igem.org/w/48
 Humans often realize their mistakes only when the damage is irreparable, a lesson echoed throughout history. Our relentless overexploitation of natural resources has left scars on the environment, and the cycle of neglect persists. While metals like copper and aluminum are now commonly recycled, others, such as nickel, still lag far behind, following the very paths we've seen before.
 
 <div style="text-align: center;" id="fig1">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig1.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/description-fig1.jpg" style="width:100%">
     <div>
         <span style="color:gray">Figure 1: Overexploitation of natural resources<br>(Image from <a href="https://www.pexels.com/zh-cn/video/2836084/">https://www.pexels.com/zh-cn/video/2836084/</a>)</span>
         <br><br>
@@ -38,7 +38,7 @@ While nickel reserves may seem sufficient today, this apparent abundance has cre
 Meanwhile, the demand for nickel is growing at an unsustainable rate, out-pacing production[^2]. This growing imbalance between supply and demand will eventually lead to resource shortages, though this is often ignored due to the immediate availability of nickel. As a result, the need for recycling nickel remains underestimated, despite its critical importance for future generations.
 
 <div style="text-align: center;" id="fig2">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig2.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/description-fig2.jpg" style="width:100%">
     <div>
         <span style="color:gray">Figure 2: Nickel in our modern world<br>(Image from <a href="https://www.freepik.com/">https://www.freepik.com/</a>)</span>
         <br><br>
@@ -73,7 +73,7 @@ We have developed a symbiotic system involving *E. coli* and cyanobacteria to re
 Our project, **Microparticle Integration for Nickel Extraction and Reusable Applications (MINERAL)**, not only addresses current nickel pollution but also aims to meet the increasing demand for sustainable nickel recovery in the near future.
 
 <div style="text-align: center;" id="fig4">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig4-4.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/description-fig4-4.png" style="width:100%">
     <div>
         <span style="color:gray">Figure 4: Overview of MINERAL</span>
         <br><br>
@@ -139,7 +139,7 @@ We introduce two sets of nickel transport proteins to maximize the influx of nic
 To prevent nickel ions from being pumped out of the cell, we point-mutate RcnR at its Cys35 residue so that it remains in a repressing state despite rising concentrations of nickel. As the expression of RcnA is repressed, the efflux of nickel ion is lowered, thereby maintaining high cytosolic nickel concentrations.
 
 <div style="text-align: center;" id="fig6">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig6.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/description-fig6.png" style="width:100%">
     <div>
         <span style="color:gray">Figure 6: Nickel enrichment module</span>
         <br><br>
@@ -166,7 +166,7 @@ The initial step of bacteriophage infection is its adsorption to host receptors,
 We overexpress YejM to upregulate the production of LPS, blocking recognition sites on the surface of bacteria, allowing the *E. coli* to possess higher resistance towards bacteriophages in the environment[^20].
 
 <div style="text-align: center;" id="fig7">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig7.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/description-fig7.png" style="width:100%">
     <div>
         <span style="color:gray">Figure 7: Survival module</span>
         <br><br>
