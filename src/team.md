@@ -18,23 +18,19 @@ Welcome to our Fudan iGEM 2024 Team page, where you meet the exceptional individ
 
 ### Xujie Tan
 
-#### The Deadline Breaker
-
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/xujie-tan.jpg" style="width:50%">
 </div>
 
-Xujie, a senior biology major, stumbled into the iGEM competition rather recklessly. He constantly navigates between various deadlines, struggling to keep life in balance. However, in his spare time, he enjoys gazing at the stars through his beloved telescope or immersing himself in the wild imaginings of science fiction writers. He hopes that, despite the challenges, his difficult life will continue in quiet, unwavering steadiness.
+**The Deadline Breaker** - Xujie, a senior biology major, stumbled into the iGEM competition rather recklessly. He constantly navigates between various deadlines, struggling to keep life in balance. However, in his spare time, he enjoys gazing at the stars through his beloved telescope or immersing himself in the wild imaginings of science fiction writers. He hopes that, despite the challenges, his difficult life will continue in quiet, unwavering steadiness.
 
 ### Zhenghan Chen
-
-#### The Typhooner
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/zhenghan-chen.jpg" style="width:50%">
 </div>
 
-Brace yourselves, folks, because here comes a Category 5 'storm'! I'm Zhenghan, navigating the wild seas of clinical medicine and taking the helm of Wiki building. Sure, I might occasionally dive headfirst into things, fueled by impulse and a touch of recklessness, but hey, sometimes you've just gotta barrel and ride the wave, right?
+**The Typhooner** - Brace yourselves, folks, because here comes a Category 5 'storm'! I'm Zhenghan, navigating the wild seas of clinical medicine and taking the helm of Wiki building. Sure, I might occasionally dive headfirst into things, fueled by impulse and a touch of recklessness, but hey, sometimes you've just gotta barrel and ride the wave, right?
 
 ### Yuhan Li
 
@@ -46,43 +42,35 @@ Hi, I'm Yuhan, in charge of Design, Experiments, and Art of the team. I am a noc
 
 ### Wanqi Li
 
-#### The Challenger
-
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/wanqi-li.jpg" style="width:50%">
 </div>
 
-Hello everyone, I'm Wanqi. I enjoy making friends and have a passion for all things new and interesting.
+**The Challenger** - Hello everyone, I'm Wanqi. I enjoy making friends and have a passion for all things new and interesting.
 
 ### Xueting Chen
-
-#### The Inclusivity Advocate
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/xueting-chen.jpg" style="width:50%">
 </div>
 
-Xueting is a member responsible for Inclusivity, majoring in oral medicine. She is dedicated to promoting equality and diversity within the project, aiming to ensure that the needs of more groups are respected. Xueting emphasizes the integration of science and humanities, focusing on infusing technological advancements with humanistic care. Her professional expertise and passion for social justice bring a unique perspective to the team, fostering comprehensive development of the project.
+**The Inclusivity Advocate** - Xueting is a member responsible for Inclusivity, majoring in oral medicine. She is dedicated to promoting equality and diversity within the project, aiming to ensure that the needs of more groups are respected. Xueting emphasizes the integration of science and humanities, focusing on infusing technological advancements with humanistic care. Her professional expertise and passion for social justice bring a unique perspective to the team, fostering comprehensive development of the project.
 
 ### Yuhan Wang
-
-#### The Deadline Holder
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/yuhan-wang.jpg" style="width:50%">
 </div>
 
-Hey everyone, I'm Yuhan from the class of '21 in the Department of Biology! I'm all about everything sea-related, but celery? Not my thing. Excited to be part of the iGEM team and looking forward to some great exchanges and collaborations ahead!
+**The Deadline Holder** - Hey everyone, I'm Yuhan from the class of '21 in the Department of Biology! I'm all about everything sea-related, but celery? Not my thing. Excited to be part of the iGEM team and looking forward to some great exchanges and collaborations ahead!
 
 ### Kevin Qi
-
-#### The Storyteller
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/lin-qi.jpg" style="width:50%">
 </div> 
 
-Lin, a Biological Sciences major, brought his wild imagination to this year's iGEM. He always has his own thoughts about the project, biology, and the world around him. If you were to know him, I bet you'd say: He's full of ideas!
+**The Storyteller** - Lin, a Biological Sciences major, brought his wild imagination to this year's iGEM. He always has his own thoughts about the project, biology, and the world around him. If you were to know him, I bet you'd say: He's full of ideas!
 
 ### Liyue Chen
 
@@ -94,13 +82,11 @@ Liyue, majoring in Clinical Medicine, takes on Parts and Design responsibilities
 
 ### Kexin Huang
 
-#### The Architect
-
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/kexin-huang.jpg" style="width:50%">
 </div>
 
-Hello friends! I am Kexin, the visionary "architect" in 2024 Fudan iGEM. iGEM is like a set of intricately designed building blocks given to each team, upon which we construct and showcase our own masterpiece. I enjoy not only the process of building our "castle" but the collaboration with my teammates. Our collective goal is to ensure that our program transcends mere theoretical concepts and addresses local issues with a profound impact on human well-being. Just stay tuned for the unveiling of our magnificent castle!
+**The Architect** - Hello friends! I am Kexin, the visionary "architect" in 2024 Fudan iGEM. iGEM is like a set of intricately designed building blocks given to each team, upon which we construct and showcase our own masterpiece. I enjoy not only the process of building our "castle" but the collaboration with my teammates. Our collective goal is to ensure that our program transcends mere theoretical concepts and addresses local issues with a profound impact on human well-being. Just stay tuned for the unveiling of our magnificent castle!
 
 ### Ziming Suo
 
@@ -120,23 +106,19 @@ Hi everyone, I'm Hongcheng. If you ever need a tech-savvy shoulder to lean on or
 
 ### Ruiwen Ma
 
-#### The Nickel Tester
-
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/ruiwen-ma.jpg" style="width:50%">
 </div>
 
-Ruiwen, a patient and meticulous multi-tasks member, is responsible for countless nickel testing and data processing. Despite this, she enjoys lab work because she always gets jokes from other lab members, especially the joker.
+**The Nickel Tester** - Ruiwen, a patient and meticulous multi-tasks member, is responsible for countless nickel testing and data processing. Despite this, she enjoys lab work because she always gets jokes from other lab members, especially the joker.
 
 ### Yi Shi
-
-#### The Joker
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/yi-shi.jpg" style="width:50%">
 </div>
 
-Yi: the Joker, a curious mind with an intriguing soul, always exploring the hidden wonders in biology.
+**The Joker** - Yi: A curious mind with an intriguing soul, always exploring the hidden wonders in biology.
 
 ### Kexin Zheng
 
@@ -148,50 +130,42 @@ Kexin, who majored in Business Management, is responsible for Entrepreneurship, 
 
 ## Instructors and Advisors
 
-### Daru Lu:  Our Visionary Navigator
+### Daru Lu
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/daru-lu.jpg" style="width:50%">
 </div>
 
-Professor Lu, our esteemed Principal Investigator, who secures our funding and connects us with stakeholders. His guidance is instrumental in realizing our goals and fostering our growth.
+**Our Visionary Navigator** - Professor Lu, our esteemed Principal Investigator, who secures our funding and connects us with stakeholders. His guidance is instrumental in realizing our goals and fostering our growth.
 
 ### Liang Cai
-
-#### The Wise Counsel
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/liang-cai.jpg" style="width:50%">
 </div>
 
-Professor Cai, our respectful and mysterious instructor, is an embodiment of wisdom and dedication. With boundless energy and passion, his invaluable advice and timely guidance shape our journey.
+**The Wise Counsel** - Professor Cai, our respectful and mysterious instructor, is an embodiment of wisdom and dedication. With boundless energy and passion, his invaluable advice and timely guidance shape our journey.
 
 ### Zhiyue Chen
-
-#### The Software Wizard
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/zhiyue-chen.jpg" style="width:50%">
 </div>
 
-Zhiyue was an iGEM team member in the previous years. With his exceptional programming skills and patient teaching, he has fully supported our team in areas like Wiki management, Software development, and Engineering.
+**The Software Wizard** - Zhiyue was an iGEM team member in the previous years. With his exceptional programming skills and patient teaching, he has fully supported our team in areas like Wiki management, Software development, and Engineering.
 
 ### Zhe Dong
-
-#### The Multitasking Dynamo
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/zhe-dong.jpg" style="width:50%">
 </div>
 
-Zhe took on various tasks in [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), focusing on both Education and wet lab work. His experiences and helpful nature provided him with valuable insights on iHP, Education, Design, and more this year.
+**The Multitasking Dynamo** - Zhe took on various tasks in [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/), focusing on both Education and wet lab work. His experiences and helpful nature provided him with valuable insights on iHP, Education, Design, and more this year.
 
 ### Yijun Wang
-
-#### The Meticulous Advisor
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/5115/team/yijun-wang.jpg" style="width:50%">
 </div>
 
-Yijun is the leader of [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/) and has been dedicated to establishing the Fudan iGEM 2024 team since the end of last year. She has provided thoughtful guidance and advice throughout our journey, for which we are very grateful.
+**The Meticulous Advisor** - Yijun is the leader of [Fudan iGEM 2023](https://2023.igem.wiki/fudan/team/) and has been dedicated to establishing the Fudan iGEM 2024 team since the end of last year. She has provided thoughtful guidance and advice throughout our journey, for which we are very grateful.
