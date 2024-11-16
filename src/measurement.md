@@ -8,7 +8,7 @@ headergif: https://static.igem.wiki/teams/5115/header/measurement-header.gif
 
 <br><br>
 
-Updated on 2024-10-26: we were nominated for [the Best Measurement (Undergrad)](https://jamboree.igem.org/2024/results?scroll=Best%20Measurement#special-prizes).
+Updated on 2024-10-26: we were nominated for [the Best Measurement (Undergrad)](https://jamboree.igem.org/2024/results/special-prizes#Best%20Measurement).
 
 
 ## Introduction

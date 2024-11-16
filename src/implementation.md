@@ -21,9 +21,9 @@ We intend to set up buffer pools at wastewater outlets. The engineered *E. coli*
 The nickel microparticles will sediment at the bottom of the pool, accumulate through time and form layers of nickel deposit. These reserves may be used in times of nickel shortage.
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/5115/implementation/implementation-fig1.png" style='width:50%'>
+    <img src="https://static.igem.wiki/teams/5115/implementation/implementation-fig1.png" style='width:100%'>
     <div>
-        <span style="color:gray">Figure 1: Nickel accumulate through time and forming layers of deposit</span>
+        <span style="color:gray">Figure: Nickel accumulate through time and forming layers of deposit</span>
         <br><br>
     </div>
 </div>

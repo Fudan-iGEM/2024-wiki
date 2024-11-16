@@ -161,7 +161,7 @@ Following his advice, we explored additional sources of nickel pollution, leadin
 ### 3.2 Shanghai Meeting of Fudan-BIT-Tongji-ShanghaiTech iGEMers
 
 <div style="text-align: center;" id="fig11">
-    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/5-4-meeting-shanghai-igemers.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/5-4-meeting-shanghai-igemers.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 3.2 Shanghai Meeting of Fudan-BIT-Tongji-ShanghaiTech iGEMers</span>
       <br><br>
@@ -371,7 +371,7 @@ Two professors discussed with us the rationale and feasibility of the three-modu
 ### 4.2 The 11th CCiC
 
 <div style="text-align: center;" id="fig21">
-    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/7-11-ccic-txj.png" style='width:100%'>
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/7-11-ccic-txj.jpg" style='width:100%'>
     <div>
           <span style="color: gray">Figure 4.2 The 11th CCiC</span>
       <br><br>

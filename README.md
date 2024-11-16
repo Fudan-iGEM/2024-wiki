@@ -22,4 +22,4 @@ Please follow these steps:
 ----
 `Code by: Zhenghan Chen`
 
-Updated on 2024-10-26: this Wiki was nominated for [the Best Wiki (Undergrad)](https://jamboree.igem.org/2024/results?scroll=Best%20Wiki#special-prizes).
+Updated on 2024-10-26: this Wiki was nominated for [the Best Wiki (Undergrad)](https://jamboree.igem.org/2024/results/special-prizes#Best%20Wiki).

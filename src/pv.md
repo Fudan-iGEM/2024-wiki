@@ -11,6 +11,8 @@ author:
 
 MINERAL is committed to addres the growing problem of heavy metal pollution in the environment. Our engineered bacteria can selectively absorb nickel ion from water. Utilizing carboxysome-targeted hydronases, nickel ions are converted into microparticles within the bacteria. This innovative metal ion reduction strategy, which we developed and tested, can be readily adapted for other heavy metals. Our modular design is flexible, allowing for efficient recovery and environmental protection across a wider range of heavy metal pollution problems. Here, we present a detailed explanation of our project, including experimental methods, key results, and lessons learned.  Additionally, we developed our inclusive program to enhance the accessibility of synthetic biology for the autism community.
 
+View our presentation video at [https://video.igem.org/w/4817e7e4-446b-4760-b866-2817794b02c9](https://video.igem.org/w/4817e7e4-446b-4760-b866-2817794b02c9).
+
 <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture01.jpg" style='width:100%'>
 
 <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/pv-screencapture02.jpg" style='width:100%'>
@@ -68,13 +70,13 @@ MINERAL is committed to addres the growing problem of heavy metal pollution in t
 
 ## Transcripts
 
-### Introduction [kq](/fudan/team/#kevin-qi)
+### [kq](/fudan/team/#kevin-qi): Introduction
 
 We are fortunate to live in a world where our shelters are supported by strong materials and our commutes are aided by vehicles. Nickel is a key component of the steel in buildings and the batteries in cars. However, as the demand of nickel rises beyond our production rates. The society as we know it may soon collapse. 
 
 Of all the nickel production worldwide today, only 1% comes from secondary sources, that is, recycled. The consequence of this lack of recycling, on one hand, is the unsatisfied demand of nickel. And on the other hand, the continued discharge of nickel wastewater into the environment. Nickel, when discharged into rivers, lakes or oceans, are highly toxic to aquatic lives and may even possibly harm the health of us humans. Nickel production are sourced from primary and secondary supplies, and in simple terms, mining and recycling. According to the IEA[^1], mining requirements will outpace expected mining supplies from sooner than 2030. Current recycling methods are energy extensive and environmental unfriendly. Here, we present to you our project, MINERAL, Microparticle Integration for Nickel Extracttion and Resuable Applications, that offers a solution to both nickel pollution and increasing nickel demands in the near future.
 
-### Nickel update and survial [mrw](/fudan/team/#ruiwen-ma)
+### [mrw](/fudan/team/#ruiwen-ma): Nickel update and survial
 
 Our design is divided into four modules: Nickel uptake, survival, nickel micro-factory, and hydrogen supply.
 
@@ -88,7 +90,7 @@ In the survival module, we introduced Hpn, a histidine-rich cytoplasmic protein 
 
 The combination of the nickel uptake module and survival module results in a remarkable 43% increase in nickel uptake.
 
-### Nickel microfactory [cly](/fudan/team/#liyue-chen)
+### [cly](/fudan/team/#liyue-chen): Nickel microfactory
 
 Our nickel particle module is designed to convert nickel into less toxic microparticles. This microparticle consists of hydrogenases, a carboxysome shell, and reduced nickel. To create an efficient reduction reaction vessel, we linked hydrogenase with the carboxysome-targeting sequence.  We designed two parts to achieve this purpose, the U module and the F module. In F module, it is hoxF of hydrogenase which connected to carboxysome, while in U module it is hoxU.
 
@@ -100,11 +102,11 @@ F module convert nickel ion into particles, around carboxysome, as we designed. 
 
 We wondered whether the absorption of nickel would be raised with the nickel reduction inside bacteria. We thus measured the nickel absorption efficiency of the two modules. Here is our result. Despite not having an engineered nickel uptakers, the F module still achieves about 10% nickel absorption. This indicates that a significant amount of nickel ions in the cells is reduced by hydrogenase, resulting in a relatively low intracellular nickel concentration, which activates *E. coli* to absorb more nickel from the environment.
 
-### Software [chc](/fudan/team/#hongcheng-chen)
+### [chc](/fudan/team/#hongcheng-chen): Software
 
 Throughout the project, we implemented a ribozyme-based design. However, this approach can place heavy expression pressure on the bacteria, a challenge that has been carefully considered in our software.
 
-### Measurement [sy](/fudan/team/#yi-shi)
+### [sy](/fudan/team/#yi-shi): Measurement
 
 To collect data for our software tools, we developed this year's measurement, the Spot Assay. This assay, traditionally used in yeast genetics studies, was used to evaluate how plasmid transformations affect *E. coli* growth. 
 
@@ -122,21 +124,21 @@ The Spot Assay is essential for acquiring these experimental values needed for o
 
 However, we believe that our measurement approach could be beneficial for many other projects, such as testing antibiotic resistance, optimizing synthetic circuit performance and advancing metabolic engineering. Data is collected through imaging, which could be easily repeated, if needed even performed at predetermined time intervals to monitor growth trends.
 
-### Anti-phage &amp; Safety [txj](/fudan/team/#xujie-tan)
+### [txj](/fudan/team/#xujie-tan): Anti-phage &amp; Safety
 
 The challenges for MINERAL extend far beyond this. In nature, countless bacteriophages present a significant threat to bacterial survival. To counter this, we introduced the YejM protein into these bacteria[^10]. We're glad to see that this approach has proven highly effective — the YejM-modified *E. coli* has demonstrated exceptional success in resisting the M13KO7 phage， thereby increasing their environmental adaptability.
 
 We believe that rather than expending excessive effort to prevent the release of synthetic biology products, it is more important to conduct a rational assessment and implement appropriate control measures. To evaluate the environmental impact of our project, we innovatively used C.elegans as a model organism to serve as an environmental hazard indicator. By feeding the worms our engineered bacteria, and assessing their movement speed and average turning angles, we suggest that even if released into the environment, our synthetic biology products would not cause severe toxic effects on organisms.
 
-### Hardware [hkx](/fudan/team/#kexin-huang)
+### [hkx](/fudan/team/#kexin-huang): Hardware
 
 To implement our MINERAL program in reality, we have designed a delicate carrier for synthetic biology in our hardware part. It is an innovative fiber that features a carbon nanotube core encased in agarose, which can not only carry and nourish bacteria but also be woven into any required shape and size[^11]. We create the monofilament by blending carbon nanotube suspension with agarose, heating the mixture, and extruding it through a needle[^12]. The fiber is then soaked in a bacterial solution to form a fiber-bacteria mesh. With this fiber structure implated with our engineered bacteria, deployed in the wastewater treatment device, we can effectively achieve the recovery of nickel. Our fiber is suitable for both industrial scenarios and natural bodies. The composite fiber provide an efficient, environmentally friendly approach for wastewater treatment.
 
-### Human Practices [szm](/fudan/team/#ziming-suo)
+### [szm](/fudan/team/#ziming-suo): Human Practices
 
 MINERAL is wonderful, and we also done a great job of Human Practices. We went to two factories in Jingmen and Suzhou to improve our project. We also engage with experts and teams around the world to explore the future of our project in different cultural contexts. Beyond the Human Practice, we further explored the possibility of commercialization.
 
-#### Entrepreneurship [zkx](/fudan/team/#kexin-zheng)
+#### [zkx](/fudan/team/#kexin-zheng): Entrepreneurship
 
 Our product is a cleaner, designed to remove heavy metal ions from wastewater. When placed in the wastewater, our product effectively reduces the concentration of nickel ions and produce valuable products.
 
@@ -148,7 +150,7 @@ In our advanced service, we will culture local cyanobacteria and utilize sequenc
 
 Implementing a subscription-based product will generate a continuous cash flow from the advanced service, which will support the company in executing long-term research plans and maintaining a leading position in the field.
 
-### Education [szm](/fudan/team/#ziming-suo)
+### [szm](/fudan/team/#ziming-suo): Education
 
 We also strive to promote more people into the world of science and synthetic biology.
 
@@ -156,7 +158,7 @@ We went to universities, middle schools and primary schools to educate different
 
 In addition to extensive science popularization, more importantly, we also pay attention to the barriers between special populations and science.
 
-### Inclusivity [mrw](/fudan/team/#ruiwen-ma),[txj](/fudan/team/#xujie-tan)
+### [mrw](/fudan/team/#ruiwen-ma),[txj](/fudan/team/#xujie-tan): Inclusivity
 
 Not only do we focus on education of all ages, but we also believe that everyone should have the opportunity to receive education. This belief inspired our inclusivity project.
 
@@ -171,9 +173,6 @@ To raise public awareness, which is the biggest barrier the community faces, we 
 Our work is carefully documented, with all course materials, effect evaluations, and dialogue transcripts available on Wiki. We sincerely hope that future teams will continue the project with us, to foster an ever-growing circle of inclusion, reaching a wider public community. We firmly believe that by eliminating barriers between ASD and science, we can empower the underrepresented children to embrace a brighter future.
 
 ----
-
-View our presentation video at [https://video.igem.org/w/4817e7e4-446b-4760-b866-2817794b02c9](https://video.igem.org/w/4817e7e4-446b-4760-b866-2817794b02c9).
-
 
 [^1]: Global Critical Minerals Outlook 2024 – Analysis. IEA. 
 [^2]: Dosanjh NS, et al. Curr Opin Chem Biol (2006). DOI: [10.1016/j.cbpa.2006.02.011](https://doi.org/10.1016/j.cbpa.2006.02.011)

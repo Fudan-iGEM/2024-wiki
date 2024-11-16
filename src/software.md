@@ -10,7 +10,7 @@ headergif: https://static.igem.wiki/teams/5115/header/software-header.gif
 
 ::: tip
 
-Try PartHub 3.0 [here](http://47.97.85.37:5000/) or follow the [installation tutorial](#tutorial) to deploy our software on your own device!
+To try PartHub 3.0 - please follow the [installation tutorial](#tutorial) to deploy our software on your own device!
 
 :::
 
