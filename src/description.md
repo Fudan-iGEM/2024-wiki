@@ -54,7 +54,7 @@ Nickel can be sourced from either mining or recycling. Today, nickel recycling m
 Despite the environmental damage caused by mining, it remains the more cost-effective option compared to recycling. As a result, there is little economic incentive to prioritize recycling. Currently, only &nbsp;1%&nbsp; of the global nickel supply comes from recycling[^4].
 
  <div style="text-align: center;" id="fig3">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig3-1.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/description-fig3-1.png" style="width:100%">
     <div>
         <span style="color:gray">Figure 3: Current nickel recycling methods</span>
         <br><br>
@@ -115,7 +115,7 @@ Addressing these four challenges is crucial for our project's success.
 We present four interrelated modules to tackle the problems identified in the previous section: Nickel Enrichment, Survival, Nickel Microparticle, and Hydrogen Supply Module. These systems work together to enable efficient and low-impact nickel absorption, then processed into reusable nickel microparticles.
 
  <div style="text-align: center;" id="fig5">
-    <img src="https://static.igem.wiki/teams/5115/description/description-fig5.png" style="width:100%">
+    <img src="https://gitlab.igem.org/2024/fudan/-/raw/main/img-should-be-compressed/description-fig5.png" style="width:100%">
     <div>
         <span style="color:gray">Figure 5: Four modules of MINERAL</span>
         <br><br>

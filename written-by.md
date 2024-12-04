@@ -22,6 +22,7 @@
 | Part Collection | Yi Shi, Liyue Chen |
 | Parts | Liyue Chen, Yi Shi |
 | Plant | none |
+| Presentation Video | all |
 | Promotion Video | Yuhan Li, Yuhan Wang |
 | Proof of Concept | -- |
 | Results | Xujie Tan, Ruiwen Ma, Yi Shi |

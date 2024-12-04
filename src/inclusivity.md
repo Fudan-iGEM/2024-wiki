@@ -40,14 +40,14 @@ Unfortunately, **real barriers still exist**. Through literature reviews, interv
 3. **Low public awareness:** Attention and inclusiveness of public towards the ASD population are insufficient, and the importance of scientific outreach for the ASD community is often overlooked.
 4. **Economical Burden on ASD families:** Families find it difficult to bear the financial burden of education.
 
-Our interviewees, including parents of ASD individuals, experts in special education and public welfare, as well as staff from rehabilitation centers and special schools, have all expressed **a shared desire to** **remove these barriers**. This is exactly the vision we have gathered here for.
+Our interviewees, including parents of ASD individuals, experts in special education and public welfare, as well as staff from rehabilitation centers and special schools, all expressed **a shared desire to** **remove these barriers**. This is exactly the vision we have gathered here for.
 
 The following figure shows our overall strategy for addressing barriers.
 
 <div style="text-align: center;" id="fig2">
     <img src="https://static.igem.wiki/teams/5115/inclusivity/barriers-new-new.png" style='width:100%'>
     <div>
-          <span style="color: gray">The barriers and the solutions.</span>
+          <span style="color: gray">The barriers that ASD individuals face and the solutions we propose.</span>
       <br><br>
     </div>
 </div>
@@ -336,7 +336,7 @@ After thorough validation and discussion, we carefully launched the STEAMed cour
 **Practical Skills:** We designed a "Gene Editing" game to enhance their physical coordination during the activity and deepen their understanding of scientific concepts.
 
 <div style="text-align: center;" id="fig16">
-    <img src="https://static.igem.wiki/teams/5115/inclusivity/course-2-game.png" style="width:100%">
+    <img src="https://static.igem.wiki/teams/5115/collaborations-final/course-2-3.webp" style="width:100%">
     <div>
           <span style="color: gray">Course 2.3</span>
       <br><br>
