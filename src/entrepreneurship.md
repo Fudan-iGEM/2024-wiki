@@ -212,9 +212,9 @@ Additionally, professionals from U Power's marketing department recommended posi
 
 Furthermore, U Power recommended several closely related companies for potential collaboration:
 
-**2. GEM Victory**
+**2. GEM Factory**
 
-Upon the recommendation of U Power, we visited [GEM Victory](https://www.gem.com.cn), a developed company focused on the recycling of waste metal resources.
+Upon the recommendation of U Power, we visited [GEM Factory](https://www.gem.com.cn), a developed company focused on the recycling of waste metal resources.
 
 <div style="text-align: center;" id="fig12">
     <img src="https://static.igem.wiki/teams/5115/entrepreneurship/gem.webp" style="width:33%">

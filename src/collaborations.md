@@ -31,8 +31,8 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
 
 ## With Nonprofit Organizations
 
-| Institution                                                  | Collaborations                                               |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Institution | Collaborations |
+| ----------- | -------------- |
 | [Shanghai Putuo Zhanyi Children's Intelligence Service Center](https://www.zhanyiertong.org) | [Organize activities](/fudan/inclusivity/#the-preliminary-attempt-of-steamed) |
 | [INDIGO](https://mp.weixin.qq.com/s/1oH0URp3To4R0A3HJnZc1Q)<br>[Light Of Rainbow](https://www.asd-home.cn/jgz2694/) | [Promote of STEAMed<br>Collect feedbacks](/fudan/inclusivity/#the-preliminary-attempt-of-steamed) |
 
@@ -46,8 +46,8 @@ Meanwhile,  we collaborated with nonprofit organizations and clubs in STEAMed ac
 
 ## With Clubs at Fudan
 
-| Institution                                                  | Collaborations                                               |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Institution | Collaborations |
+| ----------- | -------------- |
 | [FDU Nanshangu](https://mp.weixin.qq.com/s/_mioNil5xQIeOIlhYicueg) | [Implementation of activities](/fudan/inclusivity/#course-i-gene-science) |
 | [Fudan Red Cross](https://mp.weixin.qq.com/s/-lNk_V08rP98bBLkmXyTAw) | [Promote STEAMed](/fudan/inclusivity/#_6-1-public-education) |
 
